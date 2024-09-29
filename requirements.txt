@@ -1,0 +1,7 @@
+joblib_progress
+joblib
+pdf2image
+rich
+opencv-python
+pillow
+pymupdf
