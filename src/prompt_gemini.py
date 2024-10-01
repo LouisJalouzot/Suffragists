@@ -62,7 +62,7 @@ def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
                 meetings = response.get("meetings", None)
                 if meetings:
                     pd.DataFrame(meetings).to_csv(
-                        issue_path / "response.csv", index=False
+                        issue_path.parent / f"{issue}.csv", index=False
                     )
         except:
             with open(issue_path.parent / "gemini_error.log", "w") as f:

@@ -2,7 +2,11 @@ joblib_progress
 joblib
 pdf2image
 opencv-python
-pillow
+pillow==9.5.0
 pymupdf
 tqdm
 google-generativeai
+git+https://github.com/nikhilweee/iopath
+layoutparser[ocr]
+torchvision
+wheel
