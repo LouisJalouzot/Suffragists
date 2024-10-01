@@ -2,31 +2,6 @@ import io
 
 import pymupdf
 from PIL import Image
-from rich.console import Console
-from rich.progress import (
-    BarColumn,
-    MofNCompleteColumn,
-    Progress,
-    SpinnerColumn,
-    TaskProgressColumn,
-    TextColumn,
-    TimeElapsedColumn,
-    TimeRemainingColumn,
-)
-
-console = Console()
-
-progress = Progress(
-    SpinnerColumn(),
-    TaskProgressColumn(),
-    BarColumn(),
-    MofNCompleteColumn(),
-    TimeElapsedColumn(),
-    "<",
-    TimeRemainingColumn(),
-    TextColumn("[progress.description]{task.description}"),
-    console=console,
-)
 
 
 def extract_images_from_pdf(pdf_path):

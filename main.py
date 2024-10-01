@@ -1,3 +1,5 @@
-from src.preprocess import preprocess_pdfs
+from pathlib import Path
 
-preprocess_pdfs("data/test/*.pdf", "preprocessed/test", n_jobs=8)
+from src.prompt_gemini import prompt_gemini
+
+prompt_gemini([p.stem for p in Path("data/common_cause").glob("*.pdf")])

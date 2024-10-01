@@ -1,11 +1,14 @@
 import json
 import os
+import traceback
 from pathlib import Path
 from typing import List
 
 import google.generativeai as genai
 import pandas as pd
 from tqdm.auto import tqdm
+
+from src.detect_and_ocr_tables import detect_and_ocr_tables
 
 prompt = """
 I'm working with pdf scans of old journals about women voting rights in the UK.
@@ -18,7 +21,7 @@ OCR output:
 """
 
 
-def prompt_gemini(text_paths: List[Path], output_path: Path):
+def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
     # Create the model
@@ -37,21 +40,30 @@ def prompt_gemini(text_paths: List[Path], output_path: Path):
         # See https://ai.google.dev/gemini-api/docs/safety-settings
     )
 
-    for text_path in tqdm(text_paths):
-        with open(text_path, "r") as f:
-            text = f.read()
-        chat_session = model.start_chat(history=[])
+    issues_text = detect_and_ocr_tables(issues, output_path=output_path)
+    output_path = Path(output_path)
 
-        message = prompt + text
-        response = chat_session.send_message(message).text
+    for issue, text in tqdm(list(issues_text.items()), desc="Prompting Gemini"):
+        issue_path = output_path / issue / "gemini"
+        if issue_path.exists():
+            continue
         try:
+            chat_session = model.start_chat(history=[])
+            message = prompt + text
+            response = chat_session.send_message(message).text
+            issue_path.mkdir(parents=True, exist_ok=True)
+            with open(issue_path / "response.txt", "w") as f:
+                f.write(response)
             if response:
                 response = json.loads(response)
+                json_path = issue_path / "response.json"
+                with open(json_path, "w") as f:
+                    json.dump(response, f, indent=4)
                 meetings = response.get("meetings", None)
                 if meetings:
-                    response_path = output_path / f"{text_path.stem}.csv"
-                    response_path.unlink(missing_ok=True)
-                    response_path.parent.mkdir(parents=True, exist_ok=True)
-                    pd.DataFrame(meetings).to_csv(response_path, index=False)
-        except Exception as e:
-            print(f"{text_path}: {e}")
+                    pd.DataFrame(meetings).to_csv(
+                        issue_path / "response.csv", index=False
+                    )
+        except:
+            with open(issue_path.parent / "gemini_error.log", "w") as f:
+                f.write(traceback.format_exc())
