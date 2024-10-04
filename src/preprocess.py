@@ -97,13 +97,18 @@ def preprocess_pdfs(
                 image = Image.open(image_path)
                 issues_images[issue].append(image)
             continue
-        if "common_cause" in issue:
-            pdf_path = "data/common_cause/" + issue + ".pdf"
-            pdf_paths[issue] = pdf_path
+        else:
+            if "common_cause" in issue:
+                pdf_path = "data/common_cause/" + issue + ".pdf"
+                pdf_paths[issue] = pdf_path
+
+    n_paths = len(pdf_paths)
+    if n_paths == 0:
+        return issues_images
 
     n_images = 0
     issues_images_to_preprocess = {}
-    with joblib_progress("Extracting images", total=len(pdf_paths)):
+    with joblib_progress("Extracting images", total=n_paths):
         for issue, images in Parallel(n_jobs=n_jobs, return_as="generator")(
             delayed(
                 lambda issue: (issue, extract_images_from_pdf(pdf_paths[issue]))

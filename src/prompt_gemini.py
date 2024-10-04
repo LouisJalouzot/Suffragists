@@ -6,19 +6,19 @@ from typing import List
 
 import google.generativeai as genai
 import pandas as pd
-from tqdm.auto import tqdm
+from joblib import Parallel, delayed
+from joblib_progress import joblib_progress
 
-from src.detect_and_ocr_tables import detect_and_ocr_tables
+from src.ocr import ocr_and_cluster
 
 prompt = """
-I'm working with pdf scans of old journals about women voting rights in the UK.
-Here it's the journal 'The Common Cause'. There are tables with information about upcoming political meetings and I want to retrieve them.
-Here is the result from some OCR of an automatically and possibly mistakenly detected table.
-If there is indeed information about upcoming meetings in this data please extract as much information as you can and put it in JSON format. Otherwise please output nothing.
-Each entry/meeting should have a date, a time and a location. Then they can also have a description, a host and some speakers.
-Be aware that data may be misaligned. In particular information about time, host and speaker might come in separate chunks after the others but still in the right order.
+Here is the OCR output of an issue of the journal 'The Common Cause'. There is a table 'Forthcoming Meetings', please extract as much data about it as you can. Beware that the data may be scattered. Also extract the date of the issue.
+Output your results in JSON format.
 OCR output:
 """
+# Each entry/meeting should have a date, a time and a location. Then they can also have a description, a host and some speakers.
+# Be aware that data may be misaligned. In particular information about time, host and speaker might come in separate chunks after the others but still in the right order.
+# """
 
 
 def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
@@ -36,17 +36,15 @@ def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
     model = genai.GenerativeModel(
         model_name="gemini-1.5-pro-002",
         generation_config=generation_config,
-        # safety_settings = Adjust safety settings
-        # See https://ai.google.dev/gemini-api/docs/safety-settings
     )
 
-    issues_text = detect_and_ocr_tables(issues, output_path=output_path)
+    issues_text = ocr_and_cluster(issues, output_path=output_path)
     output_path = Path(output_path)
 
-    for issue, text in tqdm(list(issues_text.items()), desc="Prompting Gemini"):
+    def process_issue(issue: str, text: str) -> None:
         issue_path = output_path / issue / "gemini"
         if issue_path.exists():
-            continue
+            return
         try:
             chat_session = model.start_chat(history=[])
             message = prompt + text
@@ -59,11 +57,19 @@ def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
                 json_path = issue_path / "response.json"
                 with open(json_path, "w") as f:
                     json.dump(response, f, indent=4)
-                meetings = response.get("meetings", None)
+                meetings = response.get("Forthcoming Meetings", None)
                 if meetings:
-                    pd.DataFrame(meetings).to_csv(
-                        issue_path.parent / f"{issue}.csv", index=False
-                    )
+                    df = pd.DataFrame(meetings)
+                    df["Issue date"] = response.get("Date", None)
+                    df.to_csv(issue_path.parent / f"{issue}.csv", index=False)
         except:
             with open(issue_path.parent / "gemini_error.log", "w") as f:
                 f.write(traceback.format_exc())
+
+    with joblib_progress(
+        description="Prompting Gemini", total=len(issues_text)
+    ):
+        Parallel(n_jobs=-2)(
+            delayed(process_issue)(issue, text)
+            for issue, text in issues_text.items()
+        )
