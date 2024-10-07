@@ -1,0 +1,68 @@
+{
+    "IssueDate": "1911-12-14",
+    "Meetings": [
+        {
+            "Date": "DECEMBER 14",
+            "Location": "Glasgow - Office, 202, Hope Street",
+            "Raw": "DECEMBER 15. Glasgow - Office, 202, Hope Street"
+        },
+        {
+            "Date": "DECEMBER 14",
+            "Location": "Edinburgh - 40, Shandwick Place",
+            "Raw": "Edinburgh - 40, Shandwick Place"
+        },
+        {
+            "Date": "DECEMBER 16",
+            "Location": "Gourock - Gamble Institute",
+            "Raw": "DECEMBER 16. Gourock - Gamble Institute"
+        },
+        {
+            "Date": "DECEMBER 18",
+            "Location": "Falkirk - Lower Institute Hall",
+            "Raw": "DECEMBER 18. Falkirk Lower Institute Hall"
+        },
+        {
+            "Date": "DECEMBER 19",
+            "Location": "Grantown-on-Spey",
+            "Raw": "DECEMBER 19. Grantown-on-Spey- \"The Servant Tax\""
+        },
+        {
+            "Date": "DECEMBER 14",
+            "Location": "Dublin - 35, Molesworth Street",
+            "Raw": "IRELAND\nDECEMBER 14. Dublin 35, Molesworth Street - W.S. and Local Government Association"
+        },
+        {
+            "Date": "DECEMBER 14",
+            "Location": "Swanage Hall",
+            "Raw": "DECEMBER 14. Swanage Hall over Conservative Club"
+        },
+        {
+            "Date": "DECEMBER 14",
+            "Location": "Great Missenden - Liberal Association",
+            "Raw": "Great Missenden - Liberal Association"
+        },
+        {
+            "Date": "DECEMBER 17",
+            "Location": "Oldham - Bartlam Place",
+            "Raw": "DECEMBER 17. Oldham - Bartlam Place, Annexe Hall - Irish League"
+        },
+        {
+            "Date": "DECEMBER 18",
+            "Location": "Radcliffe - Conservative Club",
+            "Raw": "DECEMBER 18. Radcliffe Conservative Club"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nDECEMBER 15 . Glasgow - Office , 202 , Hope Street .\nEdinburgh - 40 , Shandwick Place .\nDECEMBER 16 . Gourock - Gamble Institute -\nDECEMBER 18 . Falkirk Lower Institute Hall\nDECEMBER 19 . Grantown - on - Spey- \" The Servant Tax , \" Mrs.\nIRELAND\nDECEMBER 14 . Dublin 35 , Molesworth Street - W. S. and Local Government Association .\nDECEMBER 14 . Swanage Hall over Conservative Club -\nGreat Missenden - Liberal Association -\nDECEMBER 17 . Oldham - Bartlam Place , Jrish League- Miss Field .\nDECEMBER 18 . Radcliffe Conservative Club",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 9,
+            "Scan": 5
+        },
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

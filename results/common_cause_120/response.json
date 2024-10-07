@@ -1,0 +1,59 @@
+{
+    "IssueDate": "1912-02-01",
+    "Meetings": [
+        {
+            "Date": "FEBRUARY 6",
+            "Location": "Empress Rooms, Kensington High Street (High Street Station)",
+            "Raw": "FEBRUARY 6\nEmpress Rooms, Kensington High Street (High Street Station)\nPUBLIC RECEPTION, 3.30 to 6.15\nChair: The Hon. Mrs. SPENCER CRAVES.\nSpeakers: Miss K. D. COURTNEY and Mr. ROBERT CHOLMELEY.\nRecitation arranged by Miss ELSIE FOGERTY.\nDiscussion invited.",
+            "Time": "3.30 to 6.15"
+        },
+        {
+            "Date": "FEBRUARY 13",
+            "Location": "Y.M.C.A., Hastings",
+            "Raw": "FEBRUARY 13th, 8 p.m.: Y.M.C.A., Hastings.\nSpeakers, Rev. C. Hinscliff and C. Fleming Williams (Ch.L. and Fr.Ch L.).",
+            "Speakers": [
+                "Rev. C. Hinscliff",
+                "C. Fleming Williams"
+            ],
+            "Time": "8 p.m."
+        },
+        {
+            "Date": "MARCH 1",
+            "Location": "Rectory, Congregational Church, Stoke Newington, N. Road",
+            "Raw": "MARCH 1st, 8 p.m: Rectory, Congregational Church, Stoke Newington, N. Road\nRev. Hinscliff, Rev. C. Fleming Williams, etc.",
+            "Speakers": [
+                "Rev. Hinscliff",
+                "Rev. C. Fleming Williams"
+            ],
+            "Time": "8 p.m."
+        },
+        {
+            "Date": "MARCH 8",
+            "Location": "Lewisham",
+            "Raw": "MARCH 8th, 8 p.m.: Lewisham. Among speakers Rev. C. Fleming Williams, and Rev. C. Hinscliff.",
+            "Speakers": [
+                "Rev. C. Fleming Williams",
+                "Rev. C. Hinscliff"
+            ],
+            "Time": "8 p.m."
+        },
+        {
+            "Date": "MARCH 26",
+            "Location": "Deptford",
+            "Raw": "MARCH 26th, 8 pm.: Deptford. Details later."
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nFEBRUARY 6\nEmpress Rooms, Kensington High Street (High Street Station)\nPUBLIC RECEPTION, 3.30 to 6.15\nChair: The Hon. Mrs. SPENCER CRAVES.\nSpeakers: Miss K. D. COURTNEY and Mr. ROBERT CHOLMELEY.\nRecitation arranged by Miss ELSIE FOGERTY.\nDiscussion invited.\nFREE CHURCH LEAGUE FOR WOMAN SUFFRAGE\nOrganising Sec.: Mrs. C. Fleming Williams.\nGeneral Secretary: Rev. C. Fleming Williams, 2, Kingsbury View, Springfield, Clapton, N.E.\nTuesday, February 13th, 8 p.m.: Y.M.C.A., Hastings. Speakers, Rev. C. Hinscliff and C. Fleming Williams (Ch.L. and Fr.Ch L.).\nFriday, March 1st, 8 p.m: Rectory, Congregational Church, Stoke Newington, N. Road Rev. Hinscliff, Rev. C. Fleming Williams, etc.\nFriday, March 8th, 8 p.m.: Lewisham. Among speakers Rev. C. Fleming Williams, and Rev. C. Hinscliff.\nTuesday, March 26th, 8 pm.: Deptford. Details later.",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 7,
+            "Scan": 3
+        },
+        {
+            "Column": 1,
+            "Page": 14,
+            "Scan": 8
+        }
+    ]
+}

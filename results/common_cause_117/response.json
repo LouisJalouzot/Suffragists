@@ -1,0 +1,221 @@
+{
+    "IssueDate": "JANUARY 11 , 1912",
+    "Meetings": [
+        {
+            "Date": "JANUARY 11",
+            "Location": "Norwich - Miss L. E. Sowell's drawing - room meeting",
+            "Raw": "JANUARY 11 Norwich - Miss L. E. Sowell's drawing - room meet- ing - Miss Eva Ward.",
+            "Speakers": [
+                "Miss Eva Ward"
+            ]
+        },
+        {
+            "Date": "JANUARY 12",
+            "Location": "Huddersfield - Mayor's Parlour",
+            "Raw": "JANUARY 12 Huddersfield - Mayor's Parlour - Deputation to Mr. Spenell - Miss Siddon , Mrs. Donkersley . 3.30",
+            "Speakers": [
+                "Miss Siddon",
+                "Mrs. Donkersley"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "JANUARY 12",
+            "Location": "Norwich - Miss L. E. Sewell's drawing - room meet- ing",
+            "Raw": "Norwich - Miss L. E. Sewell's drawing - room meet- ing - Miss Eva Ward . 3.30",
+            "Speakers": [
+                "Miss Eva Ward"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "JANUARY 15",
+            "Location": "Manchester - Milton Hall , Deansgate",
+            "Raw": "JANUARY 15 Manchester - Milton Hall , Deansgate - Annual meet- ing - Mrs . F. T. Swanwick , M.A.",
+            "Speakers": [
+                "Mrs . F. T. Swanwick"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "JANUARY 15",
+            "Location": "Birmingham - St . Mary's Hall , Bearwood",
+            "Raw": "Birmingham - St . Mary's Hall , Bearwood - Rev . C. Hinscliff , Mrs. Osler ( chair ) . 4.15",
+            "Speakers": [
+                "Rev . C. Hinscliff"
+            ],
+            "Time": "4.15"
+        },
+        {
+            "Date": "JANUARY 15",
+            "Location": "Fulham",
+            "Raw": "8.0 Fulham 8.0",
+            "Speakers": [],
+            "Time": "8.0"
+        },
+        {
+            "Date": "JANUARY 15",
+            "Location": "Sutton",
+            "Raw": "8.0 Sutton",
+            "Speakers": [],
+            "Time": "8.0"
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Wallasey - Central Liberal Club",
+            "Raw": "JANUARY 16 Wallasey - Central Liberal Club - Miss Rathbone",
+            "Speakers": [
+                "Miss Rathbone"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Malton - Adult School",
+            "Raw": "Malton - Adult School - Miss I. O. Ford .",
+            "Speakers": [
+                "Miss I. O. Ford."
+            ]
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Newcastle - on - Tyne - 27 , Ridley Place",
+            "Raw": "Newcastle - on - Tyne - 27 , Ridley Place - Suffrage Choir",
+            "Speakers": []
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Great Marlow - Danesfield - Drawing - room meeting",
+            "Raw": "Great Marlow - Danesfield - Drawing - room meeting -Mrs . Robie Uniacke , Cameron Grant , Esq . , E. Hornby - Lewis , Esq . ( chair ) .",
+            "Speakers": [
+                "Mrs . Robie Uniacke",
+                "Cameron Grant , Esq .",
+                "E. Hornby - Lewis , Esq ."
+            ],
+            "Time": null
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Manchester - The Gaskell Hall , Longsight",
+            "Raw": "Manchester - The Gaskell Hall , Longsight - Coun- cillor Margaret Ashton , M.A. , Miss Margaret Robertson , B.A.",
+            "Speakers": [
+                "Councillor Margaret Ashton",
+                "Miss Margaret Robertson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Exeter - St . Hilda's Hall , York Road",
+            "Raw": "Exeter - St . Hilda's Hall , York Road - Whist Drive and dance - Tickets 2s . 6d .",
+            "Description": "Whist Drive and dance - Tickets 2s . 6d ."
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Oxted and Limpsfield - Miss Jacomb Hood's",
+            "Raw": "Oxted and Limpsfield - Miss Jacomb Hood's - lecture , \" Housekeeping as an Industry , an Art , and a Science - Mrs . McKillop , M.A.",
+            "Speakers": [
+                "Mrs . McKillop"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "JANUARY 16",
+            "Location": "Luton - Mrs . Chalkley's drawing - room meeting",
+            "Raw": "Luton - Mrs . Chalkley's drawing - room meeting- Mrs. Rackham ,",
+            "Speakers": [
+                "Mrs. Rackham"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "JANUARY 17",
+            "Location": "Keswick - Battersby Lecture Hall",
+            "Raw": "JANUARY 17 Keswick - Battersby Lecture Hall - Miss C. E. Mar- shall , \" The Economic Aspect of Women's , Suffrage \" Miss Highton , \" The Educational Uses of Women Suffrage \" Miss Sidney Knight ( chair ) . 8.0",
+            "Speakers": [
+                "Miss C. E. Mar-shall",
+                "Miss Highton",
+                "Miss Sidney Knight"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "JANUARY 17",
+            "Location": "Bournemouth - Assembly Rooms , The Avenue",
+            "Raw": "7.30 Bournemouth - Assembly Rooms , The Avenue- \" At Home . \" 4-6",
+            "Description": "\" At Home \"",
+            "Time": "7.30"
+        },
+        {
+            "Date": "JANUARY 17",
+            "Location": "Birmingham- \" Carnethy , \" Acock's Green - Mrs. Philpotts ' drawing - room meeting",
+            "Raw": "Birmingham- \" Carnethy , \" Acock's Green - Mrs. Philpotts ' drawing - room meeting- Mrs. Ring .",
+            "Speakers": [
+                "Mrs. Ring."
+            ]
+        },
+        {
+            "Date": "JANUARY 17",
+            "Location": "Bath - Post Office Chambers , Northgate Street",
+            "Raw": "Bath - Post Office Chambers , Northgate Street- \" Unjust Laws \" -Miss Baretti . 3.30",
+            "Description": "\" Unjust Laws \"",
+            "Speakers": [
+                "Miss Baretti ."
+            ],
+            "Time": "3.30"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings ARRANGED BY THE NATIONAL UNION . ( The meetings are given only a fortnight in advance . ) JANUARY 11 . Norwich - Miss L. E. Sowell's drawing - room meet- ing - Miss Eva Ward . JANUARY 12 . Huddersfield - Mayor's Parlour - Deputation to Mr. Spenell - Miss Siddon , Mrs. Donkersley . 3.30 Norwich - Miss L. E. Sewell's drawing - room meet- ing - Miss Eva Ward . 3.30 JANUARY 15 . Manchester - Milton Hall , Deansgate - Annual meet- ing - Mrs . F. T. Swanwick , M.A. Birmingham - St . Mary's Hall , Bearwood - Rev . C. Hinscliff , Mrs. Osler ( chair ) . 4.15 8.0 Fulham 8.0 Sutton JANUARY 16 . Wallasey - Central Liberal Club - Miss Rathbone Malton - Adult School - Miss I. O. Ford . Newcastle - on - Tyne - 27 , Ridley Place - Suffrage Choir Great Marlow - Danesfield - Drawing - room meeting -Mrs . Robie Uniacke , Cameron Grant , Esq . , E. Hornby - Lewis , Esq . ( chair ) . Manchester - The Gaskell Hall , Longsight - Coun- cillor Margaret Ashton , M.A. , Miss Margaret Robertson , B.A. Exeter - St . Hilda's Hall , York Road - Whist Drive and dance - Tickets 2s . 6d . Oxted and Limpsfield - Miss Jacomb Hood's - lecture , \" Housekeeping as an Industry , an Art , and a Science - Mrs . McKillop , M.A. Luton - Mrs . Chalkley's drawing - room meeting- Mrs. Rackham , JANUARY 17 . Keswick - Battersby Lecture Hall - Miss C. E. Mar- shall , \" The Economic Aspect of Women's , Suffrage \" Miss Highton , \" The Educational Uses of Women Suffrage \" Miss Sidney Knight ( chair ) . 8.0 7.30 Bournemouth - Assembly Rooms , The Avenue- \" At Home . \" 4-6 Birmingham- \" Carnethy , \" Acock's Green - Mrs. Philpotts ' drawing - room meeting- Mrs. Ring . Bath - Post Office Chambers , Northgate Street- \" Unjust Laws \" -Miss Baretti . 3.30",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 6,
+            "Scan": 4
+        },
+        {
+            "Column": 1,
+            "Page": 7,
+            "Scan": 4
+        },
+        {
+            "Column": 2,
+            "Page": 7,
+            "Scan": 4
+        },
+        {
+            "Column": 1,
+            "Page": 8,
+            "Scan": 5
+        },
+        {
+            "Column": 2,
+            "Page": 8,
+            "Scan": 5
+        },
+        {
+            "Column": 1,
+            "Page": 9,
+            "Scan": 5
+        },
+        {
+            "Column": 2,
+            "Page": 9,
+            "Scan": 5
+        },
+        {
+            "Column": 1,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 2,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 1,
+            "Page": 11,
+            "Scan": 6
+        }
+    ]
+}

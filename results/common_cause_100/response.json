@@ -1,0 +1,138 @@
+{
+    "IssueDate": "1911-09-14",
+    "Meetings": [
+        {
+            "Date": "SEPTEMBER 16",
+            "Location": "Stevenson Square, Manchester",
+            "Raw": "Manchester Stevenson Square - Open - air Demonstration .",
+            "Time": "4.0"
+        },
+        {
+            "Date": "SEPTEMBER 16",
+            "Location": "Glen Albyn, Whaley Bridge",
+            "Raw": "Whaley Bridge - Glen Albyn - Garden Party - Mrs Barnes , Miss Walshe .",
+            "Speakers": [
+                "Mrs Barnes",
+                "Miss Walshe"
+            ]
+        },
+        {
+            "Date": "SEPTEMBER 18",
+            "Location": "Moston, Manchester",
+            "Raw": "Manchester Moston Miss M. Barnes Robertson .",
+            "Speakers": [
+                "Miss M. Robertson",
+                "Barnes"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "SEPTEMBER 18",
+            "Location": "The Pavilion, Llangollen",
+            "Raw": "Llangollen - The Pavilion - Miss Rathbone .",
+            "Speakers": [
+                "Miss Rathbone"
+            ]
+        },
+        {
+            "Date": "SEPTEMBER 20",
+            "Location": "Holy Trinity Schools, Moston, Manchester",
+            "Raw": "Manchester Holy Trinity Schools . Moston - Miss M. Robertson .",
+            "Speakers": [
+                "Miss M. Robertson"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "SEPTEMBER 20",
+            "Location": "3, Berkeley Square, Bristol",
+            "Raw": "Bristol - 3 , Berkeley Square - Working Party .",
+            "Time": "3.0"
+        },
+        {
+            "Date": "SEPTEMBER 20",
+            "Location": "Fairhaven Institute, Wallasey and Wirral",
+            "Raw": "Wallasey and Wirral - Fairhaven Institute - Annual Meeting- Miss Eskrigge .",
+            "Speakers": [
+                "Miss Eskrigge"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "SEPTEMBER 21",
+            "Location": "Felixstowe, The Park, Nottingham",
+            "Raw": "Nottingham - Felixstowe , The Park - Garden F\u00eate and Sale- Mrs. Despard .",
+            "Speakers": [
+                "Mrs. Despard"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "SEPTEMBER 26",
+            "Location": "Christ Church Parish Room, Tunbridge Wells",
+            "Raw": "Tunbridge Wells - Christ Church Parish Room - Mrs . Rogers ' \" At Home \" -Rev . C. Hinscliff .",
+            "Hosts": [
+                "Mrs. Rogers"
+            ],
+            "Speakers": [
+                "Rev. C. Hinscliff"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "SEPTEMBER 27",
+            "Location": "Small Public Hall, Croydon",
+            "Raw": "Croydon Small Public Hall - Reception - Miss F. de G. Merrifield , Miss Norah O'Shea .",
+            "Speakers": [
+                "Miss F. de G. Merrifield",
+                "Miss Norah O'Shea"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "SEPTEMBER 30",
+            "Location": "Howard Park Letchworth",
+            "Raw": "Letchworth - Howard Park Joint Demonstration -N . U. Speakers : Miss Abadam , J. Clayton , Esq . , and others .",
+            "Speakers": [
+                "Miss Abadam",
+                "J. Clayton, Esq."
+            ]
+        },
+        {
+            "Date": "SEPTEMBER 25-29",
+            "Location": "Bredbury Romiley",
+            "Raw": "Bredbury Romiley and Aldersley . Special Open - air Meetings Mrs. Aldersley .",
+            "Speakers": [
+                "Mrs. Aldersley"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "SEPTEMBER 14",
+            "Location": "Herbert Road Co - operative Reading Room, Plumstead",
+            "Raw": "Plumstead , Herbert Road Co - operative Reading Room , Women's Co - op . Guild , Suffrage Meeting ."
+        },
+        {
+            "Date": "SEPTEMBER 18",
+            "Location": "Christian Institute Hall, Falkirk",
+            "Raw": "Falkirk , Christian Institute Hall , Dr. Elsie Inglis , Mrs. H. M. Ross ( chair ) .",
+            "Speakers": [
+                "Dr. Elsie Inglis"
+            ],
+            "Time": "3.30"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nSEPTEMBER 14 .\nDublin 35 , Molesworth Street - Irish Women's Suffrage and Local Government Association - Committee Meeting . 11.30\nSEPTEMBER 16 .\nManchester Stevenson Square - Open - air Demonstration . 4.0\nWhaley Bridge - Glen Albyn - Garden Party - Mrs Barnes , Miss Walshe .\nSEPTEMBER 18 .\nManchester Federation - Green , Moston Miss M. 3.0\nBarnes Robertson .\nLlangollen - The Pavilion - Miss Rathbone .\nSEPTEMBER 20 .\nManchester Federation - Holy Trinity Schools . 7.30\nMoston - Miss M. Robertson . 8.30\nBristol - 3 , Berkeley Square - Working Party . 3.0\nWallasey and Wirral - Fairhaven Institute - Annual Meeting- Miss Eskrigge . 8.0\nSEPTEMBER 21 .\nNottingham - Felixstowe , The Park - Garden F\u00eate and Sale- Mrs. Despard . 3.0\nSEPTEMBER 26 .\nTunbridge Wells - Christ Church Parish Room - Mrs . Rogers ' \" At Home \" -Rev . C. Hinscliff . 3.0\nSEPTEMBER 27 .\nCroydon Small Public Hall - Reception - Miss F. de G. Merrifield , Miss Norah O'Shea . 8.0\nSEPTEMBER 30 .\nLetchworth - Howard Park Joint Demonstration -N . U. Speakers : Miss Abadam , J. Clayton , Esq . , and others .\nSEPTEMBER 25-29 ( inclusive ) .\nBredbury Romiley and Aldersley . 3.30\nSpecial Open - air Meetings Mrs.\nLONDON .\nSEPTEMBER 14 .\nPlumstead , Herbert Road Co - operative Reading Room , Women's Co - op . Guild , Suffrage Meeting .\nSEPTEMBER 18 .\nSCOTLAND .\nFalkirk , Christian Institute Hall , Dr. Elsie Inglis , Mrs. H. M. Ross ( chair ) . 3.30",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 19,
+            "Scan": 11
+        },
+        {
+            "Column": 2,
+            "Page": 19,
+            "Scan": 11
+        }
+    ]
+}

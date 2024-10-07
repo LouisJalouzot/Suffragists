@@ -1,0 +1,126 @@
+{
+    "IssueDate": "1911-09-21",
+    "Meetings": [
+        {
+            "Date": "September 21",
+            "Location": "Felixstowe, The Park",
+            "Raw": "Nottingham - Felixstowe, The Park - Garden F\u00eate and Sale- Mrs. Despard. 3.0",
+            "Time": "3:00 PM"
+        },
+        {
+            "Date": "September 22",
+            "Location": "Caf\u00e9, Northumberland Street",
+            "Raw": "Newcastle - on - Tyne - Caf\u00e9, Northumberland Street - C.L.W.S . Drawing - room Meeting - Miss A. Maude Royden, Rev. C. G. Hall. Chair, Rev. J. T. Inskip.",
+            "Speakers": [
+                "Miss A. Maude Royden",
+                "Rev. C. G. Hall"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "September 22",
+            "Location": "Lovaine Hall",
+            "Raw": "Newcastle - on Tyne - Lovaine Hall - Miss A. Maude Royden, J. H., Edgar, Esq. Chair, Mrs. Spence Watson. 8.0",
+            "Speakers": [
+                "Miss A. Maude Royden",
+                "J. H. Edgar, Esq"
+            ],
+            "Time": "8:00 PM"
+        },
+        {
+            "Date": "September 24",
+            "Location": "Cross Platts Park, Beeston",
+            "Raw": "Leeds Cross Platts Park, Beeston - Miss I. O. Ford, Mrs. Renton, Miss Davenport. 11.0",
+            "Speakers": [
+                "Miss I. O. Ford",
+                "Mrs. Renton",
+                "Miss Davenport"
+            ],
+            "Time": "11:00 AM"
+        },
+        {
+            "Date": "September 25",
+            "Location": "16, New York Street",
+            "Raw": "Leeds - 16, New York Street - Miss I. O. Ford, Mrs. Renton, Miss Davenport. 7.30",
+            "Speakers": [
+                "Miss I. O. Ford",
+                "Mrs. Renton",
+                "Miss Davenport"
+            ],
+            "Time": "7:30 PM"
+        },
+        {
+            "Date": "September 25",
+            "Location": "St. Andrew's Parish Rooms",
+            "Raw": "Penrith St. Andrew's Parish Rooms \" At Home \" -Miss Norma Smith, Mrs. Crackanthorpe (chair). 4.0",
+            "Description": "\"At Home\"",
+            "Hosts": [
+                "Mrs. Crackanthorpe"
+            ],
+            "Speakers": [
+                "Miss Norma Smith"
+            ],
+            "Time": "4:00 PM"
+        },
+        {
+            "Date": "September 25",
+            "Location": "Temperance Hall",
+            "Raw": "Derby - Temperance Hall - Lady Willoughby de Broke, Dr. C. W. Saleeby. 8.0",
+            "Speakers": [
+                "Lady Willoughby de Broke",
+                "Dr. C. W. Saleeby"
+            ],
+            "Time": "8:00 PM"
+        },
+        {
+            "Date": "September 26",
+            "Location": "Christ Church Parish Room",
+            "Raw": "Tunbridge Wells - Christ Church Parish Room - Mrs. Rogers' \" At Home \" -Rev. C. Hinscliff. 3.0",
+            "Description": "\"At Home\"",
+            "Hosts": [
+                "Mrs. Rogers"
+            ],
+            "Speakers": [
+                "Rev. C. Hinscliff"
+            ],
+            "Time": "3:00 PM"
+        },
+        {
+            "Date": "September 26",
+            "Location": "Gt. Dockray",
+            "Raw": "Penrith Gt. Dockray - Open - air Meeting - Miss Norma Smith. 8.0",
+            "Speakers": [
+                "Miss Norma Smith"
+            ],
+            "Time": "8:00 PM"
+        },
+        {
+            "Date": "September 26",
+            "Location": "111A, Whiteladies Road",
+            "Raw": "Bristol - 111A, Whiteladies Road - Lecture on \"Superstition\" \u2015 5.0\nMiss Tanner.",
+            "Description": "Lecture on \"Superstition\"",
+            "Speakers": [
+                "Miss Tanner"
+            ],
+            "Time": "5:00 PM"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nSEPTEMBER 21 .\nNottingham - Felixstowe , The Park - Garden F\u00eate and Sale- Mrs. Despard . 3.0\nSEPTEMBER 22 .\nNewcastle - on - Tyne - Caf\u00e9 , Northumberland Street - C.L.W.S . Drawing - room Meeting - Miss A. Maude Royden , Rev. C. G. Hall . Chair , Rev. J. T. Inskip .\nNewcastle - on Tyne - Lovaine Hall - Miss A. Maude Royden , J. H. , Edgar , Esq . Chair , Mrs. Spence Watson . 8.0\nSEPTEMBER 24 .\nLeeds Cross Platts Park , Beeston - Miss I. O. Ford , Mrs. Renton , Miss Davenport . 11.0\nSEPTEMBER 25 .\nLeeds - 16 , New York Street - Miss I. O. Ford , Mrs. Renton , Miss Davenport . 7.30\nPenrith St. Andrew's Parish Rooms \" At Home \" -Miss Norma Smith , Mrs. Crackanthorpe ( chair ) . 4.0\nDerby - Temperance Hall - Lady Willoughby de Broke , Dr. C. W. Saleeby . 8.0\nSEPTEMBER 26 .\nTunbridge Wells - Christ Church Parish Room - Mrs . Rogers ' \" At Home \" -Rev . C. Hinscliff . 3.0\nPenrith Gt . Dockray - Open - air Meeting - Miss Norma Smith . 8.0\nBristol - 111A , Whiteladies Road - Lecture on \" Superstition \" \u2015 5.0\nMiss Tanner .",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 13,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 14,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 8
+        }
+    ]
+}

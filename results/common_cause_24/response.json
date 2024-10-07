@@ -1,0 +1,269 @@
+{
+    "IssueDate": "1910-06-16",
+    "Meetings": [
+        {
+            "Date": "JUNE 16",
+            "Location": "New Reform Club, London",
+            "Raw": "London - New Reform Club - Debate Mrs. Swanwick v . Miss Frances Low . 8.30",
+            "Description": "Debate Mrs. Swanwick v. Miss Frances Low",
+            "Time": "8.30"
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "10, Easy Row, Birmingham",
+            "Raw": "Brmingham - 10 , Easy Row - Midland Federation .",
+            "Description": "Midland Federation"
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "12, Eaton Place, London",
+            "Raw": "London - 12 , Eaton Place - Women in Local Government . 3.30",
+            "Description": "Women in Local Government",
+            "Time": "3.30"
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "St. Philip's Mission Hall, Salford",
+            "Raw": "Salford - St . Philip's Mission Hall - Women only - Miss M. Robertson .",
+            "Description": "Women only",
+            "Speakers": [
+                "Miss M. Robertson"
+            ]
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "Weston-super-Mare",
+            "Raw": "Weston - super - Mare - Public Meeting - Lady Frances Balfour .",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ]
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "Moreton Camp, Wallasey and Wirral",
+            "Raw": "Wallasey and Wirral Moreton Camp - Miss Chubb .",
+            "Speakers": [
+                "Miss Chubb"
+            ]
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "Hindley Hall Mrs. Pumphrey's Drawing-room, Newcastle (Stocksfield)",
+            "Raw": "Newcastle ( Stocksfield ) -Hindley Hall Mrs. Pumphrey's Drawing- room Meeting - Dr . Ethel Williams .",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "Dr. Ethel Williams"
+            ]
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "Farnham",
+            "Raw": "Farnham - Open - air Meeting in support of Mr. Shackleton's Bill .",
+            "Description": "Open-air Meeting in support of Mr. Shackleton's Bill"
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "Southampton",
+            "Raw": "Southampton - Open - air Meeting in support of Mr. Shackleton's Bill - Miss Norah O'Shea . 3.30",
+            "Description": "Open-air Meeting in support of Mr. Shackleton's Bill",
+            "Speakers": [
+                "Miss Norah O'Shea"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Mrs. Jackson's Drawing-room, London (Westminster)",
+            "Raw": "London ( Westminster ) -Mrs . Jackson's Drawing - room Meeting- Lady Frances Balfour .",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ]
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "40, Shandwick Place, Edinburgh",
+            "Raw": "Edinburgh - 40 , Shandwick Place ."
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Mrs. Martin's Drawing-room, London (S. Hackney)",
+            "Raw": "London ( S. Hackney ) -Mrs . Martin's Drawing - room Meeting- Miss C. Dykes Spicer .",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "Miss C. Dykes Spicer"
+            ]
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "New Brighton, Wallasey and Wirral",
+            "Raw": "Wallasey and Wirral - New Brighton - Meeting in support of Mr. Shackleton's Bill .",
+            "Description": "Meeting in support of Mr. Shackleton's Bill"
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Durdham Downs, Bristol",
+            "Raw": "Bristol - Durdham Downs - Drawing - room Meeting - Mrs . Durbar . 3.30",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "Mrs. Durbar"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Miss Newbigin's Drawing-room, Newcastle",
+            "Raw": "Newcastle Miss Newbigin's Drawing - room Meeting - Miss Mein . 4.0",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "Miss Mein"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Town Hall, Portsmouth",
+            "Raw": "Portsmouth Town Hall - Meeting in support of Mr. Shackleton's Bill Mrs. Swanwick .",
+            "Description": "Meeting in support of Mr. Shackleton's Bill",
+            "Speakers": [
+                "Mrs. Swanwick"
+            ]
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Brighton",
+            "Raw": "Brighton - Garden Meeting to support Mr. Shackleton's Bill - Miss Barbara Duncan .",
+            "Description": "Garden Meeting to support Mr. Shackleton's Bill",
+            "Speakers": [
+                "Miss Barbara Duncan"
+            ]
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Southampton",
+            "Raw": "Southampton - Open - air Meeting to support Mr. Shackleton's Bill - Col . Pennycuick .",
+            "Description": "Open-air Meeting to support Mr. Shackleton's Bill",
+            "Speakers": [
+                "Col. Pennycuick"
+            ]
+        },
+        {
+            "Date": "JUNE 17",
+            "Location": "Godalming",
+            "Raw": "Godalming Meeting in support of Mr. Shackleton's Bill - Miss Barbara Duncan ,",
+            "Description": "Meeting in support of Mr. Shackleton's Bill",
+            "Speakers": [
+                "Miss Barbara Duncan"
+            ]
+        },
+        {
+            "Date": "JUNE 18",
+            "Location": "Parochial Hall, Honley, Huddersfield",
+            "Raw": "Huddersfield - Parochial Hall , Honley - Annual Meeting .",
+            "Description": "Annual Meeting"
+        },
+        {
+            "Date": "JUNE 18",
+            "Location": "Great Hall, Tunbridge Wells",
+            "Raw": "Tunbridge Wells - Great Hall - Miss Mason's Lantern Lecture .",
+            "Description": "Lantern Lecture",
+            "Speakers": [
+                "Miss Mason"
+            ]
+        },
+        {
+            "Date": "JUNE 18",
+            "Location": "Corner Brunswick Street and Highgate Hill, London (Highgate and N. St. Pancras)",
+            "Raw": "London ( Highgate and N. St. Pancras ) -Corner Brunswick Street and Highgate Hill - Miss H. D. Cockle .",
+            "Speakers": [
+                "Miss H. D. Cockle"
+            ]
+        },
+        {
+            "Date": "JUNE 18",
+            "Location": "Swedish Gymnasium, Colwyn Bay",
+            "Raw": "Colwyn Bay - Swedish Gymnasium - Meeting in support of Mr. Shackleton's Bill .",
+            "Description": "Meeting in support of Mr. Shackleton's Bill"
+        },
+        {
+            "Date": "JUNE 18",
+            "Location": "Bishopsworth Common, Bristol",
+            "Raw": "Bristol - Bishopsworth Common - Meetings in support of Mr. Shackleton's Bill . 3.30 and 7.30",
+            "Description": "Meetings in support of Mr. Shackleton's Bill",
+            "Time": "3.30 and 7.30"
+        },
+        {
+            "Date": "JUNE 20",
+            "Location": "Miss Adams' Drawing-room, Woking",
+            "Raw": "Woking - Miss Adams ' Drawing - room Meeting - Mrs . Robie Uniacke . 4.30",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "Mrs. Robie Uniacke"
+            ],
+            "Time": "4.30"
+        },
+        {
+            "Date": "JUNE 20",
+            "Location": "Epsom, London",
+            "Raw": "London ( Epsom ) -Open - air Meeting - Mr . Malcolm Mitchell . 8.0",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Mr. Malcolm Mitchell"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "JUNE 20",
+            "Location": "Bristol",
+            "Raw": "Bristol - Drawing - 100m Meeting - Miss Mary Clifford . 3.30",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "Miss Mary Clifford"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "JUNE 21",
+            "Location": "Rye",
+            "Raw": "Rye Miss Abadam - Mrs . Grundy as an Anti .",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "JUNE 21",
+            "Location": "Winchelsea",
+            "Raw": "Winchelsea - Miss Abadam- \"Votes in Other Lands . \"",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "JUNE 21",
+            "Location": "Bristol",
+            "Raw": "Bristol - Drawing - room Meeting - The Misses Sturge .",
+            "Description": "Drawing-room Meeting",
+            "Speakers": [
+                "The Misses Sturge"
+            ]
+        },
+        {
+            "Date": "JUNE 21",
+            "Location": "Mrs. Mallet's Drawing-room, London (Wimbledon, S.)",
+            "Raw": "London ( Wimbledon , S . ) - Mrs . Mallet's Drawing - room Meeting . 8.0",
+            "Description": "Drawing-room Meeting",
+            "Time": "8.0"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nJUNE 16 . London - New Reform Club - Debate Mrs. Swanwick v . Miss Frances Low . 8.30 Brmingham - 10 , Easy Row - Midland Federation . London - 12 , Eaton Place - Women in Local Government . 3.30 Salford - St . Philip's Mission Hall - Women only - Miss M. Robertson . Weston - super - Mare - Public Meeting - Lady Frances Balfour . Wallasey and Wirral Moreton Camp - Miss Chubb . Newcastle ( Stocksfield ) -Hindley Hall Mrs. Pumphrey's Drawing- room Meeting - Dr . Ethel Williams . Farnham - Open - air Meeting in support of Mr. Shackleton's Bill . Southampton - Open - air Meeting in support of Mr. Shackleton's Bill - Miss Norah O'Shea . 3.30 7.30 5.30 4.0 4.30 7.30 JUNE 17 . London ( Westminster ) -Mrs . Jackson's Drawing - room Meeting- Lady Frances Balfour . Edinburgh - 40 , Shandwick Place . London ( S. Hackney ) -Mrs . Martin's Drawing - room Meeting- Miss C. Dykes Spicer . Wallasey and Wirral - New Brighton - Meeting in support of Mr. Shackleton's Bill . 3.0 Bristol - Durdham Downs - Drawing - room Meeting - Mrs . Durbar . 3.30 Newcastle Miss Newbigin's Drawing - room Meeting - Miss Mein . 4.0 Portsmouth Town Hall - Meeting in support of Mr. Shackleton's Bill Mrs. Swanwick . Brighton - Garden Meeting to support Mr. Shackleton's Bill - Miss Barbara Duncan . Southampton - Open - air Meeting to support Mr. Shackleton's Bill - Col . Pennycuick . Godalming Meeting in support of Mr. Shackleton's Bill - Miss Barbara Duncan , JUNE 18 . Huddersfield - Parochial Hall , Honley - Annual Meeting . Tunbridge Wells - Great Hall - Miss Mason's Lantern Lecture . London ( Highgate and N. St. Pancras ) -Corner Brunswick Street and Highgate Hill - Miss H. D. Cockle . 8.0 3.30 8.0 8.0 Colwyn Bay - Swedish Gymnasium - Meeting in support of Mr. Shackleton's Bill . Bristol - Bishopsworth Common - Meetings in support of Mr. Shackleton's Bill . 3.30 and 7.30 JUNE 20 . Woking - Miss Adams ' Uniacke . Drawing - room Meeting - Mrs . Robie 4.30 8.0 3.30 3.0 8.30 3.30 London ( Epsom ) -Open - air Meeting - Mr . Malcolm Mitchell . Bristol - Drawing - 100m Meeting - Miss Mary Clifford . JUNE 21 . Rye Miss Abadam - Mrs . Grundy as an Anti . Winchelsea - Miss Abadam- \"Votes in Other Lands . \" Bristol - Drawing - room Meeting - The Misses Sturge . London ( Wimbledon , S . ) - Mrs . Mallet's Drawing - room Meeting . 8.0",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

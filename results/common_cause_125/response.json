@@ -1,0 +1,134 @@
+{
+    "IssueDate": "1912-03-07",
+    "Meetings": [
+        {
+            "Date": "MARCH 7",
+            "Location": "New Brighton",
+            "Raw": "New Brighton - Drawing - room meeting - R . Hield , Esq . , Mrs. Stanger ( chair )",
+            "Description": "Drawing-room meeting",
+            "Hosts": [
+                "R. Hield, Esq.",
+                "Mrs. Stanger"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "MARCH 7",
+            "Location": "Earlestown Town Hall",
+            "Raw": "Earlestown Town Hall - Mrs . Stewart Brown , Rev. G. H. Armitage ( ohair )",
+            "Speakers": [
+                "Mrs. Stewart Brown",
+                "Rev. G. H. Armitage"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "MARCH 7",
+            "Location": "Coventry - Priory Row Assembly Rooms",
+            "Raw": "Coventry - Priory Row Assembly Rooms - Monthly meeting - Mrs . Williams ( Nuneaton )",
+            "Description": "Monthly meeting",
+            "Speakers": [
+                "Mrs. Williams"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "MARCH 9",
+            "Location": "Sunderland - Villiers Street Institute",
+            "Raw": "Sunderland - Villiers Street Institute- \" How the the vote was won . Chair , Ald . Gibson , J.P.",
+            "Description": "How the vote was won",
+            "Speakers": [
+                "Ald. Gibson"
+            ],
+            "Time": "7.45"
+        },
+        {
+            "Date": "MARCH 9",
+            "Location": "Oxford - Town Hall",
+            "Raw": "Oxford - Town Hall - Lord Haldane , Miss Margaret Ashton , Miss Jane Harrison ( ohair ) - admission by ticket only",
+            "Speakers": [
+                "Lord Haldane",
+                "Miss Margaret Ashton",
+                "Miss Jane Harrison"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MARCH 11",
+            "Location": "Marple Girls' Institute",
+            "Raw": "Marple Girls ' Institute - Councillor Margaret Ashton , M.A. , O. H. Burden , Esq . , B.A. , B.Sc. , F. S. Barnes , Esq . ( chair )",
+            "Speakers": [
+                "Councillor Margaret Ashton",
+                "O. H. Burden, Esq.",
+                "F. S. Barnes, Esq"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MARCH 11",
+            "Location": "Stevenage \" The Chestnuts , \" Basils Road",
+            "Raw": "Stevenage \" The Chestnuts , \" Basils Road- \" The religious of aspect Women 's Suffrage , \" Miss Annie Villiers",
+            "Description": "The religious aspect of Women's Suffrage",
+            "Speakers": [
+                "Miss Annie Villiers"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MARCH 11",
+            "Location": "Nottingham Office , 54 , Long Row",
+            "Raw": "Nottingham Office , 54 , Long Row - Lecture , \" Lady Mary Wortley Montague \" - Miss Hayward",
+            "Description": "Lecture, Lady Mary Wortley Montague",
+            "Speakers": [
+                "Miss Hayward"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "MARCH 11",
+            "Location": "Bala Victoria Hall",
+            "Raw": "Bala Victoria Hall - Miss Eskrigge , Rev. Ivan Davies , Miss Stewart and others , Dr. Ellis Edwards ( chair )",
+            "Speakers": [
+                "Miss Eskrigge",
+                "Rev. Ivan Davies",
+                "Miss Stewart",
+                "others",
+                "Dr. Ellis Edwards"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "MARCH 11",
+            "Location": "Barnsley - Y.M.C.A.",
+            "Raw": "Barnsley - Y.M.C.A. - Member 's meeting",
+            "Description": "Member's meeting",
+            "Time": "8.15"
+        },
+        {
+            "Date": "MARCH 11",
+            "Location": "Jarrow - on - Tyne - Miss Jardine's drawing - room meet- ing",
+            "Raw": "Jarrow - on - Tyne - Miss Jardine 's drawing - room meet- ing - Miss C. M. Gordon",
+            "Description": "Drawing-room meeting",
+            "Hosts": [
+                "Miss Jardine"
+            ],
+            "Speakers": [
+                "Miss C.M. Gordon"
+            ],
+            "Time": "8.0"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nMARCH 7 . New Brighton - Drawing - room meeting - R . Hield , Esq . , Mrs. Stanger ( chair ) Earlestown Town Hall - Mrs . Stewart Brown , Rev. G. H. Armitage ( ohair ) Coventry - Priory Row Assembly Rooms - Monthly meeting - Mrs . Williams ( Nuneaton ) MARCH 9 . Sunderland - Villiers Street Institute- \" How the the vote was won . Chair , Ald . Gibson , J.P. Oxford - Town Hall - Lord Haldane , Miss Margaret Ashton , Miss Jane Harrison ( ohair ) - admission by ticket only MARCH 11 . Marple Girls ' Institute - Councillor Margaret Ashton , M.A. , O. H. Burden , Esq . , B.A. , B.Sc. , F. S. Barnes , Esq . ( chair ) Stevenage \" The Chestnuts , \" Basils Road- \" The religious of aspect Women 's Suffrage , \" Miss Annie Villiers Nottingham Office , 54 , Long Row - Lecture , \" Lady Mary Wortley Montague \" - Miss Hayward Bala Victoria Hall - Miss Eskrigge , Rev. Ivan Davies , Miss Stewart and others , Dr. Ellis Edwards ( chair ) Barnsley - Y.M.C.A. - Member 's meeting Jarrow - on - Tyne - Miss Jardine 's drawing - room meet- ing - Miss C. M. Gordon",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 13,
+            "Scan": 7
+        },
+        {
+            "Column": 1,
+            "Page": 14,
+            "Scan": 8
+        }
+    ]
+}

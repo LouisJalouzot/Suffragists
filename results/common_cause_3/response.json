@@ -1,0 +1,123 @@
+{
+    "IssueDate": "1909-09-30",
+    "Meetings": [
+        {
+            "Date": "SEPTEMBER 30",
+            "Location": "BASINGSTOKE, The Town Hall",
+            "Raw": "BASINGSTOKE , Public Meeting , The Town Hall .",
+            "Speakers": [
+                "Miss N. O'Shea"
+            ]
+        },
+        {
+            "Date": "SEPTEMBER 30",
+            "Location": "Hove Town Hall",
+            "Raw": "BRIGHTON AND HOVE , The First Meeting of the Season , Hove Town Hall ."
+        },
+        {
+            "Date": "SEPTEMBER 30",
+            "Location": "Greyshott Village Hall",
+            "Raw": "HASLEMERE , HINDHEAD , AND DISTRICT , Discussion , Greyshott Village Hall ."
+        },
+        {
+            "Date": "OCTOBER 1",
+            "Location": "Gaiety Theatre, Manchester",
+            "Raw": "NORTH OF ENGLAND SOCIETY , First Weekly Meeting of the Season , at the Offices , 85 , Deansgate Arcade . Gaiety Theatre , Manchester .",
+            "Speakers": [
+                "Miss Ashton"
+            ]
+        },
+        {
+            "Date": "OCTOBER 2",
+            "Location": "58, Renfield Street, GLASGOW",
+            "Raw": "GLASGOW , Debate at the Office , 58 , Renfield Street . The Limited Franchise v . Adult Suffrage .",
+            "Description": "The Limited Franchise v. Adult Suffrage."
+        },
+        {
+            "Date": "OCTOBER 4",
+            "Location": "Shrewsbury",
+            "Raw": "BIRMINGHAM SOCIETY ( Shrewsbury ) , W.L.A. Meeting .",
+            "Description": "W.L.A. Meeting"
+        },
+        {
+            "Date": "OCTOBER 4",
+            "Location": "Brackenhurst, Hindhead",
+            "Raw": "HASLEMERE , HINDHEAD AND DISTRICT , Members ' Meeting , Brackenhurst , Hindhead ."
+        },
+        {
+            "Date": "OCTOBER 6",
+            "Location": "Public Hall, West Norwood",
+            "Raw": "LONDON SOCIETY ( Beckenham ) , Public Meeting , Public Hall , West Norwood .",
+            "Speakers": [
+                "Mrs. Philip Snowden, M.P.",
+                "Mr. Philip Snowden"
+            ]
+        },
+        {
+            "Date": "OCTOBER 6",
+            "Location": "1, Pembroke Cottages, Edwardes Square, Kensington",
+            "Raw": "SUFFRAGE ATELIER , General Meeting , 1 , Pembroke Cottages , Edwardes Square , Kensington , Cartoon Club Meeting .",
+            "Description": "Cartoon Club Meeting"
+        },
+        {
+            "Date": "OCTOBER 7",
+            "Location": "County Hall, Carlisle",
+            "Raw": "CUMBERLAND , Public Meeting , County Hall , Carlisle .",
+            "Speakers": [
+                "Lady Frances Balfour",
+                "Mr. Malcolm Mitchell"
+            ]
+        },
+        {
+            "Date": "OCTOBER 8",
+            "Location": "St. Andrew's Hall, Penrith",
+            "Raw": "CUMBERLAND , Public Meeting , St. Andrew's Hall , Penrith .",
+            "Speakers": [
+                "Lady Frances Balfour",
+                "Mrs. Philip Snowden"
+            ]
+        },
+        {
+            "Date": "OCTOBER 8",
+            "Location": "40, Shandwick Place",
+            "Raw": "EDINBURGH , \" At Home , \" 40 , Shandwick Place ."
+        },
+        {
+            "Date": "OCTOBER 8",
+            "Location": "Stretford Town Hall",
+            "Raw": "NORTH OF ENGLAND SOCIETY , Public Meeting at the Stretford Town Hall .",
+            "Speakers": [
+                "Councillor Margaret Ashton",
+                "Miss Margaret Robertson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 8",
+            "Location": "85, Deansgate Arcade",
+            "Raw": "NORTH OF ENGLAND SOCIETY , Weekly Meeting , 85 , Deansgate Arcade .",
+            "Description": "Report of Quarterly Council Meeting"
+        },
+        {
+            "Date": "OCTOBER 11",
+            "Location": "Dingwall",
+            "Raw": "EDINBURGH SOCIETY ( Dingwall ) ."
+        },
+        {
+            "Date": "OCTOBER 11",
+            "Location": "The Midland Institute, BIRMINGHAM",
+            "Raw": "BIRMINGHAM , The Midland Institute .",
+            "Speakers": [
+                "Miss W. H. Lamond"
+            ],
+            "Time": null
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nSEPTEMBER 30 . BASINGSTOKE , Public Meet- Speaker ,\ning , The Town Hall . BRIGHTON AND HOVE , The First Meeting of the Season , Hove Town Hall . HASLEMERE , HINDHEAD , AND DISTRICT , Discussion , Greyshott Village Hall .\nOCTOBER 1 . Baillie - Weaver , Esq . ( Men's League ) , \" Why Shouldn't Women Have Votes ; What have Tactics got to do with it ? \" Supported by Miss Edith Sutton , Col. Pennycuick , and others . Speaker , Miss N. O'Shea . 8.0 3.15 8.30 NORTH OF ENGLAND Speaker , Miss Ashton . 7.30 SOCIETY , First Weekly Meeting of the Season , at the Offices , 85 , Deansgate Arcade . Gaiety Theatre , Manchester . NEXT WEEK . Cavaliere F. Castel'ano's ITALIAN CRAND OPERA ICOMPANY . Tuesday Monday Wednesday ( Matinee ) Wednesday Night Friday Saturday ( Matinee ) Saturday Night Thursday TRAVIATA ERNANI FAUST LUCIA DI LAMMERMOOR CARMEN IL BARBIERE DI SIVIGLIA RIGOLETTO IL TROVATORE OCT . 11 - MISS HORNIMAN'S COMPANY IN \" AY ENEMY OF THE PEOPLE , \" BY IBSEN , Tel . 8048 Central .\nOCTOBER 2 . GLASGOW , Debate at the Office , 58 , Renfield Street . The Limited Franchise v . Adult Suffrage . OCTOBER 4 . BIRMINGHAM SOCIETY ( Shrewsbury ) , W.L.A. Meeting . HASLEMERE , HINDHEAD AND DISTRICT , Members ' Meeting , Brackenhurst , Hind- head .\nSEPTEMBER 30 , LONDON SOCIETY ( Highgate ) , Hostess , Mrs. Garnett . Discussion of Lady McLaren's \" Women's Charter . \" OCTOBER 6 . LONDON SOCIETY ( Becken- ham ) , Public Meeting , Public Hall , West Norwood . SUFFRAGE ATELIER , General Meeting , 1 , Pembroke Cottages , Edwardes Square , Kensington , Cartoon Club Meeting . OCTOBER 7 . CUMBERLAND , Public Meet- ing , County Hall , Carlisle .\nOCTOBER 8 . CUMBERLAND , Public Meet- ing , St. Andrew's Hall , Pen- rith . EDINBURGH , \" At Home , \" 40 , Shandwick Place . NORTH OF ENGLAND Speakers , Councillor Margaret SOCIETY , Public Meeting at Ashton , Miss Margaret Robert- the Stretford Town Hall . son , and others . NORTH OF ENGLAND Report of Quarterly Council Meeting . SOCIETY , Weekly Meeting , 85 , Deansgate Arcade .\nOCTOBER 11 . EDINBURGH SOCIETY ( Ding- wall ) . BIRMINGHAM , The Midland Institute . Speaker , Miss W. H. Lamond . \" The Speaker , Mrs. Osler . History of Women's Suffrage . \"",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 13,
+            "Scan": 7
+        }
+    ]
+}

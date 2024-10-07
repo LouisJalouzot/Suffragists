@@ -1,0 +1,224 @@
+{
+    "IssueDate": "1912-04-11",
+    "Meetings": [
+        {
+            "Date": "APRIL 11",
+            "Location": "Bexhill - onSea - Victoria Hall",
+            "Raw": "Bexhill - onSea - Victoria Hall - Lecture on \" Nor- way \" -Mrs . Strickland",
+            "Speakers": [
+                "Mrs. Strickland"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 11",
+            "Location": "Bath - South Stoke Picnic Chambers",
+            "Raw": "Bath - South Stoke Picnic Chambers - Miss John- ston",
+            "Speakers": [
+                "Miss Johnston"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 11",
+            "Location": "Dublin - 33, Molesworth Street",
+            "Raw": "IRELAND . April 11 . Dublin - 33 , Molesworth Street - Local Government mittee meeting 11.30 - Miss C. Corbett , B.A. , will speak at 12.0",
+            "Speakers": [
+                "Miss C. Corbett"
+            ],
+            "Time": "12.0"
+        },
+        {
+            "Date": "APRIL 12",
+            "Location": "Cheltenham - Town Hall",
+            "Raw": "APRIL 12 Cheltenham - Town Hall - Canon Talbot , Miss Nina Boyle , Mr. Agg - Gardner , M.P. ( chair )",
+            "Speakers": [
+                "Canon Talbot",
+                "Miss Nina Boyle",
+                "Mr. Agg-Gardner"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 12",
+            "Location": "Brighton - Y.M.C.A . Hall, Old Steine",
+            "Raw": "Brighton - Y.M.C.A . Hall , Old Steine - Brighton and Hove Committee \" At Home \" - Mrs. Corbett Ashby 8.0",
+            "Hosts": [
+                "Brighton and Hove Committee"
+            ],
+            "Speakers": [
+                "Mrs. Corbett Ashby"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 12",
+            "Location": "Huntingdon - Trinity Union Church",
+            "Raw": "Huntingdon - Trinity Union Church hood - Mrs . Rackham 8.0",
+            "Speakers": [
+                "Mrs. Rackham"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 13",
+            "Location": "Scarborough - St. Nicholas House",
+            "Raw": "APRIL 13 . Scarborough - St . Nicholas House - Whist Drive 3",
+            "Time": "3"
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Birmingham - Farm Street Women's",
+            "Raw": "APRIL 15 . Birmingham - Farm Street Women's Mrs. Ring 7.30",
+            "Speakers": [
+                "Mrs. Ring"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Shiffnal - Young Liberals",
+            "Raw": "Shiffnal - Young Liberals - Mrs . Osler 8.0",
+            "Speakers": [
+                "Mrs. Osler"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Rochdale Provident Hall",
+            "Raw": "APRIL 15 . Rochdale Provident Hall - Miss A. Maude Royden , The Lady Beatrice Kemp ( chair ) 7.30",
+            "Speakers": [
+                "Miss A. Maude Royden",
+                "The Lady Beatrice Kemp"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Rochdale \" Beechwood \"",
+            "Raw": "Rochdale \" Beechwood \" -drawing - room meeting 8.0",
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Chester - le - Street - Mechanic's Hall",
+            "Raw": "Chester - le - Street - Mechanic's Hall - Mrs . P. Snowden , Viscountess Hawick ( chair ) , Mr. J. W. Taylor , M.P. 7.30",
+            "Speakers": [
+                "Mrs. P. Snowden",
+                "Viscountess Hawick",
+                "Mr. J. W. Taylor"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "APRIL 16",
+            "Location": "Newcastle - on - Tyne - 27, Ridley Place",
+            "Raw": "APRIL 16 Newcastle - on - Tyne - 27 , Ridley Place - Suffrage choir practice , conducted by Mrs. Bellas Simpson",
+            "Speakers": [
+                "Mrs. Bellas Simpson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 16",
+            "Location": "Shildon - Dean Street Schools",
+            "Raw": "Shildon - Dean Street Schools - Mrs . P. Snowden , Miss Lucas ( chair ) 7.30",
+            "Speakers": [
+                "Mrs. P. Snowden",
+                "Miss Lucas"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Nottingham - Office, 54, Long Row",
+            "Raw": "APRIL 17 . Nottingham - Office , 54 , Long Row - Whist Drive admission 6d .",
+            "Time": null
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Seaton Oarew - Caf\u00e9 - Miss Tilby's drawing - room",
+            "Raw": "Seaton Oarew - Caf\u00e9 - Miss Tilby's drawing - room meeting - Mrs . Rackham",
+            "Speakers": [
+                "Mrs. Rackham"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Sunderland - Bede Hall, Burdon Road",
+            "Raw": "Sunderland - Bede Hall , Burdon Road - Mrs . Rack- ham , Councillor Hartley French ( chair ) 8.0",
+            "Speakers": [
+                "Mrs. Rackham",
+                "Councillor Hartley French"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Alderley Edge - Public Hall",
+            "Raw": "Robertson , Alderley Edge - Public Hall - Miss M Bath 3.0",
+            "Speakers": [
+                "Miss M Bath"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Newcastle - on - Tyne - Lovaine Hall",
+            "Raw": "Newcastle - on - Tyne - Lovaine Hall Shop Assistants ' Meeting - Mrs . Racham , Dr. Ethel Williams ( chair ) 8.0",
+            "Speakers": [
+                "Mrs. Racham",
+                "Dr. Ethel Williams"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Tynemouth St. Oswin's Hall",
+            "Raw": "Tynemouth St. Oswin's Hall - Mrs . Snowden 7.30",
+            "Speakers": [
+                "Mrs. Snowden"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Wallsend - Caf\u00e9 - Miss Fenwick's drawing - room",
+            "Raw": "Wallsend - Caf\u00e9 - Miss Fenwick's drawing - room meet- ing - Mrs . Rackham",
+            "Speakers": [
+                "Mrs. Rackham"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Leamington The Winter Hall",
+            "Raw": "Leamington Franchise Fete The Winter Hall- Opened by Countess of Selborne , Mr. F. R. Benson ( chair ) 2.30",
+            "Speakers": [
+                "Countess of Selborne",
+                "Mr. F. R. Benson"
+            ],
+            "Time": "2.30"
+        },
+        {
+            "Date": "APRIL 17",
+            "Location": "Worthing- \" At Home \" -31, Warwick Street",
+            "Raw": "Worthing- \" At Home \" -31 , Warwick Street - Mrs . Tuffley Grimsdale ( hostess ) , Mrs. Robertson ( Women's Co - operative Guild ) 8.0",
+            "Hosts": [
+                "Mrs. Tuffley Grimsdale",
+                "Mrs. Robertson"
+            ],
+            "Time": "8.0"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nARRANGED BY THE NATIONAL UNION .\n( The meetings are given only a fortnight in advance . )\nAPRIL 11 . Bexhill - onSea - Victoria Hall - Lecture on \" Nor- way \" -Mrs . Strickland Bath - South Stoke Picnic Chambers - Miss John- ston IRELAND . April 11 . Dublin - 33 , Molesworth Street - Local Government mittee meeting 11.30 - Miss C. Corbett , B.A. , will speak at 12.0\nAPRIL 12 Cheltenham - Town Hall - Canon Talbot , Miss Nina Boyle , Mr. Agg - Gardner , M.P. ( chair ) Brighton - Y.M.C.A . Hall , Old Steine - Brighton and Hove Committee \" At Home \" - Mrs. Corbett Ashby 8.0 Huntingdon - Trinity Union Church hood - Mrs . Rackham 8.0\nAPRIL 13 . Scarborough - St . Nicholas House - Whist Drive 3\nAPRIL 15 . Birmingham - Farm Street Women's Mrs. Ring 7.30 Shiffnal - Young Liberals - Mrs . Osler 8.0\nAPRIL 15 . Rochdale Provident Hall - Miss A. Maude Royden , The Lady Beatrice Kemp ( chair ) 7.30 Rochdale \" Beechwood \" -drawing - room meeting 8.0 Chester - le - Street - Mechanic's Hall - Mrs . P. Snowden , Viscountess Hawick ( chair ) , Mr. J. W. Taylor , M.P. 7.30\nAPRIL 16 Newcastle - on - Tyne - 27 , Ridley Place - Suffrage choir practice , conducted by Mrs. Bellas Simpson Shildon - Dean Street Schools - Mrs . P. Snowden , Miss Lucas ( chair ) 7.30\nAPRIL 17 . Nottingham - Office , 54 , Long Row - Whist Drive admission 6d . Seaton Oarew - Caf\u00e9 - Miss Tilby's drawing - room meeting - Mrs . Rackham Sunderland - Bede Hall , Burdon Road - Mrs . Rack- ham , Councillor Hartley French ( chair ) 8.0 Robertson , Alderley Edge - Public Hall - Miss M Bath 3.0 Newcastle - on - Tyne - Lovaine Hall Shop Assistants ' Meeting - Mrs . Racham , Dr. Ethel Williams ( chair ) 8.0 Tynemouth St. Oswin's Hall - Mrs . Snowden 7.30 Wallsend - Caf\u00e9 - Miss Fenwick's drawing - room meet- ing - Mrs . Rackham Leamington Franchise Fete The Winter Hall- Opened by Countess of Selborne , Mr. F. R. Benson ( chair ) 2.30 Worthing- \" At Home \" -31 , Warwick Street - Mrs . Tuffley Grimsdale ( hostess ) , Mrs. Robertson ( Women's Co - operative Guild ) 8.0",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

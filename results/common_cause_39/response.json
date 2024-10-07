@@ -1,0 +1,382 @@
+{
+    "IssueDate": "1910-09-08",
+    "Meetings": [
+        {
+            "Date": "1910-09-08",
+            "Location": "Grove Lane, Camberwell, London",
+            "Raw": "London - Camberwell - Grove Lane - Mr. Malcolm Mitchell, Mr. John Manson. 8.0",
+            "Speakers": [
+                "Mr. Malcolm Mitchell",
+                "Mr. John Manson"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-08",
+            "Location": "Salford Suffrage Club",
+            "Raw": "North of England - Salford Suffrage Club - Miss Courtney. 1.0",
+            "Speakers": [
+                "Miss Courtney"
+            ],
+            "Time": "1.0"
+        },
+        {
+            "Date": "1910-09-08",
+            "Location": "King's Square Avenue, Bristol",
+            "Raw": "Bristol - King's Square Avenue - Open - air Meeting. 3.0",
+            "Description": "Open-air meeting",
+            "Time": "3.0"
+        },
+        {
+            "Date": "1910-09-08",
+            "Location": "Romsey",
+            "Raw": "Romsey - Open - air Meeting - Mr. Newport. 3.0",
+            "Description": "Open-air meeting",
+            "Speakers": [
+                "Mr. Newport"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "1910-09-08",
+            "Location": "Salford Suffrage Club (Women)",
+            "Raw": "North of England - Salford Suffrage Club (Women) - Miss M. Ashton. 3.0",
+            "Speakers": [
+                "Miss M. Ashton"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "1910-09-09",
+            "Location": "Devonshire Hotel, East Manchester",
+            "Raw": "North of England - Devonshire Hotel, E. Manchester - Open - air Meeting - Miss M. Ashton. 8.0",
+            "Speakers": [
+                "Miss M. Ashton"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-09",
+            "Location": "Picton Street, Stokes Croft, Bristol",
+            "Raw": "Bristol - Picton Street, Stokes Croft - Open - air Meeting. 7.0",
+            "Description": "Open-air meeting",
+            "Time": "7.0"
+        },
+        {
+            "Date": "1910-09-09",
+            "Location": "Romsey",
+            "Raw": "Romsey - Open - air Meeting - Mr. Howard. 7.0",
+            "Speakers": [
+                "Mr. Howard"
+            ],
+            "Time": "7.0"
+        },
+        {
+            "Date": "1910-09-10",
+            "Location": "Tally-Ho Corner, Finchley, Highgate, London",
+            "Raw": "London - Highgate - Tally - Ho Corner, Finchley - Mrs. Bowden-Smith. 8.0",
+            "Speakers": [
+                "Mrs. Bowden-Smith"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-10",
+            "Location": "Great Missenden",
+            "Raw": "Great Missenden - Open - air Meeting. 7.0",
+            "Description": "Open-air meeting",
+            "Time": "7.0"
+        },
+        {
+            "Date": "1910-09-12",
+            "Location": "Trafford Road Schools, Salford",
+            "Raw": "North of England - Trafford Road Schools, Salford - Public Meeting - Miss M. Ashton. 8.0",
+            "Speakers": [
+                "Miss M. Ashton"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-12",
+            "Location": "Guildhall, Saltash",
+            "Raw": "Saltash - Guildhall - Public Meeting - Miss Alison Garland, Dr. Mabel Ramsay, The Mayor of Saltash (Chairman). 8.0",
+            "Speakers": [
+                "Miss Alison Garland",
+                "Dr. Mabel Ramsay"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-12",
+            "Location": "The Horsefair, Bristol",
+            "Raw": "Bristol - The Horsefair - Open - air Meeting. 1.0",
+            "Description": "Open-air meeting",
+            "Time": "1.0"
+        },
+        {
+            "Date": "1910-09-12",
+            "Location": "Brockenhurst",
+            "Raw": "Brockenhurst Public Meeting - Miss Bateson, Miss Duncan. 7.30",
+            "Speakers": [
+                "Miss Bateson",
+                "Miss Duncan"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "1910-09-13",
+            "Location": "Holy Trinity School, Bath",
+            "Raw": "Bath - Holy Trinity School - Rev. C. Hinscliff. 8.0",
+            "Speakers": [
+                "Rev. C. Hinscliff"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-13",
+            "Location": "Zetland Road, Bristol",
+            "Raw": "Bristol - Zetland Road - Open - air Meeting. 7.0",
+            "Description": "Open-air meeting",
+            "Time": "7.0"
+        },
+        {
+            "Date": "1910-09-13",
+            "Location": "Brockenhurst",
+            "Raw": "Brockenhurst - Public Meeting - Mrs. Stanbury. 7.30",
+            "Speakers": [
+                "Mrs. Stanbury"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "1910-09-14",
+            "Location": "Saw Close, Bath",
+            "Raw": "Bath Saw Close - Miss Royden. 8.0",
+            "Speakers": [
+                "Miss Royden"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-14",
+            "Location": "Robertson Road, Bristol",
+            "Raw": "Bristol - Robertson Road - Open - air Meeting. 1.0",
+            "Description": "Open-air meeting",
+            "Time": "1.0"
+        },
+        {
+            "Date": "1910-09-14",
+            "Location": "Ringwood",
+            "Raw": "Ringwood - Public Meeting - Mrs. Stanbury. 7.30",
+            "Speakers": [
+                "Mrs. Stanbury"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "1910-09-15",
+            "Location": "Town Hall, Wells",
+            "Raw": "Wells - Town Hall - Miss Royden, Miss Wheelwright. 8.0",
+            "Speakers": [
+                "Miss Royden",
+                "Miss Wheelwright"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-15",
+            "Location": "Grove Lane, Camberwell, London",
+            "Raw": "London - Camberwell - Grove Lane - Open - air Meeting -- Mr. J. Stephen. 8.0",
+            "Description": "Open-air meeting",
+            "Speakers": [
+                "Mr. J. Stephen"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-15",
+            "Location": "Ringwood",
+            "Raw": "Ringwood - Open - air Meeting - Miss Bateson, Miss Duncan. 7.30",
+            "Description": "Open-air meeting",
+            "Speakers": [
+                "Miss Bateson",
+                "Miss Duncan"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "1910-09-15",
+            "Location": "Oldham Park Gates",
+            "Raw": "North of England - Oldham Park Gates - Open - air Meeting - Miss Robertson. 3.0",
+            "Speakers": [
+                "Miss Robertson"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "1910-09-15",
+            "Location": "Salford Club",
+            "Raw": "North of England - Salford Club - Women's Meeting - Mrs. Young. 3.0",
+            "Speakers": [
+                "Mrs. Young"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "1910-09-15",
+            "Location": "Salford Club",
+            "Raw": "North of England - Salford Club - Debate. 4.0",
+            "Description": "Debate",
+            "Time": "4.0"
+        },
+        {
+            "Date": "1910-09-17",
+            "Location": "Durdham Downs, Bristol",
+            "Raw": "Bristol Durdham Downs Open - air Demonstration - Miss Abadam, Mrs. Cooper. 3.0",
+            "Speakers": [
+                "Miss Abadam",
+                "Mrs. Cooper"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "1910-09-17",
+            "Location": "\"The Haven\", Romiley",
+            "Raw": "Romiley - Garden Party at \"The Haven\". Admission ls. 3.0",
+            "Description": "Garden Party. Admission 1s.",
+            "Time": "3.0"
+        },
+        {
+            "Date": "1910-09-19",
+            "Location": "Fording-Bridge",
+            "Raw": "Fording - Bridge - Open - air Meeting - Miss Duncan, Miss Cumberland.",
+            "Speakers": [
+                "Miss Duncan",
+                "Miss Cumberland"
+            ]
+        },
+        {
+            "Date": "1910-09-20",
+            "Location": "Fording-Bridge",
+            "Raw": "Fording - Bridge - Open - air Meeting - Miss Duncan, Miss Cumberland.",
+            "Speakers": [
+                "Miss Duncan",
+                "Miss Cumberland"
+            ]
+        },
+        {
+            "Date": "1910-09-20",
+            "Location": "Sydenham, London",
+            "Raw": "London - Sydenham - I.L.P. Women's Suffrage Meeting - Miss Ruth Young. 8.0",
+            "Speakers": [
+                "Miss Ruth Young"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-21",
+            "Location": "Cosham",
+            "Raw": "Cosham - Garden F\u00eate - Mrs. Brownlow, P.L.G.",
+            "Description": "Garden F\u00eate",
+            "Speakers": [
+                "Mrs. Brownlow"
+            ]
+        },
+        {
+            "Date": "1910-09-21",
+            "Location": "Bitterne",
+            "Raw": "Bitterne - Open - air Meeting - Miss Duncan, Miss Boswell. 8.0",
+            "Speakers": [
+                "Miss Duncan",
+                "Miss Boswell"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-22",
+            "Location": "Collyer Place, Camberwell, London",
+            "Raw": "London - Camberwell - Collyer Place - Miss Thomson. 8.0",
+            "Speakers": [
+                "Miss Thomson"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-22",
+            "Location": "Bishop Waltham",
+            "Raw": "Bishop Waltham - Open - air Meeting - Miss Norah O'Shea, Miss Duncan.",
+            "Speakers": [
+                "Miss Norah O'Shea",
+                "Miss Duncan"
+            ]
+        },
+        {
+            "Date": "1910-09-23",
+            "Location": "Bishop Waltham",
+            "Raw": "Bishop Waltham - Open - air Meeting - Miss Norah O'Shea, Miss Duncan, Gaiety Theatre 8.0",
+            "Speakers": [
+                "Miss Norah O'Shea",
+                "Miss Duncan"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-24",
+            "Location": "Highgate, London",
+            "Raw": "London - Highgate - Open - air Meeting. 8.0",
+            "Description": "Open-air meeting",
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-09-26",
+            "Location": "Highgate, London",
+            "Raw": "London - Highgate - Annual Meeting - Lantern Lecture Miss Bertha Mason. 8.0",
+            "Speakers": [
+                "Miss Bertha Mason"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "1910-10-15",
+            "Location": "Stockport",
+            "Raw": "Stockport - Meeting- [ Offers of help to Mrs. Wild, 23, Warwick Road, Romiley. ]",
+            "Description": "Offers of help to Mrs. Wild, 23, Warwick Road, Romiley."
+        },
+        {
+            "Date": "1910-10-17",
+            "Location": "Stockport",
+            "Raw": "Stockport - Meeting."
+        },
+        {
+            "Date": "1910-10-19",
+            "Location": "York Exhibition",
+            "Raw": "York Exhibition - Miss Margaret Ashton.",
+            "Speakers": [
+                "Miss Margaret Ashton"
+            ]
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nSEPTEMBER 8. London - Camberwell - Grove Lane - Mr. Malcolm Mitchell, Mr. John Manson. 8.0\nNorth of England - Salford Suffrage Club - Miss Courtney. 1.0\nBristol - King's Square Avenue - Open - air Meeting. 3.0\nRomsey - Open - air Meeting - Mr. Newport. 3.0\nNorth of England - Salford Suffrage Club (Women) -Miss M. Ashton. 3.0\nSEPTEMBER 9. North of England - Devonshire Hotel, E. Manchester - Open - air Meeting - Miss M. Ashton. 8.0\nBristol - Picton Street, Stokes Croft - Open - air Meeting. 7.0\nRomsey - Open - air Meeting - Mr. Howard. 7.0\nSEPTEMBER 10. London - Highgate - Tally - Ho Corner, Finchley - Mrs. Bowden-\nSmith. 8.0\nGreat Missenden - Open - air Meeting. 7.0\nSEPTEMBER 12. North of England - Trafford Road Schools, Salford - Public Meet-\ning - Miss M. Ashton. 8.0\nSaltash - Guildhall - Public Meeting - Miss Alison Garland, Dr. Mabel Ramsay, The Mayor of Saltash (Chairman). 8.0\nBristol - The Horsefair - Open - air Meeting. 1.0\nBrockenhurst Public Meeting - Miss Bateson, Miss Duncan. 7.30\nSEPTEMBER 13. Bath - Holy Trinity School - Rev. C. Hinscliff. 8.0\nBristol - Zetland Road - Open - air Meeting. 7.0\nBrockenhurst - Public Meeting - Mrs. Stanbury. 7.30\nSEPTEMBER 14. Bath Saw Close - Miss Royden. 8.0\nBristol - Robertson Road - Open - air Meeting. 1.0\nRingwood - Public Meeting - Mrs. Stanbury. 7.30\nSEPTEMBER 15. Wells - Town Hall - Miss Royden, Miss Wheelwright. 8.0\nLondon - Camberwell - Grove Lane - Open - air Meeting -- Mr. J. Stephen. 8.0\nRingwood - Open - air Meeting - Miss Bateson, Miss Duncan. 7.30\nNorth of England - Oldham Park Gates - Open - air Meeting - Miss Robertson. 3.0\nNorth of England - Salford Club - Women's Meeting - Mrs. Young. 3.0\nNorth of England - Salford Club - Debate. 4.0\nSEPTEMBER 17. Bristol Durdham Downs Open - air Demonstration - Miss\nAbadam, Mrs. Cooper. 3.0\nRomiley - Garden Party at \"The Haven\". Admission ls. 3.0\nSEPTEMBER 19. Fording - Bridge - Open - air Meeting - Miss Duncan, Miss Cumber-\nland.\nFORTSEPTEMBER 20. Fording - Bridge - Open - air Meeting - Miss Duncan, Miss Cumber-\nland.\nLondon - Sydenham - I.L.P. Women's Suffrage Meeting - Miss Ruth Young. 8.0\nSEPTEMBER 21. Cosham - Garden F\u00eate - Mrs. Brownlow, P.L.G.\nBitterne -Open - air Meeting - Miss Duncan, Miss Boswell. 8.0\nSEPTEMBER 22. London - Camberwell - Collyer Place - Miss Thomson. 8.0\nBishop Waltham - Open - air Meeting - Miss Norah O'Shea, Miss Duncan.\nSEPTEMBER 23. Bishop Waltham - Open - air Meeting - Miss Norah O'Shea, Miss Duncan, Gaiety Theatre 8.0\nManchester. 8.0\nSEPTEMBER 24. London - Highgate - Open - air Meeting. 8.0\nSEPTEMBER 26. London - Highgate - Annual Meeting - Lantern Lecture Miss\nBertha Mason. 8.0\nOCTOBER 15. Stockport - Meeting- [ Offers of help to Mrs. Wild, 23, Warwick Road, Romiley. ]\nOCTOBER 17. Stockport - Meeting.\nOCTOBER 19. York Exhibition - Miss Margaret Ashton.",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 8
+        },
+        {
+            "Column": 2,
+            "Page": 15,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 16,
+            "Scan": 9
+        },
+        {
+            "Column": 2,
+            "Page": 16,
+            "Scan": 9
+        }
+    ]
+}

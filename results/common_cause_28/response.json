@@ -1,0 +1,243 @@
+{
+    "IssueDate": "1910-07-07",
+    "Meetings": [
+        {
+            "Date": "July 7",
+            "Location": "Bradford, Mrs. T. R. Hill's Drawing-room",
+            "Raw": "Bradford Mrs. T. R. Hill's Drawing - room Meeting - Mrs . Gray Heald .",
+            "Speakers": [
+                "Mrs. Gray Heald"
+            ]
+        },
+        {
+            "Date": "July 7",
+            "Location": "North Berwick",
+            "Raw": "North Berwick - Miss Alice Low .",
+            "Speakers": [
+                "Miss Alice Low"
+            ]
+        },
+        {
+            "Date": "July 7",
+            "Location": "London (Bermondsey), Settlement Lecture Hall",
+            "Raw": "London ( Bermondsey ) -Settlement Lecture Hall - Rev . Scott Lidgett , Miss Edith Palliser",
+            "Speakers": [
+                "Rev. Scott Lidgett",
+                "Miss Edith Palliser"
+            ]
+        },
+        {
+            "Date": "July 7",
+            "Location": "London (S. Kensington), Mrs. Dodd's Drawing-room",
+            "Raw": "London ( S. Kensington ) -Mrs . Dodd's Drawing - room Meeting Mrs. Grant Richards .",
+            "Speakers": [
+                "Mrs. Grant Richards"
+            ]
+        },
+        {
+            "Date": "July 7",
+            "Location": "Leeds, Institute",
+            "Raw": "Leeds - Institute - Miss Fielden .",
+            "Speakers": [
+                "Miss Fielden"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "July 7",
+            "Location": "London (Hampstead), Hampstead Heath",
+            "Raw": "London ( Hampstead ) -Hampstead Heath - Miss I. O. Ford , Mrs. Stanbury .",
+            "Speakers": [
+                "Miss I. O. Ford",
+                "Mrs. Stanbury"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "July 8",
+            "Location": "Bradford, Miss Gregson's and Miss Rendall's Meeting",
+            "Raw": "Bradford - Miss Gregson's and Miss Rendall's Meeting - Mrs . Gray Heald .",
+            "Speakers": [
+                "Mrs. Gray Heald"
+            ]
+        },
+        {
+            "Date": "July 9",
+            "Location": "London (Highgate), Parliament Hill",
+            "Raw": "London ( Highgate ) -Parliament Hill - Miss Margaret Hodge , Miss Janet Thomson .",
+            "Speakers": [
+                "Miss Margaret Hodge",
+                "Miss Janet Thomson"
+            ]
+        },
+        {
+            "Date": "July 9",
+            "Location": "London, Trafalgar Square",
+            "Raw": "London - Trafalgar Square - Great Demonstration ."
+        },
+        {
+            "Date": "July 11",
+            "Location": "Leeds Gildersome",
+            "Raw": "Leeds Gildersome - Open - air Meeting - Miss Fielden .",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "July 11",
+            "Location": "Brighton Henfield",
+            "Raw": "Brighton - Henfield - Miss M. F. Basden - Miss Duncan .",
+            "Speakers": [
+                "Miss M. F. Basden",
+                "Miss Duncan"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "July 12",
+            "Location": "Leeds, Mrs. Grosvenor Talbot's Garden",
+            "Raw": "Leeds Mrs. Grosvenor Talbot's Garden Meeting - Miss Fielden .",
+            "Speakers": [
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "July 12",
+            "Location": "Brighton Steyning",
+            "Raw": "Brighton Steyning - Mrs . J. E. Frances , Miss Duncan .",
+            "Speakers": [
+                "Mrs. J. E. Frances",
+                "Miss Duncan"
+            ]
+        },
+        {
+            "Date": "July 14",
+            "Location": "London (N. Hackney), Mrs. Coumbe's Garden Party, 69, Lordship Road",
+            "Raw": "London ( N. Hackney ) -Mis . Coumbe's Garden Party , 69 , Lordship Road Mrs. Fawcett .",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "July 14",
+            "Location": "Shrewsbury, Mrs. Harley's At Home and Garden",
+            "Raw": "Shrewsbury - Mrs . Harley's At Home and Garden Meeting- Miss Taylor .",
+            "Speakers": [
+                "Miss Taylor"
+            ],
+            "Time": "6.30"
+        },
+        {
+            "Date": "July 14",
+            "Location": "Leeds, Mrs. Hess' Drawing-room",
+            "Raw": "Leeds Mrs. Hess ' Drawing - room Mesting - Miss I. O. Ford , Miss Fielden .",
+            "Speakers": [
+                "Miss I. O. Ford",
+                "Miss Fielden"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "July 14",
+            "Location": "Brighton Beeding",
+            "Raw": "Brighton Beeding - Miss Basden , Miss Duncan .",
+            "Speakers": [
+                "Miss Basden",
+                "Miss Duncan"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "July 15",
+            "Location": "Birmingham, Botanical Gardens, Edgbaston",
+            "Raw": "Birmingham - Botanical Gardens , Edgbaston - Pastoral Plays .",
+            "Description": "Pastoral Plays"
+        },
+        {
+            "Date": "July 15",
+            "Location": "Brighton Rottingdean",
+            "Raw": "Brighton Rottingdean - Miss Bryan , Miss Duncan .",
+            "Speakers": [
+                "Miss Bryan",
+                "Miss Duncan"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "July 16",
+            "Location": "Birmingham, Solihull",
+            "Raw": "Birmingham - Solihull - Morris Dances and Folk Songs .",
+            "Description": "Morris Dances and Folk Songs",
+            "Time": "8.0"
+        },
+        {
+            "Date": "July 16",
+            "Location": "Cheltenham, Sandford Lawn, Bath Road",
+            "Raw": "Cheltenham Garden Meeting - Sandford Lawn , Bath Road .",
+            "Description": "Garden Meeting"
+        },
+        {
+            "Date": "July 16",
+            "Location": "London (Highgate), Parliament Hill Fields",
+            "Raw": "London ( Highgate ) -Parliament Hill Fields - Mrs . Bowden Smith .",
+            "Speakers": [
+                "Mrs. Bowden Smith"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "July 19",
+            "Location": "Farnham",
+            "Raw": "Farnham - Annual General Meeting .",
+            "Description": "Annual General Meeting"
+        },
+        {
+            "Date": "July 19",
+            "Location": "London (Sydenham), I.L.P.",
+            "Raw": "London ( Sydenham ) -I.L.P . Women's Suffrage Meeting - Mrs . Archibald Little .",
+            "Description": "Women's Suffrage Meeting",
+            "Speakers": [
+                "Mrs. Archibald Little"
+            ]
+        },
+        {
+            "Date": "July 19",
+            "Location": "London (Hampstead), Library, Prince Arthur Road",
+            "Raw": "London ( Hampstead ) -Library , Prince Arthur Road - Lady Strachey , Lady F. Balfour .",
+            "Speakers": [
+                "Lady Strachey",
+                "Lady F. Balfour"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "July 20",
+            "Location": "Southsea",
+            "Raw": "Southsea - Garden Meeting and Cake Sale - Mr . Cameron .",
+            "Description": "Garden Meeting and Cake Sale",
+            "Speakers": [
+                "Mr. Cameron"
+            ]
+        },
+        {
+            "Date": "July 25",
+            "Location": "London (Windsor), Grove Road Schoolroom",
+            "Raw": "London ( Windsor ) -Grove Road Schoolroom - At Home - Miss Cockle .",
+            "Description": "At Home",
+            "Speakers": [
+                "Miss Cockle"
+            ],
+            "Time": "3.30"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nJULY 7 .\nBradford Mrs. T. R. Hill's Drawing - room Meeting - Mrs . Gray Heald .\nNorth Berwick - Miss Alice Low .\nLondon ( Bermondsey ) -Settlement Lecture Hall - Rev . Scott Lidgett , Miss Edith Palliser\nLondon ( S. Kensington ) -Mrs . Dodd's Drawing - room Meeting Mrs. Grant Richards .\nLeeds - Institute - Miss Fielden . 8.30\nLondon ( Hampstead ) -Hampstead Heath - Miss I. O. Ford , Mrs. Stanbury . 8.30\nJULY 8 .\nBradford - Miss Gregson's and Miss Rendall's Meeting - Mrs . Gray Heald .\nJULY 9 .\nLondon ( Highgate ) -Parliament Hill - Miss Margaret Hodge , Miss Janet Thomson .\nLondon - Trafalgar Square - Great Demonstration .\nJULY 11 .\nLeeds Gildersome - Open - air Meeting - Miss Fielden .\nBrighton - Henfield - Miss M. F. Basden - Miss Duncan . 3.30\nJULY 12 .\nLeeds Mrs. Grosvenor Talbot's Garden Meeting - Miss Fielden .\nBrighton Steyning - Mrs . J. E. Frances , Miss Duncan . 7.30\nJULY 14 .\nLondon ( N. Hackney ) -Mis . Coumbe's Garden Party , 69 , Lordship Road Mrs. Fawcett . 8.0\nShrewsbury - Mrs . Harley's At Home and Garden Meeting- Miss Taylor . 6.30\nLeeds Mrs. Hess ' Drawing - room Mesting - Miss I. O. Ford , Miss Fielden . 4.0\nBrighton Beeding - Miss Basden , Miss Duncan . 8.0\nJULY 15 .\nBirmingham - Botanical Gardens , Edgbaston - Pastoral Plays .\nBrighton Rottingdean - Miss Bryan , Miss Duncan . 3.0\nJULY 16 .\nBirmingham - Solihull - Morris Dances and Folk Songs . 80\nCheltenham Garden Meeting - Sandford Lawn , Bath Road .\nLondon ( Highgate ) -Parliament Hill Fields - Mrs . Bowden Smith . 3.30\nJULY 19 .\nFarnham - Annual General Meeting .\nLondon ( Sydenham ) -I.L.P . Women's Suffrage Meeting - Mrs . Archibald Little .\nLondon ( Hampstead ) -Library , Prince Arthur Road - Lady Strachey , Lady F. Balfour . 8.0\nJULY 20 .\nSouthsea - Garden Meeting and Cake Sale - Mr . Cameron .\nJULY 25 .\nLondon ( Windsor ) -Grove Road Schoolroom - At Home - Miss Cockle . 3.30",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

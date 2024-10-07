@@ -1,0 +1,124 @@
+{
+    "IssueDate": "1910-07-21",
+    "Meetings": [
+        {
+            "Date": "July 21",
+            "Location": "London (Hampstead Heath) - near Flagstaff",
+            "Raw": "London (Hampstead Heath) -Open - air Meeting , near Flagstaff- Mrs. Stanbury , Miss Cockle .",
+            "Speakers": [
+                "Mrs. Stanbury",
+                "Miss Cockle"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "July 21",
+            "Location": "Cardiff - Bronwydd, Penylan",
+            "Raw": "Cardiff Garden Party - Bronwydd , Penylan .",
+            "Description": "Garden Party",
+            "Time": "3.30-6.0"
+        },
+        {
+            "Date": "July 21",
+            "Location": "Manchester - 85, Deansgate Arcade",
+            "Raw": "Manchester - 85 , Deansgate Arcade - Members ' Meeting .",
+            "Description": "Members' Meeting",
+            "Time": "7.30"
+        },
+        {
+            "Date": "July 23",
+            "Location": "Edinburgh - Calton Hill",
+            "Raw": "Edinburgh - Calton Hill - Mass Meeting .",
+            "Description": "Mass Meeting",
+            "Time": "5.30"
+        },
+        {
+            "Date": "July 23",
+            "Location": "Brighton - Pavilion",
+            "Raw": "Brighton - Pavilion - Garden Party - Mrs . Ridgeway , Mr. R. F. Cholmeley , Miss Barbara Duncan .",
+            "Description": "Garden Party",
+            "Speakers": [
+                "Mrs. Ridgeway",
+                "Mr. R. F. Cholmeley",
+                "Miss Barbara Duncan"
+            ],
+            "Time": "3.30-6.0"
+        },
+        {
+            "Date": "July 23",
+            "Location": "Manchester - Stevenson Square",
+            "Raw": "Manchester Stevenson Square - Miss Ashton , L. W. Zimmer- mann , Esq . , J.P. , Mrs. Cooper , Mrs. Swanwick , Miss Robertson .",
+            "Speakers": [
+                "Miss Ashton",
+                "L. W. Zimmermann, Esq., J.P.",
+                "Mrs. Cooper",
+                "Mrs. Swanwick",
+                "Miss Robertson"
+            ]
+        },
+        {
+            "Date": "July 25",
+            "Location": "London (Windsor) - Grove Road Schoolroom",
+            "Raw": "London ( Windsor ) -Grove Road Schoolroom - At Home - Mrs . B. Everett , Miss Cockle .",
+            "Description": "At Home",
+            "Speakers": [
+                "Mrs. B. Everett",
+                "Miss Cockle"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "July 25",
+            "Location": "London (Esher and E. Molesey)",
+            "Raw": "London ( Esher and E. Molesey ) -Open - air Meeting - Miss Cicely Corbett , Mr. Crawfurd .",
+            "Speakers": [
+                "Miss Cicely Corbett",
+                "Mr. Crawfurd"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "July 26",
+            "Location": "London (Esher and E. Molesey)",
+            "Raw": "London ( Esher and E. Molesey ) -Open - air Meeting - Miss Cicely Corbett , Mr. Crawfurd .",
+            "Speakers": [
+                "Miss Cicely Corbett",
+                "Mr. Crawfurd"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "July 27",
+            "Location": "Nottingham - 36, Pridlesmith Gate",
+            "Raw": "Nottingham - 36 , Pridlesmith Gate - Tea and Cocoa .",
+            "Description": "Tea and Cocoa"
+        },
+        {
+            "Date": "July 28",
+            "Location": "London (Hampstead Heath) - near Flagstaff",
+            "Raw": "London ( Hampstead Heath ) -Open - air Meeting , near Flagstaff- Mrs. Stanbury , Miss A. Dawson .",
+            "Speakers": [
+                "Mrs. Stanbury",
+                "Miss A. Dawson"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "August 20",
+            "Location": "Huddersfield - Blackrock, Linthwaite",
+            "Raw": "Huddersfield - Blackrock , Linthwaite - Miss Fielden .",
+            "Speakers": [
+                "Miss Fielden"
+            ],
+            "Time": "8.0"
+        }
+    ],
+    "RawTable": "JULY 21 . Forthcoming Meetings\n8.0 London ( Hampstead Heath ) -Open - air Meeting , near Flagstaff- Mrs. Stanbury , Miss Cockle .\n3.30-6.0 Cardiff Garden Party - Bronwydd , Penylan .\n7.30 Manchester - 85 , Deansgate Arcade - Members ' Meeting .\nJULY 23 .\n5.30 Edinburgh - Calton Hill - Mass Meeting .\n3.30-6.0 Brighton - Pavilion - Garden Party - Mrs . Ridgeway , Mr. R. F. Cholmeley , Miss Barbara Duncan .\nManchester Stevenson Square - Miss Ashton , L. W. Zimmer- mann , Esq . , J.P. , Mrs. Cooper , Mrs. Swanwick , Miss Robertson .\nJULY 25 .\n8.0 London ( Windsor ) -Grove Road Schoolroom - At Home - Mrs . B. Everett , Miss Cockle .\nLondon ( Esher and E. Molesey ) -Open - air Meeting - Miss Cicely Corbett , Mr. Crawfurd .\n8.0 JULY 26 .\nLondon ( Esher and E. Molesey ) -Open - air Meeting - Miss Cicely JULY 27 . Corbett , Mr. Crawfurd .\nNottingham - 36 , Pridlesmith Gate - Tea and Cocoa .\nJULY 28 .\n8.0 London ( Hampstead Heath ) -Open - air Meeting , near Flagstaff- Mrs. Stanbury , Miss A. Dawson .\nAUGUST 20 .\n8.0 Huddersfield - Blackrock , Linthwaite - Miss Fielden .",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 19,
+            "Scan": 10
+        }
+    ]
+}

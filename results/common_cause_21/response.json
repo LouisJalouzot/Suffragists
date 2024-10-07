@@ -1,0 +1,386 @@
+{
+    "IssueDate": "1910-05-26",
+    "Meetings": [
+        {
+            "Date": "MAY 26",
+            "Location": "New Brighton - Marine Parade",
+            "Raw": "New Brighton - Marine Parade - Miss Eleanor Rathbone",
+            "Speakers": [
+                "Miss Eleanor Rathbone"
+            ]
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "Woking",
+            "Raw": "Woking\nMiss Keller's Entertainment",
+            "Description": "Miss Keller's Entertainment"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "Edinburgh -- Synod Hall",
+            "Raw": "Edinburgh -- Synod Hall - Mrs . Philip Snowden",
+            "Speakers": [
+                "Mrs. Philip Snowden"
+            ]
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "Peaslake",
+            "Raw": "Peaslake\nDrawing - room Meeting",
+            "Description": "Drawing-room Meeting"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "Birmingham - Grand Hotel",
+            "Raw": "Birmingham - Grand Hotel - Annual Meeting",
+            "Description": "Annual Meeting"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (Ealing)",
+            "Raw": "London (Ealing) -Suffrage Play . 5.30",
+            "Description": "Suffrage Play",
+            "Time": "5.30"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (Richmond) - Miss Bailey's Drawing-room",
+            "Raw": "London (Richmond) -Miss Bailey's Drawing - room Meeting - Lady Isabel Margesson . 3.15",
+            "Speakers": [
+                "Lady Isabel Margesson"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (South Paddington) - Miss Partridge's Drawing-room",
+            "Raw": "London (South Paddington) -Miss Partridge's Drawing - room Meeting . 4.0",
+            "Time": "4.0"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "Dorking Public Hall",
+            "Raw": "Dorking Public Hall - Mrs . Fawcett , Miss Abadam . 8.0",
+            "Speakers": [
+                "Mrs. Fawcett",
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (Camberwell)",
+            "Raw": "London (Camberwell) -Open - air Meeting - Miss Rinder . 8.0",
+            "Speakers": [
+                "Miss Rinder"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "Peterborough",
+            "Raw": "Peterborough - Public Meeting Mrs. Ward , Mrs. Rackham . 8.30",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Mrs. Ward",
+                "Mrs. Rackham"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (Surbiton) - Mrs. Meyer's Drawing-room",
+            "Raw": "London (Surbiton) -Mrs . Meyer's Drawing - room Meeting - Miss Emily Davies , LL.D. 3.0",
+            "Speakers": [
+                "Miss Emily Davies"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 27",
+            "Location": "Shere Village Hall",
+            "Raw": "Shere Village Hall - Mrs . Fawcett , Miss Abadam . 8.0",
+            "Speakers": [
+                "Mrs. Fawcett",
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 27",
+            "Location": "London (Blackheath) - 3, Orchard Road",
+            "Raw": "London (Blackheath) -3 , Orchard Road - Cake and Candy Sale . 3-6.30",
+            "Description": "Cake and Candy Sale",
+            "Time": "3-6.30"
+        },
+        {
+            "Date": "MAY 27",
+            "Location": "Bristol - 49, Whiteladies' Road",
+            "Raw": "Bristol 49 , Whiteladies ' Road - Members ' Meeting . 3.0",
+            "Description": "Members' Meeting",
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 28",
+            "Location": "London (Highgate) - Outside Tufnell Park Tube Station",
+            "Raw": "London (Highgate) -Outside Tufnell Park Tube Station - Miss Rinder . 5.0",
+            "Speakers": [
+                "Miss Rinder"
+            ],
+            "Time": "5.0"
+        },
+        {
+            "Date": "MAY 28",
+            "Location": "Penrith",
+            "Raw": "Penrith Conference of North Western Federation",
+            "Description": "Conference of North Western Federation"
+        },
+        {
+            "Date": "MAY 28",
+            "Location": "Redhill",
+            "Raw": "Redhill - Mrs . Henry Fawcett . 8.0",
+            "Speakers": [
+                "Mrs. Henry Fawcett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 29",
+            "Location": "Leith Hill",
+            "Raw": "Leith Hill - Mrs . Henry Fawcett . 11.30",
+            "Speakers": [
+                "Mrs. Henry Fawcett"
+            ],
+            "Time": "11.30"
+        },
+        {
+            "Date": "MAY 30",
+            "Location": "Newdigate Schools",
+            "Raw": "Newdigate Schools - Mrs . Fawcett . 7.30",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "MAY 30",
+            "Location": "Folkestone Town Hall",
+            "Raw": "Folkestone Town Hall - Lady Isabel Margesson , Mr. Laurence Housman . 8.0",
+            "Speakers": [
+                "Lady Isabel Margesson",
+                "Mr. Laurence Housman"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 30",
+            "Location": "London (Windsor and Eton) Guildhall",
+            "Raw": "London (Windsor and Eton) Guildhall - At Home - Mrs . Stanbury . 8.0",
+            "Description": "At Home",
+            "Speakers": [
+                "Mrs. Stanbury"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 31",
+            "Location": "London (Balham) - Mrs. Hodder's Drawing-room",
+            "Raw": "London (Balham) -Mrs . Hodder's Drawing - room Meeting - Mr . Malcolm Mitchell , Miss H , D. Cockle . 8.0",
+            "Speakers": [
+                "Mr. Malcolm Mitchell",
+                "Miss H. D. Cockle"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "JUNE 1",
+            "Location": "Nottingham - Mikado Caf\u00e9",
+            "Raw": "Nottingham - Mikado Caf\u00e9 - Annual Meeting - Dr . Sarah Gray- 8.0\nTea . 4.30",
+            "Description": "Annual Meeting\nTea",
+            "Speakers": [
+                "Dr. Sarah Gray"
+            ],
+            "Time": "8.0\n4.30"
+        },
+        {
+            "Date": "JUNE 1",
+            "Location": "Farnham - South Street Institute",
+            "Raw": "Farnham - South Street Institute - Miss Abadam . 3.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "JUNE 1",
+            "Location": "Camberley Drill Hall",
+            "Raw": "Camberley Drill Hall - Debate . 3.0",
+            "Description": "Debate",
+            "Time": "3.0"
+        },
+        {
+            "Date": "JUNE 2",
+            "Location": "London (S. Paddington) - Mrs. Agnew's Drawing-room",
+            "Raw": "London (S. Paddington) -Mrs . Agnew's Drawing - room Meeting . 4.0",
+            "Time": "4.0"
+        },
+        {
+            "Date": "JUNE 2",
+            "Location": "Cranleigh Village Hall",
+            "Raw": "Cranleigh Village Hall - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "JUNE 2",
+            "Location": "Dublin - 35, Molesworth Street",
+            "Raw": "Dublin 35 , Molesworth Street - Committee Meeting .. 11.30",
+            "Description": "Committee Meeting",
+            "Time": "11.30"
+        },
+        {
+            "Date": "JUNE 2",
+            "Location": "Woking - Monument Hill Schools",
+            "Raw": "Woking - Monument Hill Schools - Mrs . Basset . 8.0",
+            "Speakers": [
+                "Mrs. Basset"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "JUNE 4",
+            "Location": "London (Camberwell) - Peckham Rye",
+            "Raw": "London (Camberwell) -Open - air Demonstration - Peckham Rye- Mrs. Stanbury . 3.0",
+            "Description": "Open-air Demonstration",
+            "Speakers": [
+                "Mrs. Stanbury"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "JUNE 6",
+            "Location": "Yateley - Drill Hall",
+            "Raw": "Yateley - Drill Hall - Colonel Pennycuick , C.S.I. 3.0",
+            "Speakers": [
+                "Colonel Pennycuick"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "JUNE 7",
+            "Location": "London (Richmond) - Mrs. Sandover's Drawing-room",
+            "Raw": "London (Richmond) -Mrs . Sandover's Drawing - room Meeting- Miss Clementina Black on \" Sweating . \" 3.15",
+            "Speakers": [
+                "Miss Clementina Black"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "JUNE 8",
+            "Location": "Nottingham - 36, Bridlesmith Gate",
+            "Raw": "Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . 7--9",
+            "Description": "At Home - Tea and Cocoa",
+            "Time": "7-9"
+        },
+        {
+            "Date": "JUNE 9",
+            "Location": "Farnham Tilford Schools",
+            "Raw": "Farnham Tilford Schools - Miss Abadam . 3.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "JUNE 9",
+            "Location": "Keswick - Old Court Buildings",
+            "Raw": "Keswick - Old Court Buildings - Annual Meeting . 5.30",
+            "Description": "Annual Meeting",
+            "Time": "5.30"
+        },
+        {
+            "Date": "JUNE 9",
+            "Location": "Japan-British Exhibition",
+            "Raw": "London Japan - British Exhibition - Women's Congress - Lady\nFrances Balfour , Mrs. Fawcett . Lady McLaren on The Women's Charter .",
+            "Description": "Women's Congress -\nThe Women's Charter",
+            "Speakers": [
+                "Lady Frances Balfour",
+                "Mrs. Fawcett",
+                "Lady McLaren"
+            ]
+        },
+        {
+            "Date": "JUNE 9",
+            "Location": "Church Crookham - Schools",
+            "Raw": "Church Crookham - Schools - Miss Duncan . 3.0",
+            "Speakers": [
+                "Miss Duncan"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "JUNE 10",
+            "Location": "Tunbridge Wells - Great Hall",
+            "Raw": "Tunbridge Wells - Great Hall - Miss Mason's Lecture . 8.0",
+            "Description": "Miss Mason's Lecture",
+            "Time": "8.0"
+        },
+        {
+            "Date": "JUNE 13",
+            "Location": "London (Highgate) - Miss Sharpe's Drawing-room",
+            "Raw": "London (Highgate) -Miss Sharpe's Drawing - room Meeting - Miss Cullis",
+            "Speakers": [
+                "Miss Cullis"
+            ]
+        },
+        {
+            "Date": "JUNE 14",
+            "Location": "London (Sydenham)",
+            "Raw": "London (Sydenham) -I.L.P . Women's Suffrage Meeting - Miss M. Corbett",
+            "Description": "I.L.P. Women's Suffrage Meeting",
+            "Speakers": [
+                "Miss M. Corbett"
+            ]
+        },
+        {
+            "Date": "JUNE 14",
+            "Location": "Wolverhampton St. Peter's Institute",
+            "Raw": "Wolverhampton St. Peter's Institute - Annual Meeting - Mrs . Mayer",
+            "Description": "Annual Meeting",
+            "Speakers": [
+                "Mrs. Mayer"
+            ]
+        },
+        {
+            "Date": "JUNE 15",
+            "Location": "Nottingham - 36, Bridlesmith Gate",
+            "Raw": "Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . 7-9",
+            "Description": "At Home - Tea and Cocoa",
+            "Time": "7-9"
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "London - New Reform Club",
+            "Raw": "London - New Reform Club - Debate - Mrs . Swanwick v . Miss Frances Low . 8.30",
+            "Description": "Debate - Mrs. Swanwick v. Miss Frances Low",
+            "Time": "8.30"
+        },
+        {
+            "Date": "JUNE 16",
+            "Location": "Dublin - 35, Molesworth Street",
+            "Raw": "Dublin 35 , Molesworth Street- Committee Meeting . 11.30",
+            "Description": "Committee Meeting",
+            "Time": "11.30"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nNew Brighton - Marine Parade - Miss Eleanor Rathbone .\nWoking Miss Keller's Entertainment .\nEdinburgh -- Synod Hall - Mrs . Philip Snowden .\nPeaslake Drawing - room Meeting .\nMAY 26 . Birmingham - Grand Hotel - Annual Meeting .\nLondon ( Ealing ) -Suffrage Play . 5.30\nLondon ( Richmond ) -Miss Bailey's Drawing - room Meeting - Lady Isabel Margesson . 3.15\nLondon ( South Paddington ) -Miss Partridge's Drawing - room Meeting . 4.0\nDorking Public Hall - Mrs . Fawcett , Miss Abadam . 8.0\nLondon ( Camberwell ) -Open - air Meeting - Miss Rinder . 8.0\nPeterborough - Public Meeting Mrs. Ward , Mrs. Rackham . 8.30\nLondon ( Surbiton ) -Mrs . Meyer's Drawing - room Meeting - Miss Emily Davies , LL.D. 3.0\nMAY 27 . Shere Village Hall - Mrs . Fawcett , Miss Abadam . 8.0\nLondon ( Blackheath ) -3 , Orchard Road - Cake and Candy Sale . 3-6.30\nBristol 49 , Whiteladies ' Road - Members ' Meeting . 3.0\nMAY 28 . London ( Highgate ) -Outside Tufnell Park Tube Station - Miss Rinder . 5.0\nPenrith Conference of North Western Federation .\nRedhill - Mrs . Henry Fawcett . 8.0\nMAY 29 . Leith Hill - Mrs . Henry Fawcett . 11.30\nMAY 30 . Newdigate Schools - Mrs . Fawcett . 7.30\nFolkestone Town Hall - Lady Isabel Margesson , Mr. Laurence Housman . 8.0\nLondon ( Windsor and Eton ) Guildhall - At Home - Mrs . Stanbury . 8.0\nMAY 31 . London ( Balham ) -Mrs . Hodder's Drawing - room Meeting - Mr . Malcolm Mitchell , Miss H , D. Cockle . 8.0\nJUNE 1 . Nottingham - Mikado Caf\u00e9 - Annual Meeting - Dr . Sarah Gray- 8.0\nTea . 4.30\nFarnham - South Street Institute - Miss Abadam . 3.0\nCamberley Drill Hall - Debate . 3.0\nJUNE 2 . London ( S. Paddington ) -Mrs . Agnew's Drawing - room Meeting . 4.0\nCranleigh Village Hall - Miss Abadam . 8.0\nDublin 35 , Molesworth Street - Committee Meeting .. 11.30\nWoking - Monument Hill Schools - Mrs . Basset . 8.0\nJUNE 4 . London ( Camberwell ) -Open - air Demonstration - Peckham Rye- Mrs. Stanbury . 3.0\nJUNE 6 . Yateley - Drill Hall - Colonel Pennycuick , C.S.I. 3.0\nJUNE 7 . London ( Richmond ) -Mrs . Sandover's Drawing - room Meeting- Miss Clementina Black on \" Sweating . \" 3.15\nJUNE 8 . Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . 7--9\nJUNE 9 . Farnham Tilford Schools - Miss Abadam . 3.0\nKeswick - Old Court Buildings - Annual Meeting . 5.30\nLady London Japan - British Exhibition - Women's Congress - Lady McLaren on The Women's Charter .\nFrances Balfour , Mrs. Fawcett .\nChurch Crookham - Schools - Miss Duncan . 3.0\nJUNE 10 . Tunbridge Wells - Great Hall - Miss Mason's Lecture . 8.0\nJUNE 13 . London ( Highgate ) -Miss Sharpe's Drawing - room Meeting - Miss Cullis .\nJUNE 14 . London ( Sydenham ) -I.L.P . Women's Suffrage Meeting - Miss M. Corbett .\nWolverhampton St. Peter's Institute - Annual Meeting - Mrs . Mayer .\nJUNE 15 . Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . 7-9\nJUNE 16 . London - New Reform Club - Debate - Mrs . Swanwick v . Miss Frances Low . 8.30\nDublin 35 , Molesworth Street- Committee Meeting . 11.30",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

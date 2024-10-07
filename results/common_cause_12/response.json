@@ -1,0 +1,255 @@
+{
+    "IssueDate": "1910-04-14",
+    "Meetings": [
+        {
+            "Date": "APRIL 14",
+            "Location": "West Bromwich - Town Hall",
+            "Raw": "APRIL 14. West Bromwich - Town Hall - Men's League - Mr. Baillie-Weaver.",
+            "Speakers": [
+                "Mr. Baillie-Weaver"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "Cardiff",
+            "Raw": "Cardiff - Miss Fraser.",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "Peebles",
+            "Raw": "Peebles - Paper on \"History of the Suffrage Movement,\" by the Hon. Secretary.",
+            "Description": "Paper on \"History of the Suffrage Movement\"",
+            "Speakers": [
+                "Hon. Secretary"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "Leeds - Leeds Institute",
+            "Raw": "Leeds - Leeds Institute - Sale of Work, Entertainments.",
+            "Description": "Sale of Work, Entertainments",
+            "Time": null
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "Wallasey",
+            "Raw": "Wallasey Drawing-room Meeting - Mrs. Shelston Watkins.",
+            "Hosts": [
+                "Mrs. Shelston Watkins"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "Levenshulme - Conservative Club",
+            "Raw": "Levenshulme - Conservative Club - Miss M. Robertson.",
+            "Speakers": [
+                "Miss M. Robertson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "London (Windsor and Eton) - Mothers' Meeting - Mission Hall Spital",
+            "Raw": "London (Windsor and Eton) - Mothers' Meeting - Mission Hall Spital - Mrs. Bernard Everett.",
+            "Speakers": [
+                "Mrs. Bernard Everett"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "Nottingham - 36, Bridlesmith Gate",
+            "Raw": "Nottingham - 36, Bridlesmith Gate - At Home - Mr. Beilby.",
+            "Hosts": [
+                "Mr. Beilby"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Alderley Edge - Public Hall",
+            "Raw": "APRIL 15. Alderley Edge - Public Hall - Miss M. Robertson.",
+            "Speakers": [
+                "Miss M. Robertson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Bournemouth - Prince's Hall, St. Peter's Road",
+            "Raw": "Bournemouth - Prince's Hall, St. Peter's Road - Miss M. Corbett.",
+            "Speakers": [
+                "Miss M. Corbett"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Halstead Queen's Hall",
+            "Raw": "Halstead Queen's Hall - Rummage Sale.",
+            "Description": "Rummage Sale",
+            "Time": null
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Edinburgh - 40, Shandwick Place",
+            "Raw": "Edinburgh 40, Shandwick Place. 4.30",
+            "Time": "4.30"
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Uxbridge - Old Meeting Schools",
+            "Raw": "Uxbridge - Old Meeting Schools - Mr. T. Gugenheim.",
+            "Speakers": [
+                "Mr. T. Gugenheim"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Birmingham",
+            "Raw": "APRIL 18. Birmingham Mothers' Meeting - Miss Gardner.",
+            "Description": "Mothers' Meeting",
+            "Speakers": [
+                "Miss Gardner"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Marple Girls' Institute",
+            "Raw": "Marple Girls' Institute Mrs. Philip Snowden.",
+            "Speakers": [
+                "Mrs. Philip Snowden"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Falkirk",
+            "Raw": "Falkirk Miss Chrystal Macmillan, Miss Alice Low.",
+            "Speakers": [
+                "Miss Chrystal Macmillan",
+                "Miss Alice Low"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Liskeard",
+            "Raw": "Liskeard Public Meeting.",
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Macclesfield - Town Hall",
+            "Raw": "Macclesfield - Town Hall - Mrs. Snowden.",
+            "Speakers": [
+                "Mrs. Snowden"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Stevenage",
+            "Raw": "Stevenage Public Meeting - Miss Abadam.",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Urmston Public Hall",
+            "Raw": "Urmston Public Hall - Miss Margaret Robertson.",
+            "Speakers": [
+                "Miss Margaret Robertson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Driffield",
+            "Raw": "Driffield Conversazione - Mrs. Rackham.",
+            "Hosts": [
+                "Mrs. Rackham"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Brighton - Royal Pavilion",
+            "Raw": "Brighton - Royal Pavilion - Men's League Meeting.",
+            "Description": "Men's League Meeting",
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Glasgow - 11, Gt. Western Terrace",
+            "Raw": "Glasgow - Mrs. Frame's Drawing-room Meeting - 11, Gt. Western Terrace Lady Frances Balfour.",
+            "Hosts": [
+                "Mrs. Frame"
+            ],
+            "Speakers": [
+                "Lady Frances Balfour"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Sutton Coldfield",
+            "Raw": "Sutton Coldfield - Drawing-room Meeting - Miss Gardner.",
+            "Speakers": [
+                "Miss Gardner"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "London (Hackney)",
+            "Raw": "London (Hackney) - Mrs Clennell's Drawing-room Meeting.",
+            "Hosts": [
+                "Mrs Clennell"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Bushey The Corner",
+            "Raw": "Bushey The Corner - Mrs. Erskine Murray's Drawing-room Meeting Miss M. Corbett.",
+            "Hosts": [
+                "Mrs. Erskine Murray"
+            ],
+            "Speakers": [
+                "Miss M. Corbett"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Liskeard",
+            "Raw": "Liskeard Public Meeting.",
+            "Time": null
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nAPRIL 14. West Bromwich - Town Hall - Men's League - Mr. Baillie-Weaver.\nCardiff - Miss Fraser.\nPeebles - Paper on \"History of the Suffrage Movement,\" by the Hon. Secretary.\nLeeds - Leeds Institute - Sale of Work, Entertainments.\nWallasey Drawing-room Meeting - Mrs. Shelston Watkins.\nLevenshulme - Conservative Club - Miss M. Robertson.\nLondon (Windsor and Eton) - Mothers' Meeting - Mission Hall Spital - Mrs. Bernard Everett.\nNottingham - 36, Bridlesmith Gate - At Home - Mr. Beilby.\nAPRIL 15. Alderley Edge - Public Hall - Miss M. Robertson.\nBournemouth - Prince's Hall, St. Peter's Road - Miss M. Corbett.\nHalstead Queen's Hall - Rummage Sale.\nEdinburgh 40, Shandwick Place. 4.30 and Uxbridge - Old Meeting Schools - Mr. T. Gugenheim.\nAPRIL 18. Birmingham Mothers' Meeting - Miss Gardner.\nMarple Girls' Institute Mrs. Philip Snowden.\nFalkirk Miss Chrystal Macmillan, Miss Alice Low.\nLiskeard Public Meeting.\nMacclesfield - Town Hall - Mrs. Snowden.\nStevenage Public Meeting - Miss Abadam.\nUrmston Public Hall - Miss Margaret Robertson.\nDriffield Conversazione - Mrs. Rackham.\nBrighton - Royal Pavilion - Men's League Meeting.\nGlasgow - Mrs. Frame's Drawing-room Meeting - 11, Gt. Western Terrace Lady Frances Balfour.\nSutton Coldfield - Drawing-room Meeting - Miss Gardner.\nLondon (Hackney) - Mrs Clennell's Drawing-room Meeting. Bushey The Corner - Mrs. Erskine Murray's Drawing-room Meeting Miss M. Corbett.\nLiskeard Public Meeting.",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 3,
+            "Scan": 2
+        },
+        {
+            "Column": 2,
+            "Page": 14,
+            "Scan": 7
+        }
+    ]
+}

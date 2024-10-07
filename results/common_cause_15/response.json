@@ -1,0 +1,249 @@
+{
+    "IssueDate": "1910-05-05",
+    "Meetings": [
+        {
+            "Date": "1910-05-05",
+            "Location": "Shrewsbury - Market Hall",
+            "Raw": "MAY 5. Shrewsbury - Market Hall - Mrs. Mayer.",
+            "Speakers": [
+                "Mrs. Mayer"
+            ]
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "Dublin - 35, Molesworth Street",
+            "Raw": "Dublin - 35, Molesworth Street - Committee Meeting.",
+            "Description": "Committee Meeting."
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "Edinburgh - Mrs. Cumming-Craig's",
+            "Raw": "Edinburgh - Mrs. Cumming-Craig's Drawing-room Meeting -- Miss Alice Low.",
+            "Time": "11.30 a.m."
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "Sutton Coldfield",
+            "Raw": "Sutton Coldfield - Public Meeting - Miss Fraser.",
+            "Speakers": [
+                "Miss Fraser"
+            ]
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "Erdington - Mrs. C. H. Pugh's",
+            "Raw": "Erdington - Drawing-room Meeting - Mrs. C. H. Pugh."
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "North Herts - Watford - Masonic Hall",
+            "Raw": "North Herts - Watford - Masonic Hall - Mrs. Workman - \"Women's Suffrage and Education.\"",
+            "Time": "8.00 p.m."
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "Bramhall",
+            "Raw": "Bramhall - Drawing-room Meeting.",
+            "Time": "3.00 p.m."
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "Shrewsbury",
+            "Raw": "Shrewsbury - Public Meeting - Mrs. Mayer.",
+            "Time": "8.00 p.m."
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "London (Camberwell) - Peckham Rye",
+            "Raw": "London (Camberwell) - Peckham Rye - Miss J. Thomson."
+        },
+        {
+            "Date": "1910-05-05",
+            "Location": "London",
+            "Raw": "London - At Home to the Selling Corps.",
+            "Description": "At Home to the Selling Corps."
+        },
+        {
+            "Date": "1910-05-06",
+            "Location": "Selly Oak - Mrs. Henry Lloyd Wilson's",
+            "Raw": "Selly Oak - Mrs. Henry Lloyd Wilson's Drawing-room Meeting - Miss Fraser.",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "3.15 p.m."
+        },
+        {
+            "Date": "1910-05-06",
+            "Location": "Selly Oak - The Institute",
+            "Raw": "Selly Oak - Public Meeting - The Institute - Miss Fraser.",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "8.00 p.m."
+        },
+        {
+            "Date": "1910-05-06",
+            "Location": "Edinburgh - 40, Shandwick Place",
+            "Raw": "Edinburgh - 40, Shandwick Place - Miss Margaret Drummond.",
+            "Speakers": [
+                "Miss Margaret Drummond"
+            ]
+        },
+        {
+            "Date": "1910-05-06",
+            "Location": "Salford",
+            "Raw": "Salford - Members' Rally."
+        },
+        {
+            "Date": "1910-05-07",
+            "Location": "Edgbaston - Westbourne",
+            "Raw": "Edgbaston - Westbourne - For Men - Mr. Cholmeley and Miss Fraser.",
+            "Speakers": [
+                "Mr. Cholmeley",
+                "Miss Fraser"
+            ],
+            "Time": "8.30 p.m."
+        },
+        {
+            "Date": "1910-05-07",
+            "Location": "London (Highgate) - Outside Tufnell Park Tube Station",
+            "Raw": "London (Highgate) - Open-air Meeting - Outside Tufnell Park Tube Station - J. Y. Kennedy, J. G. Rogers.",
+            "Speakers": [
+                "J. Y. Kennedy",
+                "J. G. Rogers"
+            ]
+        },
+        {
+            "Date": "1910-05-08",
+            "Location": "London - Hyde Park",
+            "Raw": "London - Hyde Park - Men's League.",
+            "Hosts": [
+                "Men's League"
+            ],
+            "Time": "3.00 p.m."
+        },
+        {
+            "Date": "1910-05-09",
+            "Location": "London (Highgate) - Spears Memorial Hall",
+            "Raw": "London (Highgate) - Spears Memorial Hall - Miss Mason's Lecture.",
+            "Speakers": [
+                "Miss Mason"
+            ],
+            "Time": "8.00 p.m."
+        },
+        {
+            "Date": "1910-05-09",
+            "Location": "Edinburgh - 9, Learmouth Terrace",
+            "Raw": "Edinburgh - 9, Learmouth Terrace - Drawing-room Meeting - Miss Lamond and Dr. Inglis.",
+            "Speakers": [
+                "Miss Lamond",
+                "Dr. Inglis"
+            ]
+        },
+        {
+            "Date": "1910-05-09",
+            "Location": "London (Wimbledon) - Mrs. Trelfall's",
+            "Raw": "London (Wimbledon) - Mrs. Trelfall's Drawing-room Meeting - Mrs. Rackham.",
+            "Speakers": [
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "London (Wimbledon) - Mrs. Schwann's",
+            "Raw": "London (Wimbledon) - Mrs. Schwann's Drawing-room Meeting - Miss Clementina Black.",
+            "Speakers": [
+                "Miss Clementina Black"
+            ],
+            "Time": "3.30 p.m."
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "London (Ealing)",
+            "Raw": "London (Ealing) - At Home - \"Women under the Law.\"",
+            "Description": "Women under the Law.",
+            "Time": "5.15 p.m."
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "London - Essex Hall, Strand",
+            "Raw": "London - Essex Hall, Strand - Church League - Miss Abadam.",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.30 p.m."
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "Sunderland - Mrs. Jacques'",
+            "Raw": "Sunderland - Mrs. Jacques' Drawing-room Meeting.",
+            "Time": "7.30 p.m."
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "London - N.U. Offices",
+            "Raw": "London - N.U. Offices - Younger Suffragists - Dr. Saleeby.",
+            "Speakers": [
+                "Dr. Saleeby"
+            ],
+            "Time": "5.15 p.m."
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "London - Criterion Restaurant",
+            "Raw": "London - Actresses' Franchise League Matin\u00e9e - Criterion Restaurant.",
+            "Hosts": [
+                "Actresses' Franchise League"
+            ],
+            "Time": "2.30 p.m."
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "London (Streatham) - Mrs. Albin's",
+            "Raw": "London (Streatham) - Mrs. Albin's Drawing-room Meeting - Mrs. Rackham.",
+            "Speakers": [
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "Brighton - Forfar's Restaurant",
+            "Raw": "Brighton - Forfar's Restaurant - Discussion on the Women's Charter.",
+            "Description": "Discussion on the Women's Charter."
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "Shrewsbury",
+            "Raw": "Shrewsbury - Mothers' Meeting - Mrs. Mayer.",
+            "Description": "Mothers' Meeting.",
+            "Speakers": [
+                "Mrs. Mayer"
+            ]
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "Manchester - Memorial Hall",
+            "Raw": "Manchester - Memorial Hall - Mr. Joseph Clayton.",
+            "Speakers": [
+                "Mr. Joseph Clayton"
+            ]
+        },
+        {
+            "Date": "1910-05-10",
+            "Location": "Salford (South) - Egerton Schools, Tatton Street",
+            "Raw": "Salford (South) - Egerton Schools, Tatton Street - Mr. Clayton.",
+            "Speakers": [
+                "Mr. Clayton"
+            ],
+            "Time": "7.30 p.m."
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nMAY 5.\nShrewsbury - Market Hall - Mrs. Mayer.\nDublin - 35, Molesworth Street - Committee Meeting.\nEdinburgh - Mrs. Cumming-Craig's Drawing-room Meeting -- Miss Alice Low. - 11.30 a.m.\nSutton Coldfield - Public Meeting - Miss Fraser.\nErdington - Drawing-room Meeting - Mrs. C. H. Pugh.\nNorth Herts - Watford - Masonic Hall - Mrs. Workman - \"Women's Suffrage and Education.\" - 8.0\nBramhall - Drawing-room Meeting. - 3.0 p.m.\nShrewsbury - Public Meeting - Mrs. Mayer. - 8.0 p.m.\nLondon (Camberwell) - Peckham Rye - Miss J. Thomson.\nLondon - At Home to the Selling Corps.\nMAY 6.\nSelly Oak - Mrs. Henry Lloyd Wilson's Drawing-room Meeting - Miss Fraser. - 3.15 p.m.\nSelly Oak - Public Meeting - The Institute - Miss Fraser. - 8.0 p.m.\nEdinburgh - 40, Shandwick Place - Miss Margaret Drummond.\nSalford - Members' Rally.\nMAY 7.\nEdgbaston - Westbourne - For Men - Mr. Cholmeley and Miss Fraser. - 8.30 p.m.\nLondon (Highgate) - Open-air Meeting - Outside Tufnell Park Tube Station - J. Y. Kennedy, J. G. Rogers. - 4.0 and 8.0\nMAY 8.\nLondon - Hyde Park - Men's League. - 3.00 p.m.\nMAY 9.\nLondon (Highgate) - Spears Memorial Hall - Miss Mason's Lecture. - 8.00 p.m.\nEdinburgh - 9, Learmouth Terrace - Drawing-room Meeting - Miss Lamond and Dr. Inglis.\nLondon (Wimbledon) - Mrs. Trelfall's Drawing-room Meeting - Mrs. Rackham. - 6.45 p.m.\nMAY 10.\nLondon (Wimbledon) - Mrs. Schwann's Drawing-room Meeting - Miss Clementina Black. - 3.30 p.m.\nLondon (Ealing) - At Home - \"Women under the Law.\" - 5.15 p.m.\nLondon - Essex Hall, Strand - Church League - Miss Abadam. - 8.30 p.m.\nSunderland - Mrs. Jacques' Drawing-room Meeting. - 7.30 p.m.\nLondon - N.U. Offices - Younger Suffragists - Dr. Saleeby. - 5.15 p.m.\nLondon - Actresses' Franchise League Matin\u00e9e - Criterion Restaurant. - 2.30 p.m.\nLondon (Streatham) - Mrs. Albin's Drawing-room Meeting - Mrs. Rackham.\nBrighton - Forfar's Restaurant - Discussion on the Women's Charter.\nShrewsbury - Mothers' Meeting - Mrs. Mayer.\nManchester - Memorial Hall - Mr. Joseph Clayton.\nSalford (South) - Egerton Schools, Tatton Street - Mr. Clayton. - 7.30 p.m.",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

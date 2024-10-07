@@ -1,0 +1,309 @@
+{
+    "IssueDate": "1910-05-12",
+    "Meetings": [
+        {
+            "Date": "MAY 12",
+            "Location": "Tunbridge Wells - Christ Church Parish Room",
+            "Raw": "MAY 12 . Tunbridge Wells - Christ Church Parish Room - Dr . Louise Martindale . 3.0",
+            "Speakers": [
+                "Dr. Louise Martindale"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 12",
+            "Location": "Nottingham - 36, Bridlesmith Gate",
+            "Raw": "Nottingham - 36 , Bridlesmith Gate - Tea and Cocoa . 7-9",
+            "Description": "Tea and Cocoa",
+            "Time": "7-9"
+        },
+        {
+            "Date": "MAY 12",
+            "Location": "Essex Hall, Strand",
+            "Raw": "London Church League - Essex Hall , Strand - Miss Royden . 8.30",
+            "Hosts": [
+                "London Church League"
+            ],
+            "Speakers": [
+                "Miss Royden"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "MAY 13",
+            "Location": "Uxbridge",
+            "Raw": "MAY 13 . Uxbridge Church League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff , Miss Canning . 8.0",
+            "Description": "Inaugural Public Meeting",
+            "Hosts": [
+                "Uxbridge Church League for W.S"
+            ],
+            "Speakers": [
+                "Rev. C. Hinscliff",
+                "Miss Canning"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 13",
+            "Location": "Edinburgh - 40, Shandwick Place",
+            "Raw": "Edinburgh - 40 , Shandwick Place - Mrs . Johnstone . 4.0",
+            "Speakers": [
+                "Mrs. Johnstone"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "MAY 13",
+            "Location": "Bournemouth - Prince's Hall",
+            "Raw": "Bournemouth - Prince's Hall - Lady Stout . 8.0",
+            "Speakers": [
+                "Lady Stout"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 14",
+            "Location": "Folkestone",
+            "Raw": "MAY 14 . Folkestone - Public Meeting - Miss Abadam . 4.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "MAY 17",
+            "Location": "Farnham - Tilford Schools",
+            "Raw": "MAY 17 . Farnham - Tilford Schools - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 18",
+            "Location": "Rugby",
+            "Raw": "MAY 18 . Rugby - Open - air Meeting - Mrs . Mayer . 8.0",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Mrs. Mayer"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 18",
+            "Location": "Hull - Paragon Square",
+            "Raw": "Hull - Paragon Square - Open - air Meeting - Mr . Herbert Jacobs . 8.0",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Mr. Herbert Jacobs"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 18",
+            "Location": "Hull",
+            "Raw": "Hull - Public Meeting - Mr . Herbert Jacobs . 7.0",
+            "Speakers": [
+                "Mr. Herbert Jacobs"
+            ],
+            "Time": "7.0"
+        },
+        {
+            "Date": "MAY 18",
+            "Location": "Farnham - South Street Institute",
+            "Raw": "Farnham - South Street Institute - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 19",
+            "Location": "Edinburgh - 40, Shandwick Place",
+            "Raw": "MAY 19 . Edinburgh - 40 , Shandwick Place - Sale to be opened by the Lady Frances Balfour . 11.0",
+            "Description": "Sale to be opened by the Lady Frances Balfour",
+            "Time": "11.0"
+        },
+        {
+            "Date": "MAY 19",
+            "Location": "Dublin - 35, Molesworth Street",
+            "Raw": "Dublin - 35 , Molesworth Street - Committee Meeting . 3.0",
+            "Description": "Committee Meeting",
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 19",
+            "Location": "Cranleigh - Village Hall",
+            "Raw": "Cranleigh - Village Hall - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 19",
+            "Location": "Leamington - 44, Avenue Road",
+            "Raw": "Leamington - 44 , Avenue Road - Miss Harrison's Drawing - room Meeting - Mrs . Julian Osler . 8.0",
+            "Description": "Miss Harrison's Drawing-room Meeting",
+            "Hosts": [
+                "Miss Harrison"
+            ],
+            "Speakers": [
+                "Mrs. Julian Osler"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 19",
+            "Location": "Watford - Masonic Hall",
+            "Raw": "Watford - Masonic Hall - Mr . J. Malcolm Mitchell . 8.0",
+            "Speakers": [
+                "Mr. J. Malcolm Mitchell"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 21",
+            "Location": "Oxford",
+            "Raw": "MAY 21 . Oxford - Miss Abadam . 3.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 21",
+            "Location": "Woodstock",
+            "Raw": "Woodstock - Miss Abadam . 4.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "MAY 21",
+            "Location": "Tunbridge Wells - Great Hall",
+            "Raw": "Tunbridge Wells - Great Hall - Miss Mason's Lantern Lecture . 8.0",
+            "Description": "Miss Mason's Lantern Lecture",
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 24",
+            "Location": "Leatherhead - Public Hall",
+            "Raw": "MAY 24 . Leatherhead - Public Hall - Mrs . Fawcett . 8.0",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 25",
+            "Location": "Darlington - Temperance Institute",
+            "Raw": "MAY 25 . Darlington - Temperance Institute - Annual Meeting . 8.0",
+            "Description": "Annual Meeting",
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 25",
+            "Location": "London (Esher) - Village Hall",
+            "Raw": "London ( Esher ) -Village Hall - Mrs . Fawcett . 3.15",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "MAY 25",
+            "Location": "London (Enfield)",
+            "Raw": "London ( Enfield ) -Public Meeting . 8.0",
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "Birmingham - Grand Hotel",
+            "Raw": "MAY 26 . Birmingham - Grand Hotel - Annual Meeting . 7.30",
+            "Description": "Annual Meeting",
+            "Time": "7.30"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (Ealing)",
+            "Raw": "London ( Ealing ) -Suffrage Play . 8.0",
+            "Description": "Suffrage Play",
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (Richmond) - Miss Bailey's Drawing-room Meeting",
+            "Raw": "London ( Richmond ) -Miss Bailey's Drawing - room Meeting - Lady Isabel Margesson . 4.0",
+            "Description": "Miss Bailey's Drawing-room Meeting",
+            "Hosts": [
+                "Miss Bailey"
+            ],
+            "Speakers": [
+                "Lady Isabel Margesson"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "MAY 26",
+            "Location": "London (South Paddington) - Miss Partridge's Drawing-room Meeting",
+            "Raw": "London ( South Paddington ) -Miss Partridge's Drawing - room Meeting . 8.0",
+            "Description": "Miss Partridge's Drawing-room Meeting",
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 27",
+            "Location": "Dorking - Public Hall",
+            "Raw": "MAY 27 . Dorking - Public Hall - Mrs . Fawcett , Miss Abadam . 8.0",
+            "Speakers": [
+                "Mrs. Fawcett",
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 27",
+            "Location": "Edinburgh - Synod Hall",
+            "Raw": "Edinburgh - Synod Hall - Mrs . Philip Snowden . 8.0",
+            "Speakers": [
+                "Mrs. Philip Snowden"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 27",
+            "Location": "Peaslake",
+            "Raw": "Peaslake Drawing - room Meeting . 3.0",
+            "Description": "Drawing-room Meeting",
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 27",
+            "Location": "Shere Village Hall",
+            "Raw": "Shere Village Hall - Mrs . Fawcett , Miss Abadam . 5.30",
+            "Speakers": [
+                "Mrs. Fawcett",
+                "Miss Abadam"
+            ],
+            "Time": "5.30"
+        },
+        {
+            "Date": "MAY 30",
+            "Location": "Newdigate - Schools",
+            "Raw": "MAY 30 . Newdigate - Schools - Mrs . Fawcett . 8.0",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "8.0"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nMAY 12 . Tunbridge Wells - Christ Church Parish Room - Dr . Louise Martindale . 3.0\nNottingham - 36 , Bridlesmith Gate - Tea and Cocoa . 7-9\nLondon Church League - Essex Hall , Strand - Miss Royden . 8.30\nMAY 13 . Uxbridge Church League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff , Miss Canning . 8.0\nEdinburgh - 40 , Shandwick Place - Mrs . Johnstone . 4.0\nBournemouth - Prince's Hall - Lady Stout . 8.0\nMAY 14 . Folkestone - Public Meeting - Miss Abadam . 4.0\nMAY 17 . Farnham - Tilford Schools - Miss Abadam . 8.0\nMAY 18 . Rugby - Open - air Meeting - Mrs . Mayer . 8.0\nHull - Paragon Square - Open - air Meeting - Mr . Herbert Jacobs . 8.0\nHull - Public Meeting - Mr . Herbert Jacobs . 7.0\nFarnham - South Street Institute - Miss Abadam . 8.0\nMAY 19 . Edinburgh - 40 , Shandwick Place - Sale to be opened by the Lady Frances Balfour . 11.0\nDublin - 35 , Molesworth Street - Committee Meeting . 3.0\nCranleigh - Village Hall - Miss Abadam . 8.0\nLeamington - 44 , Avenue Road - Miss Harrison's Drawing - room Meeting - Mrs . Julian Osler . 8.0\nWatford - Masonic Hall - Mr . J. Malcolm Mitchell . 8.0\nMAY 21 . Oxford - Miss Abadam . 3.0\nWoodstock - Miss Abadam . 4.0\nTunbridge Wells - Great Hall - Miss Mason's Lantern Lecture . 8.0\nMAY 24 . Leatherhead - Public Hall - Mrs . Fawcett . 8.0\nMAY 25 . Darlington - Temperance Institute - Annual Meeting . 8.0\nLondon ( Esher ) -Village Hall - Mrs . Fawcett . 3.15\nLondon ( Enfield ) -Public Meeting . 8.0\nMAY 26 . Birmingham - Grand Hotel - Annual Meeting . 7.30\nLondon ( Ealing ) -Suffrage Play . 8.0\nLondon ( Richmond ) -Miss Bailey's Drawing - room Meeting - Lady Isabel Margesson . 4.0\nLondon ( South Paddington ) -Miss Partridge's Drawing - room Meeting . 8.0\nMAY 27 . Dorking - Public Hall - Mrs . Fawcett , Miss Abadam . 8.0\nEdinburgh - Synod Hall - Mrs . Philip Snowden . 8.0\nPeaslake Drawing - room Meeting . 3.0\nShere Village Hall - Mrs . Fawcett , Miss Abadam . 5.30\nMAY 30 . Newdigate - Schools - Mrs . Fawcett . 8.0",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

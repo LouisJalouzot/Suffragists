@@ -1,0 +1,208 @@
+{
+    "IssueDate": "1909-11-18",
+    "Meetings": [
+        {
+            "Date": "November 18",
+            "Location": "Chelmsford",
+            "Raw": "Chelmsford - Miss Abadam . 3.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "November 18",
+            "Location": "Cheltenham Town Hall",
+            "Raw": "Cheltenham Town Hall - Sir John Cockburn , K.C.M.G 8.0",
+            "Speakers": [
+                "Sir John Cockburn"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 18",
+            "Location": "35, Molesworth Street, Dublin",
+            "Raw": "Dublin - 35 , Molesworth Street . 11.30",
+            "Time": "11.30"
+        },
+        {
+            "Date": "November 18",
+            "Location": "St. Mark's U.S. Brotherhood, Glasgow",
+            "Raw": "Glasgow St. Mark's U.S. Brotherhood - Miss Macmillan . 8.0",
+            "Speakers": [
+                "Miss Macmillan"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 18",
+            "Location": "Peebles Institute",
+            "Raw": "Peebles Institute - Miss Low . 8.0",
+            "Speakers": [
+                "Miss Low"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 18",
+            "Location": "Leith",
+            "Raw": "Leith Drawing Room Meeting - Miss Gordon . 4.0",
+            "Description": "Drawing Room Meeting",
+            "Speakers": [
+                "Miss Gordon"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "November 18",
+            "Location": "St. Pancras, London",
+            "Raw": "London ( St. Pancras ) -Drawing Room Meeting - Miss M. Corbett 4.30",
+            "Description": "Drawing Room Meeting",
+            "Speakers": [
+                "Miss M. Corbett"
+            ],
+            "Time": "4.30"
+        },
+        {
+            "Date": "November 18",
+            "Location": "S. Kensington, London",
+            "Raw": "London ( S. Kensington ) -Drawing Room Meeting - Miss Cockle 3.30",
+            "Description": "Drawing Room Meeting",
+            "Speakers": [
+                "Miss Cockle"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "November 18",
+            "Location": "12, Milverton Crescent, Leamington",
+            "Raw": "Leamington - 12 , Milverton Crescent - Mrs . Wheatley 8.0",
+            "Speakers": [
+                "Mrs. Wheatley"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 18",
+            "Location": "Liberal Club, Keswick",
+            "Raw": "Keswick - Liberal Club - Public Debate , Miss Marshall ( for ) and Mr. Norman Robinson ( against ) . 8.0",
+            "Description": "Public Debate",
+            "Speakers": [
+                "Miss Marshall",
+                "Mr. Norman Robinson"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 18",
+            "Location": "Epsom, London",
+            "Raw": "London ( Epsom ) -Lecture on Education . 8.0",
+            "Description": "Lecture on Education",
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Sutton, London",
+            "Raw": "London ( Sutton ) -Drawing Room Meeting - Miss Watson . 5.0",
+            "Description": "Drawing Room Meeting",
+            "Speakers": [
+                "Miss Watson"
+            ],
+            "Time": "5.0"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Willesden, London",
+            "Raw": "London ( Willesden ) -Invitation Meeting , Gayton Rooms , Harrow -Miss M. I. Corbett . 8.0",
+            "Description": "Invitation Meeting",
+            "Speakers": [
+                "Miss M. I. Corbett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Hulme Town Hall, Manchester",
+            "Raw": "Manchester - Hulme Town Hall - Miss Ashton and others . 8.0",
+            "Speakers": [
+                "Miss Ashton"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Chambers' Institute, Peebles",
+            "Raw": "Peebles - Chambers ' Institute - Miss Low . 3.0",
+            "Speakers": [
+                "Miss Low"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Tunbridge Wells",
+            "Raw": "Tunbridge Wells - At Home - Madame Sarah Grand . 3.0",
+            "Description": "At Home",
+            "Speakers": [
+                "Madame Sarah Grand"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "November 19",
+            "Location": "The Great Hall, Tunbridge Wells",
+            "Raw": "Tunbridge Wells - The Great Hall - Mrs . Henry Fawcett , LL.D. 8.0",
+            "Speakers": [
+                "Mrs. Henry Fawcett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Hiham, Winchelsea",
+            "Raw": "Winchelsea - Hiham , Winchelsea - Miss C. Woodhead . 80",
+            "Speakers": [
+                "Miss C. Woodhead"
+            ],
+            "Time": "80"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Maltmas Green, Denham, Bucks.",
+            "Raw": "Denham - Maltmas Green , Denham , Bucks . Hon . Mrs. B. 3.30",
+            "Speakers": [
+                "Hon. Mrs. B"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "November 19",
+            "Location": "Silver Street, Whitby",
+            "Raw": "Whitby - Lecture Hall , Silver Street . 7.30",
+            "Time": "7.30"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nNOVEMBER 18 . Chelmsford - Miss Abadam . 3.0 Cheltenham Town Hall - Sir John Cockburn , K.C.M.G 8.0 Dublin - 35 , Molesworth Street . 11.30 Glasgow St. Mark's U.S. Brotherhood - Miss Macmillan . Peebles Institute - Miss Low . 8.0 Leith Drawing Room Meeting - Miss Gordon . 4.0 8.0 3.30 London ( St. Pancras ) -Drawing Room Meeting - Miss M. Corbett 4.30 London ( S. Kensington ) -Drawing Room Meeting - Miss Cockle Leamington - 12 , Milverton Crescent - Mrs . Wheatley Keswick - Liberal Club - Public Debate , Miss Marshall ( for ) and Mr. Norman Robinson ( against ) . London ( Epsom ) -Lecture on Education . NOVEMBER 19 . London ( Sutton ) -Drawing Room Meeting - Miss Watson . London ( Willesden ) -Invitation Meeting , Gayton Rooms , Harrow -Miss M. I. Corbett . Manchester - Hulme Town Hall - Miss Ashton and others . Peebles - Chambers ' Institute - Miss Low . 5.0 8.0 8.0 888 Tunbridge Wells - At Home - Madame Sarah Grand . Tunbridge Wells - The Great Hall - Mrs . Henry Fawcett , LL.D. 8.0 Winchelsea - Hiham , Winchelsea - Miss C. Woodhead . Denham - Maltmas Green , Denham , Russell . Whitby - Lecture Hall , Silver Street . NOVEMBER 20 . Bucks . Hon . Mrs. B. 3.30 3.0 80 3.0 Wolverhampton - London Buildings - Miss M. Atkinson , M.A. London - St . James's Hall - Members only . NOVEMBER 22 Cambridge Newnham College - Cecil Chapman . Esq . Edinburgh - 40 , Shandwick Place - Speakers ' Class . Romiley - Miss Abadam . London - 58 , Victoria Street , S.W. - Speakers ' Olass . 8B 5.0 8.0 5.30",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 12,
+            "Scan": 7
+        },
+        {
+            "Column": 2,
+            "Page": 13,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 14,
+            "Scan": 8
+        },
+        {
+            "Column": 2,
+            "Page": 14,
+            "Scan": 8
+        }
+    ]
+}

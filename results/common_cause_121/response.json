@@ -1,0 +1,234 @@
+{
+    "IssueDate": "1912-02-08",
+    "Meetings": [
+        {
+            "Date": "February 23rd",
+            "Location": "Albert Hall",
+            "Raw": "FEBRUARY 23rd . Albert Hall",
+            "Speakers": [
+                "Mrs. Fawcett",
+                "Mrs. Philip Snowden",
+                "Mr. Lloyd George",
+                "the Earl of Lytton"
+            ],
+            "Time": "Evening"
+        },
+        {
+            "Date": "February 13th",
+            "Location": "Albert Hall",
+            "Raw": "February 13th . Albert Hall",
+            "Speakers": [
+                "Mr. Ramsay Mac-donald",
+                "Mrs. Despard",
+                "Miss Mary Macarthur ( Mrs. Ander-son )",
+                "Miss Millicent Murby",
+                "Will Crooks , M.P.",
+                "J. Keir Hardie , M.P.",
+                "Arthur Henderson , M.P.",
+                "Philip Snowden , M.P.",
+                "Mr. W. C. Anderson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 13",
+            "Location": "Northumberland Street",
+            "Raw": "FEBRUARY 13 . Northumberland Street",
+            "Description": "Mrs. and Miss Pease's drawing-room meeting",
+            "Speakers": [
+                "Miss I. O. Ford",
+                "Gerald Stoney, Esq.",
+                "F.R.S"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 13",
+            "Location": "Congregational Hall, South Shields",
+            "Raw": "South Shields - Congregational Hall",
+            "Speakers": [
+                "Miss I. O. Ford"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 13",
+            "Location": "Hexham",
+            "Raw": "Hexham - Miss Robb's drawing-room meeting",
+            "Speakers": [
+                "Miss C. M. Gordon"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 13",
+            "Location": "Town Hall, Huntingdon",
+            "Raw": "Huntingdon Town Hall",
+            "Speakers": [
+                "Miss Sterling",
+                "W. J. Mirrlees , Esq",
+                "H. C. Jones , Esq"
+            ],
+            "Time": "Evening"
+        },
+        {
+            "Date": "FEBRUARY 13",
+            "Location": "Basford's Laundry, Melton Mowbray",
+            "Raw": "Melton Mowbray - Basford's Laundry",
+            "Speakers": [
+                "Mrs. Renton"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Previel Rock Council School, Plymouth",
+            "Raw": "Plymouth - Previel Rock Council School",
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Council House, Handsworth, Birmingham",
+            "Raw": "Birmingham Council House , Handsworth",
+            "Speakers": [
+                "Mrs. Despard",
+                "Mrs. Rabone"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Post Office Chambers, Northgate Street, Bath",
+            "Raw": "Bath - Post Office Chambers , Northgate Street",
+            "Speakers": [
+                "Mrs. Skemp"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Assembly Rooms, The Avenue, Bournemouth",
+            "Raw": "Bournemouth - Assembly Rooms , The Avenue - At Home",
+            "Description": "At Home",
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Crosbie's Cafe, Northumberland Street, Newcastle-on-Tyne",
+            "Raw": "Newcastle - on - Tyne Crosbie's Cafe , Northumberland Street",
+            "Description": "W.S. this session",
+            "Speakers": [
+                "Miss I. O. Ford"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Stocksfield, The Red House",
+            "Raw": "Stocksfield - The Red House - Mrs. Adam's drawing-room meeting",
+            "Speakers": [
+                "Miss I. O. Ford"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Holmes Chapel",
+            "Raw": "Knutsford Society - Holmes Chapel",
+            "Speakers": [
+                "Miss M. Robertson",
+                "B.A.",
+                "J. R. Tomlinson",
+                "Esq"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Girls' Institute, Marple",
+            "Raw": "Marple - Girls ' Institute",
+            "Description": "Woman as Citizen",
+            "Speakers": [
+                "Miss Lisa Ker",
+                "Miss G. Richardson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "10, Easy Row, Birmingham",
+            "Raw": "Birmingham - 10 , Easy Row - Franchise Club",
+            "Description": "Franchise Club",
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "St. Nicholas House, Scarborough",
+            "Raw": "Scarborough - St. Nicholas House - Whist Drive",
+            "Description": "Whist Drive",
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Wesleyan School-room, Fleet",
+            "Raw": "Fleet - Wesleyan School - room - Annual meeting",
+            "Description": "Annual meeting",
+            "Speakers": [
+                "Miss D. Edwards",
+                "Mrs. Griffiths Baker"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Penrhyn Hall, Bangor",
+            "Raw": "Bangor - Penrhyn Hall",
+            "Speakers": [
+                "Mrs. Philip Snowden",
+                "Mrs. F. A. Steel",
+                "the Mayor"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Council Schools, Garnier Street, Portsmouth",
+            "Raw": "Portsmouth - Council Schools , Garnier Street",
+            "Speakers": [
+                "Mrs. Kingswell",
+                "Mrs. Croker"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "FEBRUARY 14",
+            "Location": "Public Hall, Dorking",
+            "Raw": "Dorking Public Hall",
+            "Speakers": [
+                "The Lady Willoughby de Broke",
+                "Rev. A. E. N. Simms"
+            ],
+            "Time": "Afternoon"
+        },
+        {
+            "Date": "FEBRUARY 15",
+            "Location": "Friends' Hall, Fenton Street, Lancaster",
+            "Raw": "Lancaster - Friends ' Hall , Fenton Street - White Elephant Tea",
+            "Description": "White Elephant Tea",
+            "Time": null
+        }
+    ],
+    "RawTable": "Forthcoming Meetings FEBRUARY 13 . Newcastle - on - Tyne - Drawing - room Cafe , Northum berland Street - Mrs . and Miss Pease's drawing - room meeting - Miss I. O. Ford , Gerald Stoney , Esq . , F.R.S. ( chair ) South Shields - Congregational Hall - Miss I. O. Ford Hexham - Miss Robb's drawing - room meeting- Miss C. M. Gordon . Huntingdon Town Hall - Miss Sterling , W. J. Mirrlees , Esq . , H. C. Jones , Esq . ( chair ) Evening Melton Mowbray - Basford's Laundry - Mrs . Renton FEBRUARY 14 . Plymouth - Previel Rock Council School Birmingham Council House , Handsworth - Mrs. Despard , Mrs. Rabone ( chair ) Bath - Post Office Chambers , Northgate Street- Mrs. Skemp Bournemouth - Assembly Rooms , The Avenue - At Home Newcastle - on - Tyne Crosbie's Cafe , Northumberland Street - Miss I. O. Ford on \" W.S. this session \" Stocksfield - The Red House - Mrs . Adam's draw- ing - room meeting - Miss I. O. Ford Knutsford Society - Holmes Chapel - Miss M. Robertson , B.A. , J. R. Tomlinson , Esq . ( chair ) Marple - Girls ' Institute- \" Woman as Citizen \" - Miss Lisa Ker , Miss G. Richardson ( chanr ) Birmingham - 10 , Easy Row - Franchise Club Scarborough - St . Nicholas House - Whist Drive Fleet - Wesleyan School - room - Annual meeting- Miss D. Edwards , Mrs. Griffiths Baker ( chair ) Bangor - Penrhyn Hall - Mrs . Philip Snowden , Mrs. F. A. Steel , the Mayor ( chair ) Portsmouth - Council Schools , Garnier Street - Mrs . Kingswell , Mrs. Croker ( chair ) Dorking Public Hall - The Lady Willoughby de Broke , Rev. A. E. N. Simms Afternoon FEBRUARY 15 . Lancaster - Friends ' Hall , Fenton Street - White Elephant Tea",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 13,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 14,
+            "Scan": 8
+        }
+    ]
+}

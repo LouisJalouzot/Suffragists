@@ -1,0 +1,165 @@
+{
+    "IssueDate": "1910-08-25",
+    "Meetings": [
+        {
+            "Date": "AUGUST 25",
+            "Location": "Tilford",
+            "Raw": "AUGUST 25 Farnham Tilford - Open - air Meeting - Miss Barbara Duncan",
+            "Time": null
+        },
+        {
+            "Date": "AUGUST 25",
+            "Location": "Romiley \"Overdale\"",
+            "Raw": "AUGUST 25 Romiley \"Overdale\" - Mrs. Crosland's Garden Meeting - Miss Robertson . 3.0",
+            "Time": "3.0"
+        },
+        {
+            "Date": "AUGUST 26",
+            "Location": "London Kingston Market Place",
+            "Raw": "AUGUST 26 London Kingston Market Place Open - air Meeting - Miss Dawson, Mrs. Smith",
+            "Speakers": [
+                "Miss Dawson",
+                "Mrs. Smith"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "AUGUST 26",
+            "Location": "Farnham Frensham",
+            "Raw": "AUGUST 26 Farnham Frensham - Open - air Meeting - Miss Barbara Duncan",
+            "Time": null
+        },
+        {
+            "Date": "AUGUST 27",
+            "Location": "Leeds Garden Party - Farsley",
+            "Raw": "AUGUST 27 8.0 Leeds Garden Party - Farsley - Miss Fielden",
+            "Time": "8.0"
+        },
+        {
+            "Date": "AUGUST 27",
+            "Location": "London - Highgate",
+            "Raw": "AUGUST 27 London - Highgate - Open - air Meeting . 8.0",
+            "Time": "8.0"
+        },
+        {
+            "Date": "AUGUST 29",
+            "Location": "London - Windsor - Grove Road Schoolroom",
+            "Raw": "AUGUST 29 London - Windsor - Grove Road Schoolroom - At Home . 8.0",
+            "Description": "At Home",
+            "Time": "8.0"
+        },
+        {
+            "Date": "AUGUST 29",
+            "Location": "Knutsford The Heath",
+            "Raw": "AUGUST 29 Knutsford The Heath - Open - air Meeting Miss Margaret Robertson, B.A. 7.30",
+            "Speakers": [
+                "Miss Margaret Robertson"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "AUGUST 30",
+            "Location": "London - Camberwell - Tabernacle, Peckham Rye",
+            "Raw": "AUGUST 30 London - Camberwell - Tabernacle, Peckham Rye - Mr. Guggenheim, Mrs. Smith . 8.0",
+            "Speakers": [
+                "Mr. Guggenheim",
+                "Mrs. Smith"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "SEPTEMBER 1",
+            "Location": "London - Enfield - Women's Co-operative Guild",
+            "Raw": "SEPTEMBER 1 London - Enfield - Women's Co - operative Guild - Miss Rinder",
+            "Speakers": [
+                "Miss Rinder"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "SEPTEMBER 3",
+            "Location": "London Highgate",
+            "Raw": "SEPTEMBER 3 London Highgate Open - air Meeting . 8,0",
+            "Time": "8,0"
+        },
+        {
+            "Date": "SEPTEMBER 6",
+            "Location": "Cheltenham - Winchcombe - Abbey Terrace",
+            "Raw": "SEPTEMBER 6 Cheltenham - Winchcombe - Abbey Terrace Open - air Meeting- Miss Helen Fraser, Miss Wheelwright . 7.0",
+            "Speakers": [
+                "Miss Helen Fraser",
+                "Miss Wheelwright"
+            ],
+            "Time": "7.0"
+        },
+        {
+            "Date": "SEPTEMBER 7",
+            "Location": "Cheltenham - Winchcombe - Assembly Rooms",
+            "Raw": "SEPTEMBER 7 Cheltenham - Winchcombe - Assembly Rooms - Public Meeting- Miss Helen Fraser, Miss Wheelwright",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Miss Helen Fraser",
+                "Miss Wheelwright"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "SEPTEMBER 7",
+            "Location": "London - Camberwell - Triangle, Rye Lane",
+            "Raw": "SEPTEMBER 7 London - Camberwell - Triangle, Rye Lane - Miss D. Brown .",
+            "Speakers": [
+                "Miss D. Brown"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "SEPTEMBER 8",
+            "Location": "London - Camberwell - Grove Lane",
+            "Raw": "SEPTEMBER 8 London - Camberwell - Grove Lane - Mr. Malcolm Mitchell, Mr. John Manson .",
+            "Speakers": [
+                "Mr. Malcolm Mitchell",
+                "Mr. John Manson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "SEPTEMBER 10",
+            "Location": "London - Highgate",
+            "Raw": "SEPTEMBER 10 London - Highgate - Open - air Meeting",
+            "Time": null
+        },
+        {
+            "Date": "SEPTEMBER 22",
+            "Location": "London Camberwell - Collyer Place",
+            "Raw": "SEPTEMBER 22 London Camberwell - Collyer Place - Miss Thompson",
+            "Speakers": [
+                "Miss Thompson"
+            ],
+            "Time": null
+        },
+        {
+            "Date": "SEPTEMBER 24",
+            "Location": "London Highgate",
+            "Raw": "SEPTEMBER 24 London Highgate - Open - air Meeting",
+            "Time": null
+        },
+        {
+            "Date": "SEPTEMBER 26",
+            "Location": "London - Highgate",
+            "Raw": "SEPTEMBER 26 London - Highgate - Annual 8.0 Meeting Lantern Lecture Miss Bertha Mason",
+            "Description": "Annual Meeting Lantern Lecture",
+            "Speakers": [
+                "Miss Bertha Mason"
+            ],
+            "Time": "8.0"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nAUGUST 25 Farnham Tilford - Open - air Meeting - Miss Barbara Duncan\nAUGUST 25 Romiley \"Overdale\" - Mrs. Crosland's Garden Meeting - Miss Robertson . 3.0\nAUGUST 26 London Kingston Market Place Open - air Meeting - Miss Dawson, Mrs. Smith\nAUGUST 26 Farnham Frensham - Open - air Meeting - Miss Barbara Duncan\nAUGUST 27 8.0 Leeds Garden Party - Farsley - Miss Fielden\nAUGUST 27 London - Highgate - Open - air Meeting . 8.0\nAUGUST 29 London - Windsor - Grove Road Schoolroom - At Home . 8.0\nAUGUST 29 Knutsford The Heath - Open - air Meeting Miss Margaret Robertson, B.A. 7.30\nAUGUST 30 London - Camberwell - Tabernacle, Peckham Rye - Mr. Guggenheim, Mrs. Smith . 8.0\nSEPTEMBER 1 London - Enfield - Women's Co - operative Guild - Miss Rinder\nSEPTEMBER 3 London Highgate Open - air Meeting . 8,0\nSEPTEMBER 6 Cheltenham - Winchcombe - Abbey Terrace Open - air Meeting- Miss Helen Fraser, Miss Wheelwright . 7.0\nSEPTEMBER 7 Cheltenham - Winchcombe - Assembly Rooms - Public Meeting- Miss Helen Fraser, Miss Wheelwright\nSEPTEMBER 7 London - Camberwell - Triangle, Rye Lane - Miss D. Brown .\nSEPTEMBER 8 London - Camberwell - Grove Lane - Mr. Malcolm Mitchell, Mr. John Manson .\nSEPTEMBER 10 London - Highgate - Open - air Meeting\nSEPTEMBER 22 London Camberwell - Collyer Place - Miss Thompson\nSEPTEMBER 24 London Highgate - Open - air Meeting\nSEPTEMBER 26 London - Highgate - Annual 8.0 Meeting Lantern Lecture Miss Bertha Mason",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 11,
+            "Scan": 6
+        }
+    ]
+}

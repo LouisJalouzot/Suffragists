@@ -1,0 +1,533 @@
+{
+    "IssueDate": "1910-04-28",
+    "Meetings": [
+        {
+            "Date": "APRIL 28",
+            "Location": "Glasgow",
+            "Raw": "Glasgow Drawing - room Meeting - Miss Macnaught , Miss Waddell .",
+            "Speakers": [
+                "Miss Macnaught",
+                "Miss Waddell"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Library Hall, Church Street, Stoke Newington, Hackney, N. London",
+            "Raw": "London ( Hackney , N . ) - Public Meeting - Library Hall , Church Street , Stoke Newington - Miss Palliser , Dr. Cobb .",
+            "Speakers": [
+                "Miss Palliser",
+                "Dr. Cobb"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Wandsworth, London",
+            "Raw": " ( Wandsworth ) -Drawing - room Meeting - Miss Mordan , Mrs. John Roskill .",
+            "Speakers": [
+                "Miss Mordan",
+                "Mrs. John Roskill"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Crewe",
+            "Raw": "Crewe Election Meeting - Mixed Schools , West Street - Philipps , Miss Gill , Mr. Crawford .",
+            "Speakers": [
+                "Philipps",
+                "Miss Gill",
+                "Mr. Crawford"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Sandbach",
+            "Raw": "Crewe Election Meeting - Sandbach - Miss Robertson , Swanwick .",
+            "Speakers": [
+                "Miss Robertson",
+                "Swanwick"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Berkhamstead, North Herts",
+            "Raw": "North Herts -- Berkhamstead - Mrs . Robinson - Address on \" History of the Suffrage Movement . \"",
+            "Speakers": [
+                "Mrs. Robinson"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Leeds",
+            "Raw": "Leeds Dr. Helen Wilson- \" Social Evil . \"",
+            "Speakers": [
+                "Dr. Helen Wilson"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Market Place, Coventry",
+            "Raw": "Coventry - Market Place - Mrs . Mayer .",
+            "Speakers": [
+                "Mrs. Mayer"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Library Hall, Church Street, Stoke Newington, London",
+            "Raw": "London ( Stoke Newington ) -Library Hall , Church Street - Palliser .",
+            "Speakers": [
+                "Palliser"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Bull Ring, Birmingham",
+            "Raw": "Birmingham - Bull Ring ."
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "St. Peter's Schools, Hale, Altrincham, North of England",
+            "Raw": "London North of England - Altrincham , St. Peter's Schools , Hale - K. D. Courtney .",
+            "Speakers": [
+                "K. D. Courtney"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "319, Upper Richmond Road, Wandsworth and Putney, London",
+            "Raw": "London ( Wandsworth and Putney ) -319 , Upper Richmond Road- Mrs. Cole's Drawing - room Meeting - Miss Clara Mordan .",
+            "Speakers": [
+                "Miss Clara Mordan"
+            ]
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Alexandria Hall, Sunderland",
+            "Raw": "Sunderland - Alexandria Hall - Professor Mills .",
+            "Speakers": [
+                "Professor Mills"
+            ]
+        },
+        {
+            "Date": "APRIL 29",
+            "Location": "Walworth, London",
+            "Raw": "London ( Walworth ) -Meeting - Miss M. I. Corbett .",
+            "Speakers": [
+                "Miss M. I. Corbett"
+            ]
+        },
+        {
+            "Date": "APRIL 29",
+            "Location": "Drill Hall, W. Ealing, London (Ealing and Acton)",
+            "Raw": "London ( Ealing and Acton ) Public Meeting - Drill Hall , W. Ealing Miss Ruth Young , Mr. Theodore Gugenheim - Songs , Miss Hilda Bennett - Chair , Mr. Kennedy .",
+            "Speakers": [
+                "Miss Ruth Young",
+                "Mr. Theodore Gugenheim"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 29",
+            "Location": "Pixmore Institute, Letchworth",
+            "Raw": "Letchworth - Pixmore Institute - Mr . Baillie - Weaver .",
+            "Speakers": [
+                "Mr. Baillie-Weaver"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 29",
+            "Location": "35, Molesworth Street, Dublin",
+            "Raw": "Dublin - 35 , Molesworth Street - Miss McNaull .",
+            "Speakers": [
+                "Miss McNaull"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "APRIL 29",
+            "Location": "40, Shandwick Place, Edinburgh",
+            "Raw": "Edinburgh 40 , Shandwick Place .",
+            "Time": "4.0 and 8.0"
+        },
+        {
+            "Date": "APRIL 29",
+            "Location": "Walworth, London",
+            "Raw": "London ( Walworth ) -Miss Margery Corbett , B.A. ",
+            "Speakers": [
+                "Miss Margery Corbett"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "APRIL 30",
+            "Location": "Gladstone Club, Norwich",
+            "Raw": "Norwich - Gladstone Club - Address and Debate - Dr . Mary Bell .",
+            "Speakers": [
+                "Dr. Mary Bell"
+            ],
+            "Time": "8-0"
+        },
+        {
+            "Date": "MAY 2",
+            "Location": "59, Springdale Road, Stoke Newington, Hackney, N. London",
+            "Raw": "London ( Hackney , N. , Stoke Newington , N . ) - Young Women's Guild - 59 , Springdale Road , Stoke Newington- Miss H. D. Cockle .",
+            "Speakers": [
+                "Miss H. D. Cockle"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 2",
+            "Location": "Birmingham",
+            "Raw": "Birmingham - Miss Helen Fraser .",
+            "Speakers": [
+                "Miss Helen Fraser"
+            ]
+        },
+        {
+            "Date": "MAY 2",
+            "Location": "59, Springdale Road, Stoke Newington, London",
+            "Raw": "London ( Stoke Newington ) -59 , Springdale Road - Miss Cockle .",
+            "Speakers": [
+                "Miss Cockle"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "MAY 2",
+            "Location": "Aspley Guise",
+            "Raw": "Aspley Guise - Public Meeting - Rev . Hugh Chapman .",
+            "Speakers": [
+                "Rev. Hugh Chapman"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 2",
+            "Location": "Sutton Coldfield",
+            "Raw": "Sutton Coldfield - Drawing - room Meeting - Miss Fraser .",
+            "Speakers": [
+                "Miss Fraser"
+            ]
+        },
+        {
+            "Date": "MAY 2",
+            "Location": "Public Hall, Acock's Green",
+            "Raw": "Acock's Green - Public Hall - Miss Fraser .",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 3",
+            "Location": "Edgbaston Hall",
+            "Raw": "Edgbaston Hall - Drawing - room Meeting - Miss Fraser .",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 3",
+            "Location": "St. Mary's Hall, Coventry",
+            "Raw": "Coventry - Public Meeting - St . Mary's Hall - Lady Frances Balfour .",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 3",
+            "Location": "St. Alkmund's Schoolroom, Shrewsbury",
+            "Raw": "Shrewsbury - Ladies ' Association for Abolition of State Regulation of Vice - St. Alkmund's Schoolroom Dr. Katherine Bushnell .",
+            "Speakers": [
+                "Dr. Katherine Bushnell"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 4",
+            "Location": "Shrewsbury",
+            "Raw": "Shrewsbury At Home - Mrs . Mayer .",
+            "Speakers": [
+                "Mrs. Mayer"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "MAY 4",
+            "Location": "St. Alkmund's Schoolroom, Shrewsbury",
+            "Raw": "Shrewsbury - St . Alkmund's Schoolroom ."
+        },
+        {
+            "Date": "MAY 4",
+            "Location": "The Institute, Harborne",
+            "Raw": "Harborne The Institute - At Home - Miss Fraser .",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 4",
+            "Location": "36, Bridlesmith Gate, Nottingham",
+            "Raw": "Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa .",
+            "Time": "7-9"
+        },
+        {
+            "Date": "MAY 4",
+            "Location": "84, Deansgate Arcade, Manchester",
+            "Raw": "Knutsford Division - Annual Meeting at 84 , Deansgate Arcade , Manchester .",
+            "Time": "7.30 to 9.0"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "35, Molesworth Street, Dublin",
+            "Raw": "Dublin 35 , Molesworth Street - Committee Meeting",
+            "Time": "4.0"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Edinburgh",
+            "Raw": "Edinburgh - Drawing - room Meeting - Dr . Elsie Inglis .",
+            "Speakers": [
+                "Dr. Elsie Inglis"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Sutton Coldfield",
+            "Raw": "Sutton Coldfield - Public Meeting - Miss Fraser .",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Erdington",
+            "Raw": "Erdington - Drawing - room Meeting - Mrs . C. H. Pugh .",
+            "Speakers": [
+                "Mrs. C. H. Pugh"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Masonic Hall, Watford, North Herts",
+            "Raw": "North Herts Watford - Masonic Hall - Mrs . Workman- \" Women's Suffrage and Education . \"",
+            "Speakers": [
+                "Mrs. Workman"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Bramhall",
+            "Raw": "Bramhall - Drawing - room Meeting .",
+            "Time": "3.0"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Shrewsbury",
+            "Raw": "The Shrewsbury - Public Meeting - Mns . Mayer .",
+            "Speakers": [
+                "Mns. Mayer"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 6",
+            "Location": "Selly Oak",
+            "Raw": "Selly Oak Mrs. Henry Lloyd Wilson's Drawing - room Meeting- Miss Fraser .",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "MAY 6",
+            "Location": "The Institute, Selly Oak",
+            "Raw": "Selly Oak - Public Meeting - The Institute - Miss Fraser .",
+            "Speakers": [
+                "Miss Fraser"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 6",
+            "Location": "40, Shandwick Place, Edinburgh",
+            "Raw": "Edinburgh - 40 , Shandwick Place - Miss Margaret Drummond .",
+            "Speakers": [
+                "Miss Margaret Drummond"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "MAY 7",
+            "Location": "Edgbaston - Westbourne",
+            "Raw": "Edgbaston - Westbourne - For Men - Mr . Cholmeley and Miss Fraser .",
+            "Speakers": [
+                "Mr. Cholmeley",
+                "Miss Fraser"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "MAY 9",
+            "Location": "Spears Memorial Hall, London (Highgate)",
+            "Raw": "London ( Highgate ) -Spears Memorial Hall - Miss Mason's Lecture .",
+            "Speakers": [
+                "Miss Mason"
+            ]
+        },
+        {
+            "Date": "MAY 9",
+            "Location": "9, Learmouth Terrace, Edinburgh",
+            "Raw": "Edinburgh - 9 , Learmouth Terrace - Drawing - room Meeting - Miss Lamond and Dr. Inglis .",
+            "Speakers": [
+                "Miss Lamond",
+                "Dr. Inglis"
+            ]
+        },
+        {
+            "Date": "MAY 10",
+            "Location": "Alexandria Hall, Sunderland",
+            "Raw": "Sunderland - Alexandria Hall - Drawing - room Meeting ."
+        },
+        {
+            "Date": "MAY 10",
+            "Location": "Caxton Hall, London",
+            "Raw": "London - Caxton Hall - Church League for W.S. \" Politics as Applied to Christianity . \""
+        },
+        {
+            "Date": "MAY 10",
+            "Location": "Wimbledon, London",
+            "Raw": "London ( Wimbledon ) -Drawing - room Meeting - Miss Clementina Black .",
+            "Speakers": [
+                "Miss Clementina Black"
+            ]
+        },
+        {
+            "Date": "MAY 10",
+            "Location": "Ealing, London",
+            "Raw": "London ( Ealing ) -At Home- \" Women under the Law . \""
+        },
+        {
+            "Date": "MAY 11",
+            "Location": "Balham, London",
+            "Raw": "London ( Balham ) -Drawing - room Meeting - Hostess , Mrs. Hodder Mr. Malcolm Mitchell and Miss H. D. Cockle- Chair , Mr. Hodder .",
+            "Speakers": [
+                "Mr. Malcolm Mitchell",
+                "Miss H. D. Cockle"
+            ]
+        },
+        {
+            "Date": "MAY 11",
+            "Location": "Kensington, London",
+            "Raw": "London ( Kensington ) -Drawing - room Meeting - Hostess , Miss Holland ."
+        },
+        {
+            "Date": "MAY 12",
+            "Location": "Town Hall (small room), London (N. Paddington)",
+            "Raw": "London ( N. Paddington ) -Social Gathering - Town Hall ( small room ) -Miss Hodge and Mr. E. G. Smith - Music and Recitations .",
+            "Speakers": [
+                "Miss Hodge",
+                "Mr. E. G. Smith"
+            ]
+        },
+        {
+            "Date": "MAY 12",
+            "Location": "Tunbridge Wells",
+            "Raw": "Tunbridge Wells - Dr . Louise Martindale .",
+            "Speakers": [
+                "Dr. Louise Martindale"
+            ]
+        },
+        {
+            "Date": "MAY 12",
+            "Location": "Trinity Schools, Shrewsbury",
+            "Raw": "Shrewsbury - Trinity Schools - Rummage Sale ."
+        },
+        {
+            "Date": "MAY 13",
+            "Location": "Uxbridge",
+            "Raw": "Uxbridge Church League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff , Miss Canning .",
+            "Speakers": [
+                "The Rev. C. Hinscliff",
+                "Miss Canning"
+            ]
+        }
+    ],
+    "RawTable": "Forthcoming MeetingsAPRIL 28 . Glasgow Drawing - room Meeting - Miss Macnaught , Miss Waddell . London ( Hackney , N . ) - Public Meeting - Library Hall , Church Street , Stoke Newington - Miss Palliser , Dr. Cobb . ( Wandsworth ) -Drawing - room Meeting - Miss Mordan , Mrs. John Roskill . Crewe Election Meeting - Mixed Schools , West Street - Philipps , Miss Gill , Mr. Crawford . Crewe Election Meeting - Sandbach - Miss Robertson , Swanwick . North Herts -- Berkhamstead - Mrs . Robinson - Address on \" History of the Suffrage Movement . \" Leeds Dr. Helen Wilson- \" Social Evil . \" Coventry - Market Place - Mrs . Mayer . London ( Stoke Newington ) -Library Hall , Church Street - Palliser . Birmingham - Bull Ring . London North of England - Altrincham , St. Peter's Schools , Hale - K. D. Courtney . London ( Wandsworth and Putney ) -319 , Upper Richmond Road- Mrs. Cole's Drawing - room Meeting - Miss Clara Mordan . Sunderland - Alexandria Hall - Professor Mills . APRIL 29 . London ( Walworth ) -Meeting - Miss M. I. Corbett . London ( Ealing and Acton ) Public Meeting - Drill Hall , W. Ealing Miss Ruth Young , Mr. Theodore Gugenheim - Songs , Miss Hilda Bennett - Chair , Mr. Kennedy . Letchworth - Pixmore Institute - Mr . Baillie - Weaver . Dublin - 35 , Molesworth Street - Miss McNaull . Edinburgh 40 , Shandwick Place . London ( Walworth ) -Miss Margery Corbett , B.A. APRIL 30 . Norwich - Gladstone Club - Address and Debate - Dr . Mary Bell . MAY 2 . London ( Hackney , N. , Stoke Newington , N . ) - Young Women's Guild - 59 , Springdale Road , Stoke Newington- Miss H. D. Cockle . Birmingham - Miss Helen Fraser . London ( Stoke Newington ) -59 , Springdale Road - Miss Cockle . Aspley Guise - Public Meeting - Rev . Hugh Chapman . Sutton Coldfield - Drawing - room Meeting - Miss Fraser . Acock's Green - Public Hall - Miss Fraser . MAY 3 . Edgbaston Hall - Drawing - room Meeting - Miss Fraser . Coventry - Public Meeting - St . Mary's Hall - Lady Frances Balfour . Shrewsbury - Ladies ' Association for Abolition of State Regulation of Vice - St. Alkmund's Schoolroom Dr. Katherine Bushnell . MAY 4 . Shrewsbury At Home - Mrs . Mayer . Shrewsbury - St . Alkmund's Schoolroom . Harborne The Institute - At Home - Miss Fraser . Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . Knutsford Division - Annual Meeting at 84 , Deansgate Arcade , Manchester . MAY 5 . Dublin 35 , Molesworth Street - Committee Meeting Edinburgh - Drawing - room Meeting - Dr . Elsie Inglis . Sutton Coldfield - Public Meeting - Miss Fraser . Erdington - Drawing - room Meeting - Mrs . C. H. Pugh . North Herts Watford - Masonic Hall - Mrs . Workman- \" Women's Suffrage and Education . \" Bramhall - Drawing - room Meeting . The Shrewsbury - Public Meeting - Mns . Mayer . MAY 6 . Selly Oak Mrs. Henry Lloyd Wilson's Drawing - room Meeting- Miss Fraser . Selly Oak - Public Meeting - The Institute - Miss Fraser . Edinburgh - 40 , Shandwick Place - Miss Margaret Drummond . MAY 7 . Edgbaston - Westbourne - For Men - Mr . Cholmeley and Miss Fraser . MAY 9 . London ( Highgate ) -Spears Memorial Hall - Miss Mason's Lecture . Edinburgh - 9 , Learmouth Terrace - Drawing - room Meeting - Miss Lamond and Dr. Inglis . MAY 10 . Sunderland - Alexandria Hall - Drawing - room Meeting . London - Caxton Hall - Church League for W.S. \" Politics as Applied to Christianity . \" London ( Wimbledon ) -Drawing - room Meeting - Miss Clementina Black . London ( Ealing ) -At Home- \" Women under the Law . \" MAY 11 . London ( Balham ) -Drawing - room Meeting - Hostess , Mrs. Hodder Mr. Malcolm Mitchell and Miss H. D. Cockle- Chair , Mr. Hodder . London ( Kensington ) -Drawing - room Meeting - Hostess , Miss Holland . MAY 12 . London ( N. Paddington ) -Social Gathering - Town Hall ( small room ) -Miss Hodge and Mr. E. G. Smith - Music and Recitations . Tunbridge Wells - Dr . Louise Martindale . Shrewsbury - Trinity Schools - Rummage Sale . MAY 13 . Uxbridge Church League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff , Miss Canning .",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 7,
+            "Scan": 4
+        },
+        {
+            "Column": 2,
+            "Page": 8,
+            "Scan": 5
+        },
+        {
+            "Column": 1,
+            "Page": 9,
+            "Scan": 5
+        },
+        {
+            "Column": 1,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 2,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 1,
+            "Page": 11,
+            "Scan": 7
+        },
+        {
+            "Column": 1,
+            "Page": 12,
+            "Scan": 7
+        },
+        {
+            "Column": 2,
+            "Page": 12,
+            "Scan": 7
+        },
+        {
+            "Column": 1,
+            "Page": 13,
+            "Scan": 8
+        },
+        {
+            "Column": 2,
+            "Page": 13,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 14,
+            "Scan": 8
+        },
+        {
+            "Column": 2,
+            "Page": 14,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

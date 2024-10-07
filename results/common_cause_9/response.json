@@ -1,0 +1,389 @@
+{
+    "IssueDate": "1910-03-24",
+    "Meetings": [
+        {
+            "Date": "MARCH 25",
+            "Location": "40, Shandwick Place - Edinburgh",
+            "Raw": "MARCH 25. Edinburgh - 40, Shandwick Place - At Home - Mrs. Joseph Dobbie.",
+            "Description": "At Home",
+            "Hosts": [
+                "Mrs. Joseph Dobbie"
+            ]
+        },
+        {
+            "Date": "MARCH 30",
+            "Location": "Bull Ring - Birmingham",
+            "Raw": "MARCH 30. Birmingham - Bull Ring."
+        },
+        {
+            "Date": "MARCH 31",
+            "Location": "Willesden - London",
+            "Raw": "MARCH 31. London (Willesden) - Members' Meeting - Miss Palliser.",
+            "Description": "Members' Meeting",
+            "Speakers": [
+                "Miss Palliser"
+            ]
+        },
+        {
+            "Date": "MARCH 31",
+            "Location": "Liscard Concert Hall - Wallasey",
+            "Raw": "MARCH 31. Wallasey - Liscard Concert Hall - At Home - Miss Ashton.",
+            "Description": "At Home",
+            "Speakers": [
+                "Miss Ashton"
+            ]
+        },
+        {
+            "Date": "MARCH 31",
+            "Location": "Market - Rugby",
+            "Raw": "MARCH 31. Rugby - Market - Miss Gardner.",
+            "Speakers": [
+                "Miss Gardner"
+            ]
+        },
+        {
+            "Date": "APRIL 1",
+            "Location": "Co-operative Hall - Rugby",
+            "Raw": "APRIL 1. Rugby - Co-operative Hall - Miss Fraser.",
+            "Speakers": [
+                "Miss Fraser"
+            ]
+        },
+        {
+            "Date": "APRIL 1",
+            "Location": "Town Hall - Rugby",
+            "Raw": "APRIL 1. Rugby - Town Hall - Miss Fraser, Miss Gardner.",
+            "Speakers": [
+                "Miss Fraser",
+                "Miss Gardner"
+            ]
+        },
+        {
+            "Date": "APRIL 1",
+            "Location": "Salford, S.",
+            "Raw": "APRIL 1. Salford, S. - Open-air Meeting - Miss Robertson.",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Robertson"
+            ]
+        },
+        {
+            "Date": "APRIL 2",
+            "Location": "Parr Hall - Warrington",
+            "Raw": "APRIL 2. Warrington - Parr Hall - Mrs. Snowden, Miss Abadam.",
+            "Speakers": [
+                "Mrs. Snowden",
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "APRIL 4",
+            "Location": "Textile Hall - Bury",
+            "Raw": "APRIL 4. Bury - Textile Hall - Mrs. Snowden, Miss Ashton.",
+            "Speakers": [
+                "Mrs. Snowden",
+                "Miss Ashton"
+            ]
+        },
+        {
+            "Date": "APRIL 4",
+            "Location": "Heywood",
+            "Raw": "APRIL 4. Heywood - Members' Meeting - Miss Robertson.",
+            "Description": "Members' Meeting",
+            "Speakers": [
+                "Miss Robertson"
+            ]
+        },
+        {
+            "Date": "APRIL 5",
+            "Location": "Priory Rooms - Coventry",
+            "Raw": "APRIL 5. Coventry - Priory Rooms - Miss Gardner.",
+            "Speakers": [
+                "Miss Gardner"
+            ]
+        },
+        {
+            "Date": "APRIL 6",
+            "Location": "Windsor and Eton - London",
+            "Raw": "APRIL 6. London (Windsor and Eton) - Drawing-room Meeting - Mrs. Stanbury.",
+            "Description": "Drawing-room Meeting",
+            "Hosts": [
+                "Mrs. Stanbury"
+            ]
+        },
+        {
+            "Date": "APRIL 6",
+            "Location": "Windsor and Eton - London",
+            "Raw": "APRIL 6. London (Windsor and Eton) - Drawing-room Meeting.",
+            "Description": "Drawing-room Meeting"
+        },
+        {
+            "Date": "APRIL 6",
+            "Location": "Bull Ring - Birmingham",
+            "Raw": "APRIL 6. Birmingham - Bull Ring - Miss McHardy.",
+            "Speakers": [
+                "Miss McHardy"
+            ]
+        },
+        {
+            "Date": "APRIL 6",
+            "Location": "Burton-on-Trent",
+            "Raw": "APRIL 6. Burton-on-Trent - Miss Gardner.",
+            "Speakers": [
+                "Miss Gardner"
+            ]
+        },
+        {
+            "Date": "APRIL 6",
+            "Location": "Tunbridge Wells",
+            "Raw": "APRIL 6. Tunbridge Wells - Miss Power's Drawing-room Meeting - Madame Sarah Grand.",
+            "Description": "Drawing-room Meeting",
+            "Hosts": [
+                "Miss Power"
+            ],
+            "Speakers": [
+                "Madame Sarah Grand"
+            ]
+        },
+        {
+            "Date": "APRIL 6",
+            "Location": "36, Bridlesmith Gate - Nottingham",
+            "Raw": "APRIL 6. Nottingham - 36, Bridlesmith Gate - At Home - Tea and Cocoa.",
+            "Description": "At Home - Tea and Cocoa"
+        },
+        {
+            "Date": "APRIL 6",
+            "Location": "Central Mission Hall - Salford",
+            "Raw": "APRIL 6. Salford - Central Mission Hall - Mrs. Snowden.",
+            "Speakers": [
+                "Mrs. Snowden"
+            ]
+        },
+        {
+            "Date": "APRIL 7",
+            "Location": "Wakefield - Music Saloon",
+            "Raw": "APRIL 7. Wakefield - Music Saloon - Miss Royden, Miss Fielden.",
+            "Speakers": [
+                "Miss Royden",
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "APRIL 9",
+            "Location": "Drill Hall - Radcliffe",
+            "Raw": "APRIL 9. Radcliffe - Drill Hall - Social and Dance - Tickets 1s.",
+            "Description": "Social and Dance - Tickets 1s."
+        },
+        {
+            "Date": "APRIL 11",
+            "Location": "Salisbury",
+            "Raw": "APRIL 11. Salisbury - Miss Abadam - Evening Meeting.",
+            "Time": "Evening Meeting \n8.00pm"
+        },
+        {
+            "Date": "APRIL 11",
+            "Location": "35, Molesworth Street - Dublin",
+            "Raw": "APRIL 11. Dublin - 35, Molesworth Street - Committee Meeting.",
+            "Description": "Committee Meeting"
+        },
+        {
+            "Date": "APRIL 11",
+            "Location": "Free Library - West Bromwich",
+            "Raw": "APRIL 11. West Bromwich - Free Library - At Home.",
+            "Description": "At Home"
+        },
+        {
+            "Date": "APRIL 12",
+            "Location": "Northwich",
+            "Raw": "APRIL 12. Northwich - Drill Hall - Miss Robertson.",
+            "Speakers": [
+                "Miss Robertson"
+            ]
+        },
+        {
+            "Date": "APRIL 14",
+            "Location": "Town Hall - West Bromwich",
+            "Raw": "APRIL 14. West Bromwich - Town Hall - Men's League.",
+            "Hosts": [
+                "Men's League"
+            ]
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Public Hall - Alderley Edge",
+            "Raw": "APRIL 15. Alderley Edge - Public Hall - Miss M. Robertson.",
+            "Speakers": [
+                "Miss M. Robertson"
+            ]
+        },
+        {
+            "Date": "APRIL 15",
+            "Location": "Princes' Hall, St. Peter's Road - Bournemouth",
+            "Raw": "APRIL 15. Bournemouth - Princes' Hall, St. Peter's Road - Miss M. Corbett.",
+            "Speakers": [
+                "Miss M. Corbett"
+            ]
+        },
+        {
+            "Date": "APRIL 18",
+            "Location": "Peebles",
+            "Raw": "APRIL 18. Peebles - Paper on \"History of the Suffrage Movement,\" by the Hon. Secretary.",
+            "Description": "Paper on \"History of the Suffrage Movement,\" by the Hon. Secretary."
+        },
+        {
+            "Date": "APRIL 19",
+            "Location": "Birmingham",
+            "Raw": "APRIL 19. Birmingham - Mothers' Meeting - Miss Gardner.",
+            "Description": "Mothers' Meeting",
+            "Speakers": [
+                "Miss Gardner"
+            ]
+        },
+        {
+            "Date": "APRIL 19",
+            "Location": "Town Hall - Macclesfield",
+            "Raw": "APRIL 19. Macclesfield - Town Hall - Mrs. Snowden.",
+            "Speakers": [
+                "Mrs. Snowden"
+            ]
+        },
+        {
+            "Date": "APRIL 20",
+            "Location": "Guildhall - Windsor and Eton - London",
+            "Raw": "APRIL 20. London (Windsor and Eton) - Guildhall - Mr. Baillie-Weaver.",
+            "Speakers": [
+                "Mr. Baillie-Weaver"
+            ]
+        },
+        {
+            "Date": "APRIL 20",
+            "Location": "Co-op. Educational Institute - Hull",
+            "Raw": "APRIL 20. Hull - Co-op. Educational Institute - Mrs. Rackham.",
+            "Speakers": [
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "APRIL 20",
+            "Location": "Grand Hotel - Scarborough",
+            "Raw": "APRIL 20. Scarborough - Grand Hotel - Conversazione - Mrs. Swanwick - \"How the Vote was Won,\" by Filey Society.",
+            "Description": "Conversazione - \"How the Vote was Won,\" by Filey Society",
+            "Speakers": [
+                "Mrs. Swanwick"
+            ]
+        },
+        {
+            "Date": "APRIL 20",
+            "Location": "Bull Ring - Birmingham",
+            "Raw": "APRIL 20. Birmingham - Bull Ring - Miss McHardy.",
+            "Speakers": [
+                "Miss McHardy"
+            ]
+        },
+        {
+            "Date": "APRIL 20",
+            "Location": "Village Guild - Bournville",
+            "Raw": "APRIL 20. Bournville - Village Guild - Miss Gardner.",
+            "Speakers": [
+                "Miss Gardner"
+            ]
+        },
+        {
+            "Date": "APRIL 21",
+            "Location": "Midland Institute - Birmingham",
+            "Raw": "APRIL 21. Birmingham - Midland Institute - Miss Mason's Lecture.",
+            "Description": "Miss Mason's Lecture"
+        },
+        {
+            "Date": "APRIL 26",
+            "Location": "35, Molesworth Street - Dublin",
+            "Raw": "APRIL 26. Dublin - 35, Molesworth Street - Committee Meeting.",
+            "Description": "Committee Meeting"
+        },
+        {
+            "Date": "APRIL 28",
+            "Location": "Library Hall, Church Street - Stoke Newington - London",
+            "Raw": "APRIL 28. London (Stoke Newington) - Library Hall, Church Street - Miss Palliser.",
+            "Speakers": [
+                "Miss Palliser"
+            ]
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Jobbin's Tea Rooms - Blackheath - London",
+            "Raw": "MAY 5. London (Blackheath) - Jobbin's Tea Rooms - Miss Sheepshanks.",
+            "Speakers": [
+                "Miss Sheepshanks"
+            ]
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "35, Molesworth Street - Dublin",
+            "Raw": "MAY 5. Dublin - 35, Molesworth Street - Committee Meeting.",
+            "Description": "Committee Meeting"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "35, Molesworth Street - Dublin",
+            "Raw": "MAY 5. Dublin - 35, Molesworth Street - Miss Mason's Lantern Lecture.",
+            "Description": "Miss Mason's Lantern Lecture"
+        },
+        {
+            "Date": "MAY 5",
+            "Location": "Birmingham",
+            "Raw": "MAY 5. Birmingham - Mothers' Meeting - Miss Gardner.",
+            "Description": "Mothers' Meeting",
+            "Speakers": [
+                "Miss Gardner"
+            ]
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nMARCH 25. Edinburgh - 40, Shandwick Place - At Home - Mrs. Joseph Dobbie.\nMARCH 30. Birmingham - Bull Ring.\nMARCH 31. London (Willesden) - Members' Meeting - Miss Palliser.\nWallasey - Liscard Concert Hall - At Home - Miss Ashton.\nRugby - Market - Miss Gardner.\nAPRIL 1. Rugby - Co-operative Hall - Miss Fraser.\n8.0\n3.30\n8.0\n8.0\n3.0\n8.0\n300\n00 Rugby - Town Hall - Miss Fraser, Miss Gardner.\nSalford, S. - Open-air Meeting - Miss Robertson.\nAPRIL 2. Warrington - Parr Hall - Mrs. Snowden, Miss Abadam.\nAPRIL 4.\n7.30 Bury - Textile Hall - Mrs. Snowden, Miss Ashton.\nHeywood - Members' Meeting - Miss Robertson.\nAPRIL 5.\n7.30 Coventry - Priory Rooms - Miss Gardner.\nAPRIL 6. London (Windsor and Eton) - Drawing-room Meeting - Mrs. Stanbury.\nLondon (Windsor and Eton) - Drawing-room Meeting.\nBirmingham - Bull Ring - Miss McHardy.\nBurton-on-Trent - Miss Gardner.\nTunbridge Wells - Miss Power's Drawing-room Meeting - Madame Sarah Grand.\n3.0 Meeting - Mrs.\n3.30\n4.30\n8.0\n3.0 Meeting - Nottingham - 36, Bridlesmith Gate - At Home - Tea and Cocoa.\n7-9 Salford - Central Mission Hall - Mrs. Snowden.\nAPRIL 7.\n8.0\n11.30\n3.0 Wakefield - Music Saloon - Miss Royden, Miss Fielden.\nAPRIL 9.\n8.0 Radcliffe - Drill Hall - Social and Dance - Tickets 1s.\nAPRIL 11.\n5.0 Salisbury - Miss Abadam - Evening Meeting.\nDublin - 35, Molesworth Street - Committee Meeting.\nWest Bromwich - Free Library - At Home.\nAPRIL 12. Northwich - Drill Hall - Miss Robertson.\nAPRIL 14. West Bromwich - Town Hall - Men's League.\nAPRIL 15. Alderley Edge -- Public Hall - Miss M. Robertson.\n4.30\n8.0\n8.0\n8.0 Bournemouth - Princes' Hall, St. Peter's Road - Miss M. Corbett.\n4.0 APRIL 18. Peebles - Paper on \"History of the Suffrage Movement,\" by the Hon. Secretary.\nBirmingham - Mothers' Meeting - Miss Gardner.\nAPRIL 19. Macclesfield - Town Hall - Mrs. Snowden.\nAPRIL 20. London (Windsor and Eton) - Guildhall - Mr. Baillie-Weaver.\nHull - Co-op. Educational Institute - Mrs. Rackham.\nScarborough - Grand\n3.0\n8.0\n7.30\n8.0 Hotel - Conversazione - Mrs. Swanwick - \"How the Vote was Won,\" by Filey Society.\nBirmingham - Bull Ring - Miss McHardy.\nBournville - Village Guild - Miss Gardner.\nAPRIL 21.\n3.0\n5.0\n11.30\n8.0\n3.0 Birmingham - Midland Institute - Miss Mason's Lecture.\nAPRIL 28.\n8.0 London (Stoke Newington) - Library Hall, Church Street - Miss Palliser.\n8.0 MAY 5.\n11.30 London (Blackheath) - Jobbin's Tea Rooms - Miss Sheepshanks.\nDublin - 35, Molesworth Street - Committee Meeting.\nDublin - 35, Molesworth Street - Miss Mason's Lantern Lecture.\nBirmingham - Mothers' Meeting - Miss Gardner.\nAPRIL 26. Dublin - 35, Molesworth Street - Committee Meeting.",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 9,
+            "Scan": 6
+        },
+        {
+            "Column": 1,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 2,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 1,
+            "Page": 11,
+            "Scan": 7
+        },
+        {
+            "Column": 2,
+            "Page": 11,
+            "Scan": 7
+        },
+        {
+            "Column": 1,
+            "Page": 12,
+            "Scan": 7
+        },
+        {
+            "Column": 2,
+            "Page": 12,
+            "Scan": 7
+        },
+        {
+            "Column": 1,
+            "Page": 13,
+            "Scan": 8
+        },
+        {
+            "Column": 2,
+            "Page": 13,
+            "Scan": 8
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "IssueDate": "1909-06-10",
+    "Meetings": [
+        {
+            "Date": "June 10",
+            "Location": "Harleston",
+            "Raw": "HARLESTON , Open - air Dance at \" Caltofts . \" Profits to be divided at the discretion of the Committee between National and local funds for Women's Suffrage .",
+            "Description": "Open - air Dance at \" Caltofts . \" Profits to be divided at the discretion of the Committee between National and local funds for Women's Suffrage ."
+        },
+        {
+            "Date": "June 10",
+            "Location": "85, Deansgate Arcade",
+            "Raw": "NORTH OF ENGLAND SOCIETY , Monthly Meeting , 85 , Deansgate Arcade .",
+            "Description": "Monthly Meeting"
+        },
+        {
+            "Date": "June 10",
+            "Location": "Birmingham",
+            "Raw": "BIRMINGHAM , Miss Ashton , \" At Home . \"",
+            "Description": "Miss Ashton , \" At Home .\"",
+            "Time": "7-11 p.m."
+        },
+        {
+            "Date": "June 14",
+            "Location": "Midland Institute, Birmingham",
+            "Raw": "BIRMINGHAM SOCIETY , Midland Insti- Speaker , Miss Sadler .",
+            "Speakers": [
+                "Miss Sadler"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "June 14",
+            "Location": "Moseley, Birmingham",
+            "Raw": "BIRMINGHAM SOCIETY , Moseley , Drawing Room Meet- ing . Speakers , The Hon . Mrs . Bertrand Russell , Lady Isabel Margesson .",
+            "Speakers": [
+                "The Hon. Mrs. Bertrand Russell",
+                "Lady Isabel Margesson"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "June 14",
+            "Location": "16, Sussex Square, W., Beckenham, London",
+            "Raw": "LONDON ( Beckenham ) , 16 , Hostess , Mrs . Thomasson . Sussex Square , W. Speakers , Mrs . Rackham , Miss Abadam .",
+            "Hosts": [
+                "Mrs. Thomasson"
+            ],
+            "Speakers": [
+                "Mrs. Rackham",
+                "Miss Abadam"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "June 15",
+            "Location": "Forfar's Restaurant, Western Road, Brighton and Hove",
+            "Raw": "BRIGHTON AND HOVE , Meet- ing for Members and their Friends , at Forfar's Restaurant , Western Road .",
+            "Description": "Meeting for Members and their Friends",
+            "Time": "4.45"
+        },
+        {
+            "Date": "June 15",
+            "Location": "52, Queen Street, Wolverhampton, Birmingham",
+            "Raw": "BIRMINGHAM SOCIETY , Speaker , Miss Wodehouse . Wolverhampton , 52 , Queen Street .",
+            "Speakers": [
+                "Miss Wodehouse"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "June 16",
+            "Location": "Kings Norton, Birmingham",
+            "Raw": "BIRMINGHAM SOCIETY , Open- Speakers , Mrs . Cooper , Miss air Meeting , Kings Norton . Gardner .",
+            "Speakers": [
+                "Mrs. Cooper",
+                "Miss Gardner"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "June 16",
+            "Location": "Bristol",
+            "Raw": "BRISTOL , Drawing - room Meet- Hostesses , The Misses Sturge . ing . Chair , Miss Talbot . Speaker , Mrs . Rackham .",
+            "Hosts": [
+                "The Misses Sturge"
+            ],
+            "Speakers": [
+                "Mrs. Rackham"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "June 16",
+            "Location": "Bristol",
+            "Raw": "BRISTOL , Drawing - room Meet- Hostesses , The Misses Tanner . ing .",
+            "Hosts": [
+                "The Misses Tanner"
+            ]
+        },
+        {
+            "Date": "June 17",
+            "Location": "Bristol",
+            "Raw": "BRISTOL , Drawing - room Meet- ing .",
+            "Time": "8.0"
+        },
+        {
+            "Date": "June 17",
+            "Location": "Town Hall, Llangollen",
+            "Raw": "LLANGOLLEN , Public Meeting , Town Hall .",
+            "Time": "7.30"
+        },
+        {
+            "Date": "June 17",
+            "Location": "186, Highbury New Park, Islington, London",
+            "Raw": "LONDON ( Islington ) , Drawing- room Meeting , Women only , 186 , Highbury New Park .",
+            "Description": "Women only",
+            "Time": "8.30"
+        },
+        {
+            "Date": "June 18",
+            "Location": "Olton Schools, Birmingham",
+            "Raw": "BIRMINGHAM , Olton , Schools , Men's League .",
+            "Description": "Men's League",
+            "Time": "9.0"
+        },
+        {
+            "Date": "June 18",
+            "Location": "Cumnor House, Kenilworth, Warwick and Leamington",
+            "Raw": "WARWICK AND LEAMING- TON , Monthly Meeting , Cumnor House , Kenilworth .",
+            "Description": "Monthly Meeting",
+            "Time": "7.30"
+        },
+        {
+            "Date": "June 19",
+            "Location": "Friary Grounds, Derby",
+            "Raw": "DERBY , Garden Meeting in the Friary Grounds , by kind per- mission of Mrs . Boden .",
+            "Hosts": [
+                "Mrs. Boden"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "June 19",
+            "Location": "The Friary, London (Beckenham)",
+            "Raw": "LONDON ( Beckenham ) , The Speaker , Miss Abadam . Friary .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "June 22-29",
+            "Location": "Birmingham",
+            "Raw": "BIRMINGHAM SOCIETY , Miss Costelloe and others .",
+            "Speakers": [
+                "Miss Costelloe",
+                "others"
+            ]
+        },
+        {
+            "Date": "June 22",
+            "Location": "Bewdley, Birmingham",
+            "Raw": "BIRMINGHAM , Motor Cam- Motor Campaign . Bewdley .",
+            "Description": "Motor Campaign",
+            "Time": "5.0"
+        },
+        {
+            "Date": "June 22",
+            "Location": "Stourport, Birmingham",
+            "Raw": "Stourport .",
+            "Time": "7.0"
+        },
+        {
+            "Date": "June 23",
+            "Location": "Kidderminster, Birmingham",
+            "Raw": "BIRMINGHAM Motor Campaign . Kidderminster .",
+            "Description": "Motor Campaign",
+            "Time": "7.30"
+        },
+        {
+            "Date": "June 23",
+            "Location": "Stourbridge, Birmingham",
+            "Raw": "Stourbridge .",
+            "Time": "8.30"
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nJUNE 10 . HARLESTON , Open - air Dance at \" Caltofts . \" Profits to be divided at the discretion of the Committee between National and local funds for Women's Suffrage .\nNORTH OF ENGLAND SOCIETY , Monthly Meeting , 85 , Deansgate Arcade . Miss Ashton , \" At Home . \"\nJUNE 14 . BIRMINGHAM , Midland Insti- Speaker , Miss Sadler .\nBIRMINGHAM 7-11 p.m. 3.30 5.0 tute .\nSOCIETY , Moseley , Drawing Room Meet- ing . Speakers , The Hon . Mrs . Bertrand Russell , Lady Isabel Margesson . 3.30\nLONDON ( Beckenham ) , 16 , Hostess , Mrs . Thomasson . Sussex Square , W. Speakers , Mrs . Rackham , Miss Abadam . 3.30\nJUNE 15 . BRIGHTON AND HOVE , Meet- Speaker , Miss Cicely Corbett . ing for Members and their Friends , at Forfar's Restaurant , Western Road .\nBIRMINGHAM SOCIETY , Speaker , Miss Wodehouse . 3.30 Wolverhampton , 52 , Queen Street .\nJUNE 16 . BIRMINGHAM SOCIETY , Open- Speakers , Mrs . Cooper , Miss air Meeting , Kings Norton . Gardner .\nBRISTOL , Drawing - room Meet- Hostesses , The Misses Sturge . ing . Chair , Miss Talbot . Speaker , Mrs . Rackham .\nBRISTOL , Drawing - room Meet- Hostesses , The Misses Tanner . ing .\nJUNE 17 . BRISTOL , Drawing - room Meet- ing .\nLLANGOLLEN , Public Meeting , Town Hall .\nLONDON ( Islington ) , Drawing- room Meeting , Women only , 186 , Highbury New Park .\nJUNE 18 . BIRMINGHAM , Olton , Schools , Men's League .\nWARWICK AND LEAMING- TON , Monthly Meeting , Cumnor House , Kenilworth .\nJUNE 19 . DERBY , Garden Meeting in the Friary Grounds , by kind per- mission of Mrs . Boden .\nLONDON Friary .\nJUNE 22-29 . BIRMINGHAM Chair , Miss Geraldine Hodgson D.Litt . SOCIETY , Miss Costelloe and others .\nBIRMINGHAM , Motor Cam- Motor Campaign . JUNE 22 .\npaign . Bewdley . Stourport .\nJUNE 23 . BIRMINGHAM Motor Campaign . Kidderminster . Stourbridge . SOCIETY , The\nJUNE 22 . NORTH HERTS . , Drawing - room Meeting , by kind permission of Mr . and Mrs . Pearsall , at Glood Hame . Speaker , Hon . Mrs . Bertrand Russell .\nJUNE 24 . NORTH HERTS . , Public Meet- Speaker , Hon . Mrs . Bertrand ing , Latchworth . Russell . Chair , Dr . Hector Munro .\nBIRMINGHAM Motor Campaign . JUNE 25 .\nSOCIETY , Droitwich . Bromsgrove . Alvechurch .\nBIRMINGHAM , Motor Cam- paign . Shipston . Kineton .\nDERBY , Orpheus Hall , Stafford Street . LONDON ( Wandsworth ) , At Home . WOLVERHAMPTON , 52 , Queen Chair , Miss Cook . Speaker , Mrs . Street .\nBIRMINGHAM , Meeting for Teachers , Westbourne , Edg- baston . JUNE 27 . Hostesses , The Misses Hill and Mrs . Shillington . Speakers , Miss Jenner , Rev . W. G. Tarrant , B.A. Speaker , Miss Hollings .\nJUNE 27 . BIRMINGHAM , Motor Cam- Speaker , Miss Sterling . Tamworth , BIRMINGHAM , Motor Cam- Cannock .\npaign . Coleshill .\nJUNE 28 . paign . Penkridge . Brewood .\nJUNE 29 . BIRMINGHAM , Midland Insti- Speaker , Mr . Tillyard . tute .\nJUNE 30 . CARDIFF , Green Meadow , Hostess , Mrs . H. Lewis . Garden Party . Speaker , Miss Abadam .",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 11,
+            "Scan": 6
+        },
+        {
+            "Column": 2,
+            "Page": 11,
+            "Scan": 6
+        }
+    ]
+}

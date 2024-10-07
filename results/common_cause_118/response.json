@@ -1,0 +1,62 @@
+{
+    "IssueDate": "JANUARY 18. 1912",
+    "Meetings": [
+        {
+            "Date": "JANUARY 23rd",
+            "Location": "58, Victoria Street, S.W.",
+            "Raw": "JANUARY 23rd, 3.30 to 6. 58, Victoria Street, S.W. Chair: Mrs. THEODORE WILLIAMS. A. MAUDE ROYDEN (on \"A Suffragist's Impressions of America\"), Miss FRANCES STERLING. Discussion Invited",
+            "Speakers": [
+                "The LADY FRANCES BALFOUR",
+                "A. MAUDE ROYDEN",
+                "Miss FRANCES STERLING"
+            ],
+            "Time": "3.30 to 6"
+        },
+        {
+            "Date": "JANUARY 23rd",
+            "Location": "Eccles Town Hall",
+            "Raw": "JANUARY 23rd Eccles Town Hall Dramatic Entertainment",
+            "Description": "Dramatic Entertainment",
+            "Time": "Evening"
+        },
+        {
+            "Date": "FEBRUARY 23rd",
+            "Location": "Albert Hall",
+            "Raw": "FEBRUARY 23rd Albert Hall The arrangements for the Albert Hall meeting on Friday, February 23rd, are proceeding rapidly, and it seems probable that the hall will be full to overflowing. Applications for seats should be sent immediately to Miss Strachey, 58, Victoria Street, S. W.",
+            "Description": "The arrangements for the Albert Hall meeting on Friday, February 23rd, are proceeding rapidly, and it seems probable that the hall will be full to overflowing. Applications for seats should be sent immediately to Miss Strachey, 58, Victoria Street, S. W."
+        }
+    ],
+    "RawTable": "Forthcoming Meetings ... 710",
+    "TableSpan": [
+        {
+            "Column": 2,
+            "Page": 3,
+            "Scan": 2
+        },
+        {
+            "Column": 1,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 2,
+            "Page": 10,
+            "Scan": 6
+        },
+        {
+            "Column": 1,
+            "Page": 14,
+            "Scan": 8
+        },
+        {
+            "Column": 2,
+            "Page": 14,
+            "Scan": 8
+        },
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

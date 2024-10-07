@@ -1,0 +1,131 @@
+{
+    "IssueDate": "1910-06-09",
+    "Meetings": [
+        {
+            "Date": "1910-06-09",
+            "Location": "Church Crookham - Schools",
+            "Raw": "JUNE 9. Church Crookham - Schools - Miss Duncan",
+            "Speakers": [
+                "Miss Duncan"
+            ]
+        },
+        {
+            "Date": "1910-06-09",
+            "Location": "London (Camberwell) - Grove Lane",
+            "Raw": "London (Camberwell) -Grove Lane - Miss Dawson",
+            "Speakers": [
+                "Miss Dawson"
+            ]
+        },
+        {
+            "Date": "1910-06-09",
+            "Location": "Birmingham (Harborne) - 27, Lordswood Road",
+            "Raw": "Birmingham (Harborne) -27, Lordswood Road."
+        },
+        {
+            "Date": "1910-06-09",
+            "Location": "Wallasey and Wirral - Conway Street",
+            "Raw": "Wallasey and Wirral - Open - air Meeting, Conway Street - Miss Eskrigge",
+            "Description": "Open-air meeting",
+            "Speakers": [
+                "Miss Eskrigge"
+            ]
+        },
+        {
+            "Date": "1910-06-09",
+            "Location": "Plymouth - Mrs. Williams' Garden",
+            "Raw": "Plymouth Mrs. Williams' Garden Party",
+            "Description": "Garden party",
+            "Hosts": [
+                "Mrs. Williams"
+            ]
+        },
+        {
+            "Date": "1910-06-09",
+            "Location": "Wolverhampton - Tettenhall Wood",
+            "Raw": "Wolverhampton - Tettenhall Wood - Mrs. Mayer",
+            "Speakers": [
+                "Mrs. Mayer"
+            ]
+        },
+        {
+            "Date": "1910-06-10",
+            "Location": "Edinburgh - 40, Shandwick Place",
+            "Raw": "Edinburgh - 40, Shandwick Place - Miss Ellen Walshe",
+            "Speakers": [
+                "Miss Ellen Walshe"
+            ]
+        },
+        {
+            "Date": "1910-06-10",
+            "Location": "Shrewsbury - Old Porch House",
+            "Raw": "Shrewsbury - General Meeting at Old Porch House.",
+            "Description": "General Meeting"
+        },
+        {
+            "Date": "1910-06-10",
+            "Location": "London (Chiswick and Bedford Park)",
+            "Raw": "London (Chiswick and Bedford Park) -Open - air Meeting - Miss H. D. Cockle",
+            "Description": "Open-air meeting",
+            "Speakers": [
+                "Miss H. D. Cockle"
+            ]
+        },
+        {
+            "Date": "1910-06-10",
+            "Location": "London (Enfield)",
+            "Raw": "London (Enfield) Drawing - room Meeting - Miss H. D. Cockle",
+            "Description": "Drawing-room meeting",
+            "Speakers": [
+                "Miss H. D. Cockle"
+            ]
+        },
+        {
+            "Date": "1910-06-10",
+            "Location": "London (Enfield) - Chase Green",
+            "Raw": "London (Enfield) -Open - air Meeting - Chase Green - Miss H. D. Cockle",
+            "Description": "Open-air meeting",
+            "Speakers": [
+                "Miss H. D. Cockle"
+            ]
+        },
+        {
+            "Date": "1910-06-10",
+            "Location": "Wolverhampton - Willenhall Council Chamber",
+            "Raw": "Wolverhampton - Willenhall Council Chamber - Mrs. Mayer",
+            "Speakers": [
+                "Mrs. Mayer"
+            ]
+        },
+        {
+            "Date": "1910-06-11",
+            "Location": "London (Highgate and N. St. Pancras) - Near Archway",
+            "Raw": "London (Highgate and N. St. Pancras) -Near Archway - Miss Janet Thomson",
+            "Speakers": [
+                "Miss Janet Thomson"
+            ]
+        },
+        {
+            "Date": "1910-06-11",
+            "Location": "Edinburgh - Aln Lodge",
+            "Raw": "Edinburgh Aln Lodge - Speakers for and against.",
+            "Description": "Speakers for and against"
+        },
+        {
+            "Date": "1910-06-11",
+            "Location": "Wolverhampton - Market Patch",
+            "Raw": "Wolverhampton - Market Patch - Mrs. Mayer",
+            "Speakers": [
+                "Mrs. Mayer"
+            ]
+        }
+    ],
+    "RawTable": "Forthcoming Meetings\nJUNE 9. Church Crookham - Schools - Miss Duncan . London (Camberwell) -Grove Lane - Miss Dawson . Birmingham (Harborne) -27, Lordswood Road . Wallasey and Wirral - Open - air Meeting, Conway Street - Miss Eskrigge . Plymouth Mrs. Williams' Garden Party . Wolverhampton - Tettenhall Wood - Mrs. Mayer . JUNE 10. Edinburgh - 40, Shandwick Place - Miss Ellen Walshe . Shrewsbury - General Meeting at Old Porch House . London (Chiswick and Bedford Park) -Open - air Meeting - Miss H. D. Cockle . London (Enfield) Drawing - room Meeting - Miss H. D. Cockle . London (Enfield) -Open - air Meeting - Chase Green - Miss H. D. Cockle . Wolverhampton - Willenhall Council Chamber - Mrs. Mayer . JUNE 11. London (Highgate and N. St. Pancras) -Near Archway - Miss Janet Thomson . Edinburgh Aln Lodge - Speakers for and against . Wolverhampton - Market Patch - Mrs. Mayer .",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}

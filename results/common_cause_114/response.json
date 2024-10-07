@@ -1,0 +1,20 @@
+{
+    "IssueDate": "1911-12-21",
+    "Meetings": [
+        {
+            "Date": "1912-01-01",
+            "Location": "Uxbridge Brookfield Restaurant, High Street",
+            "Raw": "JANUARY 1 . Uxbridge Brookfield Restaurant , High Street - Public \" At Home \" - Subject , \" Civilisation . \"",
+            "Description": "Public \"At Home\"",
+            "Time": null
+        }
+    ],
+    "RawTable": "Forthcoming Meetings JANUARY 1 . Uxbridge Brookfield Restaurant , High Street - Public \" At Home \" - Subject , \" Civilisation . \"",
+    "TableSpan": [
+        {
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
+        }
+    ]
+}
