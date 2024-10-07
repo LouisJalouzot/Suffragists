@@ -10,3 +10,5 @@ git+https://github.com/nikhilweee/iopath
 layoutparser[ocr]
 torchvision
 wheel
+seaborn
+scikit-learn

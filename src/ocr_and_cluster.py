@@ -31,6 +31,13 @@ def ocr_and_cluster_image(image, output_path):
     layout = ocr_agent.gather_full_text_annotation(
         ocr, agg_level=lp.GCVFeatureType.WORD
     ).to_dataframe()
+
+    if len(layout) == 0:
+        return
+    elif len(layout) < 4:
+        layout[["page", "column"]] = 1
+        return layout
+
     layout["x_center"] = layout.points.apply(lambda x: np.mean(x[::2]))
     layout["y_center"] = layout.points.apply(lambda x: np.mean(x[1::2]))
     # 3x x_center feature to help with clustering
@@ -113,6 +120,8 @@ def ocr_and_cluster(issues: List[str], output_path: str = "results"):
         df = []
         text = ""
         for scan, layout in enumerate(layouts):
+            if layout is None:
+                continue
             layout["scan"] = scan + 1
             text += f"# Scan {scan + 1}\n"
             layout["page"] = layout.page + n_pages
@@ -120,7 +129,7 @@ def ocr_and_cluster(issues: List[str], output_path: str = "results"):
                 text += f"## Page {page}\n"
                 for col, layout_col in layout_page.groupby("column"):
                     text += f"### Column {col}\n\n"
-                    text += " ".join(layout_col.text)
+                    text += " ".join(layout_col.text.astype(str))
                     text += "\n\n\n"
                 text += "\n"
             text += "\n"
