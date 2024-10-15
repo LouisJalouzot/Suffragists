@@ -1,24 +1,33 @@
-Date,Location,Raw,Description,Time,Speakers,Hosts,Issue date
-June 10,Harleston,"HARLESTON , Open - air Dance at "" Caltofts . "" Profits to be divided at the discretion of the Committee between National and local funds for Women's Suffrage .","Open - air Dance at "" Caltofts . "" Profits to be divided at the discretion of the Committee between National and local funds for Women's Suffrage .",,,,1909-06-10
-June 10,"85, Deansgate Arcade","NORTH OF ENGLAND SOCIETY , Monthly Meeting , 85 , Deansgate Arcade .",Monthly Meeting,,,,1909-06-10
-June 10,Birmingham,"BIRMINGHAM , Miss Ashton , "" At Home . ""","Miss Ashton , "" At Home .""",7-11 p.m.,,,1909-06-10
-June 14,"Midland Institute, Birmingham","BIRMINGHAM SOCIETY , Midland Insti- Speaker , Miss Sadler .",,3.30,['Miss Sadler'],,1909-06-10
-June 14,"Moseley, Birmingham","BIRMINGHAM SOCIETY , Moseley , Drawing Room Meet- ing . Speakers , The Hon . Mrs . Bertrand Russell , Lady Isabel Margesson .",,3.30,"['The Hon. Mrs. Bertrand Russell', 'Lady Isabel Margesson']",,1909-06-10
-June 14,"16, Sussex Square, W., Beckenham, London","LONDON ( Beckenham ) , 16 , Hostess , Mrs . Thomasson . Sussex Square , W. Speakers , Mrs . Rackham , Miss Abadam .",,3.30,"['Mrs. Rackham', 'Miss Abadam']",['Mrs. Thomasson'],1909-06-10
-June 15,"Forfar's Restaurant, Western Road, Brighton and Hove","BRIGHTON AND HOVE , Meet- ing for Members and their Friends , at Forfar's Restaurant , Western Road .",Meeting for Members and their Friends,4.45,,,1909-06-10
-June 15,"52, Queen Street, Wolverhampton, Birmingham","BIRMINGHAM SOCIETY , Speaker , Miss Wodehouse . Wolverhampton , 52 , Queen Street .",,3.30,['Miss Wodehouse'],,1909-06-10
-June 16,"Kings Norton, Birmingham","BIRMINGHAM SOCIETY , Open- Speakers , Mrs . Cooper , Miss air Meeting , Kings Norton . Gardner .",,7.30,"['Mrs. Cooper', 'Miss Gardner']",,1909-06-10
-June 16,Bristol,"BRISTOL , Drawing - room Meet- Hostesses , The Misses Sturge . ing . Chair , Miss Talbot . Speaker , Mrs . Rackham .",,3.30,['Mrs. Rackham'],['The Misses Sturge'],1909-06-10
-June 16,Bristol,"BRISTOL , Drawing - room Meet- Hostesses , The Misses Tanner . ing .",,,,['The Misses Tanner'],1909-06-10
-June 17,Bristol,"BRISTOL , Drawing - room Meet- ing .",,8.0,,,1909-06-10
-June 17,"Town Hall, Llangollen","LLANGOLLEN , Public Meeting , Town Hall .",,7.30,,,1909-06-10
-June 17,"186, Highbury New Park, Islington, London","LONDON ( Islington ) , Drawing- room Meeting , Women only , 186 , Highbury New Park .",Women only,8.30,,,1909-06-10
-June 18,"Olton Schools, Birmingham","BIRMINGHAM , Olton , Schools , Men's League .",Men's League,9.0,,,1909-06-10
-June 18,"Cumnor House, Kenilworth, Warwick and Leamington","WARWICK AND LEAMING- TON , Monthly Meeting , Cumnor House , Kenilworth .",Monthly Meeting,7.30,,,1909-06-10
-June 19,"Friary Grounds, Derby","DERBY , Garden Meeting in the Friary Grounds , by kind per- mission of Mrs . Boden .",,3.30,,['Mrs. Boden'],1909-06-10
-June 19,"The Friary, London (Beckenham)","LONDON ( Beckenham ) , The Speaker , Miss Abadam . Friary .",,,['Miss Abadam'],,1909-06-10
-June 22-29,Birmingham,"BIRMINGHAM SOCIETY , Miss Costelloe and others .",,,"['Miss Costelloe', 'others']",,1909-06-10
-June 22,"Bewdley, Birmingham","BIRMINGHAM , Motor Cam- Motor Campaign . Bewdley .",Motor Campaign,5.0,,,1909-06-10
-June 22,"Stourport, Birmingham",Stourport .,,7.0,,,1909-06-10
-June 23,"Kidderminster, Birmingham",BIRMINGHAM Motor Campaign . Kidderminster .,Motor Campaign,7.30,,,1909-06-10
-June 23,"Stourbridge, Birmingham",Stourbridge .,,8.30,,,1909-06-10
+Date,Location,Raw,Issue date
+JUNE 10,HARLESTON,"JUNE 10. HARLESTON, Open-air Dance at ""Caltofts."" Profits to be divided at the discretion of the Committee between National and local funds for Women's Suffrage.","JUNE 10, 1909"
+JUNE 10,"NORTH OF ENGLAND SOCIETY, 85, Deansgate Arcade","NORTH OF ENGLAND SOCIETY, Monthly Meeting, 85, Deansgate Arcade. Miss Ashton, ""At Home.""","JUNE 10, 1909"
+JUNE 14,"BIRMINGHAM, Midland Institute","JUNE 14. BIRMINGHAM, Midland Institute. Speaker, Miss Sadler.","JUNE 10, 1909"
+JUNE 14,"BIRMINGHAM, Moseley","BIRMINGHAM SOCIETY, Moseley, Drawing Room Meeting. Speakers, The Hon. Mrs. Bertrand Russell, Lady Isabel Margesson.","JUNE 10, 1909"
+JUNE 14,"LONDON (Beckenham), 16, Sussex Square, W","LONDON (Beckenham), 16, Sussex Square, W. Hostess, Mrs. Thomasson. Speakers, Mrs. Rackham, Miss Abadam.","JUNE 10, 1909"
+JUNE 15,"BRIGHTON AND HOVE, Forfar's Restaurant, Western Road","JUNE 15. BRIGHTON AND HOVE, Meeting for Members and their Friends, at Forfar's Restaurant, Western Road.","JUNE 10, 1909"
+JUNE 15,"BIRMINGHAM, 52, Queen Street, Wolverhampton","BIRMINGHAM SOCIETY, Wolverhampton, 52, Queen Street. Speaker, Miss Wodehouse.","JUNE 10, 1909"
+JUNE 16,"BIRMINGHAM, Kings Norton","JUNE 16. BIRMINGHAM SOCIETY, Open-air Meeting, Kings Norton. Speakers, Mrs. Cooper, Miss Gardner.","JUNE 10, 1909"
+JUNE 16,BRISTOL,"BRISTOL, Drawing-room Meeting. Hostesses, The Misses Sturge. Chair, Miss Talbot. Speaker, Mrs. Rackham.","JUNE 10, 1909"
+JUNE 16,BRISTOL,"BRISTOL, Drawing-room Meeting. Hostesses, The Misses Tanner. Speaker, Mrs. Rackham.","JUNE 10, 1909"
+JUNE 17,BRISTOL,"JUNE 17. BRISTOL, Drawing-room Meeting. Speaker, Mrs. Rackham.","JUNE 10, 1909"
+JUNE 17,"LLANGOLLEN, Town Hall","LLANGOLLEN, Public Meeting, Town Hall. Speakers, Mrs. Cobden Sanderson, Mr. W. Lyon Blease L.L.M., Miss Helga Gill.","JUNE 10, 1909"
+JUNE 17,"LONDON (Islington), 186, Highbury New Park","LONDON (Islington), Drawing-room Meeting, Women only, 186, Highbury New Park. Hostess, Miss Theodora Johnson.","JUNE 10, 1909"
+JUNE 18,"BIRMINGHAM, Olton Schools","JUNE 18. BIRMINGHAM, Olton, Schools, Men's League. Speaker, Miss Abadam.","JUNE 10, 1909"
+JUNE 18,"WARWICK AND LEAMINGTON, Cumnor House, Kenilworth","WARWICK AND LEAMINGTON, Monthly Meeting, Cumnor House, Kenilworth. Hostess, Miss Blatch Cox. Speaker, Miss Gardner.","JUNE 10, 1909"
+JUNE 19,"DERBY, Friary Grounds","JUNE 19. DERBY, Garden Meeting in the Friary Grounds, by kind permission of Mrs. Boden. Chair, Dr. Alice Stewart. Hostess, Mrs. Jacob Hood.","JUNE 10, 1909"
+JUNE 19,LONDON (Beckenham),"LONDON (Beckenham), The Friary. Speaker, Miss Abadam.","JUNE 10, 1909"
+JUNE 22-29,BIRMINGHAM,"JUNE 22-29. BIRMINGHAM SOCIETY, Miss Costelloe and others.","JUNE 10, 1909"
+JUNE 22,"BIRMINGHAM, Bewdley","JUNE 22. BIRMINGHAM, Motor Campaign. Bewdley. Stourport.","JUNE 10, 1909"
+JUNE 23,"BIRMINGHAM, Kidderminster","JUNE 23. BIRMINGHAM, Motor Campaign. Kidderminster. Stourbridge.","JUNE 10, 1909"
+JUNE 24,"NORTH HERTS., Glood Hame","JUNE 24. NORTH HERTS., Drawing-room Meeting, by kind permission of Mr. and Mrs. Pearsall, at Glood Hame. Speaker, Hon. Mrs. Bertrand Russell.","JUNE 10, 1909"
+JUNE 24,"NORTH HERTS., Latchworth","NORTH HERTS., Public Meeting, Latchworth. Speaker, Hon. Mrs. Bertrand Russell. Chair, Dr. Hector Munro.","JUNE 10, 1909"
+JUNE 25,"BIRMINGHAM, Droitwich","JUNE 25. BIRMINGHAM, Motor Campaign. Droitwich. Bromsgrove. Alvechurch.","JUNE 10, 1909"
+JUNE 25,"BIRMINGHAM, Shipston","BIRMINGHAM, Motor Campaign. Shipston. Kineton.","JUNE 10, 1909"
+JUNE 25,"DERBY, Orpheus Hall, Stafford Street","DERBY, Orpheus Hall, Stafford Street. Speakers, Miss Abadam, and Mr. Baillie-Weaver, LL.B., the Men's League for Women's Suffrage.","JUNE 10, 1909"
+JUNE 25,LONDON (Wandsworth),"LONDON (Wandsworth), At Home. The Speaker, Miss Abadam.","JUNE 10, 1909"
+JUNE 25,"WOLVERHAMPTON, 52, Queen Street","WOLVERHAMPTON, 52, Queen Street. Chair, Miss Cook. Speaker, Mrs. Gerard Smith, ""Woman's Suffrage.""","JUNE 10, 1909"
+JUNE 27,"BIRMINGHAM, Westbourne, Edgbaston","JUNE 27. BIRMINGHAM, Meeting for Teachers, Westbourne, Edgbaston. Hostesses, The Misses Hill and Mrs. Shillington. Speakers, Miss Jenner, Rev. W. G. Tarrant, B.A.","JUNE 10, 1909"
+JUNE 27,"BIRMINGHAM, Tamworth","BIRMINGHAM, Motor Campaign. Tamworth. Coleshill.","JUNE 10, 1909"
+JUNE 28,"BIRMINGHAM, Cannock","BIRMINGHAM, Motor Campaign. Cannock. Penkridge. Brewood.","JUNE 10, 1909"
+JUNE 29,"BIRMINGHAM, Midland Institute","JUNE 29. BIRMINGHAM, Midland Institute. Speaker, Mr. Tillyard.","JUNE 10, 1909"
+JUNE 30,"CARDIFF, Green Meadow","JUNE 30. CARDIFF, Green Meadow, Garden Party. Hostess, Mrs. H. Lewis. Speaker, Miss Abadam.","JUNE 10, 1909"

@@ -11,11 +11,18 @@ from joblib_progress import joblib_progress
 from src.ocr_and_cluster import ocr_and_cluster
 
 prompt = """
-Here is the OCR output of an issue of the journal 'The Common Cause'. Your response should be in JSON format.
+##### Beginning of OCR output ######
+
+###OCR###
+
+##### End of OCR output ######
+
+Above is the OCR output of an issue of the journal 'The Common Cause'. Your response should be in JSON format.
 
 Extract the date of the issue (response JSON key: "IssueDate").
 
-Extract the first table titled 'Forthcoming Meetings'. Extract the scans, pages, and columns on which it spans (response JSON key: "TableSpan" as a list of dictionaries with keys "Scan", "Page", and "Column"). Also extract the raw table text (response JSON key: "RawTable").
+There is a the table titled 'Forthcoming Meetings'. Because of ads, sometimes the table is split into multiple parts in the OCR output and only the first one has the title.
+Extract the scans, pages, and columns on which it spans (response JSON key: "TableSpan" as a list of dictionaries with keys "Scan", "Page", and "Column"). Also extract the raw table text (response JSON key: "RawTable").
 
 Finally, extract as much information as you can from the table for each meeting. Format it into a list of dictionaries with the following keys:
     - "Date": date of the meeting
@@ -26,23 +33,31 @@ Finally, extract as much information as you can from the table for each meeting.
     - "Time": time of the meeting if specified
     - "Raw": all the extracted text corresponding to this meeting, unformatted
 If a meeting is missing address, location, description, hosts, speakers, or time, skip the corresponding field.
-The date might not appear for each meeting, in this case forward fill it. However a location is bound to one meeting and should not be forward filled.
+The date might not appear for each meeting, in this case forward fill it. This can also be the case for big cities and countries, however a specific location is bound to one meeting and should not be forward filled.
 Correct punctuation and word breaks.
 
-##### Beginning of OCR output ######
-
-###OCR###
-
-##### End of OCR output ######
-
-Example OCR snippet: "Vol. XII, No. 4, April 15th, 1923\nForthcoming Meetings\n..."
+Example OCR snippet: "# Scan 1 ## Page 1 ### Column 1 THE COMMON CAUSE, JUNE 10, 1909"
 Expected JSON for snippet:
 ```json
 {
-    "IssueDate": "1923-04-15",
-    "TableSpan": [{"Scan": 1, "Page": 2, "Column": 1}],
-    "Meetings": [...],
-    "RawTable": "Forthcoming Meetings\n...",
+    "IssueDate": "...",
+    "TableSpan": [
+        {"Scan": ..., "Page": ..., "Column": ...},
+        ...
+    ],
+    "Meetings": [
+        {
+            "Date": "...",
+            "Location": "...",
+            "Description": "...",
+            "Hosts": ["..."],
+            "Speakers": ["..."],
+            "Time": "...",
+            "Raw": "..."   
+        },
+        ...
+    ],
+    "RawTable": "Forthcoming Meetings...",
 }
 ```
 """

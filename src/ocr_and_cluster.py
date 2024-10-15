@@ -40,12 +40,12 @@ def ocr_and_cluster_image(image, output_path):
 
     layout["x_center"] = layout.points.apply(lambda x: np.mean(x[::2]))
     layout["y_center"] = layout.points.apply(lambda x: np.mean(x[1::2]))
-    # 3x x_center feature to help with clustering
-    layout["x_center_3x"] = layout.x_center * 3
+    # 4x x_center feature to help with clustering
+    layout["x_center_4x"] = layout.x_center * 4
 
     kmeans = KMeans(n_clusters=2, random_state=0)
     if image.shape[0] < image.shape[1]:  # 2 pages
-        layout["page"] = kmeans.fit_predict(layout[["x_center_3x", "y_center"]])
+        layout["page"] = kmeans.fit_predict(layout[["x_center_4x", "y_center"]])
         # Renumber pages based on increasing mean x_center
         page_centers = layout.groupby("page")["x_center"].mean().sort_values()
         page_mapping = {
@@ -58,7 +58,20 @@ def ocr_and_cluster_image(image, output_path):
     layout["column"] = 1
     for page in layout.page.unique():
         slice = layout.page == page
-        col = kmeans.fit_predict(layout.loc[slice, ["x_center_3x", "y_center"]])
+        kmeans.n_clusters = 2
+        col_2 = kmeans.fit_predict(
+            layout.loc[slice, ["x_center_4x", "y_center"]]
+        )
+        inertia_2 = kmeans.inertia_
+        kmeans.n_clusters = 3
+        col_3 = kmeans.fit_predict(
+            layout.loc[slice, ["x_center_4x", "y_center"]]
+        )
+        inertia_3 = kmeans.inertia_
+        if inertia_2 * 2 < inertia_3 * 3:
+            col = col_2
+        else:
+            col = col_3
         # Renumber columns based on increasing mean x_center
         col_centers = (
             layout.loc[slice].groupby(col)["x_center"].mean().sort_values()

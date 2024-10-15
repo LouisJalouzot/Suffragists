@@ -1,8 +1,8 @@
 {
-    "IssueDate": "1909-11-18",
+    "IssueDate": "NOVEMBER 18, 1909",
     "Meetings": [
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "Chelmsford",
             "Raw": "Chelmsford - Miss Abadam . 3.0",
             "Speakers": [
@@ -11,7 +11,7 @@
             "Time": "3.0"
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "Cheltenham Town Hall",
             "Raw": "Cheltenham Town Hall - Sir John Cockburn , K.C.M.G 8.0",
             "Speakers": [
@@ -20,22 +20,21 @@
             "Time": "8.0"
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "35, Molesworth Street, Dublin",
             "Raw": "Dublin - 35 , Molesworth Street . 11.30",
             "Time": "11.30"
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "St. Mark's U.S. Brotherhood, Glasgow",
-            "Raw": "Glasgow St. Mark's U.S. Brotherhood - Miss Macmillan . 8.0",
+            "Raw": "Glasgow St. Mark's U.S. Brotherhood - Miss Macmillan .",
             "Speakers": [
                 "Miss Macmillan"
-            ],
-            "Time": "8.0"
+            ]
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "Peebles Institute",
             "Raw": "Peebles Institute - Miss Low . 8.0",
             "Speakers": [
@@ -44,7 +43,7 @@
             "Time": "8.0"
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "Leith",
             "Raw": "Leith Drawing Room Meeting - Miss Gordon . 4.0",
             "Description": "Drawing Room Meeting",
@@ -54,7 +53,7 @@
             "Time": "4.0"
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "St. Pancras, London",
             "Raw": "London ( St. Pancras ) -Drawing Room Meeting - Miss M. Corbett 4.30",
             "Description": "Drawing Room Meeting",
@@ -64,56 +63,53 @@
             "Time": "4.30"
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "S. Kensington, London",
-            "Raw": "London ( S. Kensington ) -Drawing Room Meeting - Miss Cockle 3.30",
+            "Raw": "London ( S. Kensington ) -Drawing Room Meeting - Miss Cockle 8.0",
             "Description": "Drawing Room Meeting",
             "Speakers": [
                 "Miss Cockle"
             ],
-            "Time": "3.30"
-        },
-        {
-            "Date": "November 18",
-            "Location": "12, Milverton Crescent, Leamington",
-            "Raw": "Leamington - 12 , Milverton Crescent - Mrs . Wheatley 8.0",
-            "Speakers": [
-                "Mrs. Wheatley"
-            ],
             "Time": "8.0"
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
+            "Location": "12, Milverton Crescent, Leamington",
+            "Raw": "Leamington - 12 , Milverton Crescent - Mrs. Wheatley 3.30",
+            "Speakers": [
+                "Mrs. Wheatley"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "NOVEMBER 18",
             "Location": "Liberal Club, Keswick",
-            "Raw": "Keswick - Liberal Club - Public Debate , Miss Marshall ( for ) and Mr. Norman Robinson ( against ) . 8.0",
+            "Raw": "Keswick - Liberal Club - Public Debate , Miss Marshall ( for ) and Mr. Norman Robinson ( against ) .",
             "Description": "Public Debate",
             "Speakers": [
                 "Miss Marshall",
                 "Mr. Norman Robinson"
-            ],
-            "Time": "8.0"
+            ]
         },
         {
-            "Date": "November 18",
+            "Date": "NOVEMBER 18",
             "Location": "Epsom, London",
-            "Raw": "London ( Epsom ) -Lecture on Education . 8.0",
-            "Description": "Lecture on Education",
-            "Time": "8.0"
+            "Raw": "London ( Epsom ) -Lecture on Education .",
+            "Description": "Lecture on Education"
         },
         {
-            "Date": "November 19",
+            "Date": "NOVEMBER 19",
             "Location": "Sutton, London",
-            "Raw": "London ( Sutton ) -Drawing Room Meeting - Miss Watson . 5.0",
+            "Raw": "London ( Sutton ) -Drawing Room Meeting - Miss Watson .",
             "Description": "Drawing Room Meeting",
             "Speakers": [
                 "Miss Watson"
-            ],
-            "Time": "5.0"
+            ]
         },
         {
-            "Date": "November 19",
+            "Date": "NOVEMBER 19",
             "Location": "Willesden, London",
-            "Raw": "London ( Willesden ) -Invitation Meeting , Gayton Rooms , Harrow -Miss M. I. Corbett . 8.0",
+            "Raw": "London ( Willesden ) -Invitation Meeting , Gayton Rooms , Harrow -Miss M. I. Corbett .",
             "Description": "Invitation Meeting",
             "Speakers": [
                 "Miss M. I. Corbett"
@@ -121,68 +117,716 @@
             "Time": "8.0"
         },
         {
-            "Date": "November 19",
+            "Date": "NOVEMBER 19",
             "Location": "Hulme Town Hall, Manchester",
-            "Raw": "Manchester - Hulme Town Hall - Miss Ashton and others . 8.0",
+            "Raw": "Manchester - Hulme Town Hall - Miss Ashton and others .",
             "Speakers": [
                 "Miss Ashton"
+            ],
+            "Time": "5.0"
+        },
+        {
+            "Date": "NOVEMBER 19",
+            "Location": "Chambers' Institute, Peebles",
+            "Raw": "Peebles - Chambers ' Institute - Miss Low . 8.0",
+            "Speakers": [
+                "Miss Low"
             ],
             "Time": "8.0"
         },
         {
-            "Date": "November 19",
-            "Location": "Chambers' Institute, Peebles",
-            "Raw": "Peebles - Chambers ' Institute - Miss Low . 3.0",
-            "Speakers": [
-                "Miss Low"
-            ],
-            "Time": "3.0"
-        },
-        {
-            "Date": "November 19",
+            "Date": "NOVEMBER 19",
             "Location": "Tunbridge Wells",
-            "Raw": "Tunbridge Wells - At Home - Madame Sarah Grand . 3.0",
+            "Raw": "Tunbridge Wells - At Home - Madame Sarah Grand .",
             "Description": "At Home",
             "Speakers": [
                 "Madame Sarah Grand"
-            ],
-            "Time": "3.0"
+            ]
         },
         {
-            "Date": "November 19",
+            "Date": "NOVEMBER 19",
             "Location": "The Great Hall, Tunbridge Wells",
-            "Raw": "Tunbridge Wells - The Great Hall - Mrs . Henry Fawcett , LL.D. 8.0",
+            "Raw": "Tunbridge Wells - The Great Hall - Mrs. Henry Fawcett , LL.D. 8.0",
             "Speakers": [
                 "Mrs. Henry Fawcett"
             ],
             "Time": "8.0"
         },
         {
-            "Date": "November 19",
+            "Date": "NOVEMBER 19",
             "Location": "Hiham, Winchelsea",
-            "Raw": "Winchelsea - Hiham , Winchelsea - Miss C. Woodhead . 80",
+            "Raw": "Winchelsea - Hiham , Winchelsea - Miss C. Woodhead .",
             "Speakers": [
                 "Miss C. Woodhead"
-            ],
-            "Time": "80"
+            ]
         },
         {
-            "Date": "November 19",
+            "Date": "NOVEMBER 19",
             "Location": "Maltmas Green, Denham, Bucks.",
-            "Raw": "Denham - Maltmas Green , Denham , Bucks . Hon . Mrs. B. 3.30",
-            "Speakers": [
-                "Hon. Mrs. B"
+            "Raw": "Denham - Maltmas Green , Denham , Bucks. Hon . Mrs. B. Russell . 3.30",
+            "Hosts": [
+                "Hon. Mrs. B. Russell"
             ],
             "Time": "3.30"
         },
         {
-            "Date": "November 19",
-            "Location": "Silver Street, Whitby",
-            "Raw": "Whitby - Lecture Hall , Silver Street . 7.30",
+            "Date": "NOVEMBER 19",
+            "Location": "Whitby",
+            "Raw": "Whitby - Lecture Hall , Silver Street . 3.0",
+            "Time": "3.0"
+        },
+        {
+            "Date": "NOVEMBER 20",
+            "Location": "London Buildings, Wolverhampton",
+            "Raw": "Wolverhampton - London Buildings - Miss M. Atkinson , M.A. 80",
+            "Speakers": [
+                "Miss M. Atkinson"
+            ],
+            "Time": "80"
+        },
+        {
+            "Date": "NOVEMBER 20",
+            "Location": "St. James's Hall, London",
+            "Raw": "London - St. James's Hall - Members only .",
+            "Description": "Members only"
+        },
+        {
+            "Date": "NOVEMBER 22",
+            "Location": "Newnham College, Cambridge",
+            "Raw": "Cambridge Newnham College - Cecil Chapman . Esq. 3.0",
+            "Speakers": [
+                "Cecil Chapman, Esq"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "NOVEMBER 22",
+            "Location": "40, Shandwick Place, Edinburgh",
+            "Raw": "Edinburgh - 40 , Shandwick Place - Speakers ' Class .",
+            "Description": "Speakers' Class"
+        },
+        {
+            "Date": "NOVEMBER 22",
+            "Location": "Romiley",
+            "Raw": "Romiley - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 22",
+            "Location": "58, Victoria Street, S.W., London",
+            "Raw": "London - 58 , Victoria Street , S.W. - Speakers ' Olass . 5.30",
+            "Description": "Speakers' Class",
+            "Time": "5.30"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "49, Whiteladies Road, Bristol",
+            "Raw": "Bristol - 49 , Whiteladies Road - Open Meeting .",
+            "Description": "Open Meeting"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "Public Hall, Kilmacolm",
+            "Raw": "Kilmacolm - Public Hall - Mrs. Fawcett . 8B",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "8B"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "Free Trade Hall, Manchester",
+            "Raw": "Manchester - Free Trade Hall - Lady Frances Balfour . 5.0",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ],
+            "Time": "5.0"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "40, Shandwick Place, Edinburgh",
+            "Raw": "Edinburgh - 40 , Shandwick Place - Miss Scott - Moncrieff . 8.0",
+            "Speakers": [
+                "Miss Scott-Moncrieff"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "Oddfellows' Hall, Sevenoaks",
+            "Raw": "Sevenoaks - Oddfellows ' Hall - Mrs. C. A. V. Conybeare . 3.30",
+            "Speakers": [
+                "Mrs. C. A. V. Conybeare"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "Beulah Hill, Upper Norwood, Croydon",
+            "Raw": "Croydon - Beulah Hill , Upper Norwood - Miss Rendel . 8.0",
+            "Speakers": [
+                "Miss Rendel"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "Ashwell, Herts",
+            "Raw": "Ashwell - Herts - Mrs. E. C. Fordham . 7.30",
+            "Speakers": [
+                "Mrs. E. C. Fordham"
+            ],
             "Time": "7.30"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "Epping, London",
+            "Raw": "London ( Epping ) -Public Meeting - Miss Margery Corbett . 5.0",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Miss Margery Corbett"
+            ],
+            "Time": "5.0"
+        },
+        {
+            "Date": "NOVEMBER 23",
+            "Location": "Chelsea, London",
+            "Raw": "London ( Chelsea ) -Drawing Room Meeting - Mrs. Corbett . 8.0",
+            "Description": "Drawing Room Meeting",
+            "Speakers": [
+                "Mrs. Corbett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Brighton",
+            "Raw": "Brighton ( Lecture on Economic Questions ) -- Miss E. Gore - Booth . 3.15",
+            "Description": "Lecture on Economic Questions",
+            "Speakers": [
+                "Miss E. Gore-Booth"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Grayshott Village Hall, Haslemere",
+            "Raw": "Haslemere - Grayshott Village Hall . 8.30",
+            "Time": "8.30"
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Market Hall, Redhill",
+            "Raw": "Redhill Market Hall , Dramatic Performance . 8.0",
+            "Description": "Dramatic Performance",
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Whitehall Room, Park Hotel, Cardiff",
+            "Raw": "Cardiff - Whitehall Room , Park Hotel - Mrs. Flora Annie Steel .",
+            "Speakers": [
+                "Mrs. Flora Annie Steel"
+            ]
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Town Hall, Knutsford",
+            "Raw": "Knutsford Town Hall - Lady Frances Balfour . 8.0",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Harborne, Birmingham",
+            "Raw": "Birmingham - Harborne - Drawing Room Meeting . 3.15",
+            "Description": "Drawing Room Meeting",
+            "Time": "3.15"
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Green Tea Rooms, New Brighton, Wallasey",
+            "Raw": "Wallasey - Green Tea Rooms , New Brighton - Mrs. Allan Bright . 7.30",
+            "Speakers": [
+                "Mrs. Allan Bright"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "NOVEMBER 24",
+            "Location": "Willesden, London",
+            "Raw": "London ( Willesden ) -Pinner - Miss Sheepshanks . 4.0",
+            "Speakers": [
+                "Miss Sheepshanks"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Town Hall, Ashton-under-Lyne",
+            "Raw": "Ashton - under - Lyne - Town Hall - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Midland Institute, Birmingham",
+            "Raw": "Birmingham - Midland Institute - Miss Rendel . 3.0",
+            "Speakers": [
+                "Miss Rendel"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Athen\u00e6um, Glasgow",
+            "Raw": "Glasgow - Athen\u00e6um - Mrs. Henry Fawcett , LL.D. 8.0",
+            "Speakers": [
+                "Mrs. Henry Fawcett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Congregational Hall, Rochdale Road, Manchester",
+            "Raw": "Manchester - Congregational Hall , Rochdale Road - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Mikado Caf\u00e9, Nottingham",
+            "Raw": "Nottingham - Mikado Caf\u00e9 - Reception . 4.30",
+            "Description": "Reception",
+            "Time": "4.30"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Mikado Caf\u00e9, Nottingham",
+            "Raw": "Nottingham Mikado Caf\u00e9 - Meeting - Miss Marie Samuel , M.A. 5.30",
+            "Description": "Meeting",
+            "Speakers": [
+                "Miss Marie Samuel"
+            ],
+            "Time": "5.30"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Witherfield House, Liscard, Wallasey",
+            "Raw": "Wallasey -- Witherfield House , Liscard - Mrs. Raffles Bulley 7.30",
+            "Speakers": [
+                "Mrs. Raffles Bulley"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Co-operative Restaurant, Lincoln",
+            "Raw": "Lincoln - Co - operative Restaurant - Miss Lena Wallis . 8.0",
+            "Speakers": [
+                "Miss Lena Wallis"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 25",
+            "Location": "Richmond, London",
+            "Raw": "London ( Richmond ) -Annual Meeting - Miss Margery Corbett 4.30",
+            "Description": "Annual Meeting",
+            "Speakers": [
+                "Miss Margery Corbett"
+            ],
+            "Time": "4.30"
+        },
+        {
+            "Date": "NOVEMBER 26",
+            "Location": "The Temperance Hall, Derby",
+            "Raw": "Derby - The Temperance Hall - Councillor Margaret Ashton . 8.0",
+            "Speakers": [
+                "Councillor Margaret Ashton"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 26",
+            "Location": "Synod Hall, Edinburgh",
+            "Raw": "Edinburgh - Synod Hall - Mrs. Fawcett , LL.D. 8.0",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 26",
+            "Location": "Ardwick Town Hall, Manchester",
+            "Raw": "Manchester - Ardwick Town Hall - Miss Abadam . 8.0",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 26",
+            "Location": "Town Hall, Woburn, Beds.",
+            "Raw": "Woburn - Town Hall , Woburn - Beds . 8.0",
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 26",
+            "Location": "Brixton Independent Church, Lambeth and Brixton, London",
+            "Raw": "London ( Lambeth and Brixton ) -Brixton Independent Church- Miss Margery Corbett . 8.0",
+            "Speakers": [
+                "Miss Margery Corbett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "NOVEMBER 27",
+            "Location": "Edinburgh",
+            "Raw": "Edinburgh - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "NOVEMBER 29",
+            "Location": "49, Whiteladies Road, Bristol",
+            "Raw": "Bristol - 49 , Whiteladies Road - Open Meeting .",
+            "Description": "Open Meeting"
+        },
+        {
+            "Date": "NOVEMBER 29",
+            "Location": "Midland Hotel, Manchester",
+            "Raw": "Manchester Subscription Dinner - Midland Hotel .",
+            "Description": "Subscription Dinner"
+        },
+        {
+            "Date": "NOVEMBER 29",
+            "Location": "58, Victoria Street, S.W., London",
+            "Raw": "London - 58 . Victoria Street , S.W. - Speakers ' Class .",
+            "Description": "Speakers' Class"
+        },
+        {
+            "Date": "NOVEMBER 29",
+            "Location": "Westbourne, Edgbaston, Birmingham",
+            "Raw": "Birmingham - Westbourne , Edgbaston - Christmas Sale .",
+            "Description": "Christmas Sale"
+        },
+        {
+            "Date": "NOVEMBER 29",
+            "Location": "Wallasey",
+            "Raw": "Wallasey - Drawing Room Meeting - Mrs. Coventry .",
+            "Description": "Drawing Room Meeting",
+            "Speakers": [
+                "Mrs. Coventry"
+            ]
+        },
+        {
+            "Date": "NOVEMBER 30",
+            "Location": "Baptists' Young People's Guild, Harborne, Birmingham",
+            "Raw": "Birmingham - Baptists ' Young People's Guild , Harborne - Miss E. M. Gardner , B.A. 8.15",
+            "Speakers": [
+                "Miss E. M. Gardner"
+            ],
+            "Time": "8.15"
+        },
+        {
+            "Date": "NOVEMBER 30",
+            "Location": "Kensington, London",
+            "Raw": "London ( Kensington ) -Miss Abadam . 4.15",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "4.15"
+        },
+        {
+            "Date": "NOVEMBER 30",
+            "Location": "Windsor, London",
+            "Raw": "London ( Windsor ) -Mrs. Bernard Everett . 8.30",
+            "Speakers": [
+                "Mrs. Bernard Everett"
+            ],
+            "Time": "8.30"
+        },
+        {
+            "Date": "NOVEMBER 30",
+            "Location": "Caf\u00e9 Cairo, Dublin",
+            "Raw": "Dublin Caf\u00e9 Cairo - Conversazione - Lady Arnott .",
+            "Description": "Conversazione",
+            "Speakers": [
+                "Lady Arnott"
+            ]
+        },
+        {
+            "Date": "DECEMBER 1",
+            "Location": "49, Whiteladies Road, Bristol",
+            "Raw": "Bristol - 49 , Whiteladies Road - Open Meeting .",
+            "Description": "Open Meeting"
+        },
+        {
+            "Date": "DECEMBER 1",
+            "Location": "Parochial Hall, George Street, Huddersfield",
+            "Raw": "Huddersfield - Parochial Hall , George Street - Propaganda Play . 7.30",
+            "Description": "Propaganda Play",
+            "Time": "7.30"
+        },
+        {
+            "Date": "DECEMBER 1",
+            "Location": "85, Deansgate Arcade, Manchester",
+            "Raw": "Manchester - 85 , Deansgate Arcade - Speakers ' Class .",
+            "Description": "Speakers' Class"
+        },
+        {
+            "Date": "DECEMBER 1",
+            "Location": "Edgbaston, Birmingham",
+            "Raw": "Birmingham - Edgbaston - Drawing Room Meeting - the Hon . Mrs. B. Russell . 3.30",
+            "Description": "Drawing Room Meeting",
+            "Speakers": [
+                "the Hon. Mrs. B. Russell"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "DECEMBER 1",
+            "Location": "Sutton Coldfield, Birmingham",
+            "Raw": "Birmingham - Sutton Coldfield - the Hon . Mrs. Bertrand Russell . 8.0",
+            "Speakers": [
+                "The Hon. Mrs. Bertrand Russell"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 1",
+            "Location": "Percival Hall, Hereford",
+            "Raw": "Hereford - Percival Hall - Mr. H. Baillie - Weaver . 8-10.30",
+            "Speakers": [
+                "Mr. H. Baillie-Weaver"
+            ],
+            "Time": "8-10.30"
+        },
+        {
+            "Date": "DECEMBER 2",
+            "Location": "35, Molesworth Street, Dublin",
+            "Raw": "Dublin - 35 , Molesworth Street . 11.30",
+            "Time": "11.30"
+        },
+        {
+            "Date": "DECEMBER 2",
+            "Location": "Town Hall, Watford",
+            "Raw": "Watford - Town Hall - Miss Abadam . 3.30",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "DECEMBER 3",
+            "Location": "Mechanics' Hall, Darlington",
+            "Raw": "Darlington - Mechanics ' Hall - Miss Margaret Ashton . 8.0",
+            "Speakers": [
+                "Miss Margaret Ashton"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 3",
+            "Location": "85, Deansgate Arcade, Manchester",
+            "Raw": "Manchester - 85 , Deansgate Arcade Report of Autumn Campaign . 7.30",
+            "Description": "Report of Autumn Campaign",
+            "Time": "7.30"
+        },
+        {
+            "Date": "DECEMBER 3",
+            "Location": "Pembroke Hall, Croydon",
+            "Raw": "Croydon - Pembroke Hall - Mrs. Fawcett . 8.0",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 4",
+            "Location": "58, Renfield Street, Glasgow",
+            "Raw": "Glasgow - 58 , Renfield Street - Mrs. Cockburn . 4.0",
+            "Speakers": [
+                "Mrs. Cockburn"
+            ],
+            "Time": "4.0"
+        },
+        {
+            "Date": "DECEMBER 6",
+            "Location": "Kensington Town Hall, London",
+            "Raw": "London - Kensington Town Hall - Caf\u00e9 Chantant .",
+            "Description": "Caf\u00e9 Chantant"
+        },
+        {
+            "Date": "DECEMBER 6",
+            "Location": "58, Victoria Street, S.W., London",
+            "Raw": "London - 58 , Victoria Street , S.W. - Speakers ' Class .",
+            "Description": "Speakers' Class",
+            "Time": "5.30"
+        },
+        {
+            "Date": "DECEMBER 6",
+            "Location": "Assembly Room, Agricultural Hall, Norwich",
+            "Raw": "Norwich - Assembly Room , Agricultural Hall - Lady Frances Balfour . 8.0",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 7",
+            "Location": "St. Peter's Institute, Wolverhampton",
+            "Raw": "Wolverhampton - St. Peter's Institute - Mrs. Osler . 8.0",
+            "Speakers": [
+                "Mrs. Osler"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 7",
+            "Location": "Redditch",
+            "Raw": "Redditch - Debate - Miss E. M. Gardner . 8.0",
+            "Description": "Debate",
+            "Speakers": [
+                "Miss E. M. Gardner"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 8",
+            "Location": "49, Whiteladies Road, Bristol",
+            "Raw": "Bristol - 49 , Whiteladies Road - Open Meeting . 3.30",
+            "Description": "Open Meeting",
+            "Time": "3.30"
+        },
+        {
+            "Date": "DECEMBER 8",
+            "Location": "The Co-operative Educational Institute, 30, Albion Street, Hull",
+            "Raw": "Hull - The Co - operative Educational Institute , 30 , Albion Street -Miss Roper . 8.0",
+            "Speakers": [
+                "Miss Roper"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 8",
+            "Location": "85, Deansgate Arcade, Manchester",
+            "Raw": "Manchester - 85 , Deansgate Arcade - Speakers ' Class .",
+            "Description": "Speakers' Class",
+            "Time": "5.30"
+        },
+        {
+            "Date": "DECEMBER 9",
+            "Location": "Co-operative Hall, Rugby",
+            "Raw": "Rugby Co - operative Hall - Lady Frances Balfour . 3.15",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "DECEMBER 9",
+            "Location": "Co-operative Hall, Rugby",
+            "Raw": "Rugby Co - operative Hall - The Dean of Worcester . 8.0",
+            "Speakers": [
+                "The Dean of Worcester"
+            ],
+            "Time": "8.0"
+        },
+        {
+            "Date": "DECEMBER 9",
+            "Location": "Bath",
+            "Raw": "Bath - Public - Meeting - Miss Abadam . 3.0",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "3.0"
+        },
+        {
+            "Date": "DECEMBER 9",
+            "Location": "Congregational Hall, Ramsgate",
+            "Raw": "Ramsgate - Congregational Hall - Mrs. Henry Fawcett . 3.15",
+            "Speakers": [
+                "Mrs. Henry Fawcett"
+            ],
+            "Time": "3.15"
+        },
+        {
+            "Date": "DECEMBER 9",
+            "Location": "Brighton",
+            "Raw": "Brighton - Public Meeting - Miss C\u00e9cile Matheson . 3.30",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Miss C\u00e9cile Matheson"
+            ],
+            "Time": "3.30"
+        },
+        {
+            "Date": "DECEMBER 9",
+            "Location": "85, Deansgate Arcade, Manchester",
+            "Raw": "Manchester - 85 , Deansgate Arcade - Monthly At Home .",
+            "Description": "Monthly At Home"
+        },
+        {
+            "Date": "DECEMBER 10",
+            "Location": "85, Deansgate Arcade, Manchester",
+            "Raw": "Manchester - 85 , Deansgate Arcade - Weekly Meeting . 7.30",
+            "Description": "Weekly Meeting",
+            "Time": "7.30"
+        },
+        {
+            "Date": "DECEMBER 10",
+            "Location": "Bath",
+            "Raw": "Bath Public Meeting - Miss Abadam . 7.30",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Miss Abadam"
+            ],
+            "Time": "7.30"
+        },
+        {
+            "Date": "DECEMBER 10",
+            "Location": "49, Whiteladies Road, Bristol",
+            "Raw": "Bristol - 49 , Whiteladies Road - Open Meeting .",
+            "Description": "Open Meeting",
+            "Time": "5.30"
+        },
+        {
+            "Date": "DECEMBER 10",
+            "Location": "58, Victoria Street, S.W., London",
+            "Raw": "London - 58 , Victoria Street , S.W. - Speakers ' Class . 5.30",
+            "Description": "Speakers' Class",
+            "Time": "5.30"
+        },
+        {
+            "Date": "DECEMBER 10",
+            "Location": "Midland Institute, Birmingham",
+            "Raw": "Birmingham - Midland Institute - J. Palmer Newbould , Esq . 5.30",
+            "Speakers": [
+                "J. Palmer Newbould, Esq"
+            ],
+            "Time": "5.30"
+        },
+        {
+            "Date": "DECEMBER 13",
+            "Location": "London",
+            "Raw": "London",
+            "Time": "5.30"
         }
     ],
-    "RawTable": "Forthcoming Meetings\nNOVEMBER 18 . Chelmsford - Miss Abadam . 3.0 Cheltenham Town Hall - Sir John Cockburn , K.C.M.G 8.0 Dublin - 35 , Molesworth Street . 11.30 Glasgow St. Mark's U.S. Brotherhood - Miss Macmillan . Peebles Institute - Miss Low . 8.0 Leith Drawing Room Meeting - Miss Gordon . 4.0 8.0 3.30 London ( St. Pancras ) -Drawing Room Meeting - Miss M. Corbett 4.30 London ( S. Kensington ) -Drawing Room Meeting - Miss Cockle Leamington - 12 , Milverton Crescent - Mrs . Wheatley Keswick - Liberal Club - Public Debate , Miss Marshall ( for ) and Mr. Norman Robinson ( against ) . London ( Epsom ) -Lecture on Education . NOVEMBER 19 . London ( Sutton ) -Drawing Room Meeting - Miss Watson . London ( Willesden ) -Invitation Meeting , Gayton Rooms , Harrow -Miss M. I. Corbett . Manchester - Hulme Town Hall - Miss Ashton and others . Peebles - Chambers ' Institute - Miss Low . 5.0 8.0 8.0 888 Tunbridge Wells - At Home - Madame Sarah Grand . Tunbridge Wells - The Great Hall - Mrs . Henry Fawcett , LL.D. 8.0 Winchelsea - Hiham , Winchelsea - Miss C. Woodhead . Denham - Maltmas Green , Denham , Russell . Whitby - Lecture Hall , Silver Street . NOVEMBER 20 . Bucks . Hon . Mrs. B. 3.30 3.0 80 3.0 Wolverhampton - London Buildings - Miss M. Atkinson , M.A. London - St . James's Hall - Members only . NOVEMBER 22 Cambridge Newnham College - Cecil Chapman . Esq . Edinburgh - 40 , Shandwick Place - Speakers ' Class . Romiley - Miss Abadam . London - 58 , Victoria Street , S.W. - Speakers ' Olass . 8B 5.0 8.0 5.30",
+    "RawTable": "Forthcoming MeetingsNOVEMBER 18 .Chelmsford - Miss Abadam . 3.0Cheltenham Town Hall - Sir John Cockburn , K.C.M.G 8.0Dublin - 35 , Molesworth Street . 11.30Glasgow St. Mark's U.S. Brotherhood - Miss Macmillan .Peebles Institute - Miss Low . 8.0Leith Drawing Room Meeting - Miss Gordon . 4.0London ( St. Pancras ) -Drawing Room Meeting - Miss M. Corbett 4.30London ( S. Kensington ) -Drawing Room Meeting - Miss Cockle 8.0Leamington - 12 , Milverton Crescent - Mrs. Wheatley 3.30Keswick - Liberal Club - Public Debate , Miss Marshall ( for ) and Mr. Norman Robinson ( against ) .London ( Epsom ) -Lecture on Education .NOVEMBER 19 .London ( Sutton ) -Drawing Room Meeting - Miss Watson .London ( Willesden ) -Invitation Meeting , Gayton Rooms , Harrow -Miss M. I. Corbett .Manchester - Hulme Town Hall - Miss Ashton and others .Peebles - Chambers ' Institute - Miss Low . 5.0Tunbridge Wells - At Home - Madame Sarah Grand .Tunbridge Wells - The Great Hall - Mrs. Henry Fawcett , LL.D. 8.0Winchelsea - Hiham , Winchelsea - Miss C. Woodhead .Denham - Maltmas Green , Denham , Bucks. Hon. Mrs. B. Russell . 3.30Whitby - Lecture Hall , Silver Street . 3.0NOVEMBER 20 .Wolverhampton - London Buildings - Miss M. Atkinson , M.A. 80London - St. James's Hall - Members only .NOVEMBER 22Cambridge Newnham College - Cecil Chapman . Esq. 3.0Edinburgh - 40 , Shandwick Place - Speakers ' Class .Romiley - Miss Abadam . 8.0London - 58 , Victoria Street , S.W. - Speakers ' Olass . 5.30NOVEMBER 23Bristol - 49 , Whiteladies Road - Open Meeting .Kilmacolm - Public Hall - Mrs. Fawcett . 8BManchester - Free Trade Hall - Lady Frances Balfour . 5.0Edinburgh - 40 , Shandwick Place - Miss Scott - Moncrieff . 8.0Sevenoaks - Oddfellows ' Hall - Mrs. C. A. V. Conybeare . 3.30Croydon - Beulah Hill , Upper Norwood - Miss Rendel . 8.0Ashwell - Herts - Mrs. E. C. Fordham . 7.30London ( Epping ) -Public Meeting - Miss Margery Corbett . 5.0London ( Chelsea ) -Drawing Room Meeting - Mrs. Corbett . 8.0NOVEMBER 24Brighton ( Lecture on Economic Questions ) -- Miss E. Gore - Booth . 3.15Haslemere - Grayshott Village Hall . 8.30Redhill Market Hall , Dramatic Performance . 8.0Cardiff - Whitehall Room , Park Hotel - Mrs. Flora Annie Steel .Knutsford Town Hall - Lady Frances Balfour . 8.0Birmingham - Harborne - Drawing Room Meeting . 3.15Wallasey - Green Tea Rooms , New Brighton - Mrs. Allan Bright . 7.30London ( Willesden ) -Pinner - Miss Sheepshanks . 4.0NOVEMBER 25Ashton - under - Lyne - Town Hall - Miss Abadam . 8.0Birmingham - Midland Institute - Miss Rendel . 3.0Glasgow - Athen\u00e6um - Mrs. Henry Fawcett , LL.D. 8.0Manchester - Congregational Hall , Rochdale Road - Miss Abadam . 8.0Nottingham - Mikado Caf\u00e9 - Reception . 4.30Nottingham Mikado Caf\u00e9 - Meeting - Miss Marie Samuel , M.A. 5.30Wallasey -- Witherfield House , Liscard - Mrs. Raffles Bulley 7.30Lincoln - Co - operative Restaurant - Miss Lena Wallis . 8.0London ( Richmond ) -Annual Meeting - Miss Margery Corbett 4.30NOVEMBER 26Derby - The Temperance Hall - Councillor Margaret Ashton . 8.0Edinburgh - Synod Hall - Mrs. Fawcett , LL.D. 8.0Manchester - Ardwick Town Hall - Miss Abadam . 8.0Woburn - Town Hall , Woburn - Beds . 8.0London ( Lambeth and Brixton ) -Brixton Independent Church- Miss Margery Corbett . 8.0NOVEMBER 27Edinburgh - Miss Abadam .NOVEMBER 29Bristol - 49 , Whiteladies Road - Open Meeting .Manchester Subscription Dinner - Midland Hotel .London - 58 . Victoria Street , S.W. - Speakers ' Class .Birmingham - Westbourne , Edgbaston - Christmas Sale .Wallasey - Drawing Room Meeting - Mrs. Coventry .NOVEMBER 30Birmingham - Baptists ' Young People's Guild , Harborne - Miss E. M. Gardner , B.A. 8.15London ( Kensington ) -Miss Abadam . 4.15London ( Windsor ) -Mrs. Bernard Everett . 8.30Dublin Caf\u00e9 Cairo - Conversazione - Lady Arnott .DECEMBER 1Bristol - 49 , Whiteladies Road - Open Meeting .Huddersfield - Parochial Hall , George Street - Propaganda Play . 7.30Manchester - 85 , Deansgate Arcade - Speakers ' Class .Birmingham - Edgbaston - Drawing Room Meeting - the Hon . Mrs. B. Russell . 3.30Birmingham - Sutton Coldfield - the Hon . Mrs. Bertrand Russell . 8.0Hereford - Percival Hall - Mr. H. Baillie - Weaver . 8-10.30DECEMBER 2Dublin - 35 , Molesworth Street . 11.30Watford - Town Hall - Miss Abadam . 3.30DECEMBER 3Darlington - Mechanics ' Hall - Miss Margaret Ashton . 8.0Manchester - 85 , Deansgate Arcade Report of Autumn Campaign . 7.30Croydon - Pembroke Hall - Mrs. Fawcett . 8.0DECEMBER 4Glasgow - 58 , Renfield Street - Mrs. Cockburn . 4.0DECEMBER 6London - Kensington Town Hall - Caf\u00e9 Chantant .London - 58 , Victoria Street , S.W. - Speakers ' Class . 5.30Norwich - Assembly Room , Agricultural Hall - Lady Frances Balfour . 8.0DECEMBER 7Wolverhampton - St. Peter's Institute - Mrs. Osler . 8.0Redditch - Debate - Miss E. M. Gardner . 8.0DECEMBER 8Bristol - 49 , Whiteladies Road - Open Meeting . 3.30Hull - The Co - operative Educational Institute , 30 , Albion Street -Miss Roper . 8.0Manchester - 85 , Deansgate Arcade - Speakers ' Class . 5.30Birmingham - Westbourne , Edgbaston - Christmas Sale . 2-6Wallasey - Drawing Room Meeting - Mrs. Coventry . 3.0DECEMBER 9Rugby Co - operative Hall - Lady Frances Balfour . 3.15Rugby Co - operative Hall - The Dean of Worcester . 8.0Bath - Public - Meeting - Miss Abadam . 3.0Ramsgate - Congregational Hall - Mrs. Henry Fawcett . 3.15Brighton - Public Meeting - Miss C\u00e9cile Matheson . 3.30Manchester - 85 , Deansgate Arcade - Monthly At Home .DECEMBER 10Manchester - 85 , Deansgate Arcade - Weekly Meeting . 7.30Bath Public Meeting - Miss Abadam . 7.30Bristol - 49 , Whiteladies Road - Open Meeting .London - 58 , Victoria Street , S.W. - Speakers ' Class . 5.30Birmingham - Midland Institute - J. Palmer Newbould , Esq . 5.30DECEMBER 13London5.30",
     "TableSpan": [
         {
             "Column": 2,
@@ -190,7 +834,7 @@
             "Scan": 7
         },
         {
-            "Column": 2,
+            "Column": 1,
             "Page": 13,
             "Scan": 8
         },
@@ -200,9 +844,9 @@
             "Scan": 8
         },
         {
-            "Column": 2,
-            "Page": 14,
-            "Scan": 8
+            "Column": 1,
+            "Page": 15,
+            "Scan": 9
         }
     ]
 }

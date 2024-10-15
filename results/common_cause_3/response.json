@@ -1,122 +1,171 @@
 {
-    "IssueDate": "1909-09-30",
+    "IssueDate": "SEPTEMBER 30 , 1909",
     "Meetings": [
         {
             "Date": "SEPTEMBER 30",
             "Location": "BASINGSTOKE, The Town Hall",
-            "Raw": "BASINGSTOKE , Public Meeting , The Town Hall .",
-            "Speakers": [
-                "Miss N. O'Shea"
-            ]
+            "Raw": "BASINGSTOKE, Public Meeting, The Town Hall. 8.0",
+            "Time": "8.0"
         },
         {
             "Date": "SEPTEMBER 30",
-            "Location": "Hove Town Hall",
-            "Raw": "BRIGHTON AND HOVE , The First Meeting of the Season , Hove Town Hall ."
+            "Location": "BRIGHTON AND HOVE, Hove Town Hall",
+            "Raw": "BRIGHTON AND HOVE, The First Meeting of the Season, Hove Town Hall. 3.15",
+            "Description": "The First Meeting of the Season",
+            "Time": "3.15"
         },
         {
             "Date": "SEPTEMBER 30",
             "Location": "Greyshott Village Hall",
-            "Raw": "HASLEMERE , HINDHEAD , AND DISTRICT , Discussion , Greyshott Village Hall ."
+            "Raw": "HASLEMERE, HINDHEAD, AND DISTRICT, Discussion, Greyshott Village Hall. Baillie-Weaver, Esq. (Men's League), \"Why Shouldn't Women Have Votes; What have Tactics got to do with it?\" Supported by Miss Edith Sutton, Col. Pennycuick, and others. 8.30",
+            "Description": "Discussion. Baillie-Weaver, Esq. (Men's League), \"Why Shouldn't Women Have Votes; What have Tactics got to do with it?\"",
+            "Speakers": [
+                "Miss Edith Sutton",
+                "Col. Pennycuick"
+            ],
+            "Time": "8.30"
         },
         {
             "Date": "OCTOBER 1",
             "Location": "Gaiety Theatre, Manchester",
-            "Raw": "NORTH OF ENGLAND SOCIETY , First Weekly Meeting of the Season , at the Offices , 85 , Deansgate Arcade . Gaiety Theatre , Manchester .",
+            "Raw": "NORTH OF ENGLAND SOCIETY, First Weekly Meeting of the Season, at the Offices, 85, Deansgate Arcade. Speaker, Miss Ashton. 7.30",
+            "Description": "First Weekly Meeting of the Season, at the Offices, 85, Deansgate Arcade.",
             "Speakers": [
                 "Miss Ashton"
-            ]
+            ],
+            "Time": "7.30"
         },
         {
             "Date": "OCTOBER 2",
-            "Location": "58, Renfield Street, GLASGOW",
-            "Raw": "GLASGOW , Debate at the Office , 58 , Renfield Street . The Limited Franchise v . Adult Suffrage .",
-            "Description": "The Limited Franchise v. Adult Suffrage."
+            "Location": "GLASGOW, 58, Renfield Street",
+            "Raw": "GLASGOW, Debate at the Office, 58, Renfield Street. The Limited Franchise v. Adult Suffrage. 2.45",
+            "Description": "Debate at the Office. The Limited Franchise v. Adult Suffrage.",
+            "Time": "2.45"
         },
         {
             "Date": "OCTOBER 4",
             "Location": "Shrewsbury",
-            "Raw": "BIRMINGHAM SOCIETY ( Shrewsbury ) , W.L.A. Meeting .",
-            "Description": "W.L.A. Meeting"
+            "Raw": "BIRMINGHAM SOCIETY (Shrewsbury), W.L.A. Meeting. Speaker, Miss E. M. Gardner, B.A. 5-0",
+            "Description": "W.L.A. Meeting",
+            "Speakers": [
+                "Miss E. M. Gardner"
+            ],
+            "Time": "5-0"
         },
         {
             "Date": "OCTOBER 4",
             "Location": "Brackenhurst, Hindhead",
-            "Raw": "HASLEMERE , HINDHEAD AND DISTRICT , Members ' Meeting , Brackenhurst , Hindhead ."
+            "Raw": "HASLEMERE, HINDHEAD AND DISTRICT, Members' Meeting, Brackenhurst, Hindhead. 8.0",
+            "Description": "Members' Meeting",
+            "Time": "8.0"
+        },
+        {
+            "Date": "OCTOBER 4",
+            "Location": "Highgate",
+            "Raw": "LONDON SOCIETY (Highgate), Hostess, Mrs. Garnett. Discussion of Lady McLaren's \"Women's Charter.\" 3.40",
+            "Description": "Discussion of Lady McLaren's \"Women's Charter.\"",
+            "Hosts": [
+                "Mrs. Garnett"
+            ],
+            "Time": "3.40"
         },
         {
             "Date": "OCTOBER 6",
             "Location": "Public Hall, West Norwood",
-            "Raw": "LONDON SOCIETY ( Beckenham ) , Public Meeting , Public Hall , West Norwood .",
+            "Raw": "LONDON SOCIETY (Beckenham), Public Meeting, Public Hall, West Norwood. Chairman. Miss Abadam. Speakers, Mrs. Philip Snowden, M.P., Mr. Philip Snowden, and others. 8.30",
             "Speakers": [
-                "Mrs. Philip Snowden, M.P.",
+                "Mrs. Philip Snowden",
                 "Mr. Philip Snowden"
-            ]
+            ],
+            "Time": "8.30"
         },
         {
             "Date": "OCTOBER 6",
             "Location": "1, Pembroke Cottages, Edwardes Square, Kensington",
-            "Raw": "SUFFRAGE ATELIER , General Meeting , 1 , Pembroke Cottages , Edwardes Square , Kensington , Cartoon Club Meeting .",
-            "Description": "Cartoon Club Meeting"
+            "Raw": "SUFFRAGE ATELIER, General Meeting, 1, Pembroke Cottages, Edwardes Square, Kensington, Cartoon Club Meeting. 8.0",
+            "Description": "General Meeting, Cartoon Club Meeting",
+            "Time": "8.0"
         },
         {
             "Date": "OCTOBER 7",
             "Location": "County Hall, Carlisle",
-            "Raw": "CUMBERLAND , Public Meeting , County Hall , Carlisle .",
+            "Raw": "CUMBERLAND, Public Meeting, County Hall, Carlisle. Chairman, Miss Bardsley. Speakers, Lady Frances Balfour, Mr. Malcolm Mitchell. 2.45",
             "Speakers": [
                 "Lady Frances Balfour",
                 "Mr. Malcolm Mitchell"
-            ]
+            ],
+            "Time": "2.45"
         },
         {
             "Date": "OCTOBER 8",
             "Location": "St. Andrew's Hall, Penrith",
-            "Raw": "CUMBERLAND , Public Meeting , St. Andrew's Hall , Penrith .",
+            "Raw": "CUMBERLAND, Public Meeting, St. Andrew's Hall, Penrith. Chairman, Mrs. Crackenthorpe. Speakers, Lady Frances Balfour and Mrs. Philip Snowden. 8.0",
             "Speakers": [
                 "Lady Frances Balfour",
                 "Mrs. Philip Snowden"
-            ]
+            ],
+            "Time": "8.0"
         },
         {
             "Date": "OCTOBER 8",
             "Location": "40, Shandwick Place",
-            "Raw": "EDINBURGH , \" At Home , \" 40 , Shandwick Place ."
+            "Raw": "EDINBURGH, \"At Home,\" 40, Shandwick Place. 3.0",
+            "Description": "\"At Home\"",
+            "Time": "3.0"
         },
         {
             "Date": "OCTOBER 8",
             "Location": "Stretford Town Hall",
-            "Raw": "NORTH OF ENGLAND SOCIETY , Public Meeting at the Stretford Town Hall .",
+            "Raw": "NORTH OF ENGLAND SOCIETY, Public Meeting at the Stretford Town Hall. Speakers, Councillor Margaret Ashton, Miss Margaret Robertson, and others. 7.30",
             "Speakers": [
                 "Councillor Margaret Ashton",
                 "Miss Margaret Robertson"
-            ]
+            ],
+            "Time": "7.30"
         },
         {
             "Date": "OCTOBER 8",
             "Location": "85, Deansgate Arcade",
-            "Raw": "NORTH OF ENGLAND SOCIETY , Weekly Meeting , 85 , Deansgate Arcade .",
-            "Description": "Report of Quarterly Council Meeting"
+            "Raw": "NORTH OF ENGLAND SOCIETY, Weekly Meeting, 85, Deansgate Arcade. Report of Quarterly Council Meeting. 7.30",
+            "Description": "Weekly Meeting. Report of Quarterly Council Meeting",
+            "Time": "7.30"
         },
         {
             "Date": "OCTOBER 11",
             "Location": "Dingwall",
-            "Raw": "EDINBURGH SOCIETY ( Dingwall ) ."
+            "Raw": "EDINBURGH SOCIETY (Dingwall). Chairman, Miss S. E. S. Mair. 8.0",
+            "Time": "8.0"
         },
         {
             "Date": "OCTOBER 11",
-            "Location": "The Midland Institute, BIRMINGHAM",
-            "Raw": "BIRMINGHAM , The Midland Institute .",
+            "Location": "The Midland Institute",
+            "Raw": "BIRMINGHAM, The Midland Institute. Speaker, Miss W. H. Lamond. \"The History of Women's Suffrage.\" 8.0",
             "Speakers": [
                 "Miss W. H. Lamond"
             ],
-            "Time": null
+            "Time": "8.0"
         }
     ],
-    "RawTable": "Forthcoming Meetings\nSEPTEMBER 30 . BASINGSTOKE , Public Meet- Speaker ,\ning , The Town Hall . BRIGHTON AND HOVE , The First Meeting of the Season , Hove Town Hall . HASLEMERE , HINDHEAD , AND DISTRICT , Discussion , Greyshott Village Hall .\nOCTOBER 1 . Baillie - Weaver , Esq . ( Men's League ) , \" Why Shouldn't Women Have Votes ; What have Tactics got to do with it ? \" Supported by Miss Edith Sutton , Col. Pennycuick , and others . Speaker , Miss N. O'Shea . 8.0 3.15 8.30 NORTH OF ENGLAND Speaker , Miss Ashton . 7.30 SOCIETY , First Weekly Meeting of the Season , at the Offices , 85 , Deansgate Arcade . Gaiety Theatre , Manchester . NEXT WEEK . Cavaliere F. Castel'ano's ITALIAN CRAND OPERA ICOMPANY . Tuesday Monday Wednesday ( Matinee ) Wednesday Night Friday Saturday ( Matinee ) Saturday Night Thursday TRAVIATA ERNANI FAUST LUCIA DI LAMMERMOOR CARMEN IL BARBIERE DI SIVIGLIA RIGOLETTO IL TROVATORE OCT . 11 - MISS HORNIMAN'S COMPANY IN \" AY ENEMY OF THE PEOPLE , \" BY IBSEN , Tel . 8048 Central .\nOCTOBER 2 . GLASGOW , Debate at the Office , 58 , Renfield Street . The Limited Franchise v . Adult Suffrage . OCTOBER 4 . BIRMINGHAM SOCIETY ( Shrewsbury ) , W.L.A. Meeting . HASLEMERE , HINDHEAD AND DISTRICT , Members ' Meeting , Brackenhurst , Hind- head .\nSEPTEMBER 30 , LONDON SOCIETY ( Highgate ) , Hostess , Mrs. Garnett . Discussion of Lady McLaren's \" Women's Charter . \" OCTOBER 6 . LONDON SOCIETY ( Becken- ham ) , Public Meeting , Public Hall , West Norwood . SUFFRAGE ATELIER , General Meeting , 1 , Pembroke Cottages , Edwardes Square , Kensington , Cartoon Club Meeting . OCTOBER 7 . CUMBERLAND , Public Meet- ing , County Hall , Carlisle .\nOCTOBER 8 . CUMBERLAND , Public Meet- ing , St. Andrew's Hall , Pen- rith . EDINBURGH , \" At Home , \" 40 , Shandwick Place . NORTH OF ENGLAND Speakers , Councillor Margaret SOCIETY , Public Meeting at Ashton , Miss Margaret Robert- the Stretford Town Hall . son , and others . NORTH OF ENGLAND Report of Quarterly Council Meeting . SOCIETY , Weekly Meeting , 85 , Deansgate Arcade .\nOCTOBER 11 . EDINBURGH SOCIETY ( Ding- wall ) . BIRMINGHAM , The Midland Institute . Speaker , Miss W. H. Lamond . \" The Speaker , Mrs. Osler . History of Women's Suffrage . \"",
+    "RawTable": "Forthcoming Meetings SEPTEMBER 30. BASINGSTOKE, Public Meeting, The Town Hall. 8.0 BRIGHTON AND HOVE, The First Meeting of the Season, Hove Town Hall. 3.15 HASLEMERE, HINDHEAD, AND DISTRICT, Discussion, Greyshott Village Hall. Baillie-Weaver, Esq. (Men's League), \"Why Shouldn't Women Have Votes; What have Tactics got to do with it?\" Supported by Miss Edith Sutton, Col. Pennycuick, and others. 8.30 OCTOBER 1. NORTH OF ENGLAND SOCIETY, First Weekly Meeting of the Season, at the Offices, 85, Deansgate Arcade. Speaker, Miss Ashton. 7.30 Gaiety Theatre, Manchester. NEXT WEEK. Cavaliere F. Castel'ano's ITALIAN CRAND OPERA ICOMPANY. Monday Tuesday Wednesday (Matinee) Wednesday Night Friday Saturday (Matinee) Saturday Night Thursday TRAVIATA ERNANI FAUST LUCIA DI LAMMERMOOR CARMEN IL BARBIERE DI SIVIGLIA RIGOLETTO IL TROVATORE OCT. 11 - MISS HORNIMAN'S COMPANY IN \" AY ENEMY OF THE PEOPLE,\" BY IBSEN, Tel. 8048 Central. HOTELS, LODGINGS, BOARDING HOUSES. HARMING GUEST HOUSE, standing in Park, near Downs, C Trams, and Suspension Bridge; inclusive terms from 358.- Henley Grove, Henleaze, Bristol. Deansgate Temperance Hotel, Manchester. LARGEST AND BEST IN THE TOWN. Most centrally situated. Manchester and Salford Cars to all parts pass close to the Hotel. PASSENGER LIFT. TWO NIGHT PORTERS. Partly re-decorated and re-furnished. National Telephone 5538 & 5539 Manchester. STANLEY D. GORDON, Manager. THE NORTH DEVON FOOD REFORM BOARDING ESTAB LISHMENT, 33, Broad Park Avenue, Ilfracombe; best position; every comfort and attention. - Address, Manageress. BLACKPOOL Norbreck Hydro., on the Clifts: 80 sea-view; bedrooms, golf, tennis, croquet, evening entertainments, billiards, excellent cuisine; highly recommended; tariff. - J. H. Shorrocks, Proprietor. Tel. 13. Y. Telephone, 5727 \"City.\" Telegrams, Hiring.\" THE MANCHESTER CENTRAL HIRING AND CATERING CO. LIMITED, 3, Old Millgate, MANCHESTER. Established 1873. R. K. COLE, Managing Director. Caterera for Weddings, Balls, Parties, Encampments, etc. Estimates given free of charge, Chefs, Cooks, Waiters an I Waitre ses sent out by day or longer periods. ALAN'S TEARS, 263, Oxford-street, London. Teas. Near Queen's Hall. Luncheons, ARTHUR ELLISON, Printer, Stationer, and Bookbinder, 41, Lower Mosley Street, MANCHESTER. Private Christmas Cards a Speciality. Printed by Percy Brothers, Ltd., for the Proprietors. The Common London Agents: Geo. Vickers, Angel Court, Strand; W. H. Manchester: John Hoywood, Deansgate: Abel Heywood and Sen. Newcastle-on-Tyne: W. H. Smith and Son. Edinburgh and OCTOBER 2. GLASGOW, Debate at the Office, 58, Renfield Street. The Limited Franchise v. Adult Suffrage. 2.45 OCTOBER 4. BIRMINGHAM SOCIETY (Shrewsbury), W.L.A. Meeting. Speaker, Miss E. M. Gardner, B.A. 5-0 HASLEMERE, HINDHEAD AND DISTRICT, Members' Meeting, Brackenhurst, Hindhead. 8.0 LONDON SOCIETY (Highgate), Hostess, Mrs. Garnett. Discussion of Lady McLaren's \"Women's Charter.\" 3.40 OCTOBER 6. LONDON SOCIETY (Beckenham), Public Meeting, Public Hall, West Norwood. Chairman. Miss Abadam. Speakers, Mrs. Philip Snowden, M.P., Mr. Philip Snowden, and others. 8.30 SUFFRAGE ATELIER, General Meeting, 1, Pembroke Cottages, Edwardes Square, Kensington, Cartoon Club Meeting. 8.0 OCTOBER 7. CUMBERLAND, Public Meeting, County Hall, Carlisle. Chairman, Miss Bardsley. Speakers, Lady Frances Balfour, Mr. Malcolm Mitchell. 2.45 OCTOBER 8. CUMBERLAND, Public Meeting, St. Andrew's Hall, Penrith. Chairman, Mrs. Crackenthorpe. Speakers, Lady Frances Balfour and Mrs. Philip Snowden. 8.0 EDINBURGH, \"At Home,\" 40, Shandwick Place. 3.0 NORTH OF ENGLAND SOCIETY, Public Meeting at the Stretford Town Hall. Speakers, Councillor Margaret Ashton, Miss Margaret Robertson, and others. 7.30 NORTH OF ENGLAND SOCIETY, Weekly Meeting, 85, Deansgate Arcade. Report of Quarterly Council Meeting. 7.30 OCTOBER 11. EDINBURGH SOCIETY (Dingwall). Chairman, Miss S. E. S. Mair. 8.0 BIRMINGHAM, The Midland Institute. Speaker, Mrs. Osler. \"The History of Women's Suffrage.\" 8.0",
     "TableSpan": [
         {
+            "Column": 1,
+            "Page": 4,
+            "Scan": 3
+        },
+        {
             "Column": 2,
-            "Page": 13,
+            "Page": 4,
+            "Scan": 3
+        },
+        {
+            "Column": 1,
+            "Page": 12,
+            "Scan": 7
+        },
+        {
+            "Column": 2,
+            "Page": 12,
             "Scan": 7
         }
     ]
