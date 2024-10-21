@@ -1,9 +1,7 @@
 import os
 from collections import defaultdict
 from pathlib import Path
-from typing import List
 
-import layoutparser as lp
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -16,6 +14,7 @@ from tqdm.auto import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from src.preprocess import preprocess_pdfs
+from src.utils import perform_ocr
 
 HOME = os.environ["HOME"]
 
@@ -27,16 +26,7 @@ def ocr_image(image, output_path):
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     image = np.array(image)
-    ocr_agent = lp.GCVAgent.with_credential(
-        f"{HOME}/.config/gcloud/application_default_credentials.json",
-        languages=["en"],
-    )
-    ocr = ocr_agent.detect(image, return_response=True)
-    layout = ocr_agent.gather_full_text_annotation(
-        ocr, agg_level=lp.GCVFeatureType.WORD
-    ).to_dataframe()
-    layout["x_center"] = layout.points.apply(lambda x: np.mean(x[::2]))
-    layout["y_center"] = layout.points.apply(lambda x: np.mean(x[1::2]))
+    layout = perform_ocr(image)
     layout["x_center_100x"] = layout.x_center * 100
     layout.to_csv(output_path, index=False)
 
@@ -102,7 +92,7 @@ def find_pages(layout: pd.DataFrame) -> pd.Series:
     return reordered_clusters(layout, pages)
 
 
-def ocr_and_cluster(issues: List[str], output_path: str = "results"):
+def ocr_and_cluster(issues: list[str], output_path: str = "results"):
     issues_images = preprocess_pdfs(issues, output_path=output_path)
     output_path = Path(output_path)
     issues_text = {}
@@ -122,13 +112,13 @@ def ocr_and_cluster(issues: List[str], output_path: str = "results"):
     with joblib_progress(description="OCRing", total=n_images):
         for issue, layout in Parallel(n_jobs=-2, return_as="generator")(
             delayed(
-                lambda issue, image, output_path: (
+                lambda issue, image_path, output_path: (
                     issue,
-                    ocr_image(image, output_path),
+                    ocr_image(image_path, output_path),
                 )
-            )(issue, image, output_path / issue / "ocr" / f"{i + 1}.csv")
+            )(issue, image_path, output_path / issue / "ocr" / f"{i + 1}.csv")
             for issue, images in issues_images.items()
-            for i, image in enumerate(images)
+            for i, image_path in enumerate(images)
         ):
             issues_layouts[issue].append(layout)
             n_layouts += 1
@@ -174,7 +164,7 @@ def ocr_and_cluster(issues: List[str], output_path: str = "results"):
                         cols = reordered_clusters(layout_page, cols)
                         t = "\n".join(
                             layout_page.groupby(cols)
-                            .text.apply(" ".join)
+                            .description.apply(" ".join)
                             .values
                         )
                         perplexity = compute_perplexity(t, model, tokenizer)
@@ -196,7 +186,7 @@ def ocr_and_cluster(issues: List[str], output_path: str = "results"):
                     text += f"## Page {page}\n"
                     for col, layout_col in layout_page.groupby("column"):
                         text += f"### Column {col}\n\n"
-                        text += " ".join(layout_col.text.astype(str))
+                        text += " ".join(layout_col.description.astype(str))
                         text += "\n\n\n"
                     text += "\n"
                 text += "\n"

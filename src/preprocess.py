@@ -1,6 +1,5 @@
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, List
 
 import cv2
 import numpy as np
@@ -85,8 +84,8 @@ def preprocess_image(
 
 
 def preprocess_pdfs(
-    issues: List[str], output_path: str = "results", n_jobs: int = -2
-) -> Dict[str, List[Image.Image]]:
+    issues: list[str], output_path: str = "results", n_jobs: int = -2
+) -> dict[str, list[Image.Image]]:
     pdf_paths = {}
     output_path = Path(output_path)
     issues_images = defaultdict(list)
@@ -94,8 +93,7 @@ def preprocess_pdfs(
         issue_path = output_path / issue / "preprocessed"
         if issue_path.exists():
             for image_path in sorted(issue_path.glob("*.jpeg")):
-                image = Image.open(image_path)
-                issues_images[issue].append(image)
+                issues_images[issue].append(image_path)
             continue
         else:
             if "common_cause" in issue:
@@ -130,7 +128,8 @@ def preprocess_pdfs(
         ):
             issue_path = output_path / issue / "preprocessed"
             issue_path.mkdir(parents=True, exist_ok=True)
-            preprocessed_image.save(issue_path / f"{i+1}.jpeg")
-            issues_images[issue].append(preprocessed_image)
+            image_path = issue_path / f"{i+1}.jpeg"
+            preprocessed_image.save(image_path)
+            issues_images[issue].append(image_path)
 
     return issues_images

@@ -1,7 +1,5 @@
 import json
-import os
 from pathlib import Path
-from typing import List
 
 import google.generativeai as genai
 import pandas as pd
@@ -106,7 +104,7 @@ response_schema = {
 }
 
 
-def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
+def prompt_gemini(issues: list[str], output_path: str = "results") -> None:
     genai.configure()
     model = genai.GenerativeModel(model_name="gemini-1.5-pro")
 

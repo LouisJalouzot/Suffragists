@@ -1,4 +1,5 @@
 import io
+from pathlib import Path
 
 import pandas as pd
 import pymupdf
@@ -30,9 +31,9 @@ def extract_images_from_pdf(pdf_path):
     return images
 
 
-def perform_ocr(image_path):
+def perform_ocr(image_path: str | Path) -> pd.DataFrame:
     client = vision_v1.ImageAnnotatorClient()
-    with open(image_path, "rb") as image_file:
+    with open(str(image_path), "rb") as image_file:
         content = image_file.read()
     image = vision_v1.types.Image(content=content)
     response = client.text_detection(image=image)
