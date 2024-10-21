@@ -21,8 +21,8 @@ Above is the OCR output of an issue of the journal 'The Common Cause'. Your resp
 
 Extract the date of the issue (response JSON key: "IssueDate").
 
-There is a the table titled 'Forthcoming Meetings'. Because of ads, sometimes the table is split into multiple parts in the OCR output and only the first one has the title.
-Extract the scans, pages, and columns on which it spans (response JSON key: "TableSpan" as a list of dictionaries with keys "Scan", "Page", and "Column"). Also extract the raw table text (response JSON key: "RawTable").
+There is a the table titled 'Forthcoming Meetings'. Because of ads, sometimes the table is split into multiple parts in the OCR output but the events are not scattered individually in the text. Only the first part has the title.
+Extract the scans, pages, and columns on which it spans (response JSON key: "TableSpan" as a list of dictionaries with keys "Scan", "Page", and "Column").
 
 Finally, extract as much information as you can from the table for each meeting. Format it into a list of dictionaries with the following keys:
     - "Date": date of the meeting
@@ -58,7 +58,6 @@ Expected JSON for snippet:
         },
         ...
     ],
-    "RawTable": "Forthcoming Meetings...",
 }
 ```
 """
@@ -102,15 +101,14 @@ response_schema = {
                 "required": ["Date", "Location", "Raw"],
             },
         },
-        "RawTable": {"type": "string"},
     },
-    "required": ["IssueDate", "TableSpan", "Meetings", "RawTable"],
+    "required": ["IssueDate", "TableSpan", "Meetings"],
 }
 
 
 def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel(model_name="gemini-1.5-pro-002")
+    genai.configure()
+    model = genai.GenerativeModel(model_name="gemini-1.5-pro")
 
     issues_text = ocr_and_cluster(issues, output_path=output_path)
     output_path = Path(output_path)
@@ -123,11 +121,13 @@ def prompt_gemini(issues: List[str], output_path: str = "results") -> None:
         response = chat_session.send_message(
             prompt.replace("###OCR###", text),
             generation_config={
-                "max_output_tokens": 32768,
+                "max_output_tokens": 8192,
                 "response_mime_type": "application/json",
                 "response_schema": response_schema,
             },
         ).text
+        with open(issue_path / "response.txt", "w") as f:
+            f.write(response)
         response = json.loads(response)
         issue_path.mkdir(parents=True, exist_ok=True)
         with open(issue_path / "response.json", "w") as f:
