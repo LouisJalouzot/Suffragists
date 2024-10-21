@@ -4,7 +4,7 @@
         {
             "Date": "JULY 14",
             "Location": "London (N. Hackney)",
-            "Raw": "London (N. Hackney) -Mrs . Coumbe's Garden Party , 69 , Lordship Road Mrs. Fawcett . 6.30",
+            "Raw": "London (N. Hackney) -Mrs . Coumbe's Garden Party , 69 , Lordship Road Mrs. Fawcett .",
             "Description": "Garden Party",
             "Hosts": [
                 "Mrs. Coumbe"
@@ -12,12 +12,12 @@
             "Speakers": [
                 "Mrs. Fawcett"
             ],
-            "Time": "6.30"
+            "Time": null
         },
         {
             "Date": "JULY 14",
             "Location": "Shrewsbury",
-            "Raw": "Shrewsbury Mrs. Harley's At Home and Garden Meeting- Miss Taylor . 4.0",
+            "Raw": "Shrewsbury Mrs. Harley's At Home and Garden Meeting- Miss Taylor .",
             "Description": "At Home and Garden Meeting",
             "Hosts": [
                 "Mrs. Harley"
@@ -25,12 +25,12 @@
             "Speakers": [
                 "Miss Taylor"
             ],
-            "Time": "4.0"
+            "Time": "6.30"
         },
         {
             "Date": "JULY 14",
             "Location": "Leeds",
-            "Raw": "Leeds Mrs. Hess ' Drawing - room Meeting - Miss I. O. Ford , Miss Fielden . 8.0",
+            "Raw": "Leeds Mrs. Hess ' Drawing - room Meeting - Miss I. O. Ford , Miss Fielden .",
             "Description": "Drawing-room Meeting",
             "Hosts": [
                 "Mrs. Hess"
@@ -39,22 +39,22 @@
                 "Miss I. O. Ford",
                 "Miss Fielden"
             ],
-            "Time": "8.0"
+            "Time": "4.0"
         },
         {
             "Date": "JULY 14",
             "Location": "Brighton Beeding",
-            "Raw": "Brighton Beeding - Miss Basden , Miss Duncan . 3.30",
+            "Raw": "Brighton Beeding - Miss Basden , Miss Duncan .",
             "Speakers": [
                 "Miss Basden",
                 "Miss Duncan"
             ],
-            "Time": "3.30"
+            "Time": "8.0"
         },
         {
             "Date": "JULY 14",
             "Location": "London (Chiswick)",
-            "Raw": "London (Chiswick) -Mrs . Macgregor's Drawing - room Meeting- Major Gorsett , Miss C. Corbett . 8.0",
+            "Raw": "London (Chiswick) -Mrs . Macgregor's Drawing - room Meeting- Major Gorsett , Miss C. Corbett .",
             "Description": "Drawing-room Meeting",
             "Hosts": [
                 "Mrs. Macgregor"
@@ -68,8 +68,8 @@
         {
             "Date": "JULY 14",
             "Location": "London (Hampstead Heath)",
-            "Raw": "London (Hampstead Heath) -Flagstaff - Miss C. Corbett . 3.30",
-            "Description": "Flagstaff",
+            "Raw": "London (Hampstead Heath) -Flagstaff - Miss C. Corbett .",
+            "Description": null,
             "Speakers": [
                 "Miss C. Corbett"
             ],
@@ -85,7 +85,7 @@
         {
             "Date": "JULY 14",
             "Location": "Cuckfield - Horsted Keynes",
-            "Raw": "Cuckfield - Horsted Keynes - Mrs . Francis , Miss Merrifield . 7.30",
+            "Raw": "Cuckfield - Horsted Keynes - Mrs . Francis , Miss Merrifield .",
             "Speakers": [
                 "Mrs. Francis",
                 "Miss Merrifield"
@@ -102,7 +102,8 @@
         {
             "Date": "JULY 15",
             "Location": "Brighton",
-            "Raw": "Brighton - Rottingdean - Miss Bryan , Miss Duncan . 3.0",
+            "Raw": "Brighton - Rottingdean - Miss Bryan , Miss Duncan .",
+            "Description": null,
             "Speakers": [
                 "Miss Bryan",
                 "Miss Duncan"
@@ -126,7 +127,7 @@
         {
             "Date": "JULY 16",
             "Location": "London (Highgate)",
-            "Raw": "London (Highgate) -Parliament Hill Fields - Mrs . Bowden Smith . 8.0",
+            "Raw": "London (Highgate) -Parliament Hill Fields - Mrs . Bowden Smith .",
             "Speakers": [
                 "Mrs. Bowden Smith"
             ],
@@ -167,12 +168,15 @@
             "Location": "Southsea",
             "Raw": "Southsea - Garden Meeting and Cake Sale - Mr . Cameron .",
             "Description": "Garden Meeting and Cake Sale",
+            "Speakers": [
+                "Mr. Cameron"
+            ],
             "Time": null
         },
         {
             "Date": "JULY 20",
             "Location": "London (Hampstead)",
-            "Raw": "London (Hampstead) -Library , Prince Arthur Road - Lady Strachey , Lady Frances Balfour . 4-6",
+            "Raw": "London (Hampstead) -Library , Prince Arthur Road - Lady Strachey , Lady Frances Balfour .",
             "Speakers": [
                 "Lady Strachey",
                 "Lady Frances Balfour"
@@ -182,14 +186,14 @@
         {
             "Date": "JULY 20",
             "Location": "Nottingham",
-            "Raw": "Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . 7-9",
+            "Raw": "Nottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa .",
             "Description": "At Home - Tea and Cocoa",
             "Time": "7-9"
         },
         {
             "Date": "JULY 20",
             "Location": "London (S. Kensington)",
-            "Raw": "London (S. Kensington) -Mrs . Hay Chapman's Drawing - room Meeting - Miss I. O. Ford . 8.30",
+            "Raw": "London (S. Kensington) -Mrs . Hay Chapman's Drawing - room Meeting - Miss I. O. Ford .",
             "Description": "Drawing-room Meeting",
             "Hosts": [
                 "Mrs. Hay Chapman"
@@ -212,32 +216,32 @@
         {
             "Date": "JULY 27",
             "Location": "Nottingham",
-            "Raw": "Nottingham - 36 , Bridlesmith Gate - Tea and Cocoa . 7-9",
+            "Raw": "Nottingham - 36 , Bridlesmith Gate - Tea and Cocoa .",
             "Description": "Tea and Cocoa",
             "Time": "7-9"
         }
     ],
-    "RawTable": "Forthcoming Meetings\nJULY 14 .\nLondon (N. Hackney) -Mrs . Coumbe's Garden Party , 69 , Lordship Road Mrs. Fawcett . 6.30\nShrewsbury Mrs. Harley's At Home and Garden Meeting- Miss Taylor . 4.0\nLeeds Mrs. Hess ' Drawing - room Meeting - Miss I. O. Ford , Miss Fielden . 8.0\nBrighton Beeding - Miss Basden , Miss Duncan . 3.30\nLondon (Chiswick) -Mrs . Macgregor's Drawing - room Meeting- Major Gorsett , Miss C. Corbett . 8.0\nLondon (Hampstead Heath) -Flagstaff - Miss C. Corbett . 3.30\nNewcastle - 33 , Grosvenor Place - Working Party .\nCuckfield - Horsted Keynes - Mrs . Francis , Miss Merrifield . 7.30\nJULY 15 .\nBirmingham - Botanical Gardens , Edgbaston - Pastoral Plays .\nBrighton - Rottingdean - Miss Bryan , Miss Duncan . 3.0\nJULY 16 .\nBirmingham - Solihull - Morris Dances and Folk Songs .\nCheltenham - Garden Meeting - Sandford Lawn , Bath Road .\nLondon (Highgate) -Parliament Hill Fields - Mrs . Bowden Smith . 8.0\nYork - Hon . Mrs. Wilkinson's Garden Party - Miss Phillips .\nJULY 19 .\nFarnham - Annual General Meeting .\nLondon (Sydenham) -I.L.P . Women's Suffrage Meeting - Mrs . Archibald Little\nJULY 20 .\nSouthsea - Garden Meeting and Cake Sale - Mr . Cameron .\nLondon (Hampstead) -Library , Prince Arthur Road - Lady Strachey , Lady Frances Balfour . 4-6\nNottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . 7-9\nLondon (S. Kensington) -Mrs . Hay Chapman's Drawing - room Meeting - Miss I. O. Ford . 8.30\nJULY 25 .\nLondon (Windsor) -Grove Road Schoolroom - At Home - Miss Cockle .\nJULY 27 .\nNottingham - 36 , Bridlesmith Gate - Tea and Cocoa . 7-9",
+    "RawTable": "Forthcoming Meetings .\nJULY 14 .\nLondon (N. Hackney) -Mrs . Coumbe's Garden Party , 69 , Lordship Road Mrs. Fawcett .\nShrewsbury Mrs. Harley's At Home and Garden Meeting- Miss Taylor . 6.30\nLeeds Mrs. Hess ' Drawing - room Meeting - Miss I. O. Ford , Miss Fielden . 4.0\nBrighton Beeding - Miss Basden , Miss Duncan . 8.0\nLondon (Chiswick) -Mrs . Macgregor's Drawing - room Meeting- Major Gorsett , Miss C. Corbett . 8.0\nLondon (Hampstead Heath) -Flagstaff - Miss C. Corbett . 3.30\nNewcastle - 33 , Grosvenor Place - Working Party .\nCuckfield - Horsted Keynes - Mrs . Francis , Miss Merrifield . 7.30\nJULY 15 .\nBirmingham - Botanical Gardens , Edgbaston - Pastoral Plays .\nBrighton - Rottingdean - Miss Bryan , Miss Duncan . 3.0\nJULY 16 .\nBirmingham - Solihull - Morris Dances and Folk Songs . 8.0\nCheltenham - Garden Meeting - Sandford Lawn , Bath Road . 3.30\nLondon (Highgate) -Parliament Hill Fields - Mrs . Bowden Smith . 8.0\nYork - Hon . Mrs. Wilkinson's Garden Party - Miss Phillips .\nJULY 19 .\nFarnham - Annual General Meeting .\nLondon (Sydenham) -I.L.P . Women's Suffrage Meeting - Mrs . Archibald Little\nJULY 20 .\nSouthsea - Garden Meeting and Cake Sale - Mr . Cameron .\nLondon (Hampstead) -Library , Prince Arthur Road - Lady Strachey , Lady Frances Balfour . 4-6\nNottingham - 36 , Bridlesmith Gate - At Home - Tea and Cocoa . 7-9\nLondon (S. Kensington) -Mrs . Hay Chapman's Drawing - room Meeting - Miss I. O. Ford . 8.30\nJULY 25 .\nLondon (Windsor) -Grove Road Schoolroom - At Home - Miss Cockle .\nJULY 27 .\nNottingham - 36 , Bridlesmith Gate - Tea and Cocoa . 7-9",
     "TableSpan": [
         {
-            "Column": 2,
-            "Page": 16,
-            "Scan": 9
+            "Column": 1,
+            "Page": 9,
+            "Scan": 6
         },
         {
-            "Column": 2,
+            "Column": 0,
             "Page": 17,
             "Scan": 10
         },
         {
             "Column": 1,
-            "Page": 18,
+            "Page": 17,
             "Scan": 10
         },
         {
-            "Column": 1,
-            "Page": 19,
-            "Scan": 11
+            "Column": 0,
+            "Page": 18,
+            "Scan": 10
         }
     ]
 }

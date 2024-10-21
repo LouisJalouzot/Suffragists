@@ -33,6 +33,7 @@ Finally, extract as much information as you can from the table for each meeting.
     - "Time": time of the meeting if specified
     - "Raw": all the extracted text corresponding to this meeting, unformatted
 If a meeting is missing address, location, description, hosts, speakers, or time, skip the corresponding field.
+Events are not necessarily presented in chronological order.
 The date might not appear for each meeting, in this case forward fill it. This can also be the case for big cities and countries, however a specific location is bound to one meeting and should not be forward filled.
 Correct punctuation and word breaks.
 

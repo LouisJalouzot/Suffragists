@@ -1,5 +1,5 @@
 {
-    "IssueDate": "MAY 5, 1910",
+    "IssueDate": "MAY 5 , 1910",
     "Meetings": [
         {
             "Date": "MAY 5",
@@ -11,14 +11,14 @@
         },
         {
             "Date": "MAY 5",
-            "Location": "Dublin - 35, Molesworth Street",
-            "Raw": "Dublin 35, Molesworth Street Committee Meeting",
+            "Location": "Dublin\n35, Molesworth Street",
+            "Raw": "Dublin 35, Molesworth Street\nCommittee Meeting",
             "Description": "Committee Meeting"
         },
         {
             "Date": "MAY 5",
-            "Location": "Edinburgh - Mrs. Cumming-Craig's",
-            "Raw": "Edinburgh Mrs. Cumming - Craig's Drawing - room Meeting -- Miss\n11.30 Alice Low",
+            "Location": "Edinburgh\nMrs. Cumming-Craig's",
+            "Raw": "Edinburgh\nMrs. Cumming-Craig's Drawing-room Meeting -- Miss\n11.30 Alice Low",
             "Description": "Drawing-room Meeting",
             "Speakers": [
                 "Miss Alice Low"
@@ -28,7 +28,7 @@
         {
             "Date": "MAY 5",
             "Location": "Sutton Coldfield",
-            "Raw": "Sutton Coldfield Public Meeting - Miss Fraser",
+            "Raw": "Sutton Coldfield\nPublic Meeting - Miss Fraser",
             "Description": "Public Meeting",
             "Speakers": [
                 "Miss Fraser"
@@ -36,8 +36,8 @@
         },
         {
             "Date": "MAY 5",
-            "Location": "Erdington - Mrs. C. H. Pugh's",
-            "Raw": "Erdington - Drawing - room Meeting - Mrs. C. H. Pugh",
+            "Location": "Erdington\n",
+            "Raw": "Erdington - Drawing-room Meeting - Mrs. C. H. Pugh",
             "Description": "Drawing-room Meeting",
             "Hosts": [
                 "Mrs. C. H. Pugh"
@@ -45,8 +45,8 @@
         },
         {
             "Date": "MAY 5",
-            "Location": "North Herts - Watford - Masonic Hall",
-            "Raw": "North Herts Watford - Masonic Hall Mrs. Workman \"Women's Suffrage and Education .\"",
+            "Location": "North Herts\nWatford - Masonic Hall",
+            "Raw": "North Herts\nWatford - Masonic Hall\nMrs. Workman \"Women's Suffrage and Education .\"",
             "Speakers": [
                 "Mrs. Workman"
             ],
@@ -55,14 +55,14 @@
         {
             "Date": "MAY 5",
             "Location": "Bramhall",
-            "Raw": "Bramhall Drawing - room Meeting",
+            "Raw": "Bramhall\nDrawing-room Meeting",
             "Description": "Drawing-room Meeting",
             "Time": "3.15"
         },
         {
             "Date": "MAY 5",
             "Location": "Shrewsbury",
-            "Raw": "Shrewsbury Public Meeting Mrs. Mayer",
+            "Raw": "Shrewsbury\nPublic Meeting\nMrs. Mayer",
             "Description": "Public Meeting",
             "Speakers": [
                 "Mrs. Mayer"
@@ -72,7 +72,7 @@
         {
             "Date": "MAY 5",
             "Location": "London (Camberwell) - Peckham Rye",
-            "Raw": "London (Camberwell) -Peckham Rye - Miss J. Thomson",
+            "Raw": "London (Camberwell) -Peckham Rye - Miss J. Thomson .",
             "Speakers": [
                 "Miss J. Thomson"
             ]
@@ -80,21 +80,19 @@
         {
             "Date": "MAY 5",
             "Location": "London",
-            "Raw": "London At Home to the Selling Corps",
-            "Description": "At Home to the Selling Corps"
+            "Raw": "London\nAt Home to the Selling Corps",
+            "Description": "At Home to the Selling Corps",
+            "Time": "3.0"
         },
         {
             "Date": "MAY 6",
-            "Location": "Selly Oak - Mrs. Henry Lloyd Wilson's",
-            "Raw": "Selly Oak Mrs. Henry Lloyd Wilson's Drawing - room Meeting Miss Fraser",
+            "Location": "Selly Oak\nMrs. Henry Lloyd Wilson's",
+            "Raw": "Selly Oak\nMrs. Henry Lloyd Wilson's Drawing-room Meeting\nMiss Fraser",
             "Description": "Drawing-room Meeting",
-            "Hosts": [
-                "Mrs. Henry Lloyd Wilson"
-            ],
             "Speakers": [
                 "Miss Fraser"
             ],
-            "Time": "3.0"
+            "Time": "3.15"
         },
         {
             "Date": "MAY 6",
@@ -103,22 +101,23 @@
             "Description": "Public Meeting",
             "Speakers": [
                 "Miss Fraser"
+            ]
+        },
+        {
+            "Date": "MAY 6",
+            "Location": "Edinburgh\n40, Shandwick Place",
+            "Raw": "Edinburgh - 40, Shandwick Place - Miss Margaret Drummond",
+            "Speakers": [
+                "Miss Margaret Drummond"
             ],
             "Time": "8.0"
         },
         {
             "Date": "MAY 6",
-            "Location": "Edinburgh - 40, Shandwick Place",
-            "Raw": "Edinburgh - 40, Shandwick Place - Miss Margaret Drummond",
-            "Speakers": [
-                "Miss Margaret Drummond"
-            ]
-        },
-        {
-            "Date": "MAY 6",
             "Location": "Salford",
-            "Raw": "Salford Members' Rally",
-            "Description": "Members' Rally"
+            "Raw": "Salford\nMembers' Rally",
+            "Description": "Members' Rally",
+            "Time": "4.0 and 8.0"
         },
         {
             "Date": "MAY 7",
@@ -129,12 +128,12 @@
                 "Mr. Cholmeley",
                 "Miss Fraser"
             ],
-            "Time": "4.0 and 8.0"
+            "Time": "6.45"
         },
         {
             "Date": "MAY 7",
             "Location": "London (Highgate) - Outside Tufnell Park Tube Station",
-            "Raw": "London (Highgate) -Open - air Meeting - Outside Tufnell Park Tube Station - J. Y. Kennedy, J. G. Rogers",
+            "Raw": "London (Highgate) -Open-air Meeting - Outside Tufnell Park Tube Station - J. Y. Kennedy, J. G. Rogers",
             "Description": "Open-air Meeting",
             "Speakers": [
                 "J. Y. Kennedy",
@@ -147,7 +146,7 @@
             "Location": "London - Hyde Park",
             "Raw": "London - Hyde Park - Men's League",
             "Description": "Men's League",
-            "Time": "6.45"
+            "Time": "2.30"
         },
         {
             "Date": "MAY 9",
@@ -158,23 +157,19 @@
         },
         {
             "Date": "MAY 9",
-            "Location": "Edinburgh - 9, Learmouth Terrace",
-            "Raw": "Edinburgh 9, Learmouth Terrace Drawing - room Meeting - Miss Lamond and Dr. Inglis",
+            "Location": "Edinburgh\n9, Learmouth Terrace",
+            "Raw": "Edinburgh\n9, Learmouth Terrace\nDrawing-room Meeting - Miss Lamond and Dr. Inglis",
             "Description": "Drawing-room Meeting",
             "Speakers": [
                 "Miss Lamond",
                 "Dr. Inglis"
-            ],
-            "Time": "2.30"
+            ]
         },
         {
             "Date": "MAY 9",
-            "Location": "London (Wimbledon) - Mrs. Trelfall's",
-            "Raw": "London (Wimbledon) -Mrs. Trelfall's Drawing - room Meeting- Mrs. Rackham",
+            "Location": "London (Wimbledon)\nMrs. Trelfall's",
+            "Raw": "London (Wimbledon) -Mrs. Trelfall's Drawing-room Meeting- Mrs. Rackham",
             "Description": "Drawing-room Meeting",
-            "Hosts": [
-                "Mrs. Trelfall"
-            ],
             "Speakers": [
                 "Mrs. Rackham"
             ],
@@ -182,12 +177,9 @@
         },
         {
             "Date": "MAY 10",
-            "Location": "London (Wimbledon) - Mrs. Schwann's",
-            "Raw": "London (Wimbledon) Mrs. Schwann's Drawing - room Meeting- Miss Clementina Black",
+            "Location": "London (Wimbledon)\nMrs. Schwann's",
+            "Raw": "London (Wimbledon)\nMrs. Schwann's Drawing-room Meeting- Miss Clementina Black",
             "Description": "Drawing-room Meeting",
-            "Hosts": [
-                "Mrs. Schwann"
-            ],
             "Speakers": [
                 "Miss Clementina Black"
             ],
@@ -197,7 +189,7 @@
             "Date": "MAY 10",
             "Location": "London (Ealing)",
             "Raw": "London (Ealing) -At Home \"Women under the Law .\"",
-            "Description": "At Home \"Women under the Law\"",
+            "Description": "At Home \"Women under the Law .\"",
             "Time": "3.30"
         },
         {
@@ -212,12 +204,9 @@
         },
         {
             "Date": "MAY 10",
-            "Location": "Sunderland - Mrs. Jacques'",
-            "Raw": "Sunderland Mrs. Jacques' Drawing - room Meeting",
+            "Location": "Sunderland\nMrs. Jacques'",
+            "Raw": "Sunderland\nMrs. Jacques' Drawing-room Meeting",
             "Description": "Drawing-room Meeting",
-            "Hosts": [
-                "Mrs. Jacques"
-            ],
             "Time": "7.30"
         },
         {
@@ -233,18 +222,15 @@
         {
             "Date": "MAY 10",
             "Location": "London - Criterion Restaurant",
-            "Raw": "London Actresses' Franchise League Matin\u00e9e - Criterion Restaurant",
+            "Raw": "London\nActresses' Franchise League Matin\u00e9e - Criterion Restaurant",
             "Description": "Actresses' Franchise League Matin\u00e9e",
             "Time": "2.30"
         },
         {
             "Date": "MAY 10",
-            "Location": "London (Streatham) - Mrs. Albin's",
-            "Raw": "London (Streatham) -Mrs. Albin's Drawing - room Meeting- Mrs. Rackham",
+            "Location": "London (Streatham)\nMrs. Albin's",
+            "Raw": "London (Streatham) -Mrs. Albin's Drawing-room Meeting- Mrs. Rackham",
             "Description": "Drawing-room Meeting",
-            "Hosts": [
-                "Mrs. Albin"
-            ],
             "Speakers": [
                 "Mrs. Rackham"
             ],
@@ -252,8 +238,8 @@
         },
         {
             "Date": "MAY 10",
-            "Location": "Brighton - Forfar's Restaurant",
-            "Raw": "Brighton Forfar's Restaurant - Discussion on the Women's Charter",
+            "Location": "Brighton\nForfar's Restaurant",
+            "Raw": "Brighton\nForfar's Restaurant - Discussion on the Women's\nCharter",
             "Description": "Discussion on the Women's Charter"
         },
         {
@@ -285,22 +271,16 @@
         },
         {
             "Date": "MAY 11",
-            "Location": "London (Kensington) - Miss Holland's",
-            "Raw": "London (Kensington) -Miss Holland's Drawing - room Meeting",
+            "Location": "London (Kensington)\nMiss Holland's",
+            "Raw": "London (Kensington) -Miss Holland's Drawing-room Meeting",
             "Description": "Drawing-room Meeting",
-            "Hosts": [
-                "Miss Holland"
-            ],
             "Time": "8.30"
         },
         {
             "Date": "MAY 11",
-            "Location": "London (Richmond) - Mrs. Addin's",
-            "Raw": "London (Richmond) -Mrs. Addin's Drawing - room Meeting - Rev. Hugh Chapman",
+            "Location": "London (Richmond)\nMrs. Addin's",
+            "Raw": "London (Richmond) -Mrs. Addin's Drawing-room Meeting - Rev. Hugh Chapman",
             "Description": "Drawing-room Meeting",
-            "Hosts": [
-                "Mrs. Addin"
-            ],
             "Speakers": [
                 "Rev. Hugh Chapman"
             ]
@@ -308,7 +288,7 @@
         {
             "Date": "MAY 11",
             "Location": "Shrewsbury",
-            "Raw": "Shrewsbury - Drawing - room Meeting - Mrs. Mayer",
+            "Raw": "Shrewsbury - Drawing-room Meeting - Mrs. Mayer .",
             "Description": "Drawing-room Meeting",
             "Speakers": [
                 "Mrs. Mayer"
@@ -317,8 +297,8 @@
         },
         {
             "Date": "MAY 11",
-            "Location": "Knutsford - Ruskin Recreation Room",
-            "Raw": "Knutsford Ruskin Recreation Room - Women Only - Rev. Kirk Maconachie",
+            "Location": "Knutsford\nRuskin Recreation Room",
+            "Raw": "Knutsford\nRuskin Recreation Room - Women Only - Rev. Kirk Maconachie",
             "Description": "Women Only",
             "Speakers": [
                 "Rev. Kirk Maconachie"
@@ -327,8 +307,8 @@
         },
         {
             "Date": "MAY 11",
-            "Location": "London - Caxton Hall",
-            "Raw": "London Church League - Caxton Hall - Sir John Cockburn",
+            "Location": "London\nCaxton Hall",
+            "Raw": "London\nChurch League - Caxton Hall - Sir John Cockburn",
             "Description": "Church League",
             "Speakers": [
                 "Sir John Cockburn"
@@ -338,8 +318,8 @@
         {
             "Date": "MAY 12",
             "Location": "London (N. Paddington) - Town Hall",
-            "Raw": "London (N. Paddington) Social Gathering - Town Hall - Miss Hodge and Mr. E. G. Smith Music and Recitations",
-            "Description": "Social Gathering; Music and Recitations",
+            "Raw": "London (N. Paddington) Social Gathering - Town Hall - Miss Hodge and Mr. E. G. Smith\nMusic and Recitations",
+            "Description": "Social Gathering\nMusic and Recitations",
             "Speakers": [
                 "Miss Hodge",
                 "Mr. E. G. Smith"
@@ -349,7 +329,7 @@
         {
             "Date": "MAY 12",
             "Location": "Tunbridge Wells - Christ Church Parish Room",
-            "Raw": "Tunbridge Wells - Christ Church Parish Room - Dr. Martindale",
+            "Raw": "Tunbridge Wells - Christ Church Parish Room - Dr. Martindale .",
             "Speakers": [
                 "Dr. Martindale"
             ],
@@ -359,7 +339,8 @@
             "Date": "MAY 12",
             "Location": "Shrewsbury - Trinity Schools",
             "Raw": "Shrewsbury - Trinity Schools - Rummage Sale",
-            "Description": "Rummage Sale"
+            "Description": "Rummage Sale",
+            "Time": "3.0"
         },
         {
             "Date": "MAY 12",
@@ -371,14 +352,14 @@
         },
         {
             "Date": "MAY 12",
-            "Location": "Nottingham - 36, Bridlesmith Gate",
+            "Location": "Nottingham\n36, Bridlesmith Gate",
             "Raw": "Nottingham - 36, Bridlesmith Gate - Tea and Cocoa",
             "Description": "Tea and Cocoa"
         },
         {
             "Date": "MAY 12",
-            "Location": "London - Essex Hall, Strand",
-            "Raw": "London Church League - Essex Hall, Strand - Miss Royden",
+            "Location": "London\nEssex Hall, Strand",
+            "Raw": "London\nChurch League - Essex Hall, Strand - Miss Royden",
             "Description": "Church League",
             "Speakers": [
                 "Miss Royden"
@@ -388,7 +369,7 @@
         {
             "Date": "MAY 13",
             "Location": "Uxbridge",
-            "Raw": "Uxbridge Church League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff, Miss Canning",
+            "Raw": "Uxbridge\nChurch League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff, Miss Canning",
             "Description": "Church League for W.S. - Inaugural Public Meeting",
             "Speakers": [
                 "Rev. C. Hinscliff",
@@ -397,18 +378,19 @@
         },
         {
             "Date": "MAY 13",
-            "Location": "Edinburgh - 40, Shandwick Place",
+            "Location": "Edinburgh\n40, Shandwick Place",
             "Raw": "Edinburgh - 40, Shandwick Place",
             "Time": "7.30"
         },
         {
             "Date": "MAY 13",
             "Location": "London (Esher)",
-            "Raw": "London (Esher) -Open - air Meeting - Miss C. Corbett",
+            "Raw": "London (Esher) -Open-air Meeting - Miss C. Corbett",
             "Description": "Open-air Meeting",
             "Speakers": [
                 "Miss C. Corbett"
-            ]
+            ],
+            "Time": "7-9"
         },
         {
             "Date": "MAY 13",
@@ -417,8 +399,7 @@
             "Description": "Public At Home",
             "Speakers": [
                 "Mrs. Mayer"
-            ],
-            "Time": "7-9"
+            ]
         },
         {
             "Date": "MAY 13",
@@ -432,7 +413,7 @@
         {
             "Date": "MAY 14",
             "Location": "Folkestone",
-            "Raw": "Folkestone Public Meeting - Miss Abadam",
+            "Raw": "Folkestone\nPublic Meeting - Miss Abadam",
             "Description": "Public Meeting",
             "Speakers": [
                 "Miss Abadam"
@@ -442,7 +423,7 @@
         {
             "Date": "MAY 14",
             "Location": "London (Highgate and N. St. Pancras) - Queen's Crescent",
-            "Raw": "London (Highgate and N. St. Pancras) -Open - air Meetings- Queen's Crescent",
+            "Raw": "London (Highgate and N. St. Pancras) -Open-air Meetings- Queen's Crescent",
             "Description": "Open-air Meetings",
             "Time": "8.0"
         },
@@ -458,7 +439,7 @@
         {
             "Date": "MAY 18",
             "Location": "Rugby",
-            "Raw": "Rugby - Open - air Meeting - Mrs. Mayer",
+            "Raw": "Rugby - Open-air Meeting - Mrs. Mayer",
             "Description": "Open-air Meeting",
             "Speakers": [
                 "Mrs. Mayer"
@@ -468,7 +449,7 @@
         {
             "Date": "MAY 18",
             "Location": "London (Molesey, E.)",
-            "Raw": "London (Molesey, E.) - Open - air Meeting - Miss C. Corbett",
+            "Raw": "London (Molesey, E.) - Open-air Meeting - Miss C. Corbett",
             "Description": "Open-air Meeting",
             "Speakers": [
                 "Miss C. Corbett"
@@ -477,7 +458,7 @@
         {
             "Date": "MAY 18",
             "Location": "Hull - Paragon Square",
-            "Raw": "Hull - Paragon Square Open - air Meeting - Mr. Herbert Jacobs",
+            "Raw": "Hull - Paragon Square\nOpen-air Meeting - Mr. Herbert Jacobs",
             "Description": "Open-air Meeting",
             "Speakers": [
                 "Mr. Herbert Jacobs"
@@ -486,11 +467,12 @@
         {
             "Date": "MAY 18",
             "Location": "Hull",
-            "Raw": "Hull Public Meeting - Mr. Herbert Jacobs",
+            "Raw": "Hull\nPublic Meeting - Mr. Herbert Jacobs",
             "Description": "Public Meeting",
             "Speakers": [
                 "Mr. Herbert Jacobs"
-            ]
+            ],
+            "Time": "3.0"
         },
         {
             "Date": "MAY 18",
@@ -499,7 +481,7 @@
             "Speakers": [
                 "Miss Abadam"
             ],
-            "Time": "3.0"
+            "Time": "8.0"
         },
         {
             "Date": "MAY 19",
@@ -508,14 +490,17 @@
             "Speakers": [
                 "Miss Abadam"
             ],
-            "Time": "8.0"
+            "Time": "4.0 and 8.0"
         },
         {
             "Date": "MAY 19",
-            "Location": "Edinburgh - Sale - 40, Shandwick Place",
-            "Raw": "Edinburgh - Sale - 40, Shandwick Place - To be opened by the Lady Frances Balfour",
-            "Description": "To be opened by the Lady Frances Balfour",
-            "Time": "11.0"
+            "Location": "Edinburgh - 40, Shandwick Place",
+            "Raw": "Edinburgh - Sale - 40, Shandwick Place - To be opened by the\n8.0\nLady Frances Balfour",
+            "Description": "Sale - To be opened by the Lady Frances Balfour",
+            "Speakers": [
+                "Lady Frances Balfour"
+            ],
+            "Time": "8.0"
         },
         {
             "Date": "MAY 19",
@@ -527,14 +512,14 @@
         },
         {
             "Date": "MAY 19",
-            "Location": "Nottingham - 36, Bridlesmith Gate",
-            "Raw": "Nottingham - 36, Bridlesmith Gate Tea and Cocoa",
+            "Location": "Nottingham\n36, Bridlesmith Gate",
+            "Raw": "Nottingham - 36, Bridlesmith Gate\nTea and Cocoa",
             "Description": "Tea and Cocoa"
         },
         {
             "Date": "MAY 19",
-            "Location": "Dublin - 35, Molesworth Street",
-            "Raw": "Dublin 35, Molesworth Street Committee Meeting",
+            "Location": "Dublin\n35, Molesworth Street",
+            "Raw": "Dublin\n35, Molesworth Street\nCommittee Meeting",
             "Description": "Committee Meeting",
             "Time": "11.30"
         },
@@ -545,7 +530,7 @@
             "Speakers": [
                 "Miss Abadam"
             ],
-            "Time": "8.0"
+            "Time": "11.0"
         },
         {
             "Date": "MAY 21",
@@ -575,30 +560,30 @@
         {
             "Date": "MAY 21",
             "Location": "London (Highgate) - Queen's Crescent",
-            "Raw": "London (Highgate) -Open - air Meeting Queen's Crescent",
+            "Raw": "London (Highgate) -Open-air Meeting\nQueen's Crescent",
             "Description": "Open-air Meeting",
             "Time": "8.0"
         },
         {
             "Date": "MAY 21",
             "Location": "Witney",
-            "Raw": "Witney - Miss A",
+            "Raw": "Witney - Miss Abadam",
             "Speakers": [
-                "Miss A"
+                "Miss Abadam"
             ],
             "Time": "7.0"
         }
     ],
-    "RawTable": "Forthcoming Meetings\nMAY 5.\nShrewsbury - Market Hall - Mrs. Mayer.\nDublin 35, Molesworth Street Committee Meeting.\nEdinburgh Mrs. Cumming - Craig's Drawing - room Meeting -- Miss\n11.30 Alice Low.\nSutton Coldfield Public Meeting - Miss Fraser.\nErdington - Drawing - room Meeting - Mrs. C. H. Pugh.\nNorth Herts Watford - Masonic Hall Mrs. Workman \"Women's Suffrage and Education .\"\n8.0\n3.15\n3.30 Bramhall Drawing - room Meeting.\n3.0 Shrewsbury Public Meeting Mrs. Mayer.\n8.0 London (Camberwell) -Peckham Rye - Miss J. Thomson.\nLondon At Home to the Selling Corps.\nMAY 6.\nSelly Oak Mrs. Henry Lloyd Wilson's Drawing - room Meeting Miss Fraser.\n8.0\n3.15 Selly Oak - Public Meeting - The Institute - Miss Fraser.\nEdinburgh - 40, Shandwick Place - Miss Margaret Drummond.\nSalford Members' Rally.\nMAY 7.\n4.0 and 8.0 Edgbaston - Westbourne - For Men - Mr. Cholmeley and Miss Fraser.\n6.45\n8.30 London (Highgate) -Open - air Meeting - Outside Tufnell Park Tube Station - J. Y. Kennedy, J. G. Rogers.\nMAY 8.\nLondon - Hyde Park - Men's League.\n8.0\n2.30\nMAY 9.\nLondon (Highgate) -Spears Memorial Hall - Miss Mason's Lecture.\nEdinburgh 9, Learmouth Terrace Drawing - room Meeting - Miss Lamond and Dr. Inglis.\nLondon (Wimbledon) -Mrs. Trelfall's Drawing - room Meeting- Mrs. Rackham.\n8.0\n3.45\n5.15 London (Wimbledon) Mrs. Schwann's Drawing - room Meeting- Miss Clementina Black.\n3.30 London (Ealing) -At Home \"Women under the Law.\"\n8.30 London - Essex Hall, Strand - Church League - Miss Abadam.\n7.30 Sunderland Mrs. Jacques' Drawing - room Meeting.\n5.15 London - N.U. Offices - Younger Suffragists - Dr. Saleeby.\n2.30 London Actresses' Franchise League Matin\u00e9e - Criterion Restaurant.\n3.30 London (Streatham) -Mrs. Albin's Drawing - room Meeting- Mrs. Rackham.\nBrighton Forfar's Restaurant - Discussion on the Women's Charter.\nShrewsbury - Mothers' Meeting - Mrs. Mayer.\n8.0 Manchester - Memorial Hall - Mr. Joseph Clayton.\n7.30 Salford (South) -Egerton Schools, Tatton Street - Mr. Clayton.\nMAY 11.\n8.30 London (Kensington) -Miss Holland's Drawing - room Meeting.\nLondon (Richmond) -Mrs. Addin's Drawing - room Meeting - Rev. Hugh Chapman.\n3.15 Shrewsbury - Drawing - room Meeting - Mrs. Mayer.\n3.0 Knutsford Ruskin Recreation Room - Women Only - Rev. Kirk Maconachie.\n3.30 London Church League - Caxton Hall - Sir John Cockburn.\nMAY 12.\n3-6 London (N. Paddington) Social Gathering - Town Hall - Miss Hodge and Mr. E. G. Smith Music and Recitations.\nTunbridge Wells - Christ Church Parish Room - Dr. Martindale.\n8.0\n3.0 Shrewsbury - Trinity Schools - Rummage Sale.\nLouise London (Camberwell) -Peckham Rye - Miss Rinder.\nNottingham - 36, Bridlesmith Gate - Tea and Cocoa.\n8.30 London Church League - Essex Hall, Strand - Miss Royden.\nMAY 13.\nUxbridge Church League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff, Miss Canning.\nEdinburgh - 40, Shandwick Place.\nLondon (Esher) -Open - air Meeting - Miss C. Corbett.\n7-9 Shrewsbury - Public At Home - Mrs. Mayer.\n8.0 Bournemouth - Prince's Hall - Lady Stout.\n4.0\nMAY 14.\nFolkestone Public Meeting - Miss Abadam.\n8.0 London (Highgate and N. St. Pancras) -Open - air Meetings- Queen's Crescent.\n8.0\nMAY 17.\nFarnham - Tilford Schools - Miss Abadam.\nMAY 18.\nRugby - Open - air Meeting - Mrs. Mayer.\n8.0 London (Molesey, E.) - Open - air Meeting - Miss C. Corbett.\nHull - Paragon Square Open - air Meeting - Mr. Herbert Jacobs.\nHull Public Meeting - Mr. Herbert Jacobs.\n3.0 Farnham - South Street Institute - Miss Abadam.\nMAY 19.\n8.0 Herts, N. and Hitchin - Stevenage - Miss Abadam.\n11.0 Edinburgh - Sale - 40, Shandwick Place - To be opened by the Lady Frances Balfour.\nLondon (Camberwell) -Peckham Rye - Miss Myle.\nNottingham - 36, Bridlesmith Gate Tea and Cocoa.\n11.30 Dublin 35, Molesworth Street Committee Meeting.\nMAY 20.\nAbadam. 22919\n8.0\nMAY 21.\n3.0 Oxford - Miss Abadam.\n8.0 Woodstock - Miss Abadam.\n8.0 Tunbridge Wells - Great Hall - Miss Mason's Lantern Lecture.\n8.0 London (Highgate) -Open - air Meeting Queen's Crescent.\n7.0 Witney - Miss A",
+    "RawTable": "Forthcoming Meetings\nShrewsbury - Market Hall - Mrs. Mayer\nDublin\n35, Molesworth Street\nCommittee Meeting\nEdinburgh\nMrs. Cumming-Craig's Drawing-room Meeting -- Miss\n11.30 Alice Low\nSutton Coldfield\nPublic Meeting - Miss Fraser\nErdington - Drawing-room Meeting - Mrs. C. H. Pugh\nNorth Herts\nWatford - Masonic Hall\nMrs. Workman \"Women's Suffrage and Education . \"\n8.0\n3.15\n3.30 Bramhall\nDrawing-room Meeting\n3.0 Shrewsbury\nPublic Meeting\nMrs. Mayer\n8.0\nLondon (Camberwell) -Peckham Rye - Miss J. Thomson .\nLondon\nAt Home to the Selling Corps\nMAY 6\nSelly Oak\nMrs. Henry Lloyd Wilson's Drawing-room Meeting\nMiss Fraser\n3.15\nSelly Oak - Public Meeting - The Institute - Miss Fraser\nEdinburgh - 40, Shandwick Place - Miss Margaret Drummond\nSalford\nMembers' Rally\nMAY 7\n8.0\n4.0 and 8.0\n6.45 Edgbaston - Westbourne - For Men - Mr. Cholmeley and Miss Fraser\n8.30\nLondon (Highgate) -Open-air Meeting - Outside Tufnell Park Tube Station - J. Y. Kennedy, J. G. Rogers\nMAY 8\nLondon - Hyde Park - Men's League\n8.0\n2.30\nMAY 9\nLondon (Highgate) -Spears Memorial Hall - Miss Mason's Lecture\nEdinburgh\n9, Learmouth Terrace\nDrawing-room Meeting - Miss Lamond and Dr. Inglis\nLondon (Wimbledon) -Mrs. Trelfall's Drawing-room Meeting- Mrs. Rackham\n8.0\n3.45\n5.15\n3.30\n8.0 MAY 10\nLondon (Wimbledon)\nMrs. Schwann's Drawing-room Meeting- Miss Clementina Black\nLondon (Ealing) -At Home \"Women under the Law . \"\nLondon - Essex Hall, Strand - Church League - Miss Abadam\nSunderland\nMrs. Jacques' Drawing-room Meeting\nLondon - N.U. Offices - Younger Suffragists - Dr. Saleeby\nLondon\nActresses' Franchise League Matin\u00e9e - Criterion Restaurant\n2.30\nLondon (Streatham) -Mrs. Albin's Drawing-room Meeting- Mrs. Rackham\nBrighton\nForfar's Restaurant - Discussion on the Women's\nCharter\nShrewsbury - Mothers' Meeting - Mrs. Mayer\nManchester - Memorial Hall - Mr. Joseph Clayton\nSalford (South) -Egerton Schools, Tatton Street - Mr. Clayton\n7.30 MAY 11\nLondon (Kensington) -Miss Holland's Drawing-room Meeting\n8.30\nLondon (Richmond) -Mrs. Addin's Drawing-room Meeting - Rev. Hugh Chapman\nShrewsbury - Drawing-room Meeting - Mrs. Mayer .\n3.15\n3.0 Knutsford\nRuskin Recreation Room - Women Only - Rev. Kirk Maconachie\n3.30\nLondon\nChurch League - Caxton Hall - Sir John Cockburn\nMAY 12\n3-6 London (N. Paddington) Social Gathering - Town Hall - Miss Hodge and Mr. E. G. Smith\nMusic and Recitations\nTunbridge Wells - Christ Church Parish Room - Dr. Martindale .\nShrewsbury - Trinity Schools - Rummage Sale\nLondon (Camberwell) -Peckham Rye - Miss Rinder\nNottingham - 36, Bridlesmith Gate - Tea and Cocoa\nLondon\nChurch League - Essex Hall, Strand - Miss Royden\nMAY 13\nUxbridge\nChurch League for W.S. - Inaugural Public Meeting- The Rev. C. Hinscliff, Miss Canning\nEdinburgh - 40, Shandwick Place\nLondon (Esher) -Open-air Meeting - Miss C. Corbett\n7-9\nShrewsbury - Public At Home - Mrs. Mayer\nBournemouth - Prince's Hall - Lady Stout\n8.0\nMAY 14\nFolkestone\nPublic Meeting - Miss Abadam\n8.0 London (Highgate and N. St. Pancras) -Open-air Meetings- Queen's Crescent\n8.0\nMAY 17\nFarnham - Tilford Schools - Miss Abadam\n8.0\nMAY 18\nRugby - Open-air Meeting - Mrs. Mayer\n8.0 London (Molesey, E.) - Open-air Meeting - Miss C. Corbett\nHull - Paragon Square\nOpen-air Meeting - Mr. Herbert Jacobs\nHull\nPublic Meeting - Mr. Herbert Jacobs\nFarnham - South Street Institute - Miss Abadam\n8.0\n3.0 MAY 19\nHerts, N. and Hitchin - Stevenage - Miss Abadam\nEdinburgh - Sale - 40, Shandwick Place - To be opened by the\n8.0\n11.0 London (Camberwell) -Peckham Rye - Miss Myle\nNottingham - 36, Bridlesmith Gate\nTea and Cocoa\nDublin\n35, Molesworth Street\nCommittee Meeting\n7-9\n11.30\nMAY 20\nOxford - Miss Abadam\nMAY 21\nOxford - Miss Abadam\n3.0 Woodstock - Miss Abadam\n8.0\nTunbridge Wells - Great Hall - Miss Mason's Lantern Lecture\n8.0 London (Highgate) -Open-air Meeting\nQueen's Crescent\nWitney - Miss A\n7.0",
     "TableSpan": [
         {
-            "Column": 1,
-            "Page": 15,
+            "Column": 0,
+            "Page": 14,
             "Scan": 3
         },
         {
-            "Column": 2,
-            "Page": 15,
+            "Column": 1,
+            "Page": 14,
             "Scan": 3
         }
     ]

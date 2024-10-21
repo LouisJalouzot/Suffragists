@@ -8,6 +8,7 @@ tqdm
 google-generativeai
 git+https://github.com/nikhilweee/iopath
 layoutparser[ocr]
+matplotlib
 torchvision
 wheel
 seaborn

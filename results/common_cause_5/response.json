@@ -53,7 +53,7 @@
         },
         {
             "Date": "JANUARY 10",
-            "Location": "Memorial Hall, N.W. Manchester",
+            "Location": "Memorial Hall, Manchester",
             "Raw": "JANUARY 10. Manchester, N.W. - Memorial Hall - Miss Robertson. 8.0",
             "Speakers": [
                 "Miss Robertson"
@@ -145,16 +145,16 @@
             "Time": "4.0"
         }
     ],
-    "RawTable": "Forthcoming Meetings DECEMBER 28. Bolton - Members' Meeting - Miss Robertson. JANUARY 3. London (Windsor and Eton) - Drawing-room Meeting - Mrs. W. Gibb. 4.15 JANUARY 4. Cambridge Romsey Town - Public Meeting. 8.0 JANUARY 6. Cambridge - Guild Hall - Public Meeting. 8.0 JANUARY 8. Glasgow - 58, Renfield Street - Miss Edith Stewart. 4.0 JANUARY 8-22. Edinburgh - Miss Abadam. JANUARY 10. Manchester, N.W. - Memorial Hall - Miss Robertson. 8.0 JANUARY 11. Cambridge - Chesterton Schools - Public Meeting. 8.0 JANUARY 12. Hull Royal Institution - Lantern Lecture - Miss Bertha Mason. 8.0 JANUARY 17. Cambridge Ely Public Hall - Public Meeting. 8.0 JANUARY 18. Cambridge Burwell Schools, East Cambs. - Public Meeting. 8.0 FEBRUARY 5. Glasgow - 58, Renfield Street - Miss Adam. 4.0 FEBRUARY 9. Bournemouth - St. Peter's Hall - Mrs. P. Snowden. 8.0 FEBRUARY 11. Rochdale Miss Abadam. FEBRUARY 16. Hull - Co-operative Educational Inst., 30, Albion Street - Annual Meeting - Miss I. O. Ford. 7.30 FEBRUARY 17. Sheffield - Miss Abadam. MARCH 5. Glasgow - 58, Renfield Street - Miss Helen E. Waddel. 4.0",
+    "RawTable": "Forthcoming Meetings\nDECEMBER 28. Bolton - Members' Meeting - Miss Robertson.\nJANUARY 3. London (Windsor and Eton) - Drawing-room Meeting - Mrs. W. Gibb. 4.15\nJANUARY 4. Cambridge Romsey Town - Public Meeting. 8.0\nJANUARY 6. Cambridge - Guild Hall - Public Meeting. 8.0\nJANUARY 8. Glasgow - 58, Renfield Street - Miss Edith Stewart. 4.0\nJANUARY 8-22. Edinburgh - Miss Abadam.\nJANUARY 10. Manchester, N.W. - Memorial Hall - Miss Robertson. 8.0\nJANUARY 11. Cambridge - Chesterton Schools - Public Meeting. 8.0\nJANUARY 12. Hull Royal Institution - Lantern Lecture - Miss Bertha Mason. 8.0\nJANUARY 17. Cambridge Ely Public Hall - Public Meeting. 8.0\nJANUARY 18. Cambridge Burwell Schools, East Cambs. - Public Meeting. 8.0\nFEBRUARY 5. Glasgow - 58, Renfield Street - Miss Adam. 4.0\nFEBRUARY 9. Bournemouth - St. Peter's Hall - Mrs. P. Snowden. 8.0\nFBRUARY 11. Rochdale Miss Abadam.\nFEBRUARY 16. Hull - Co-operative Educational Inst., 30, Albion Street - Annual Meeting - Miss I. O. Ford. 7.30\nFEBRUARY 17. Sheffield - Miss Abadam.\nMARCH 5. Glasgow - 58, Renfield Street - Miss Helen E. Waddel. 4.0",
     "TableSpan": [
         {
-            "Column": 1,
-            "Page": 13,
+            "Column": 0,
+            "Page": 12,
             "Scan": 9
         },
         {
-            "Column": 2,
-            "Page": 15,
+            "Column": 1,
+            "Page": 12,
             "Scan": 9
         }
     ]
