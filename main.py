@@ -1,6 +1,5 @@
 from pathlib import Path
 
-from src.ocr_and_cluster import ocr_and_cluster
 from src.prompt_gemini import prompt_gemini
 
 issues = sorted(
@@ -8,6 +7,27 @@ issues = sorted(
     key=lambda x: int(x.split("_")[-1]),
 )
 issues = [
-    f"common_cause_{i}" for i in [1, 3, 4, 5, 15, 11, 29, 159, 165, 198, 200]
+    f"common_cause_{i}"
+    for i in [
+        1,
+        3,
+        4,
+        5,
+        11,
+        15,
+        29,
+        59,
+        100,
+        115,
+        130,
+        132,
+        159,
+        165,
+        184,
+        198,
+        200,
+        224,
+        252,
+    ]
 ]
 prompt_gemini(issues)
