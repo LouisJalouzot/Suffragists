@@ -40,7 +40,7 @@ def perform_ocr(image_path: str | Path) -> pd.DataFrame:
 
     df = []
     for annot in response.text_annotations[1:]:
-        row = [annot.description]
+        row = [str(annot.description)]
         x_center, y_center = 0, 0
         for vertex in annot.bounding_poly.vertices:
             row.append(vertex.x)
