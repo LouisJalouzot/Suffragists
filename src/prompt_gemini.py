@@ -124,15 +124,30 @@ def prompt_gemini(issues: list[str], output_path: str = "results") -> None:
                 "response_schema": response_schema,
             },
         ).text
+        try:
+            json.loads(response)
+        except:
+            response += chat_session.send_message(
+                "Complete your previous answer from where you stopped without repeating what you said.",
+                generation_config={
+                    "max_output_tokens": 8192,
+                    "response_mime_type": "application/json",
+                    "response_schema": response_schema,
+                },
+            ).text
+        issue_path.mkdir(parents=True, exist_ok=True)
         with open(issue_path / "response.txt", "w") as f:
             f.write(response)
-        response = json.loads(response)
-        issue_path.mkdir(parents=True, exist_ok=True)
-        with open(issue_path / "response.json", "w") as f:
-            f.write(json.dumps(response, indent=4))
-        df = pd.DataFrame(response["Meetings"])
-        df["Issue date"] = response.get("IssueDate", None)
-        df.to_csv(issue_path / "meetings.csv", index=False)
+        try:
+            response = json.loads(response)
+            issue_path.mkdir(parents=True, exist_ok=True)
+            with open(issue_path / "response.json", "w") as f:
+                f.write(json.dumps(response, indent=4))
+            df = pd.DataFrame(response["Meetings"])
+            df["Issue date"] = response.get("IssueDate", None)
+            df.to_csv(issue_path / "meetings.csv", index=False)
+        except Exception as e:
+            print(f"Failed to parse response for {issue}: {e}")
 
     with joblib_progress(
         description="Prompting Gemini", total=len(issues_text)

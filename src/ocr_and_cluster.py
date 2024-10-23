@@ -152,6 +152,7 @@ def ocr_and_cluster(issues: list[str], output_path: str = "results"):
 
                 # Find columns
                 layout["column"] = 1
+                layout["description"] = layout.description.astype(str)
                 for page in layout.page.unique():
                     slice = layout.page == page
                     layout_page = layout[slice]
@@ -179,6 +180,7 @@ def ocr_and_cluster(issues: list[str], output_path: str = "results"):
                 layout.to_csv(layout_path, index=False)
                 ax = plot_layout(layout)
                 ax.get_figure().savefig(layout_path.with_suffix(".jpeg"))
+                plt.close()
 
                 text += f"# Scan {scan}\n"
                 pbar.update()
