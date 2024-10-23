@@ -96,9 +96,8 @@ def preprocess_pdfs(
                 issues_images[issue].append(image_path)
             continue
         else:
-            if "common_cause" in issue:
-                pdf_path = "data/common_cause/" + issue + ".pdf"
-                pdf_paths[issue] = pdf_path
+            issue_name = issue.rsplit("_", 1)[0]
+            pdf_paths[issue] = f"data/{issue_name}/{issue}.pdf"
 
     n_paths = len(pdf_paths)
     if n_paths == 0:

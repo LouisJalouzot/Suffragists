@@ -155,6 +155,8 @@ def ocr_and_cluster(issues: list[str], output_path: str = "results"):
                 for page in layout.page.unique():
                     slice = layout.page == page
                     layout_page = layout[slice]
+                    if len(layout_page) < 4:
+                        continue
                     res = {}
                     for n_cols in [2, 3]:
                         kmeans = KMeans(n_clusters=n_cols, random_state=0)
