@@ -139,7 +139,7 @@ def ocr_and_cluster(issues: list[str], output_path: str = "results"):
             text = ""
             for scan, layout in enumerate(layouts, 1):
                 layout["scan"] = scan
-                if layout is None:
+                if len(layout) < 4:
                     continue
 
                 # Find pages
