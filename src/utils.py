@@ -36,7 +36,8 @@ def perform_ocr(image_path: str | Path) -> pd.DataFrame:
     with open(str(image_path), "rb") as image_file:
         content = image_file.read()
     image = vision_v1.types.Image(content=content)
-    response = client.text_detection(image=image)
+    image_context = vision_v1.ImageContext(language_hints=["en"])
+    response = client.text_detection(image=image, image_context=image_context)
 
     df = []
     for annot in response.text_annotations[1:]:
