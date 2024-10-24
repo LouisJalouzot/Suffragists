@@ -1,0 +1,132 @@
+{
+    "IssueDate": "DECEMBER 23, 1909",
+    "Meetings": [
+        {
+            "Date": "DECEMBER 28",
+            "Location": "Bolton",
+            "Raw": "DECEMBER 28 . Bolton - Members ' Meeting - Miss Robertson .",
+            "Speakers": [
+                "Miss Robertson"
+            ]
+        },
+        {
+            "Date": "JANUARY 3",
+            "Location": "London (Windsor and Eton)",
+            "Raw": "JANUARY 3 . London ( Windsor and Eton ) -Drawing - room Meeting - Mrs . W. JANUARY 4 . Gibb . 4.15",
+            "Hosts": [
+                "Mrs. W. Gibb"
+            ]
+        },
+        {
+            "Date": "JANUARY 4",
+            "Location": "Cambridge",
+            "Raw": "JANUARY 4 . Cambridge Romsey Town - Public Meeting . 8.0",
+            "Description": "Romsey Town - Public Meeting"
+        },
+        {
+            "Date": "JANUARY 6",
+            "Location": "Cambridge",
+            "Raw": "JANUARY 6 . Cambridge - Guild Hall - Public Meeting . 8.0",
+            "Description": "Guild Hall - Public Meeting"
+        },
+        {
+            "Date": "JANUARY 8",
+            "Location": "Glasgow - 58, Renfield Street",
+            "Raw": "JANUARY 8 . Glasgow - 58 , Renfield Street - Miss Edith Stewart . 4.0",
+            "Speakers": [
+                "Miss Edith Stewart"
+            ]
+        },
+        {
+            "Date": "JANUARY 8-22",
+            "Location": "Edinburgh",
+            "Raw": "JANUARY 8-22 . Edinburgh - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "JANUARY 10",
+            "Location": "Manchester, N.W. - Memorial Hall",
+            "Raw": "JANUARY 10 . Manchester , N.W. - Memorial Hall - Miss Robertson . 8.0",
+            "Speakers": [
+                "Miss Robertson"
+            ]
+        },
+        {
+            "Date": "JANUARY 11",
+            "Location": "Cambridge - Chesterton Schools",
+            "Raw": "JANUARY 11 . Cambridge - Chesterton Schools - Public Meeting . 8.0",
+            "Description": "Chesterton Schools - Public Meeting"
+        },
+        {
+            "Date": "JANUARY 12",
+            "Location": "Hull - Royal Institution",
+            "Raw": "JANUARY 12 . Hull Royal Institution - Lantern Lecture - Miss Bertha Mason . 8.0",
+            "Speakers": [
+                "Miss Bertha Mason"
+            ]
+        },
+        {
+            "Date": "JANUARY 17",
+            "Location": "Cambridge - Ely Public Hall",
+            "Raw": "JANUARY 17 . Cambridge Ely Public Hall - Public Meeting . 8.0",
+            "Description": "Ely Public Hall - Public Meeting"
+        },
+        {
+            "Date": "JANUARY 18",
+            "Location": "Cambridge - Burwell Schools, East Cambs.",
+            "Raw": "JANUARY 18 . Cambridge Burwell Schools , East Cambs . - Public Meeting . 8.0",
+            "Description": "Burwell Schools, East Cambs. - Public Meeting"
+        },
+        {
+            "Date": "FEBRUARY 5",
+            "Location": "Glasgow - 58, Renfield Street",
+            "Raw": "FEBRUARY 5 . Glasgow - 58 , Renfield Street - Miss Adam . 4.0",
+            "Speakers": [
+                "Miss Adam"
+            ]
+        },
+        {
+            "Date": "FEBRUARY 9",
+            "Location": "Bournemouth - St. Peter's Hall",
+            "Raw": "FEBRUARY 9 . Bournemouth - St . Peter's Hall - Mrs . P. Snowden . 8.0",
+            "Speakers": [
+                "Mrs. P. Snowden"
+            ]
+        },
+        {
+            "Date": "FEBRUARY 11",
+            "Location": "Hull - Co-operative Educational Inst., 30, Albion Street",
+            "Raw": "FEBRUARY 11 . Hull - Co - operative Educational Inst . , 30 , Albion Street - Annual Meeting - Miss I. O. Ford . 7.30",
+            "Description": "Annual Meeting",
+            "Speakers": [
+                "Miss I. O. Ford"
+            ]
+        },
+        {
+            "Date": "FEBRUARY 16",
+            "Location": "Sheffield",
+            "Raw": "FEBRUARY 16 . Sheffield - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "FEBRUARY 17",
+            "Location": "Rochdale",
+            "Raw": "FEBRUARY 17 . Rochdale Miss Abadam . 4.0",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "MARCH 5",
+            "Location": "Glasgow - 58, Renfield Street",
+            "Raw": "MARCH 5 . Glasgow - 58 , Renfield Street - Miss Helen E. Waddel .",
+            "Speakers": [
+                "Miss Helen E. Waddel"
+            ]
+        }
+    ]
+}

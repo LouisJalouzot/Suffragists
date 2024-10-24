@@ -1,0 +1,731 @@
+{
+    "IssueDate": "October 18, 1912",
+    "Meetings": [
+        {
+            "Date": "Friday, October 18",
+            "Location": "Camden Town, Cobden Statue",
+            "Raw": "Camden Town , Cobden Statue , Miss Coombs , Miss Gwynne",
+            "Speakers": [
+                "Miss Coombs",
+                "Miss Gwynne"
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Croydon, 50, High - street",
+            "Raw": "Croydon , 50 , High - street , Blouse and Robe Sale begins ."
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Croydon, Katherine - street",
+            "Raw": "Croydon , Katherine - street , Miss Gibbs , Miss Hardy ...... 8 p.m.",
+            "Speakers": [
+                "Miss Gibbs",
+                "Miss Hardy"
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Hackney, Well - street and Berger - road",
+            "Raw": "Hackney , Well - street and Berger - road , Miss Bonwick , B.A. Chair Miss Beley 7.30 p.m.",
+            "Speakers": [
+                "Miss Bonwick, B.A."
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Ilford, Barking, Ripple - road",
+            "Raw": "Ilford , Barking , Ripple - road , Miss Wingrove",
+            "Speakers": [
+                "Miss Wingrove"
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Kingston, 13, Union - street",
+            "Raw": "Kingston , 13 , Union - street , Hostess : Miss N. Gornall 2.30-6 p.m.",
+            "Hosts": [
+                "Miss N. Gornall"
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Mie6 Lincoln's Inn House, Kingsway, W.C.",
+            "Raw": "Mie6 Lincoln's Inn House , Kingsway , W.C. , Speakers ' Class . 7.45 pm ."
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Tooting Broadway",
+            "Raw": "Rosa Leo Tooting Broadway , Mrs. Dacre Fox . Chair : Mrs. Heard 8 p.m.",
+            "Speakers": [
+                "Mrs. Dacre Fox"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Clapton Pond",
+            "Raw": "Clapton Pond , Miss Barry . Chair : Miss Jenkins ...... 8 p.m.",
+            "Speakers": [
+                "Miss Barry"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Golder's Green",
+            "Raw": "Golder's Green , Miss Wright 6.30 p.m.",
+            "Speakers": [
+                "Miss Wright"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Hammersmith, 95, The Grove",
+            "Raw": "Hammersmith , 95 , The Grove , Speakers Class . M. Moore 8 p.m."
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Harlesden, Manor Pk. - road",
+            "Raw": "Harlesden , Manor Pk . - road , Miss Feek , Miss Wadeson 8 p.m.",
+            "Speakers": [
+                "Miss Feek",
+                "Miss Wadeson"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Holloway Prison",
+            "Raw": "Holloway Prison , Miss B. Guthrie",
+            "Speakers": [
+                "Miss B. Guthrie"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Ilford, Balfour - road",
+            "Raw": "Ilford , Balfour - road , Miss Guttridge .8 p.in.",
+            "Speakers": [
+                "Miss Guttridge"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Kilburn, Messina - avenue",
+            "Raw": "Kilburn , Messina - avenue , Miss Coombs , Mrs. Freeman ... 8 p.m.",
+            "Speakers": [
+                "Miss Coombs",
+                "Mrs. Freeman"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Kingston, Coronation Stone",
+            "Raw": "Kingston , Coronation Stone , Miss Bonwick , B.A. Chair : Mrs. Dacre Fox",
+            "Speakers": [
+                "Miss Bonwick, B.A."
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Lewisham, 1, Lewis - grove",
+            "Raw": "Lewisham , 1 , Lewis - grove , Members ' Rally .12 noon 3-8 p.m."
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Palmer's Green, Alderman's Hill",
+            "Raw": "Palmer's Green , Alderman's Hill , Mr. Victor Prout ... 7.30 p.m.",
+            "Speakers": [
+                "Mr. Victor Prout"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Purley Tram Terminus",
+            "Raw": "Purley Tram Terminus , Country Walk .. 3 p.m."
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Stratford, Maryland Point Station",
+            "Raw": "Stratford , Maryland Point Station , Miss Agnes Kelly ...... 8 p.m.",
+            "Speakers": [
+                "Miss Agnes Kelly"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Wembly",
+            "Raw": "Wembly , Miss Agnes Davidson",
+            "Speakers": [
+                "Miss Agnes Davidson"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Wimbledon, 9, Victoria - crescent",
+            "Raw": "Wimbledon , 9 , Victoria - crescent , Exhibition and Sale of Child- ren's Clothes"
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Wimbledon Broadway",
+            "Raw": "Wimbledon Broadway , Miss Kelly . Chair : Mrs. Huggett",
+            "Speakers": [
+                "Miss Kelly"
+            ]
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Catford, Tram Terminus",
+            "Raw": "Catford , Tram Terminus , Miss Randall 4 p.m.",
+            "Speakers": [
+                "Miss Randall"
+            ]
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Clapham Common",
+            "Raw": "Clapham Common , Mrs. Bouvier . Chair : Mrs. Barron ... 3 p.m.",
+            "Speakers": [
+                "Mrs. Bouvier"
+            ]
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Finsbury Park, N.",
+            "Raw": "Finsbury Park , N. , Men's Federation for W.S ..... 7.30 p.m."
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Hampstead Heath, Flagstaff",
+            "Raw": "Hampstead Heath , Flagstaff , Miss Naylor .... 11.30 a.m.",
+            "Speakers": [
+                "Miss Naylor"
+            ]
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Regent's Park",
+            "Raw": "Regent's Park , Miss Emily Davidson , Miss Rickard ...... 3.15 p.m.",
+            "Speakers": [
+                "Miss Emily Davidson",
+                "Miss Rickard"
+            ]
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Streatham Common",
+            "Raw": "Streatham Common , Mrs. Dacre Fox , Chair : Mrs. Hughes 3.30 p.m.",
+            "Speakers": [
+                "Mrs. Dacre Fox"
+            ]
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Wimbledon Common",
+            "Raw": "Wimbledon Common , Miss M. Wright , Mrs. Lamartine Yates 7 p.m.",
+            "Speakers": [
+                "Miss M. Wright",
+                "Mrs. Lamartine Yates"
+            ]
+        },
+        {
+            "Date": "Monday, October 21",
+            "Location": "Kensal Rise, Harv: st - road Schools",
+            "Raw": "Kensal Rise , Harv : st - road Schools , Miss E. Davidson , Miss 6.45 p.m. Jacobs",
+            "Speakers": [
+                "Miss E. Davidson",
+                "Miss Jacobs"
+            ]
+        },
+        {
+            "Date": "Monday, October 21",
+            "Location": "London Pavilion, Piccadilly - circus, W.",
+            "Raw": "London Pavilion , Piccadilly - circus , W. Mrs. Pankhurst , Miss Annie Kenney 3 p.m.",
+            "Speakers": [
+                "Mrs. Pankhurst",
+                "Miss Annie Kenney"
+            ]
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Croydon, 50, High - street",
+            "Raw": "Croydon , 50 , High - street , Members ' Rally . Hostess : Mre . 8 p.m. Cameron Swan",
+            "Hosts": [
+                "Mre. Cameron Swan"
+            ]
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Golder's Green, 26B, The Parade",
+            "Raw": "Golder's Green , 26B , The Parade , Members ' Tea"
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Hampstead, 178, Finchley - road",
+            "Raw": "Hampstead , 178 , Finchley - road , Work Party ."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Palmer's Green, 6, Stonard - road",
+            "Raw": "Palmer's Green , 6 , Stonard - road , Fireside Talks ."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Stratford, 32B, Romford - road",
+            "Raw": "Stratford , 32B , Romford - road , Work Party ."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Streatham, 5, Shrubbery - road",
+            "Raw": "Streatham , 5 , Shrubbery - road , Members ' Meeting ...... 4.30 p.m."
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Harlesden, Manor Park - road",
+            "Raw": "Harlesden , Manor Park - road , Miss E. Davidson , Miss Jacobs 8 p.m.",
+            "Speakers": [
+                "Miss E. Davidson",
+                "Miss Jacobs"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "ford, Milton - avenue, East Ham",
+            "Raw": "ford , Milton - avenue , East Ham , Miss Wingrove .... 8 p.m.",
+            "Speakers": [
+                "Miss Wingrove"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Thornton Heath Clock",
+            "Raw": "Thornton Heath Clock , Miss Leslie Hall , Miss Julian ...... 8 p.m",
+            "Speakers": [
+                "Miss Leslie Hall",
+                "Miss Julian"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Wimbledon Hill",
+            "Raw": "Wimbledon Hill , Mrs. Dacre Fox . Chair : Mrs. Dickinson 7 p.m.",
+            "Speakers": [
+                "Mrs. Dacre Fox"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Croydon, 50, High - street",
+            "Raw": "Croydon , 50 , High - street . Miss Hieks , M.A. 3.15 p.m.",
+            "Speakers": [
+                "Miss Hieks, M.A."
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Kensington",
+            "Raw": "Kensington , Drawing Room Meeting 8.30 p.m."
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Kilburn, 310, High - road",
+            "Raw": "Kilburn , 310 , High - road , At Home . Mrs. Saul Solomon ."
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Pinner, The Cocoa Tree",
+            "Raw": "Pinner , The Cocoa Tree , Miss Winifred Mayo . Chair : Mr. H. B. Goulden 3.30 p.m.",
+            "Speakers": [
+                "Miss Winifred Mayo"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "52, Praed - street, W.",
+            "Raw": "52 , Praed - street , W. , Miss Bonwick , B.A. , Mrs. Cooke .. 8.15 p.m.",
+            "Speakers": [
+                "Miss Bonwick, B.A.",
+                "Mrs. Cooke"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Steinway Hall, Lower Seymour - street, Portman - square, W.",
+            "Raw": "Steinway Hall , Lower Seymour - street , Portman - square , W. Miss Canning , Miss Minnie Engel , and others ...... 3 p.m.",
+            "Speakers": [
+                "Miss Canning",
+                "Miss Minnie Engel",
+                "others"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Tollington Park, 12, Turle - road, N.",
+            "Raw": "Tollington Park , 12 , Turle - road , N. , Social . Mrs. Drummond 8 p.m. Miss P. Ayrton . Chair : Miss Beley , Hostesses : Mrs. Haskell , Miss O'Brien 7.30 p.m.",
+            "Speakers": [
+                "Mrs. Drummond",
+                "Miss P. Ayrton"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Wimbledon, Queen's Hall, Broadway",
+            "Raw": "Wimbledon , Queen's Hall , Broadway , Mr. Joseph Clayton , Mrs. Cameron Swan . Chair : Mrs. Lamartine Yates ...... 8 p.m.",
+            "Speakers": [
+                "Mr. Joseph Clayton",
+                "Mrs. Cameron Swan"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Balham, Caistor - road, High - road",
+            "Raw": "Balham , Caistor - road , High - road , Miss Jacobs ..",
+            "Speakers": [
+                "Miss Jacobs"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Croydon, Katherine - street",
+            "Raw": "Croydon , Katherine - street , Mrs. Dacre Fox , Miss Hardy ... 8 p.m.",
+            "Speakers": [
+                "Mrs. Dacre Fox",
+                "Miss Hardy"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Hackney, Graham - road and Mare - street",
+            "Raw": "Hackney , Graham - road and Mare - street , Miss M. Wright . Chair : Mise Garrett",
+            "Speakers": [
+                "Miss M. Wright"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "1ford, outside Town Hall",
+            "Raw": "1ford , outside Town Hall , Miss Harvey .8 p.m.",
+            "Speakers": [
+                "Miss Harvey"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Kingston, 13, Union - street",
+            "Raw": "Kingston , 13 , Union - street , Hostess : Miss N. Gornall .8 p.m.",
+            "Hosts": [
+                "Miss N. Gornall"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Lincoln's Inn House, Kingsway, W.C.",
+            "Raw": "Lincoln's Inn House , Kingsway , W.C. , Speakers ' Class . Miss Rosa Leo 7.45 p.m."
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Seven Sisters - road, Thane Villas, N.",
+            "Raw": "Seven Sisters - road , Thane Villas , N. , Miss D. Startup , Mrs. Barfield",
+            "Speakers": [
+                "Miss D. Startup",
+                "Mrs. Barfield"
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Birkenhead, Haymarket",
+            "Raw": "Birkenhead . Haymarket , Miss Woodlock 8 p.m.",
+            "Speakers": [
+                "Miss Woodlock"
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Redhill, Ladbroke - road",
+            "Raw": "Redhill , Ladbroke - road , Miss Bouvier",
+            "Speakers": [
+                "Miss Bouvier"
+            ]
+        },
+        {
+            "Date": "Friday, October 18",
+            "Location": "Nottingham, 30, Bridlesmith - gate",
+            "Raw": "Nottingham , 30 , Bridlesmith - gate , Sewing Meeting 3.9 p.m."
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Ayrshire, Town Hall, Old Cumnock",
+            "Raw": "Ayrshire , Town Hall , Old Cumnock , Mr. S. D. Shallard . Chair : Miss Janie Allan",
+            "Speakers": [
+                "Mr. S. D. Shallard"
+            ]
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Hastings, Lower Public Hall",
+            "Raw": "Hastings , Lower Public Hall , At Home . 4-6 p.m."
+        },
+        {
+            "Date": "Saturday, October 19",
+            "Location": "Nottingham, 39, Bingham - road",
+            "Raw": "Nottingham , 39 , Bingham - road , Drawing Room Meeting , Miss Suartle , Miss Crocker .. 7.30 p.m.",
+            "Speakers": [
+                "Miss Suartle",
+                "Miss Crocker"
+            ]
+        },
+        {
+            "Date": "Sunday, October 20",
+            "Location": "Leeds, Woodhouse Moor",
+            "Raw": "Leeds , Woodhouse Moor , Dr. Helena Jones .... 3.45 p.m.",
+            "Speakers": [
+                "Dr. Helena Jones"
+            ]
+        },
+        {
+            "Date": "Monday, October 21",
+            "Location": "Ayrshire, Prestwick, Unionist Hall",
+            "Raw": "Ayrshire , Prestwick , Unionist Hall , Mr. S. D. Shallard . Chair : 7 p.m. Miss Janie Allan",
+            "Speakers": [
+                "Mr. S. D. Shallard"
+            ]
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Brighton, The Dome",
+            "Raw": "Brighton , The Dome , Mrs. Pankhurst 7.30 p.m.",
+            "Speakers": [
+                "Mrs. Pankhurst"
+            ]
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Halifax, Mechanic Institute",
+            "Raw": "Halifax , Mechanic Institute 4-6 p.m."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Leeds, 3, Cookridge street",
+            "Raw": "Leeds , 3 , Cookridge street , Tea 7.30 p.m."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Bexhill, Marina",
+            "Raw": "Bexhill , Marina , At Home 3.30-5.30 p.m."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Nottingham, 30, Bridlesmith - gate",
+            "Raw": "Nottingham , 30 , Bridlesmith - gate , Sewing Meeting . 3-9 p.m."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "Sonth Shields, Market place",
+            "Raw": "Sonth Shields , Market place ..8 p.m."
+        },
+        {
+            "Date": "Tuesday, October 22",
+            "Location": "York, Festival Concert Rooms",
+            "Raw": "York , Festival Concert Rooms , Mrs. Pethick Lawrence . Chair : Rev. R. S. Pyne , M.A. 7.30 p.m.",
+            "Speakers": [
+                "Mrs. Pethick Lawrence"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Airdrie, Memorial Hall",
+            "Raw": "Airdrie , Memorial Hall , Mr. S. D. Shallard . Chair : Mrs. Craw ford",
+            "Speakers": [
+                "Mr. S. D. Shallard"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Birmingham, Queen's College",
+            "Raw": "Birmingham , Queen's College , Mr. Hubert Humphreys ... 8 p.m.",
+            "Speakers": [
+                "Mr. Hubert Humphreys"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Canterbury, Foresters' Hall",
+            "Raw": "Canterbury , Foresters ' Hall , Mr. Pethick Lawrence ... 8 p.m.",
+            "Speakers": [
+                "Mr. Pethick Lawrence"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Cardiff, 27, Charles - street",
+            "Raw": "Cardiff , 27 , Charles - street , Miss Annie Williams ..... 5.30-7 p.m.",
+            "Speakers": [
+                "Miss Annie Williams"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Cheltenham, 2, Vittoria - walk",
+            "Raw": "Cheltenham , 2 , Vittoria - walk , Work Party ..",
+            "Description": "Work Party"
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Derby",
+            "Raw": "Derby , Mrs. Pethick Lawrence",
+            "Speakers": [
+                "Mrs. Pethick Lawrence"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Dundee, 61, Nethergate",
+            "Raw": "Dundee , 61 , Nethergate , Miss McFarlane , Miss Parker ... 8 p.m.",
+            "Speakers": [
+                "Miss McFarlane",
+                "Miss Parker"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Newcastle, Burnopfield Schoolroom",
+            "Raw": "Newcastle , Burnopfield Schoolroom , Dr. Alice Burn , Miss V. Taylor 8 p.m.",
+            "Speakers": [
+                "Dr. Alice Burn",
+                "Miss V. Taylor"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Nottingham, 244, Highbury - vale, Bulwell",
+            "Raw": "Nottingham , 244 , Highbury - vale , Bulwell , Drawing Room Meetings . Mrs. Shepherd , Miss Crocker ... 3.30 and 7.30 p.m.",
+            "Speakers": [
+                "Mrs. Shepherd",
+                "Miss Crocker"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Redhill, Carlton Room",
+            "Raw": "Redhill , Carlton Room , Miss Daisy Gibbs 8 p.m.",
+            "Speakers": [
+                "Miss Daisy Gibbs"
+            ]
+        },
+        {
+            "Date": "Wednesday, October 23",
+            "Location": "Walsall, Co - operative Hall",
+            "Raw": "Walsall , Co - operative Hall , Miss Bertha Ryland .. ... p.m.",
+            "Speakers": [
+                "Miss Bertha Ryland"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Ayrshire, Mauchline, Temperance Hall",
+            "Raw": "Ayrshire , Mauchline , Temperance Hall , Mr. S. D. Shallard . Chair : Miss Janie Allan 7 p.m.",
+            "Speakers": [
+                "Mr. S. D. Shallard"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Chester",
+            "Raw": "Chester , Miss Woodlock 7 p.m.",
+            "Speakers": [
+                "Miss Woodlock"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Clacton",
+            "Raw": "Clacton , Work Party . Hostess Miss Dodgson , .8 p.m. Evelyn Miss Palmer",
+            "Description": "Work Party",
+            "Hosts": [
+                "Miss Dodgson",
+                "Evelyn Miss Palmer"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Leeds, 3. Cookridge - street",
+            "Raw": "Leeds , 3. Cookridge - street , Social . Hostesses : Mrs. Radlett ,",
+            "Hosts": [
+                "Mrs. Radlett"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Radlett, Parish Hall",
+            "Raw": "Radlett , Parish Hall , Mr. H. W. Nevinson . Chair : Mies Sharp 8 p.m.",
+            "Speakers": [
+                "Mr. H. W. Nevinson"
+            ]
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Redhill",
+            "Raw": "Redhill , Members ' Meeting 6 p.m."
+        },
+        {
+            "Date": "Thursday, October 24",
+            "Location": "Rochester, Corn Exchange",
+            "Raw": "Rochester , Corn Exchange , Mrs. Pankhurst",
+            "Speakers": [
+                "Mrs. Pankhurst"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Ayrshire, Catrine, Wilson Hall",
+            "Raw": "Ayrshire , Catrine , Wilson Hall , Mr. S. D. Shallard . Chair : Miss Janie Allan 7 p.m.",
+            "Speakers": [
+                "Mr. S. D. Shallard"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Bedford, St. Peter's Hall",
+            "Raw": "Bedford , St. Peter's Hall , At Home . Tea . Miss Winifred Mayo 4 p.m.",
+            "Speakers": [
+                "Miss Winifred Mayo"
+            ]
+        },
+        {
+            "Date": "Friday, October 25",
+            "Location": "Bournemouth, St. Peter's Hall",
+            "Raw": "Bournemouth , St. Peter's Hall , Mr. Pethick Lawrence . Chair : Mrs. Cavendish Bentinck",
+            "Speakers": [
+                "Mr. Pethick Lawrence"
+            ]
+        },
+        {
+            "Date": "Friday, November 8",
+            "Location": "Kensington Town Hall",
+            "Raw": "A public meeting will be held at the Kensington Town Nevinson will preside . The speakers will be : Mr. on Friday evening , November 8 , at 8 p.m. , when Pethick Lawrence , Mr. Harben , Mr. Gray , Mrs. Yates , and Mr. Reginald Pott . In view of expected to take place during the coming months , are specially requested to be present and to as many of their friends as possible . Tickets are , prices 2s . 6d . , 1s . , and 6d . , at the offices and critical events with regard to Woman Suffrage which fund are urgently needed , and the hon . ( Mr. Cameron Swan ) will be pleased to receive of donations from those who cannot attend the meeting . Already acknowledged , \u00a3 1,664 15s . 4d . L.H.G.C.R. ( per A. B. Randle , Esq . ) , 1s .; Working Girl , \" \u00a3 1 ; A. B. Randle , Esq . , 2s . 6d .; Collier , \u00a3 2 2s .; Membership fee , 1s .; Sundry Miss , \u00a3 1 18s . 6d . \u00a3 1,670 Cs . 4d . W.S.P.U. branches . Contributions to the",
+            "Speakers": [
+                "Mr. Pethick Lawrence",
+                "Mr. Harben",
+                "Mr. Gray",
+                "Mrs. Yates",
+                "Mr. Reginald Pott"
+            ]
+        },
+        {
+            "Date": "November 1",
+            "Location": "Excelsior Baths",
+            "Raw": "Excelsior Baths meeting a November 1",
+            "Description": "IMPORTANT EVENT"
+        },
+        {
+            "Date": "October 28",
+            "Location": "Bow Baths",
+            "Raw": "Meeting in Bow Baths , October 28",
+            "Description": "IMPORTANT EVENT"
+        },
+        {
+            "Date": "October 25",
+            "Location": "Limehouse Town Hall",
+            "Raw": "Meeting in Limehouse Town Hall , October 25",
+            "Description": "IMPORTANT EVENT"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "IssueDate": "AUGUST 1, 1913",
+    "Meetings": [
+        {
+            "Date": "July 24th",
+            "Location": "London",
+            "Raw": "Thirty public meetings were arranged and successfully carried through by the London Society on July 24th and 25th all over the huge mass of London , leading up to the splendid demonstration in Hyde Park on the 27th"
+        },
+        {
+            "Date": "July 25th",
+            "Location": "London",
+            "Raw": "Thirty public meetings were arranged and successfully carried through by the London Society on July 24th and 25th all over the huge mass of London , leading up to the splendid demonstration in Hyde Park on the 27th"
+        },
+        {
+            "Date": "July 25th",
+            "Location": "King's Hall in St. George's Market",
+            "Raw": "Those who were at King's Hall in St. George's Market by the \" will not soon forget how Elephant South London welcomed the Kentish Pilgrims ' Way and their allies of Brighton Road"
+        },
+        {
+            "Date": "July 25th",
+            "Location": "Kensington Town Hall",
+            "Raw": "On Friday , 25th , a number of Pilgrims , accompanied by a contingent of the London Society , attended a meeting in Kensington Town Hall , which was well filled with sympathisers .",
+            "Speakers": [
+                "Lady Betty Balfour",
+                "Sir William Chance"
+            ]
+        }
+    ]
+}

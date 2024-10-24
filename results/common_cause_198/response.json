@@ -1,0 +1,1344 @@
+{
+    "IssueDate": "JULY 18, 1913",
+    "Meetings": [
+        {
+            "Date": "July 2nd",
+            "Location": "BATTERSEA",
+            "Raw": "BATTERSEA July 2nd - Hostess , Mrs. McDade Speakers , Hon . Mrs. Franklin , Mrs. Malcolm Mitchell Collection , 17s . 6d . - 5 new members joined , and 14 \" Friends . \" Anna",
+            "Hosts": [
+                "Mrs. McDade"
+            ],
+            "Speakers": [
+                "Hon. Mrs. Franklin",
+                "Mrs. Malcolm Mitchell"
+            ]
+        },
+        {
+            "Date": "July 4th",
+            "Location": "BLACKHEATH",
+            "Raw": "BLACKHEATH . - July 4th - Hostess , Mrs. Duckham -Speakers , Mrs. Gladstone Solomon ( Anti - Suffragist ) , Mrs. Corbett Ashby - Chair , Mr. K. H. Green- Collection , \u00a3 1 15s . - 12 \" Friends . \" 25th Speakers , Miss",
+            "Hosts": [
+                "Mrs. Duckham"
+            ],
+            "Speakers": [
+                "Mrs. Gladstone Solomon",
+                "Mrs. Corbett Ashby"
+            ]
+        },
+        {
+            "Date": "June 25th",
+            "Location": "BRIXTON",
+            "Raw": "BRIXTON . - June 25th Speakers , Miss Martin , Miss O'Malley Chair , Mrs. Osborn - 4 mem- bers 7 \" Friends \" -11 COMMON CAUSES sold .",
+            "Speakers": [
+                "Miss Martin",
+                "Miss O'Malley"
+            ]
+        },
+        {
+            "Date": "July 2nd",
+            "Location": "BRIXTON",
+            "Raw": "BRIXTON . - July 2nd - Speaker , Mrs. Rackham- Chair , Hon . Mrs. Spencer Graves - 11 COMMON CAUSES sold .",
+            "Speakers": [
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "July 9th",
+            "Location": "BRIXTON",
+            "Raw": "BRIXTON July 9th Speakers , Keeves , Miss Cockle - Chair , Mrs. Sydney Pascall- 18 COMMON CAUSES sold .",
+            "Speakers": [
+                "Keeves",
+                "Miss Cockle"
+            ]
+        },
+        {
+            "Date": "June 30th",
+            "Location": "CLAPHAM",
+            "Raw": "CLAPHAM - June 30th - Hostess , Mrs. Dunstan- Speaker , Mrs. Rawlings - 8 \" Friends . \" Miss Pember",
+            "Hosts": [
+                "Mrs. Dunstan"
+            ],
+            "Speakers": [
+                "Mrs. Rawlings"
+            ]
+        },
+        {
+            "Date": "June 27th",
+            "Location": "NORTH WEST HAM",
+            "Raw": "NORTH WEST HAM . - June 27th - Mrs . Stanbury , Mr. Cholmeley - Chair , Alderman Hurry , J.P. - 22 \" Friends . \"",
+            "Speakers": [
+                "Mrs. Stanbury",
+                "Mr. Cholmeley"
+            ]
+        },
+        {
+            "Date": "July 1st",
+            "Location": "HAMMERSMITH",
+            "Raw": "HAMMERSMITH . - July 1st - Speakers , Miss Faw- cett , Miss Goddard - 14 \" Friends \" -16 COMMON CAUSES sold .",
+            "Speakers": [
+                "Miss Fawcett",
+                "Miss Goddard"
+            ]
+        },
+        {
+            "Date": "July 1st",
+            "Location": "HAMMERSMITH",
+            "Raw": "HAMMERSMITH . - July 1st - Miss Helen Ward- 19 \" Friends \" -12 COMMON CAUSES sold .",
+            "Speakers": [
+                "Miss Helen Ward"
+            ]
+        },
+        {
+            "Date": "July 6th",
+            "Location": "HAMMERSMITH",
+            "Raw": "HAMMERSMITH . - July 6th - Miss O'Malley - 10 \" Friends \" -10 COMMON CAUSES sold .",
+            "Speakers": [
+                "Miss O'Malley"
+            ]
+        },
+        {
+            "Date": "July 8th",
+            "Location": "HAMMERSMITH",
+            "Raw": "HAMMERSMITH . - July 8th - Miss Dawson , Miss Gloyn - 13 \" Friends \" -20 COMMON CAUSES sold .",
+            "Speakers": [
+                "Miss Dawson",
+                "Miss Gloyn"
+            ]
+        },
+        {
+            "Date": "June 26th",
+            "Location": "SOUTH ISLINGTON",
+            "Raw": "SOUTH ISLINGTON - June 26th - Miss Keith Young , Mr. Ansell - Chair , Miss McGrigor - 10 \" Friends . \"",
+            "Speakers": [
+                "Miss Keith Young",
+                "Mr. Ansell"
+            ]
+        },
+        {
+            "Date": "July 7th",
+            "Location": "KENNINGTON",
+            "Raw": "KENNINGTON . - July 7th - Speakers , Miss Cockle ; Miss D. Brown , Miss Gloyn - 20 \" Friends \" -17 COMMON CAUSES sold",
+            "Speakers": [
+                "Miss Cockle",
+                "Miss D. Brown",
+                "Miss Gloyn"
+            ]
+        },
+        {
+            "Date": "May 30th",
+            "Location": "MUSWELL HILL",
+            "Raw": "MUSWELL HILL . - May 30th - Miss P. Fawcett , Miss H. D. Cockle .",
+            "Speakers": [
+                "Miss P. Fawcett",
+                "Miss H. D. Cockle"
+            ]
+        },
+        {
+            "Date": "June 13th",
+            "Location": "MUSWELL HILL",
+            "Raw": "MUSWELL HILL . - June 13th - Miss Agnes Dawson , Miss Hewitt .",
+            "Speakers": [
+                "Miss Agnes Dawson",
+                "Miss Hewitt"
+            ]
+        },
+        {
+            "Date": "June 27th",
+            "Location": "MUSWELL HILL",
+            "Raw": "MUSWELL HILL . - June 27th - Miss W. Elkin , Mrs. Baker .",
+            "Speakers": [
+                "Miss W. Elkin",
+                "Mrs. Baker"
+            ]
+        },
+        {
+            "Date": "July 9th",
+            "Location": "NORTHWOOD",
+            "Raw": "NORTHWOOD . - July 9th - Speaker , Mrs. Walker .",
+            "Speakers": [
+                "Mrs. Walker"
+            ]
+        },
+        {
+            "Date": "June 27th",
+            "Location": "ST. GEORGE'S, HANOVER SQUARE",
+            "Raw": "ST . GEORGE'S , HANOVER SQUARE . - June 27th- Speaker Miss Janet Thomson - Chair , Miss Rosamund Smith - 11 \" Friend \" -12 COMMON CAUSES sold .",
+            "Speakers": [
+                "Miss Janet Thomson"
+            ]
+        },
+        {
+            "Date": "June 30th",
+            "Location": "WEST SOUTHWARK",
+            "Raw": "WEST SOUTHWARK . - June 30th - Speakers , Mrs Stanbury , Mrs. Watson , Miss Deverell .",
+            "Speakers": [
+                "Mrs. Stanbury",
+                "Mrs. Watson",
+                "Miss Deverell"
+            ]
+        },
+        {
+            "Date": "July 4th",
+            "Location": "WILLESDEN",
+            "Raw": "WILLESDEN - July 4th - Hostess , Dr. Granger Evans Speakers , Miss Clementina Black , Miss Edith Hodge , Miss Kinder - 3 members - 7 \" Friends \" - Collection , \u00a3 2 1s .",
+            "Hosts": [
+                "Dr. Granger Evans"
+            ],
+            "Speakers": [
+                "Miss Clementina Black",
+                "Miss Edith Hodge",
+                "Miss Kinder"
+            ]
+        },
+        {
+            "Date": "July 9th",
+            "Location": "WIMBLEDON",
+            "Raw": "WIMBLEDON . - July 9th - Hostesses , Mrs. and Miss Ellis - Chair , Mr. H. M. Ellis , J.P. - Speakers , Mrs. Corbett Ashby , Mrs. John Raphael - 19 members- 21 \" Friends \" -Collection , \u00a3 2 7s . 73d . - 9 COMMON CAUSES sold .",
+            "Hosts": [
+                "Mrs. Ellis",
+                "Miss Ellis"
+            ],
+            "Speakers": [
+                "Mrs. Corbett Ashby",
+                "Mrs. John Raphael"
+            ]
+        },
+        {
+            "Date": "July 10th",
+            "Location": "CLAPHAM",
+            "Raw": "CLAPHAM - Drawing - room Meeting at 16 , Victoria Road - July 10th - Hostess , Miss Laurence - Speakers , Miss Feilden , Mr. Harford Worlock - Chair , Mrs. Bertram - 3 members - 5 \" Friends \" -Collection , 13s . 24 COMMON CAUSES and other literature sold .",
+            "Description": "Drawing-room Meeting at 16, Victoria Road",
+            "Hosts": [
+                "Miss Laurence"
+            ],
+            "Speakers": [
+                "Miss Feilden",
+                "Mr. Harford Worlock"
+            ]
+        },
+        {
+            "Date": "July 10th",
+            "Location": "MARYLEBONE",
+            "Raw": "MARYLEBONE - July 10th - Meeting at St. Mary- lebone Church Institute - Speaker , Miss Feilden- Chair , Lady Horsley - Play , \" The Ideal Woman 1 member - 30 \" Friends \" -Collection , 10s . - several COMMON CAUSES sold .",
+            "Description": "Meeting at St. Marylebone Church Institute - Play, \"The Ideal Woman\"",
+            "Speakers": [
+                "Miss Feilden"
+            ]
+        },
+        {
+            "Date": "June 25th",
+            "Location": "ASCOT",
+            "Raw": "ASCOT . - June 25th , at Sunning Hill - Miss Eustace , the Misses Forrester - 5 new members .",
+            "Description": "at Sunning Hill",
+            "Speakers": [
+                "Miss Eustace",
+                "the Misses Forrester"
+            ]
+        },
+        {
+            "Date": "July 2nd",
+            "Location": "ASCOT",
+            "Raw": "July 2nd - Winkfield Parish Room - Mrs . Uniacke , Miss Eustace - 9 \" Friends \" enrolled - 12 COMMON CAUSES sold .",
+            "Description": "Winkfield Parish Room",
+            "Speakers": [
+                "Mrs. Uniacke",
+                "Miss Eustace"
+            ]
+        },
+        {
+            "Date": "June 16th-30th",
+            "Location": "BEDFORD",
+            "Raw": "BEDFORD - June 16th - 30th - Meetings at Women's Adult School , Women's Co - operative Guild , Men's Adult School , Ethical Society ( discussion ) , Kempston ( for working - women ) , Miss Stanfield's ( for members ) , Mrs. Stanbury Phillip's Garden , Dinner - hour Meet- ings at three large factories , Meeting for Teachers , two Open - air Meetings , Market Hill - Miss Dora Mason , M.A.",
+            "Description": "Meetings at Women's Adult School, Women's Co-operative Guild, Men's Adult School, Ethical Society (discussion), Kempston (for working-women), Miss Stanfield's (for members), Mrs. Stanbury Phillip's Garden, Dinner-hour Meetings at three large factories, Meeting for Teachers, two Open-air Meetings, Market Hill",
+            "Speakers": [
+                "Miss Dora Mason"
+            ]
+        },
+        {
+            "Date": "July 10th",
+            "Location": "BERKHAMPSTEAD",
+            "Raw": "BERKHAMPSTEAD . - July 10th - Annual Meeting- Hostess , Mrs. Edward Greene - Speaker , Miss Rinder , on F.W.S. scheme .",
+            "Description": "Annual Meeting",
+            "Hosts": [
+                "Mrs. Edward Greene"
+            ],
+            "Speakers": [
+                "Miss Rinder"
+            ]
+        },
+        {
+            "Date": "June 27th",
+            "Location": "MID BUCKS",
+            "Raw": "MID . BUCKS . - June 27th - Bocken , Great Missenden -Annual Meeting - Miss Dora Mason , M.A. - Report and balance - sheet adopted - 8 new members and some \" Friends \" enrolled .",
+            "Description": "Bocken, Great Missenden - Annual Meeting - Report and balance-sheet adopted",
+            "Speakers": [
+                "Miss Dora Mason"
+            ]
+        },
+        {
+            "Date": "July 10th",
+            "Location": "PANGBOURNE",
+            "Raw": "PANGBOURNE - July 10th - Annual Meeting - Miss Dora Mason , M.A. - Report and balance - sheet adopted .",
+            "Description": "Annual Meeting - Report and balance-sheet adopted",
+            "Speakers": [
+                "Miss Dora Mason"
+            ]
+        },
+        {
+            "Date": "June 13th, 20th, 27th, and July 4th",
+            "Location": "READING",
+            "Raw": "READING . - June 13th , 20th , 27th , and July 4th- Meetings at Suffrage Office - Miss Margaret Jones , Miss Lodge , Miss Ewans , Miss Eustace .",
+            "Description": "Meetings at Suffrage Office",
+            "Speakers": [
+                "Miss Margaret Jones",
+                "Miss Lodge",
+                "Miss Ewans",
+                "Miss Eustace"
+            ]
+        },
+        {
+            "Date": "July 7th",
+            "Location": "READING",
+            "Raw": "July 7th - Y.W.C.A . , Devonshire House - Members ' Meeting Miss Ashcroft ( Chair ) , Miss Violet Eustace- 6 COMMON CAUSES sold .",
+            "Description": "Y.W.C.A., Devonshire House - Members' Meeting",
+            "Speakers": [
+                "Miss Ashcroft",
+                "Miss Violet Eustace"
+            ]
+        },
+        {
+            "Date": "June 30th",
+            "Location": "WOKINGHAM",
+            "Raw": "WOKINGHAM - June 30th Market Place - Major Adam , Miss Helen Ward- \" Friends \" enrolled .",
+            "Description": "Market Place",
+            "Speakers": [
+                "Major Adam",
+                "Miss Helen Ward"
+            ]
+        },
+        {
+            "Date": "July 9th",
+            "Location": "SCALBY",
+            "Raw": "SCALBY . - July 9th - Garden Meeting at Wymbrooke -Hostess , Mrs. S. S. Lockwood - Chair , Mrs. Josiah Lockwood ( Huddersfield ) -Speakers , Mrs. Renton , Miss Dutton - New members , 5 Friends , \" 6- Pamphlets and COMMON CAUSES sold , 31 - Collection , \u00a3 1 19s . 2d . ( The first meeting of this new Branch . )",
+            "Description": "Garden Meeting at Wymbrooke - The first meeting of this new Branch",
+            "Hosts": [
+                "Mrs. S. S. Lockwood"
+            ],
+            "Speakers": [
+                "Mrs. Renton",
+                "Miss Dutton"
+            ]
+        },
+        {
+            "Date": "June",
+            "Location": "YORK",
+            "Raw": "YORK . - June - Public Meeting at Haxley - Chair , Mrs. Davies - Speaker , Mrs. Meyer - Collection , 6s.- New members , 3 - COMMON CAUSES sold , 10 .",
+            "Description": "Public Meeting at Haxley",
+            "Speakers": [
+                "Mrs. Meyer"
+            ]
+        },
+        {
+            "Date": "June 25th",
+            "Location": "BANGOR",
+            "Raw": "BANGOR . - June 25th - Garden F\u00eate at Belmont ( by kind permission of Sir Henry and Lady Lewis ) - Fru Anker .",
+            "Description": "Garden F\u00eate at Belmont (by kind permission of Sir Henry and Lady Lewis)",
+            "Speakers": [
+                "Fru Anker"
+            ]
+        },
+        {
+            "Date": "June 3rd",
+            "Location": "BIRKENHEAD",
+            "Raw": "BIRKENHEAD . - June 3rd - Members ' Meeting to discuss Pilgrimage - Miss Eskrigge Chair , Miss Dismore - Hostesses , the Misses Willran .",
+            "Description": "Members' Meeting to discuss Pilgrimage",
+            "Hosts": [
+                "the Misses Willran"
+            ],
+            "Speakers": [
+                "Miss Eskrigge"
+            ]
+        },
+        {
+            "Date": "June 5th",
+            "Location": "BIRKENHEAD",
+            "Raw": "BIRKENHEAD . - June 5th - Drawing - room Meeting- Speaker , Miss Eskrigge - Chair , Mrs. Kent - Hostess , Mrs. Irvine .",
+            "Description": "Drawing-room Meeting",
+            "Hosts": [
+                "Mrs. Irvine"
+            ],
+            "Speakers": [
+                "Miss Eskrigge"
+            ]
+        },
+        {
+            "Date": "June 12th",
+            "Location": "HELSBRY (Eddisbury)",
+            "Raw": "HELSBRY ( Eddisbury ) .- June 12th - Miss Elias on the Pilgrimage - 6 F.W.S. cards signed - Hostess , Mrs. Dutton .",
+            "Description": "on the Pilgrimage",
+            "Hosts": [
+                "Mrs. Dutton"
+            ],
+            "Speakers": [
+                "Miss Elias"
+            ]
+        },
+        {
+            "Date": "June 26th",
+            "Location": "HOLYHEAD",
+            "Raw": "HOLYHEAD . - June 26th Hanley Hall - Speaker , Fru Anker - Chair , Mrs. Cyril Jones ( President , M.L.A. ) .",
+            "Description": "Hanley Hall",
+            "Speakers": [
+                "Fru Anker"
+            ]
+        },
+        {
+            "Date": "June 24th",
+            "Location": "LLANDUDNO",
+            "Raw": "LLANDUDNO . - June 24th - Fru Anker .",
+            "Speakers": [
+                "Fru Anker"
+            ]
+        },
+        {
+            "Date": "July 5th",
+            "Location": "LIVERPOOL",
+            "Raw": "LIVERPOOL . - July 5th - Reception to meet the \" Pilgrims . \"",
+            "Description": "Reception to meet the \"Pilgrims.\""
+        },
+        {
+            "Date": "June 23rd",
+            "Location": "PENMENMAWR",
+            "Raw": "PENMENMAWR . - June 23rd \" At Home \" -Fru Anker - Chair , Mrs. H. Jenkins .",
+            "Description": "\"At Home\"",
+            "Speakers": [
+                "Fru Anker"
+            ]
+        },
+        {
+            "Date": "June 20th",
+            "Location": "WEST KIRBY (Wallasey and Wirral)",
+            "Raw": "WEST KIRBY ( Wallasey and Wirral ) .- June 20th- Miss E. F. McPherson on \" The Pilgrimage . \"",
+            "Description": "on \"The Pilgrimage.\"",
+            "Speakers": [
+                "Miss E. F. McPherson"
+            ]
+        },
+        {
+            "Date": "June 21st",
+            "Location": "WALLASEY",
+            "Raw": "WALLASEY June 21st - Open - air Meeting on the Sands Miss C. Leadley Brown - F.W.S . cards signed .",
+            "Description": "Open-air Meeting on the Sands",
+            "Speakers": [
+                "Miss C. Leadley Brown"
+            ]
+        },
+        {
+            "Date": "June 25th",
+            "Location": "HESWALL (Wallasey and Wirral)",
+            "Raw": "HESWALL ( Wallasey and Wirral ) .- June 25th- Drawing - room Meeting - The Rev. F. A. Screeton , M.A. , Miss C. Leadley Brown - Chair , Lady Hill- Hostess , Mrs. Leadley Brown .",
+            "Description": "Drawing-room Meeting",
+            "Hosts": [
+                "Mrs. Leadley Brown"
+            ],
+            "Speakers": [
+                "The Rev. F. A. Screeton",
+                "Miss C. Leadley Brown"
+            ]
+        },
+        {
+            "Date": "July 5th",
+            "Location": "WALLESEY",
+            "Raw": "WALLESEY . - July 5th - Pilgrims ' Send - off Meeting -Mrs . Egerton Stewart Brown - Chair , Alderman S. Raffles Bulley - Collection , Pilgrimage Fund , \u00a3 1- 50 members marched along the Promenade to join the contingent from Liverpool and the North .",
+            "Description": "Pilgrims' Send-off Meeting - 50 members marched along the Promenade to join the contingent from Liverpool and the North.",
+            "Speakers": [
+                "Mrs. Egerton Stewart Brown"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "THURLOW DULWICH",
+            "Raw": "Thurlow Dulwich Garden Meeting at 130 , Park Road , East Dulwich Hostess , Mrs. Moore -Speaker , Mrs. Gimingham , M.A.",
+            "Description": "Garden Meeting at 130, Park Road, East Dulwich",
+            "Hosts": [
+                "Mrs. Moore"
+            ],
+            "Speakers": [
+                "Mrs. Gimingham"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "WALWORTH",
+            "Raw": "Walworth Liverpool Street , Walworth Road- Open - air Meeting - Speakers , Mr. Sargeant , Miss R. Young , Miss Hewitt",
+            "Description": "Liverpool Street, Walworth Road - Open-air Meeting",
+            "Speakers": [
+                "Mr. Sargeant",
+                "Miss R. Young",
+                "Miss Hewitt"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "HOLBORN AND SOUTH ST. PANCRAS",
+            "Raw": "Holborn and South St. Pancras Social Meeting for poor working women , 25 , Cart- wright Gardens , Euston Road , W.C. - Speaker , Miss Emily Hill , P.L.G.",
+            "Description": "Social Meeting for poor working women, 25, Cartwright Gardens, Euston Road, W.C.",
+            "Speakers": [
+                "Miss Emily Hill"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "RICHMOND",
+            "Raw": "Richmond - Open - air Meeting at Heron's Court 7.0",
+            "Description": "Open-air Meeting at Heron's Court"
+        },
+        {
+            "Date": "July 21st",
+            "Location": "EWELL",
+            "Raw": "Ewell At Home , \" \" Huon , \" Cheam Road , Ewell - Hostess , Mrs. Homan - Address on Buda Pesth Congress",
+            "Description": "\"At Home,\" \"Huon,\" Cheam Road, Ewell - Address on Buda Pesth Congress",
+            "Hosts": [
+                "Mrs. Homan"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "ENFIELD",
+            "Raw": "Enfield Garden Meeting at St. Matthew's Vicarage , South Street , Ponders End - Speakers , Rev. T. A. Lacey , and a Speaker on the Pilgrimage",
+            "Description": "Garden Meeting at St. Matthew's Vicarage, South Street, Ponders End",
+            "Speakers": [
+                "Rev. T. A. Lacey",
+                "a Speaker on the Pilgrimage"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "WEST SOUTHWARK",
+            "Raw": "West Southwark - Open - air Meeting , Surrey Square , Old Kent Road - Speakers , Miss A. E. Gloyn , Miss Dawson",
+            "Description": "Open-air Meeting, Surrey Square, Old Kent Road",
+            "Speakers": [
+                "Miss A. E. Gloyn",
+                "Miss Dawson"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "HAMMERSMITH",
+            "Raw": "Hammersmith - Open - air Meeting in the Grove --Speakers , Miss Ruth Young , Miss Walshe , Mr. Westcott ( Hammersmith Labour Council )",
+            "Description": "Open-air Meeting in the Grove",
+            "Speakers": [
+                "Miss Ruth Young",
+                "Miss Walshe",
+                "Mr. Westcott"
+            ]
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "BRIXTON ROAD",
+            "Raw": "Brixton Road - South London Committee \" At Home to Members and Friends , Trade Union Hall Speaker , Miss J H. Thomson , M.A. ( Executive Committee , L.S.W.S . ) - Chair , Miss I. B. O'Malley ( Executive Committee , N.U.W.S.S. and L.S.W.S. )",
+            "Description": "South London Committee \"At Home to Members and Friends, Trade Union Hall",
+            "Speakers": [
+                "Miss J H. Thomson"
+            ]
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "COBHAM",
+            "Raw": "Cobham - Open - air Meeting",
+            "Description": "Open-air Meeting"
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "EAST AND WEST ST. PANCRAS",
+            "Raw": "East and West St. Pancras - Open - air Meeting , Cobden Statue - Speakers , Miss P. Fawcett , Miss Bagenal",
+            "Description": "Open-air Meeting, Cobden Statue",
+            "Speakers": [
+                "Miss P. Fawcett",
+                "Miss Bagenal"
+            ]
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "ESHER",
+            "Raw": "Esher - Open - air Meeting - Chair , Miss Mar- tineau - Speaker , Miss Courtney",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Courtney"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "KINGSTON",
+            "Raw": "Kingston - Meeting at Kingston Railway Yard -Speakers , Miss Ward and others",
+            "Description": "Meeting at Kingston Railway Yard",
+            "Speakers": [
+                "Miss Ward"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "SLOUGH",
+            "Raw": "Slough - Open - air Meeting - Speakers , Miss Sterling , Miss Walford , Miss Fielden , and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Sterling",
+                "Miss Walford",
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "ROMFORD",
+            "Raw": "Romford - Open - air Meeting , the place - Speakers , Miss Bagenal and others",
+            "Description": "Open-air Meeting, the place",
+            "Speakers": [
+                "Miss Bagenal"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "BLACKHEATH",
+            "Raw": "Blackheath Whitfield's Mount Open - air Meeting Speakers , Miss Royden and others",
+            "Description": "Whitfield's Mount Open-air Meeting",
+            "Speakers": [
+                "Miss Royden"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "RICHMOND",
+            "Raw": "Richmond Open - air Meeting - Speakers , Miss Sterling , Mrs. Corbett Ashby , and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Sterling",
+                "Mrs. Corbett Ashby"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "UXBRIDGE",
+            "Raw": "Uxbridge The Pump - Open air Meeting- Speakers . Miss Rinder and others",
+            "Description": "The Pump - Open-air Meeting",
+            "Speakers": [
+                "Miss Rinder"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "ENFIELD",
+            "Raw": "Enfield Open - air Meeting - Speakers , Mrs. Stanbury ( Member of the Executive Council , N.U.W.S.S. ) , Mrs. Richardson , and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Mrs. Stanbury",
+                "Mrs. Richardson"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "ROMFORD",
+            "Raw": "Romford Meeting at the Corn Exchange- Speakers , Mrs. Philip Snowden , Mrs. Rackham , P.L.G. , and others",
+            "Description": "Meeting at the Corn Exchange",
+            "Speakers": [
+                "Mrs. Philip Snowden",
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "HIGH BARNET",
+            "Raw": "High Barnet - Open - air Meeting - Speakers , Miss Ward and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Ward"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "STAMFORD HILL",
+            "Raw": "Stamford Hill - Cross Roads - Open - air Meeting -Speakers , Mrs. Richardson and others",
+            "Description": "Cross Roads - Open-air Meeting",
+            "Speakers": [
+                "Mrs. Richardson"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "NEW CROSS",
+            "Raw": "New Cross - Pepys Road , New Cross Gate- Mrs. Stanbury Open - air Meeting - Speakers , ( Executive Committee , N.U.W.S.S. ) , Miss God- dard , and others",
+            "Description": "Pepys Road, New Cross Gate - Mrs. Stanbury Open-air Meeting",
+            "Speakers": [
+                "Mrs. Stanbury",
+                "Miss Goddard"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "RAVENSCOURT PARK",
+            "Raw": "Ravenscourt Park - Open - air Meeting - Speakers , Miss Sterling , Mrs. Corbett Ashby , Miss O'Shea , and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Sterling",
+                "Mrs. Corbett Ashby",
+                "Miss O'Shea"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "EALING COMMON",
+            "Raw": "Ealing Common - Open - air Meeting",
+            "Description": "Open-air Meeting"
+        },
+        {
+            "Date": "July 25th",
+            "Location": "STRATFORD BROADWAY",
+            "Raw": "Stratford Broadway Open - air Meeting- Speakers , Miss Royden , Mrs. Rackham , P.L.G. , and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Royden",
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "STREATHAM COMMON",
+            "Raw": "Streatham Common - South Side Open - air Meeting",
+            "Description": "South Side Open-air Meeting"
+        },
+        {
+            "Date": "July 25th",
+            "Location": "FINCHLEY",
+            "Raw": "Finchley Tally - Ho Corner - Open - air Meeting -Speakers , Miss Philippa Fawcett and others",
+            "Description": "Tally-Ho Corner - Open-air Meeting",
+            "Speakers": [
+                "Miss Philippa Fawcett"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "HAMPSTEAD HEATH",
+            "Raw": "Hampstead Heath - White Stone Road - Open- air Meeting - Speakers , Miss Ward and others",
+            "Description": "White Stone Road - Open-air Meeting",
+            "Speakers": [
+                "Miss Ward"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "BRIXTON",
+            "Raw": "Brixton - Corner of Rushcroft Road , Brixton Rise - Open - air Meeting - Speakers , Miss Ward , Miss Fielden , and others",
+            "Description": "Corner of Rushcroft Road, Brixton Rise - Open-air Meeting",
+            "Speakers": [
+                "Miss Ward",
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "KENNINGTON PARK",
+            "Raw": "Kennington Park - Open - air Meeting - Speakers , Mrs. Stanbury ( Ex . Committee , N.U.W.S.S. ) , and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Mrs. Stanbury"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "KENNINGTON ROAD",
+            "Raw": "Kennington Road - Sancroft Street - Speakers , Miss W. G. Jameson , Miss Gladys Rinder",
+            "Description": "Sancroft Street",
+            "Speakers": [
+                "Miss W. G. Jameson",
+                "Miss Gladys Rinder"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "HIGHBURY",
+            "Raw": "Highbury - Highbury Hall - Meeting - Speakers , Mrs. Corbett Ashby , Mrs. Oliver Strachey , Mrs. Gimingham , M.A. , Mrs. Richardson , and others",
+            "Description": "Highbury Hall - Meeting",
+            "Speakers": [
+                "Mrs. Corbett Ashby",
+                "Mrs. Oliver Strachey",
+                "Mrs. Gimingham",
+                "Mrs. Richardson"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "KENSINGTON TOWN HALL",
+            "Raw": "Kensington Town Hall Public Meeting- Chair , Mrs. Henry Fawcett , LL.D. - Speakers , Sir William Chance and others",
+            "Description": "Public Meeting",
+            "Speakers": [
+                "Sir William Chance"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "BAYSWATER",
+            "Raw": "Bayswater - Ethical Church Hall , Queen's Road Public Meeting - Speakers , Councillor Margaret Ashton , Miss Courtney , and others",
+            "Description": "Ethical Church Hall, Queen's Road Public Meeting",
+            "Speakers": [
+                "Councillor Margaret Ashton",
+                "Miss Courtney"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "TOWER HILL",
+            "Raw": "Tower Hill - Open - air Meeting - Speakers , Miss Royden , Mrs. Rackham , P.L.G. , and others",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Royden",
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "July 25th",
+            "Location": "SOUTHWARK",
+            "Raw": "Southwark Near Elephant and Castle , King's Hall Speakers , Mrs. Philip Snowden , Miss Ward , and others",
+            "Description": "Near Elephant and Castle, King's Hall",
+            "Speakers": [
+                "Mrs. Philip Snowden",
+                "Miss Ward"
+            ]
+        },
+        {
+            "Date": "July 26th",
+            "Location": "HYDE PARK",
+            "Raw": "Hyde Park - Demonstration",
+            "Description": "Demonstration"
+        },
+        {
+            "Date": "July 18th",
+            "Location": "CARDIFF",
+            "Raw": "Cardiff Meeting at Crwys Road Junction- Speaker , Miss Fraser",
+            "Description": "Meeting at Crwys Road Junction",
+            "Speakers": [
+                "Miss Fraser"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "CARDIFF",
+            "Raw": "Garden Party at Bronwydd Field , kindly lent by Lord Pontypridd - Speaker , Rev. Ivory Cripps , of Swindon",
+            "Description": "Garden Party at Bronwydd Field, kindly lent by Lord Pontypridd",
+            "Speakers": [
+                "Rev. Ivory Cripps"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "MARLBOROUGH",
+            "Raw": "Marlborough - Open - air Meeting outside Town Hall - Speaker , Miss Walford - Chair , W. C. H. Cross , Esq .",
+            "Description": "Open-air Meeting outside Town Hall",
+            "Speakers": [
+                "Miss Walford"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "BANBURY",
+            "Raw": "Banbury Pilgrimage Meeting , Town Hall- Speakers , Councillor Margaret Ashton , M.A. , Miss Dora Mason , M.A.",
+            "Description": "Pilgrimage Meeting, Town Hall",
+            "Speakers": [
+                "Councillor Margaret Ashton",
+                "Miss Dora Mason"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "HASLEMERE AND HINDHEAD",
+            "Raw": "Haslemere and Hindhead - Pilgrims Open - air Meeting at Haslemere",
+            "Description": "Pilgrims Open-air Meeting at Haslemere"
+        },
+        {
+            "Date": "July 19th",
+            "Location": "CARDIFF",
+            "Raw": "Cardiff - Open - air Meeting at City Road , Parade Corner - Speaker , Miss Helen Fraser",
+            "Description": "Open-air Meeting at City Road, Parade Corner",
+            "Speakers": [
+                "Miss Helen Fraser"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "SOUTHAMPTON",
+            "Raw": "Southampton Pilgrimage Meeting on the Common Speakers , Miss Fielden , Dr. Stan- combe - Chair , Miss Clough ( Principal of Newn- ham College , Cambridge )",
+            "Description": "Pilgrimage Meeting on the Common",
+            "Speakers": [
+                "Miss Fielden",
+                "Dr. Stancombe"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "OXFORD",
+            "Raw": "Oxford Meeting in the Town Hall - Speakers , Councillor Margaret Ashton and others - Chair , Alderman Hugh Hall , J.P. , D.C.L. - Admission Free Collection",
+            "Description": "Meeting in the Town Hall - Admission Free Collection",
+            "Speakers": [
+                "Councillor Margaret Ashton"
+            ]
+        },
+        {
+            "Date": "July 20th",
+            "Location": "KIDLINGTON",
+            "Raw": "Kidlington Afternoon Meeting"
+        },
+        {
+            "Date": "July 20th",
+            "Location": "MANCHESTER",
+            "Raw": "Manchester Meeting at Victoria Park Gates , Oxford Road - Speakers , Mrs. Muter Wilson , Miss Wilkinson , Mr. Neville Smith",
+            "Description": "Meeting at Victoria Park Gates, Oxford Road",
+            "Speakers": [
+                "Mrs. Muter Wilson",
+                "Miss Wilkinson",
+                "Mr. Neville Smith"
+            ]
+        },
+        {
+            "Date": "July 20th",
+            "Location": "HUNGERFORD",
+            "Raw": "Hungerford Pilgrimage Meeting"
+        },
+        {
+            "Date": "July 20th",
+            "Location": "OXFORD",
+            "Raw": "Oxford Pilgrims ' Service at St. Peter's - in- the - East - Canon Skrine",
+            "Description": "Pilgrims' Service at St. Peter's-in-the-East",
+            "Speakers": [
+                "Canon Skrine"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "NEWBURY",
+            "Raw": "Newbury Pilgrimage Meeting in Lecture Hall",
+            "Description": "Pilgrimage Meeting in Lecture Hall"
+        },
+        {
+            "Date": "July 21st",
+            "Location": "HITCHIN",
+            "Raw": "Hitchin Meeting opposite G.N.R. Station , to be addressed by Pilgrims",
+            "Description": "Meeting opposite G.N.R. Station, to be addressed by Pilgrims"
+        },
+        {
+            "Date": "July 21st",
+            "Location": "STEVENAGE",
+            "Raw": "Stevenage Meeting at Educational Supply Association Factory Gates , to be addressed by Pilgrims",
+            "Description": "Meeting at Educational Supply Association Factory Gates, to be addressed by Pilgrims"
+        },
+        {
+            "Date": "July 21st",
+            "Location": "MANCHESTER",
+            "Raw": "Manchester Meeting at Alexandra Gates Speakers , Miss Margaret Ashton , Miss E. Wilkinson , Mr. R. Robinson Park",
+            "Description": "Meeting at Alexandra Park Gates",
+            "Speakers": [
+                "Miss Margaret Ashton",
+                "Miss E. Wilkinson",
+                "Mr. R. Robinson"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "MANCHESTER",
+            "Raw": "Manchester - Hulme Suffrage Club Meeting , to be held in York Street Temperance Hall- Speaker , Miss Hale",
+            "Description": "Hulme Suffrage Club Meeting, to be held in York Street Temperance Hall",
+            "Speakers": [
+                "Miss Hale"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "WHEATLEY",
+            "Raw": "Wheatley Mid - day Meeting"
+        },
+        {
+            "Date": "July 21st",
+            "Location": "TIDDINGTON",
+            "Raw": "Tiddington - Afternoon Meeting"
+        },
+        {
+            "Date": "July 21st",
+            "Location": "THAME",
+            "Raw": "Thame - Meeting at Market Place - Speakers , Miss C. Leadley Brown ; Miss Eskrigge , and others",
+            "Description": "Meeting at Market Place",
+            "Speakers": [
+                "Miss C. Leadley Brown",
+                "Miss Eskrigge"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "CARDIFF",
+            "Raw": "Cardiff Meeting in Forward Movement Hall -Miss Helen Fraser",
+            "Description": "Meeting in Forward Movement Hall",
+            "Speakers": [
+                "Miss Helen Fraser"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "TUNBRIDGE WELLS",
+            "Raw": "Tunbridge Wells - Meeting at Victoria Hall , Southborough , to meet Tonbridge Pilgrims- Speakers , Miss A. Scott , P.L.G. , Mr. Malcolm Mitchell Chair , Madame Sarah Grand",
+            "Description": "Meeting at Victoria Hall, Southboroughto meet Tonbridge Pilgrims",
+            "Speakers": [
+                "Miss A. Scott",
+                "Mr. Malcolm Mitchell"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "SPENNYMOOR",
+            "Raw": "Spennymoor - Meeting at Littleburn - Joint I.L.P. Speaker , Miss Dring",
+            "Description": "Meeting at Littleburn - Joint I.L.P.",
+            "Speakers": [
+                "Miss Dring"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "COXHOE",
+            "Raw": "Coxhoe - Meeting - Joint I.L.P. - Speaker , Miss C. M. Gordon",
+            "Description": "Meeting - Joint I.L.P.",
+            "Speakers": [
+                "Miss C. M. Gordon"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "PONTYPOOL",
+            "Raw": "Pontypool Joint Meeting with the Trades and Labour Council at Town Hall - Speakers , Miss Margaret Robertson , B.A. , Arthur Peters , Esq . , J.P. - Chair , George Barker , Esq .",
+            "Description": "Joint Meeting with the Trades and Labour Council at Town Hall",
+            "Speakers": [
+                "Miss Margaret Robertson",
+                "Arthur Peters"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "BURGESS HILL",
+            "Raw": "Burgess Hill Meeting opposite Barclay's Bank Speakers , Hon . Mrs. Bertrand Russell , B.A. , Mrs. Timpany , B.A. - Chair , J. A. Meates , Esq . , J.P.",
+            "Description": "Meeting opposite Barclay's Bank",
+            "Speakers": [
+                "Hon. Mrs. Bertrand Russell",
+                "Mrs. Timpany"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "HANDCROSS",
+            "Raw": "Handcross - Meeting opposite Red Lion Hotel -Speakers , Miss Francis , Mrs. O. Strachey- Chair , Rev. Cresswell Gee",
+            "Description": "Meeting opposite Red Lion Hotel",
+            "Speakers": [
+                "Miss Francis",
+                "Mrs. O. Strachey"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "CRAWLEY",
+            "Raw": "Crawley Meeting in St. Peter's Parish Room -Speakers , Mrs. O. Strachey , H. Rolleston Hon . Stables , Esq . - Chair , Mrs. Bertrand Russell",
+            "Description": "Meeting in St. Peter's Parish Room",
+            "Speakers": [
+                "Mrs. O. Strachey",
+                "H. Rolleston Stables"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "SPENNYMOOR",
+            "Raw": "Spennymoor - Meeting at Bear Park - Joint I.L.P. Speaker , Miss C M. Gordon",
+            "Description": "Meeting at Bear Park - Joint I.L.P.",
+            "Speakers": [
+                "Miss C M. Gordon"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "LITTLETOWN",
+            "Raw": "Littletown Meeting Joint I.L.P.- Speaker , Miss Dring",
+            "Description": "Meeting - Joint I.L.P.",
+            "Speakers": [
+                "Miss Dring"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "TYLERS GREEN",
+            "Raw": "Tylers Green - Pilgrims ' Mid - day Meeting- Speakers , Miss Helen Ward and others",
+            "Description": "Pilgrims' Mid-day Meeting",
+            "Speakers": [
+                "Miss Helen Ward"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "BEACONSFIELD",
+            "Raw": "Beaconsfield - Pilgrims ' Meeting at the Green -Speakers , Miss C. Leadley Brown , Eskrigge - Chair , Miss Helen Ward",
+            "Description": "Pilgrims' Meeting at the Green",
+            "Speakers": [
+                "Miss C. Leadley Brown",
+                "Eskrigge"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "WELWYN",
+            "Raw": "Welwyn - Open - air Meeting - To be addressed by Pilgrims",
+            "Description": "Open-air Meeting - To be addressed by Pilgrims"
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "THEALE",
+            "Raw": "Theale Pilgrimage Meeting"
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "READING",
+            "Raw": "Reading - Pilgrimage Meeting - Speaker , Miss Sterling Chair , Councillor E. Sutton",
+            "Description": "Pilgrimage Meeting",
+            "Speakers": [
+                "Miss Sterling"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "KNEBWORTH",
+            "Raw": "Knebworth - Open - air Meeting To be ad- dressed by Pilgrims",
+            "Description": "Open-air Meeting To be addressed by Pilgrims"
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "PRINCE'S RISBOROUGH",
+            "Raw": "Prince's Risborough - Pilgrims ' Mid - day Meeting",
+            "Description": "Pilgrims' Mid-day Meeting"
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "WEST WYCOMBE",
+            "Raw": "West Wycombe Pilgrims ' Afternoon Meeting",
+            "Description": "Pilgrims' Afternoon Meeting"
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "HIGH WYCOMBE",
+            "Raw": "High Wycombe - Pilgrims ' Meeting at The Fountain Speakers , Mr. Horace Crawford , Miss Dora Mason , M.A.",
+            "Description": "Pilgrims' Meeting at The Fountain",
+            "Speakers": [
+                "Mr. Horace Crawford",
+                "Miss Dora Mason"
+            ]
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "MANCHESTER",
+            "Raw": "Manchester - Meeting at Unwin Square , Unwin Street , Salford - Speakers , Miss Margaret Ash- ton , Mr. Beanland , Rev. W. Whitaker",
+            "Description": "Meeting at Unwin Square, Unwin Street, Salford",
+            "Speakers": [
+                "Miss Margaret Ashton",
+                "Mr. Beanland",
+                "Rev. W. Whitaker"
+            ]
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "TWYFORD",
+            "Raw": "Twyford Pilgrimage Meeting"
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "MAIDENHEAD",
+            "Raw": "Maidenhead Meeting in the Town Hall- Speakers , Mrs. Philip Snowden , Miss Francis Sterling Chair , B. Hobbis , Esq . , J.P.",
+            "Description": "Meeting in the Town Hall",
+            "Speakers": [
+                "Mrs. Philip Snowden",
+                "Miss Francis Sterling"
+            ]
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "REDHILL",
+            "Raw": "Redhill Meeting to welcome Pilgrims on the Common",
+            "Description": "Meeting to welcome Pilgrims on the Common"
+        },
+        {
+            "Date": "July 23rd",
+            "Location": "BRISTOL",
+            "Raw": "Bristol Meeting at Y.M.C.A. , Totterdown- Speaker , Mrs. H. Hicks , B.A. - Chair , Mr. Draper",
+            "Description": "Meeting at Y.M.C.A., Totterdown",
+            "Speakers": [
+                "Mrs. H. Hicks"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "HULL",
+            "Raw": "Hull - Garden Party and Sale at \" The Willows , \" 13 , Westbourne Avenue - Hostess , Mrs. W. F. Harris",
+            "Description": "Garden Party and Sale at \"The Willows,\" 13, Westbourne Avenue",
+            "Hosts": [
+                "Mrs. W. F. Harris"
+            ]
+        },
+        {
+            "Date": "July 24th",
+            "Location": "OXFORD",
+            "Raw": "Oxford Garden Meeting at Manchester College to Members and their Friends , by invitation of Dr. Estlin Carpenter",
+            "Description": "Garden Meeting at Manchester College to Members and their Friends, by invitation of Dr. Estlin Carpenter"
+        },
+        {
+            "Date": "July 24th",
+            "Location": "GERRARD'S CROSS",
+            "Raw": "Gerrard's Cross - Pilgrims ' Meeting on the Common Mid - day",
+            "Description": "Pilgrims' Meeting on the Common Mid-day"
+        },
+        {
+            "Date": "July 18th",
+            "Location": "SOUTHAMPTON",
+            "Raw": "Southampton - Meeting - Speakers , Miss Fiel- den , Dr. Stancomb - Chair , Miss Clough",
+            "Speakers": [
+                "Miss Fielden",
+                "Dr. Stancomb"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "PETERSFIELD",
+            "Raw": "Petersfield Meeting - Rev. Archdale Hill , Miss Norah O'Shea",
+            "Speakers": [
+                "Rev. Archdale Hill",
+                "Miss Norah O'Shea"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "LIPHOOK",
+            "Raw": "Liphook Meeting - Speakers , Miss Ruth Young , Miss Norah O'Shea",
+            "Speakers": [
+                "Miss Ruth Young",
+                "Miss Norah O'Shea"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "ST. CROSS",
+            "Raw": "St. Cross Meeting - Miss Fielden , Mr. J. Young Kennedy",
+            "Speakers": [
+                "Miss Fielden",
+                "Mr. J. Young Kennedy"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "CAMBRIDGE",
+            "Raw": "Cambridge Pilgrims from the Eastern Coun- ties arrive - Procession through the town with band and banners of all non - militant sym- pathisers is being organised",
+            "Description": "Pilgrims from the Eastern Counties arrive - Procession through the town with band and banners of all non-militant sympathisers is being organised"
+        },
+        {
+            "Date": "July 19th",
+            "Location": "EASTLEIGH",
+            "Raw": "Eastleigh Meeting - Speakers , Miss Fielden , Dr. Stan\u010domb - Chair , Miss Clough",
+            "Speakers": [
+                "Miss Fielden",
+                "Dr. Stan\u010domb"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "HASLEMERE",
+            "Raw": "Haslemere Meeting Speakers , Miss Ruth Young , Miss Norah O'Shea",
+            "Speakers": [
+                "Miss Ruth Young",
+                "Miss Norah O'Shea"
+            ]
+        },
+        {
+            "Date": "July 19th",
+            "Location": "SHAWFORD",
+            "Raw": "Shawford Meeting - Miss Fielden , Mr. J. Young Kennedy",
+            "Speakers": [
+                "Miss Fielden",
+                "Mr. J. Young Kennedy"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "ALTON",
+            "Raw": "Alton Meeting - Speakers , Rev. J. D. Carter , Miss Fielden - Chair , The Countess of Sel- bourne",
+            "Speakers": [
+                "Rev. J. D. Carter",
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "FARNHAM",
+            "Raw": "Farnham Speaker , Miss Fielden",
+            "Speakers": [
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "GODALMING",
+            "Raw": "Godalming - Open - air Meeting - Speaker , Mr. Hogg",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Mr. Hogg"
+            ]
+        },
+        {
+            "Date": "July 21st",
+            "Location": "GODALMING",
+            "Raw": "Godalming Meeting - Miss Geraldine Cooke",
+            "Speakers": [
+                "Miss Geraldine Cooke"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "GUILDFORD",
+            "Raw": "Guildford Meeting - Speakers , Miss Geraldine Cooke and others",
+            "Speakers": [
+                "Miss Geraldine Cooke"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "BARNET",
+            "Raw": "Barnet - Open - air Meeting , Bath Place , High Street - Speakers , Dr. Wallis Chapman , Mrs. Baker",
+            "Description": "Open-air Meeting, Bath Place, High Street",
+            "Speakers": [
+                "Dr. Wallis Chapman",
+                "Mrs. Baker"
+            ]
+        },
+        {
+            "Date": "July 18th",
+            "Location": "EDINBURGH",
+            "Raw": "Edinburgh \" At Home , \" 40 , Shandwick Place -Speaker , A. Hamilton , Esq . ( Sec . , Reform Union ) , on \" The English Divorce Law and its Danger to Scottish Women \"",
+            "Description": "\"At Home,\" 40, Shandwick Place - on \"The English Divorce Law and its Danger to Scottish Women\"",
+            "Speakers": [
+                "A. Hamilton"
+            ]
+        },
+        {
+            "Date": "July 20th",
+            "Location": "EDINBURGH",
+            "Raw": "Edinburgh - I.L.P . Meeting , Saughton Park- Speaker , Miss Lisa M. Gordon",
+            "Description": "I.L.P. Meeting, Saughton Park",
+            "Speakers": [
+                "Miss Lisa M. Gordon"
+            ]
+        },
+        {
+            "Date": "July 22nd",
+            "Location": "EDINBURGH",
+            "Raw": "Edinburgh Meeting at Brora Temperance Hall Speaker , Miss Bury - Chair , Mr. Hugh . Ross",
+            "Description": "Meeting at Brora Temperance Hall",
+            "Speakers": [
+                "Miss Bury"
+            ]
+        }
+    ]
+}

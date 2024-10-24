@@ -1,0 +1,698 @@
+{
+    "IssueDate": "July 24, 1914",
+    "Meetings": [
+        {
+            "Date": "August 6th - 19th",
+            "Location": "ABERYSTWYTH",
+            "Raw": "Helpers Wanted FOR OPEN - AIR MEETINGS AT ABERYSTWYTH August 6th - 19th ."
+        },
+        {
+            "Date": "August 10th - 12th",
+            "Location": "BEDFORD DISTRICT",
+            "Raw": "OXON , BERKS & BUCKS FEDERATION A CYCLING TOUR 99 Aug. 10th - 12th is being arranged as follows- BEDFORD DISTRICT"
+        },
+        {
+            "Date": "August 12th - 14th",
+            "Location": "WOBURN SANDS",
+            "Raw": "WOBURN SANDS 22 22 \u0648\u0648 99 12th - 14th"
+        },
+        {
+            "Date": "August 14th - 17th",
+            "Location": "DUNSTABLE",
+            "Raw": "DUNSTABLE 22 22 \u05d9 , 99 14th - 17th"
+        },
+        {
+            "Date": "August 17th - 18th",
+            "Location": "LUTON",
+            "Raw": "LUTON \u0648\u0648 17th - 18th"
+        },
+        {
+            "Date": "August 18th - 21st",
+            "Location": "WATFORD",
+            "Raw": "WATFORD 33 22 \u05d9 , \u0648\u0648 18th - 21st"
+        },
+        {
+            "Date": "August 21st - 25th",
+            "Location": "S. BUCKS",
+            "Raw": "S. BUCKS 33 21st - 25th"
+        },
+        {
+            "Date": "August 25th - 28th",
+            "Location": "MAIDENHEAD",
+            "Raw": "MAIDENHEAD 22 25th - 28th"
+        },
+        {
+            "Date": "August 28th - September 1st",
+            "Location": "S. BERKS",
+            "Raw": "S. BERKS \u0648\u0648 Aug. 28th - Sept . 1st"
+        },
+        {
+            "Date": "September 1st - 5th",
+            "Location": "N. BERKS",
+            "Raw": "N. BERKS Sept. 1st - 5th"
+        },
+        {
+            "Date": "July 24",
+            "Location": "Hyde Park",
+            "Raw": "Hyde Park - Miss Helen Fraser , Miss Mary Fielden , J. Y. Kennedy , Esq .",
+            "Speakers": [
+                "Miss Helen Fraser",
+                "Miss Mary Fielden",
+                "J. Y. Kennedy, Esq."
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "Bristol",
+            "Raw": "Bristol - At the Horse - fair - Dinner - hour Meet- ing - Miss Helen Fraser and others",
+            "Speakers": [
+                "Miss Helen Fraser"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "Bury St. Edmunds",
+            "Raw": "Bury St. Edmunds - Open - air - Mrs Rackham",
+            "Speakers": [
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "Guildford",
+            "Raw": "Guildford Church Room , Staughton - Chair , Mrs. Swinburn - Mrs . Cowmeadow",
+            "Speakers": [
+                "Mrs. Cowmeadow"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "The Green, Ripley",
+            "Raw": "The Green , Ripley - Chair , Miss Baker - Mrs . Cowmeadow",
+            "Speakers": [
+                "Mrs. Cowmeadow"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "Ickleford",
+            "Raw": "Ickleford Open - air Meeting - Mrs . Frederic Taylor and Miss A. Villier",
+            "Speakers": [
+                "Mrs. Frederic Taylor",
+                "Miss A. Villier"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "Newcastle",
+            "Raw": "Newcastle Garden F\u00eate , \" The Willows , \" Clayton Road , by kind permission of Mrs. G. B. Hunter - Speaker , Miss Muriel Matters- Competitions , Dancing , Cake and Candy Sale Morris 3.30-6.30 If wet , sale and meeting to be held at 78 , Jesmond Road .",
+            "Hosts": [
+                "Mrs. G. B. Hunter"
+            ],
+            "Speakers": [
+                "Miss Muriel Matters"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "North Sands",
+            "Raw": "North Sands - Miss Foxley , M.A. , Miss Ashton- Jones",
+            "Speakers": [
+                "Miss Foxley, M.A.",
+                "Miss Ashton-Jones"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "Romford",
+            "Raw": "Romford and District - Meeting for members and likely members - Romford Baths , Mawneys Road - Miss Creak",
+            "Speakers": [
+                "Miss Creak"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "Woodley Smithy Green",
+            "Raw": "Woodley Smithy Green - Open - air Meeting- Speaker , Mrs. Chew - Chair , Mr. Clement Bundrock",
+            "Speakers": [
+                "Mrs. Chew"
+            ]
+        },
+        {
+            "Date": "July 25",
+            "Location": "North Sands",
+            "Raw": "North Sands - Miss Foxley , M.A. , Miss Ashton- Jones",
+            "Speakers": [
+                "Miss Foxley, M.A.",
+                "Miss Ashton-Jones"
+            ]
+        },
+        {
+            "Date": "July 25",
+            "Location": "Watford",
+            "Raw": "West for Herts Society - Garden Meeting for Teachers - The Linders , Mascot Road , Watford- Hostess , Mrs. White , Chair , Mr. John R. Ismay -Miss A. G. Hewitt ( N.U.T. )",
+            "Description": "West for Herts Society Garden Meeting for Teachers",
+            "Hosts": [
+                "Mrs. White"
+            ],
+            "Speakers": [
+                "Miss A. G. Hewitt (N.U.T)"
+            ]
+        },
+        {
+            "Date": "July 25",
+            "Location": "Wokingham",
+            "Raw": "Wokingham Easthampstead Park Hostess , The Marchioness of Downshire - The Countess lof Selborne , Miss Helen Fraser 3.0",
+            "Hosts": [
+                "The Marchioness of Downshire"
+            ],
+            "Speakers": [
+                "The Countess of Selborne",
+                "Miss Helen Fraser"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Bardon Mill",
+            "Raw": "Bardon Mill - Open - air - Miss Armstrong Beaver , Miss 7.0",
+            "Speakers": [
+                "Miss Armstrong Beaver"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Brighton and Hove",
+            "Raw": "Brighton and Hove - White Elephant Sale , in grounds of 26 , Willing Road 3.30"
+        },
+        {
+            "Date": "July 27",
+            "Location": "Dover",
+            "Raw": "Dover Miss Griffith Jones and Miss Hamil- ton . 8.0",
+            "Speakers": [
+                "Miss Griffith Jones",
+                "Miss Hamilton"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Haltwhistle",
+            "Raw": "Haltwhistle - Market Place - Miss Meikle , Miss A. E. G. Westwood 7.0",
+            "Speakers": [
+                "Miss Meikle",
+                "Miss A.E.G. Westwood"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Hayden Bridge",
+            "Raw": "Hayden Bridge - Open - air - Miss Gordon , Miss A. E. Westwood 7.0",
+            "Speakers": [
+                "Miss Gordon",
+                "Miss A.E. Westwood"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Herne Bay",
+            "Raw": "Herne Bay Mrs. Rackham - Afternoon and evening",
+            "Speakers": [
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Leeds",
+            "Raw": "Leeds Mrs. Christopher James \" At Home \" - Pen y Cym , Chapel Allerton - Stock Exchange Tea 3.30-5.30",
+            "Description": "Stock Exchange Tea",
+            "Hosts": [
+                "Mrs. Christopher James"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Manchester",
+            "Raw": "Manchester - Open - air Meeting - Tibb Street corner Mrs. M\u00fcter Wilson and Mr. Eastwood",
+            "Speakers": [
+                "Mrs. M\u00fcter Wilson",
+                "Mr. Eastwood"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Salford",
+            "Raw": "South Salford Suffrage Club , Oldfield Hall- Mrs. Pearson and Mrs. Atack",
+            "Speakers": [
+                "Mrs. Pearson",
+                "Mrs. Atack"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Newport, Salop",
+            "Raw": "Newport ( Salop ) -The Square - A.S.L . meet- ing Mrs. Harley , Miss Eskrigg , and others",
+            "Speakers": [
+                "Mrs. Harley",
+                "Miss Eskrigg"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Reading",
+            "Raw": "Reading Wokingham Road Schools - Chair , Councillor Sarjeant - Miss Margaret Jones , Mr. Oliver Strachey 8.0",
+            "Speakers": [
+                "Miss Margaret Jones",
+                "Mr. Oliver Strachey"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Southport",
+            "Raw": "Southport North meeting - Horace Crawfurd , Esq . , Liberal candidate for the division .",
+            "Speakers": [
+                "Horace Crawfurd, Esq."
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "Wellington, Salop",
+            "Raw": "Wellington ( Salop ) -The Square - A.S.L . Meet- ing - Miss Leadley Browne",
+            "Speakers": [
+                "Miss Leadley Browne"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "Barrasford",
+            "Raw": "Barrasford Miss C. M. Miss Armstrong Gordon , M.A. , 6.30",
+            "Speakers": [
+                "Miss C. M. Miss Armstrong Gordon, M.A."
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "Cambridge",
+            "Raw": "Cambridge - Market Place - Chair , Mrs. Rack- ham - Miss Matters 8.0",
+            "Speakers": [
+                "Miss Matters"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "Fourstones",
+            "Raw": "Fourstones Open - air - Miss Meickle , Miss E. A. Westwood 7.0",
+            "Speakers": [
+                "Miss Meickle",
+                "Miss E.A. Westwood"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "Humshaugh",
+            "Raw": "Humshaugh Miss Beaver , Miss E , G. West- wood 6.30",
+            "Speakers": [
+                "Miss Beaver",
+                "Miss E.G. Westwood"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "Market Drayton",
+            "Raw": "Market Drayton - The Butter Market - A.S.L . meeting - Mrs . Harley , Miss Leadley Brown , and others 8.0",
+            "Speakers": [
+                "Mrs. Harley",
+                "Miss Leadley Brown"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "Rotherham",
+            "Raw": "Rotherham Roman Terrace - Chair . Councillor Siddall ( of Roman Terrace ) , Mrs. Oldham",
+            "Speakers": [
+                "Mrs. Oldham"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "St. Margaret-at-Cliff",
+            "Raw": "St. Margaret - at - Cliff Mrs. Herzberg and Miss Hamilton",
+            "Speakers": [
+                "Mrs. Herzberg",
+                "Miss Hamilton"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "Southwold",
+            "Raw": "Southwold - Market Place - Chair , Mrs. Charles Foster Mr. W. H. Murlees . 7.0",
+            "Speakers": [
+                "Mr. W. H. Murlees"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Acomb",
+            "Raw": "Acomb Miss Beaver , Miss A. E. Westwood",
+            "Speakers": [
+                "Miss Beaver",
+                "Miss A.E. Westwood"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Allendale Town",
+            "Raw": "Allendale Town - Miss C. M. Gordon , Miss E. G. Westwood 7.0",
+            "Speakers": [
+                "Miss C. M. Gordon",
+                "Miss E.G. Westwood"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Bournemouth",
+            "Raw": "Bournemouth - Open - air meeting"
+        },
+        {
+            "Date": "July 29",
+            "Location": "Deal",
+            "Raw": "Deal South Street - Miss Hamilton and Miss Barnett 8.0",
+            "Speakers": [
+                "Miss Hamilton",
+                "Miss Barnett"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Kingsdown",
+            "Raw": "Kingsdown Whitchurch Miss Leadley",
+            "Speakers": [
+                "Miss Leadley"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Hexham",
+            "Raw": "Hexham Armstrong Coleman 8.0",
+            "Speakers": [
+                "Armstrong Coleman"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Bellingham",
+            "Raw": "Bellingham Branch End E. G. Westwood",
+            "Speakers": [
+                "E.G. Westwood"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Corbridge",
+            "Raw": "Corbridge - A. E. Westwood 4.30",
+            "Speakers": [
+                "A.E. Westwood"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Great Mongeham",
+            "Raw": "Great Mongeham Barnett",
+            "Speakers": [
+                "Barnett"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Guildford",
+            "Raw": "Guildford permission Baker Miss 8.0",
+            "Speakers": [
+                "Baker"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Ellesmere Port",
+            "Raw": "Ellesmere Port Leadley Brown",
+            "Speakers": [
+                "Leadley Brown"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Mickley",
+            "Raw": "Mickley Leadley Brown",
+            "Speakers": [
+                "Leadley Brown"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Ovingham",
+            "Raw": "Ovingham Leadley Brown",
+            "Speakers": [
+                "Leadley Brown"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Prudhoe",
+            "Raw": "Prudhoe Leadley Brown",
+            "Speakers": [
+                "Leadley Brown"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Sandwich",
+            "Raw": "Sandwich Miss Barnett",
+            "Speakers": [
+                "Miss Barnett"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Stamfordham",
+            "Raw": "Stamfordham Armstrong 7.30",
+            "Speakers": [
+                "Armstrong"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "West Wylam",
+            "Raw": "West Wylam wood 3.0",
+            "Speakers": [
+                "wood"
+            ]
+        },
+        {
+            "Date": "July 31",
+            "Location": "Margate",
+            "Raw": "Margate Miss Griffith",
+            "Speakers": [
+                "Miss Griffith"
+            ]
+        },
+        {
+            "Date": "July 31",
+            "Location": "Oswestry",
+            "Raw": "Oswestry Harley , Miss",
+            "Speakers": [
+                "Harley"
+            ]
+        },
+        {
+            "Date": "July 31",
+            "Location": "Hunterfield",
+            "Raw": "Hunterfield",
+            "Description": "One or two meetings may be held in villages near Hunterfield, without previous notice."
+        },
+        {
+            "Date": "July 31",
+            "Location": "Wem",
+            "Raw": "Wem ( meeting arranged at short notice ) Mr. and others 8.15",
+            "Speakers": [
+                "Mr."
+            ]
+        },
+        {
+            "Date": "July 31",
+            "Location": "Worthing",
+            "Raw": "Worthing - Shrubbery , pany - Monologue 8.0"
+        },
+        {
+            "Date": "July 25",
+            "Location": "Bow",
+            "Raw": "Bow - Garden Meeting at Harley House , Bow Road Entertainment by East London Girls ' Club - Refreshments - Chair , the Rev E. T. Kitcat"
+        },
+        {
+            "Date": "July 27",
+            "Location": "W. St. Pancras",
+            "Raw": "W. St. Pancras - Open - air Meeting - Corner of Park and Arlington Road - Speakers , Miss Ellen Walshe , Miss Meikle",
+            "Speakers": [
+                "Miss Ellen Walshe",
+                "Miss Meikle"
+            ]
+        },
+        {
+            "Date": "July 28",
+            "Location": "N. Lambeth",
+            "Raw": "N. Lambeth - Open - air Meeting - Corner of Sancroft Street and Kennington Road - Speaker , Miss Fawcett",
+            "Speakers": [
+                "Miss Fawcett"
+            ]
+        },
+        {
+            "Date": "July 29",
+            "Location": "Ealing",
+            "Raw": "Ealing Garden Party at \" Ingleside , \" Edge- hill Road Hostess , Mrs. McBride - Chair , Prof. de Sumichrast - Speaker , Mrs. Corbett Fisher",
+            "Description": "Garden Party",
+            "Hosts": [
+                "Mrs. McBride"
+            ],
+            "Speakers": [
+                "Mrs. Corbett Fisher"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Barnes",
+            "Raw": "Barnes Open - air Meeting - Opposite Sun Inn -Speakers , Miss Sheepshanks , Miss Fawcett , Mrs. Baker",
+            "Speakers": [
+                "Miss Sheepshanks",
+                "Miss Fawcett",
+                "Mrs. Baker"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Southwark",
+            "Raw": "Southwark Open - air Meeting - Corner of Teni- son Street and York Road , Waterloo - Speakers , Miss Jameson , Miss Walshe",
+            "Speakers": [
+                "Miss Jameson",
+                "Miss Walshe"
+            ]
+        },
+        {
+            "Date": "July 30",
+            "Location": "Muswell Hill",
+            "Raw": "Muswell Hill - Exchange - Chair , Mr. Watts- Miss Philippa Fawcett , Mrs. Ffranbury 8.0",
+            "Speakers": [
+                "Miss Philippa Fawcett",
+                "Mrs. Ffranbury"
+            ]
+        },
+        {
+            "Date": "July 31",
+            "Location": "Battersea",
+            "Raw": "Battersea Open - air Meeting Rush Hill Road , Lavender Hill - Chair , Mrs. Worthy- Speaker , Mr. Clifford Ewen",
+            "Speakers": [
+                "Mr. Clifford Ewen"
+            ]
+        },
+        {
+            "Date": "July 31",
+            "Location": "Walmer",
+            "Raw": "Walmer",
+            "Description": "A.S.L. Meeting"
+        },
+        {
+            "Date": "July 31",
+            "Location": "Eastrig",
+            "Raw": "Eastrig - Miss",
+            "Speakers": [
+                "Miss"
+            ]
+        },
+        {
+            "Date": "August 1",
+            "Location": "Aberdeen",
+            "Raw": "Aberdeen \" Newcraighall Aldersley",
+            "Description": "Open-air meeting at Alexandra Park, Newcraighall Aldersley."
+        },
+        {
+            "Date": "August 1",
+            "Location": "Levenshulme",
+            "Raw": "Open - air meeting at Alexandra Park , Stockport Road , Levenshulme - Coun- cillor Ashton , M.A. , and Mr. Crane",
+            "Speakers": [
+                "Councillor Ashton, M.A.",
+                "Mr. Crane"
+            ]
+        },
+        {
+            "Date": "August 1",
+            "Location": "Dalton",
+            "Raw": "Dalton Brook Open - air - Chair , of Dalton ) , Councillor D. B. Foster ,",
+            "Speakers": [
+                "Councillor D.B. Foster"
+            ]
+        },
+        {
+            "Date": "August 1",
+            "Location": "Wellington, Salop",
+            "Raw": "Wellington ( Salop ) The Cricket Field - A.S.L . Harley , Miss Leadley Brown ,",
+            "Speakers": [
+                "Harley",
+                "Miss Leadley Brown"
+            ]
+        },
+        {
+            "Date": "August 1",
+            "Location": "Broadwater",
+            "Raw": "Garden meeting for Friends - The Broadwater - Speaker , Miss Tym- , Mrs. Chapman",
+            "Speakers": [
+                "Miss Tym",
+                "Mrs. Chapman"
+            ]
+        },
+        {
+            "Date": "July 24",
+            "Location": "E. Islington",
+            "Raw": "E. Islington - Open - air Meeting - Corner of Riversdale Road and Blackstock Road - Chair , Mr. Few , Miss McGrigor",
+            "Speakers": [
+                "Mr. Few",
+                "Miss McGrigor"
+            ]
+        },
+        {
+            "Date": "July 27",
+            "Location": "West Horsley",
+            "Raw": "West Horsley ( by kind permission of Mrs. Riddock ) -Chair , Aston 8.0",
+            "Hosts": [
+                "Mrs. Riddock"
+            ],
+            "Speakers": [
+                "Aston"
+            ]
+        },
+        {
+            "Date": "July 11",
+            "Location": "Leith",
+            "Raw": "Leith ( 11.0"
+        },
+        {
+            "Date": "July 24",
+            "Location": "Edinburgh",
+            "Raw": "Edinburgh ,"
+        },
+        {
+            "Date": "July 25",
+            "Location": "Addiewell",
+            "Raw": "Addiewell ( ley 11.0"
+        },
+        {
+            "Date": "July 27",
+            "Location": "Aberdeen",
+            "Raw": "Aberdeen - St. Andrew's Hall . 8.0",
+            "Description": "The Women's Freedom League are to be congratulated on their demonstration on the 19th, when they came out for the first time with the men's unions to demand the total abolition of fines, deductions, and living-in. Marching in procession, with bands and banners, to Southwark Park, the demonstrators were there addressed by leaders of labour."
+        },
+        {
+            "Date": "July 27-31",
+            "Location": "Newburgh and district",
+            "Raw": "Newburgh and district , Stuart Paterson",
+            "Speakers": [
+                "Miss Moody",
+                "Miss Stuart Paterson"
+            ]
+        }
+    ]
+}

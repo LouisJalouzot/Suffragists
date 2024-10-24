@@ -1,0 +1,38 @@
+{
+    "IssueDate": "December 28, 1911",
+    "Meetings": [
+        {
+            "Date": "January 1st",
+            "Location": "Uxbridge",
+            "Raw": "Uxbridge . - Brookfield Restaurant , High Street.- Open \" At Home \" -Mr . Joseph Clayton 7.30",
+            "Description": "Open \"At Home\"",
+            "Speakers": [
+                "Joseph Clayton"
+            ]
+        },
+        {
+            "Date": "January 4th",
+            "Location": "Leamington",
+            "Raw": "Leamington - Birch's Music Rooms , Parade - Warwick and Leamington Franchise Club 3.0",
+            "Description": "Warwick and Leamington Franchise Club",
+            "Hosts": [
+                "Warwick and Leamington Franchise Club"
+            ]
+        },
+        {
+            "Date": "January 9th",
+            "Location": "Chingford",
+            "Raw": "Chingford - Spicer Hall Congregational Chapel , 3.0",
+            "Description": "Spicer Hall Congregational Chapel",
+            "Hosts": [
+                "Spicer Hall Congregational Chapel"
+            ]
+        },
+        {
+            "Date": "January 11th",
+            "Location": "Highgate",
+            "Raw": "Highgate and E. St. Pancras - Spear's Memorial Hall , Highgate Hill - the Elizabeth Bessle Comedy Companny in a 17th Centry play - Tickets 2s . 6d . and 1s . 8.0",
+            "Description": "the Elizabeth Bessle Comedy Companny in a 17th Centry play - Tickets 2s. 6d. and 1s."
+        }
+    ]
+}

@@ -29,5 +29,5 @@ issues = [
         224,
         252,
     ]
-]
+] + ["suffragette_2", "votes_for_wmn_1"]
 prompt_gemini(issues)
