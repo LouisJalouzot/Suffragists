@@ -1,0 +1,230 @@
+{
+    "IssueDate": "October 17 , 1913",
+    "Meetings": [
+        {
+            "Date": "October 17",
+            "Location": "Battersea , Aliwal Road , St. John's Road",
+            "Raw": "Battersea , Aliwal Road , St. John's Road . Miss Medwin , Macpherson"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Battersea , Ford Road , Bow",
+            "Raw": "Battersea , Ford Road . Miss Phillips"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Chelsea , 308 , King's Road",
+            "Raw": "Chelsea , 308 , King's Road . Speakers ' Class . Miss Ada Moore"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Chiswick , Duke Road",
+            "Raw": "Chiswick , Duke Road . Miss Meakin"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Cricklewood , Clock Tower",
+            "Raw": "Cricklewood , Clock Tower . Miss Gwen Richards , Miss Wilson"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Fulham , Munster Road",
+            "Raw": "Fulham , Munster Road . Miss Coombs"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Golder's Green , The Promenade",
+            "Raw": "Golder's Green , The Promenade . Miss M. Wright . Chair : Hutchinson"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Hornsey , High Street Fountain",
+            "Raw": "Hornsey , High Street Fountain . Miss Bonwick , B.A. Chair Miss Newstead"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Lincoln's Inn House , Kingsway",
+            "Raw": "Lincoln's Inn House , Kingsway . Speakers ' Class . Miss Rosa North"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Kensington , Free Library , Ladbroke Grove",
+            "Raw": "Kensington , Free Library , Ladbroke Grove . Rickards , B.A. Chair : Miss A. Somers , B.A"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Poplar , Manchester Road and East Ferry Road",
+            "Raw": "Poplar , Manchester Road and East Ferry Road"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Seven Sisters Road , Thane Villas",
+            "Raw": "Seven Sisters Road , Thane Villas . Miss Richmond"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Sloane Square",
+            "Raw": "Sloane Square . Mrs. Penn Gaskell . Chair : Mrs. Laski"
+        },
+        {
+            "Date": "October 17",
+            "Location": "Tooting Broadway",
+            "Raw": "Tooting Broadway . Miss Palmer . Chair : Mrs. Heard"
+        },
+        {
+            "Date": "October 17",
+            "Location": "West Ham , The Grove , Stratford",
+            "Raw": "West Ham , The Grove , Stratford . Miss Canning , Miss Harbott"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Battersea , Strath Terrace , St. John's Hill",
+            "Raw": "Battersea , Strath Terrace , St. John's Hill"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Highgate , High Street and Southwood Lane",
+            "Raw": "Highgate , High Street and Southwood Lane"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Crouch End , Clock Tower",
+            "Raw": "Crouch End , Clock Tower . Miss Margaret Wright"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Islington , Holloway Road , Jones Bros.",
+            "Raw": "Islington , Holloway Road , Jones Bros. Ilford , Balfour Road . Mrs. Temple Bird"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Finchley , Church End , opposite G.N.R. station",
+            "Raw": "Finchley , Church End , opposite G.N.R. station . Miss G. Richard Miss Smart Miss Bonwick , B.A. Miss Cobb"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Kilburn , Messina Avenue",
+            "Raw": "Kilburn , Messina Avenue . Miss Barry , Miss Jacobs"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Kingston , Church Street",
+            "Raw": "Kingston , Church Street . Miss Elsa Myers"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Kingston , Coronation Stone",
+            "Raw": "Kingston , Coronation Stone . Miss Rogers"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Clapham Common",
+            "Raw": "Clapham Common . Miss Margaret Ross"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Lewisham , Market Place",
+            "Raw": "Lewisham , Market Place . Miss N. Lightman"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Poplar , East India Dock Gates",
+            "Raw": "Poplar , East India Dock Gates . Miss Randall"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Streatham Common",
+            "Raw": "Streatham Common . Miss Jacobs"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Palmer's Green , Alderman's Hill",
+            "Raw": "Palmer's Green , Alderman's Hill . Miss Gilliatt"
+        },
+        {
+            "Date": "October 18",
+            "Location": "South Wimbledon , Broadway",
+            "Raw": "South Wimbledon , Broadway"
+        },
+        {
+            "Date": "October 18",
+            "Location": "Wandsworth , outside Council House",
+            "Raw": "Wandsworth , outside Council House . Miss Rickards . Mrs. Chapman"
+        },
+        {
+            "Date": "October 18",
+            "Location": "West Ham , Forest Gate Station",
+            "Raw": "West Ham , Forest Gate Station"
+        },
+        {
+            "Date": "October 19",
+            "Location": "Ealing Common",
+            "Raw": "Ealing Common . Mrs. E. A. Tidswell"
+        },
+        {
+            "Date": "October 19",
+            "Location": "Hampstead Heath , Flagstaff",
+            "Raw": "Hampstead Heath , Flagstaff . Miss Margaret Wright"
+        },
+        {
+            "Date": "October 19",
+            "Location": "Victoria Park",
+            "Raw": "Victoria Park"
+        },
+        {
+            "Date": "October 19",
+            "Location": "Wimbledon Common",
+            "Raw": "Wimbledon Common . Miss Feek"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Bow , Obelisk , Devons Road",
+            "Raw": "Bow , Obelisk , Devons Road . Miss Palmer"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Bow , Out and Out Mission Hall , Tredegar Road",
+            "Raw": "Bow , Out and Out Mission Hall , Tredegar Road . Speakers ' Class Miss Rosa Leo"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Bow , 321 , Roman Road",
+            "Raw": "Bow , 321 , Roman Road . Women's Meeting"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Chelsea , 308 , King's Road",
+            "Raw": "Chelsea , 308 , King's Road . Working Women's Meeting . Miss E. Wylie ... Mrs. Bouvier"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Ilford , Broadway Chambers",
+            "Raw": "Ilford , Broadway Chambers . Protest Meeting"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Kentish Town , 44 , Malden Road",
+            "Raw": "Kentish Town , 44 , Malden Road . Working Women's Meeting Mrs. Penn Gaskell , Miss Hicks . Hostess : Mrs. John Gulich"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Knightsbridge Hall , W.",
+            "Raw": "Knightsbridge Hall , W. Mrs. Dacre Fox , Miss Ka'herine Margesson , and others"
+        },
+        {
+            "Date": "October 20",
+            "Location": "South Wimbledon , The Grove",
+            "Raw": "South Wimbledon , The Grove"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Streatham Hall , Blue Hall",
+            "Raw": "Streatham Hall , Blue Hall . Mrs. Dacre Fox . Chair : Mrs. Tyson"
+        },
+        {
+            "Date": "October 20",
+            "Location": "Woolwich , Beresford Square",
+            "Raw": "Woolwich , Beresford Square . Miss Jacobs"
+        }
+    ]
+}

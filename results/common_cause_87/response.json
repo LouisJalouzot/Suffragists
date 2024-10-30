@@ -1,0 +1,164 @@
+{
+    "IssueDate": "1911-06-15",
+    "Meetings": [
+        {
+            "Date": "June 15",
+            "Location": "Ewshot - St. Mary's Lodge Paddock",
+            "Raw": "Ewshot - St. Mary's Lodge Paddock - Mrs. Renton, Rev. A. H. G. Creed",
+            "Speakers": [
+                "Mrs. Renton",
+                "Rev. A. H. G. Creed"
+            ]
+        },
+        {
+            "Date": "June 15",
+            "Location": "Birmingham - Moseley - Dr. Olive Elgood's Drawing-room Meeting",
+            "Raw": "Birmingham - Moseley - Dr. Olive Elgood's Drawing - room Meet- ing - Miss Kirby , Miss Ring . Chair , Mrs. Goode.",
+            "Hosts": [
+                "Dr. Olive Elgood"
+            ],
+            "Speakers": [
+                "Miss Kirby",
+                "Miss Ring"
+            ]
+        },
+        {
+            "Date": "June 16",
+            "Location": "Church Crookham - Post Box",
+            "Raw": "Church Crookham - Post Box - Mrs . Renton , Miss S. Clark , Rev. A. H. G. Creed",
+            "Speakers": [
+                "Mrs. Renton",
+                "Miss S. Clark",
+                "Rev. A. H. G. Creed"
+            ]
+        },
+        {
+            "Date": "June 22",
+            "Location": "Birmingham - Cotteridge",
+            "Raw": "Birmingham - Cotteridge - Coronation Procession - For Suffrage Section apply Miss Greave , Bournville .",
+            "Description": "Coronation Procession"
+        },
+        {
+            "Date": "July 1",
+            "Location": "Manchester - Whalley Range",
+            "Raw": "Manchester - Whalley Range Mrs. Hillier's Garden Party and Sale Miss A. M. Roydene",
+            "Hosts": [
+                "Mrs. Hillier"
+            ],
+            "Speakers": [
+                "Miss A. M. Roydene"
+            ]
+        },
+        {
+            "Date": "June 15",
+            "Location": "Camberwell, The Tabernacle, Rye Lane",
+            "Raw": "Camberwell , The Tabernacle , Rye Lane , Mrs. Abbott , J. Y. Kennedy , Esq",
+            "Speakers": [
+                "Mrs. Abbott",
+                "J. Y. Kennedy"
+            ]
+        },
+        {
+            "Date": "June 15",
+            "Location": "Epsom, Clock Tower",
+            "Raw": "Epsom , Clock Tower , Open - air Meeting , Miss A. Maude Royden",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss A. Maude Royden"
+            ]
+        },
+        {
+            "Date": "June 15",
+            "Location": "Sutton, Mrs. Martin's Drawing-room Meeting",
+            "Raw": "Sutton , Mrs. Martin's Drawing - room Meeting , Miss C. Corbett",
+            "Hosts": [
+                "Mrs. Martin"
+            ],
+            "Speakers": [
+                "Miss C. Corbett"
+            ]
+        },
+        {
+            "Date": "June 15",
+            "Location": "Sutton, The Broadway",
+            "Raw": "Sutton , The Broadway , Open - air Meeting , Miss C. Corbett",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss C. Corbett"
+            ]
+        },
+        {
+            "Date": "June 20",
+            "Location": "Epsom, Mrs. Radford's Garden Meeting",
+            "Raw": "Epsom , Mrs. Radford's Garden Meeting , Miss I. O. Ford",
+            "Hosts": [
+                "Mrs. Radford"
+            ],
+            "Speakers": [
+                "Miss I. O. Ford"
+            ]
+        },
+        {
+            "Date": "June 26",
+            "Location": "58, Victoria Street, S.W.",
+            "Raw": "58 , Victoria Street , S.W. , Quarterly Conference of Members",
+            "Description": "Quarterly Conference of Members"
+        },
+        {
+            "Date": "June 28",
+            "Location": "Camberwell, Grove Lane",
+            "Raw": "Camberwell , Grove Lane , Open - air Meeting , Miss Ruth Young",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Miss Ruth Young"
+            ]
+        },
+        {
+            "Date": "June 28",
+            "Location": "N and Central Hackney, Mrs. Bishop's Garden Meeting",
+            "Raw": "N. and Central Hackney , Mrs. Bishop's Garden Meet- ing , Miss I. O. Ford , Mrs. Bewick Colby",
+            "Hosts": [
+                "Mrs. Bishop"
+            ],
+            "Speakers": [
+                "Miss I. O. Ford",
+                "Mrs. Bewick Colby"
+            ]
+        },
+        {
+            "Date": "June 29",
+            "Location": "Sutton, The Broadway",
+            "Raw": "Sutton , The Broadway , Open - air Meeting , Mrs. Rackham",
+            "Description": "Open-air Meeting",
+            "Speakers": [
+                "Mrs. Rackham"
+            ]
+        },
+        {
+            "Date": "June 27",
+            "Location": "S. Paddington, 51, Porchester Terrace",
+            "Raw": "S. Paddington , 51 , Porchester Terrace , Committee's Garden Meeting .",
+            "Description": "Committee's Garden Meeting"
+        },
+        {
+            "Date": "June 30",
+            "Location": "Camberwell, Collyer Place",
+            "Raw": "Camberwell , Collyer Place , Miss I. O. Ford",
+            "Speakers": [
+                "Miss I. O. Ford"
+            ]
+        },
+        {
+            "Date": "June 16",
+            "Location": "Edinburgh, 40, Shandwick Place",
+            "Raw": "Edinburgh , 40 , Shandwick Place , \" At Home . \"",
+            "Description": "\"At Home\""
+        },
+        {
+            "Date": "June 30",
+            "Location": "Edinburgh, 40, Shandwick Place",
+            "Raw": "Edinburgh , 40 , Shandwick Place , American Tea .",
+            "Description": "American Tea"
+        }
+    ]
+}

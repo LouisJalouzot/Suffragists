@@ -1,0 +1,162 @@
+{
+    "IssueDate": "MARCH 14 , 1912",
+    "Meetings": [
+        {
+            "Date": "MARCH 14",
+            "Location": "Bexhill - Victoria Hall",
+            "Raw": "Bexhill - Victoria Hall - Mrs . Philip Snowden , Mrs. Strickland ( chair )",
+            "Speakers": [
+                "Mrs . Philip Snowden",
+                "Mrs. Strickland"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Nottingham - Assembly Hall , North Church Street",
+            "Raw": "Nottingham - Assembly Hall , North Church Street- Committee \" At Home \" - \" Women in Council Work \" -Miss Margaret Ash- ton , Mrs. Hamilton Baynes ( chair )",
+            "Description": "Committee \"At Home\"",
+            "Speakers": [
+                "Miss Margaret Ashton",
+                "Mrs. Hamilton Baynes"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "New Milton - Milton Hall",
+            "Raw": "New Milton - Milton Hall - Mrs . Rackham , Dr. Stan- comb ( chair )",
+            "Speakers": [
+                "Mrs . Rackham",
+                "Dr. Stancomb"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Great Missenden - Schools",
+            "Raw": "Great Missenden - Schools - Dr . Muriel Matters",
+            "Speakers": [
+                "Dr . Muriel Matters"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Yateley - Mrs . Wood's drawing - room meeting",
+            "Raw": "Yateley - Mrs . Wood's drawing - room meeting - Mrs . Drysdale , Miss",
+            "Hosts": [
+                "Mrs . Wood"
+            ],
+            "Speakers": [
+                "Mrs . Drysdale"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Eastbourne - Mrs . Stracey's drawing - room meeting",
+            "Raw": "Eastbourne - Mrs . Stracey's drawing - room meeting- Mrs. Strickland",
+            "Hosts": [
+                "Mrs . Stracey"
+            ],
+            "Speakers": [
+                "Mrs. Strickland"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Kirkby Thore - Parish Room",
+            "Raw": "Kirkby Thore - Parish Room - Miss Norma - Smith , Councillor J. Crosbie ( chair )",
+            "Speakers": [
+                "Miss Norma-Smith",
+                "Councillor J. Crosbie"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Hawkshead - Town Hall",
+            "Raw": "Hawkshead - Town Hall - Miss M. Robertson , B.A. , Mrs. Ounliffe ( chair )",
+            "Speakers": [
+                "Miss M. Robertson",
+                "Mrs. Ounliffe"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Mansfield Town Hall",
+            "Raw": "Mansfield Town Hall - Councillor Margaret Ashton , Mrs. Cowmeadow , A. Richardson , Esq . , J.P. ( chair )",
+            "Speakers": [
+                "Councillor Margaret Ashton",
+                "Mrs. Cowmeadow",
+                "A. Richardson"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Ambleside - Mr . Garside's Pavilion",
+            "Raw": "Ambleside - Mr . Garside's Pavilion - Annual meeting -Mrs . M. Robertson , B.A.",
+            "Description": "Annual meeting",
+            "Speakers": [
+                "Mrs . M. Robertson"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Coventry - Priory Row Assembly Rooms",
+            "Raw": "Coventry - Priory Row Assembly Rooms - White Elephant Tea - Speaker , Miss Morrison , M.A.",
+            "Description": "White Elephant Tea",
+            "Speakers": [
+                "Miss Morrison"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Coventry - Priory Row Assembly Rooms",
+            "Raw": "Coventry - Priory Row Assembly Rooms - Clerks ' meeting - Miss Morrison , M.A.",
+            "Description": "Clerks ' meeting",
+            "Speakers": [
+                "Miss Morrison"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Donhead St. Mary Council School",
+            "Raw": "Donhead St. Mary Council School - Miss J. M. Baretti , Miss D. Walford , Miss Bishop ( chair )",
+            "Speakers": [
+                "Miss J. M. Baretti",
+                "Miss D. Walford",
+                "Miss Bishop"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Langport - At Mrs. H. G. Wedd's",
+            "Raw": "Langport - At Mrs. H. G. Wedd's- \" The Economic Position of Women \" -Miss K. M. S. Robertson",
+            "Description": "\"The Economic Position of Women\"",
+            "Hosts": [
+                "Mrs. H. G. Wedd"
+            ],
+            "Speakers": [
+                "Miss K. M. S. Robertson"
+            ]
+        },
+        {
+            "Date": "MARCH 14",
+            "Location": "Middlesbrough - Mrs . Milburn Wilson's drawing - room meeting",
+            "Raw": "Middlesbrough - Mrs . Milburn Wilson's drawing - room meeting - Miss Fielden , Miss Elphick",
+            "Hosts": [
+                "Mrs . Milburn Wilson"
+            ],
+            "Speakers": [
+                "Miss Fielden",
+                "Miss Elphick"
+            ]
+        },
+        {
+            "Date": "MARCH 15",
+            "Location": "Felixstowe Millar's Rooms",
+            "Raw": "Felixstowe Millar's Rooms- \" The history and work of the N.U . \" - Miss E. Place , D. J. Cowles , Esq . ( chair )",
+            "Description": "\"The history and work of the N.U .\"",
+            "Speakers": [
+                "Miss E. Place",
+                "D. J. Cowles"
+            ]
+        }
+    ]
+}

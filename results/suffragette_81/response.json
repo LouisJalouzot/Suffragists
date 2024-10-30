@@ -1,0 +1,79 @@
+{
+    "IssueDate": "April 17 , 1914",
+    "Meetings": [
+        {
+            "Date": "April 20",
+            "Location": "Knightsbridge Hall , W.",
+            "Raw": "Knightsbridge Hall , W. Mrs. Man- sel , Miss Marie Naylor . Mrs Drummond",
+            "Speakers": [
+                "Mrs. Mansel",
+                "Miss Marie Naylor"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "Portman Rooms , Baker Street , W.",
+            "Raw": "Portman Rooms , Baker Street , W. The Rev. W. A. H. Collisson , Miss Gwen Richard . Miss D. Gordon",
+            "Speakers": [
+                "Rev. W. A. H. Collisson",
+                "Miss Gwen Richard"
+            ]
+        },
+        {
+            "Date": "April 21",
+            "Location": "Bournemouth , Freedom Hall , Loughtonhurst , West Cliff Gardens",
+            "Raw": "Bournemouth , Freedom Hall , Loughtenhurst , West Cliff Gardens , Mrs. Penn Gaskell",
+            "Speakers": [
+                "Mrs. Penn Gaskell"
+            ]
+        },
+        {
+            "Date": "April 21",
+            "Location": "Bournemouth , Surrey Road , South Westbourne",
+            "Raw": "Bournemouth , Surrey Road , South Westbourne . Mrs. Penn Caskell",
+            "Speakers": [
+                "Mrs. Penn Caskell"
+            ]
+        },
+        {
+            "Date": "April 22",
+            "Location": "Rochester",
+            "Raw": "Rochester ; speaker , Miss Margot Douglas .",
+            "Speakers": [
+                "Miss Margot Douglas"
+            ]
+        },
+        {
+            "Date": "April 22",
+            "Location": "Glasgow , Lesser Town Hall , Springburn",
+            "Raw": "Glasgow , Lesser Town Hall , Springburn . Miss Margaret Wright . Dr. Marion Gilchrist",
+            "Speakers": [
+                "Miss Margaret Wright"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "Kilburn , Lecture Room , 310 , High Road",
+            "Raw": "Kilburn , Lecture Room , 310 , High Road . Miss E. Wylie , Mr. D. Caddick",
+            "Speakers": [
+                "Miss E. Wylie",
+                "Mr. D. Caddick"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "West Ham , Workmen's Hall , Stratford",
+            "Raw": "West Ham , Workmen's Hall , Stratford . Miss Bonwick , Dr. Frank Moxon , Miss Rogers",
+            "Speakers": [
+                "Miss Bonwick",
+                "Dr. Frank Moxon",
+                "Miss Rogers"
+            ]
+        },
+        {
+            "Date": "Halifax , Lecture Room , Victoria Hall",
+            "Location": "April 21",
+            "Raw": "Halifax , Lecture Room , Victoria Hall . Mrs. Drummond . Rev. N. R. Barrie"
+        }
+    ]
+}

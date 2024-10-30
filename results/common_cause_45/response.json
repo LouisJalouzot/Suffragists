@@ -1,0 +1,482 @@
+{
+    "IssueDate": "OCTOBER 13 , 1910",
+    "Meetings": [
+        {
+            "Date": "OCTOBER 13",
+            "Location": "Altrincham",
+            "Raw": "Altrincham Society - Free Library , Sale - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 13",
+            "Location": "Sutton",
+            "Raw": "London - Sutton - Annual General Meeting and Drawing - room Meeting - Miss Close ( Hostess ) , Miss Bompas .",
+            "Hosts": [
+                "Miss Close"
+            ],
+            "Speakers": [
+                "Miss Bompas"
+            ]
+        },
+        {
+            "Date": "OCTOBER 13",
+            "Location": "Clerkenwell",
+            "Raw": "London - Clerkenwell - Garnault Place Open - air Meeting - Miss C. Corbett",
+            "Speakers": [
+                "Miss C. Corbett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 13",
+            "Location": "Newcastle",
+            "Raw": "Newcastle Tilley's Restaurant - Dinner to Mrs. Fawcett ."
+        },
+        {
+            "Date": "OCTOBER 13",
+            "Location": "Wrehenton",
+            "Raw": "Wrehenton - Open - air Meeting - Miss Lina Johnson .",
+            "Speakers": [
+                "Miss Lina Johnson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 13",
+            "Location": "Worcester",
+            "Raw": "Worcester - At Home - Miss Martin , Lady Isabel Margesson .",
+            "Speakers": [
+                "Miss Martin",
+                "Lady Isabel Margesson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 14",
+            "Location": "Gateshead",
+            "Raw": "Gateshead - Bewick Hall - Mrs . H. Fawcett , LL.D. , Mrs. Spence Watson .",
+            "Speakers": [
+                "Mrs. H. Fawcett",
+                "Mrs. Spence Watson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 14",
+            "Location": "Cardiff",
+            "Raw": "Cardiff - Park Hall - Reception - Lady Grove .",
+            "Speakers": [
+                "Lady Grove"
+            ]
+        },
+        {
+            "Date": "OCTOBER 14",
+            "Location": "Disley",
+            "Raw": "Disley Public Meeting - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 14",
+            "Location": "Edinburgh",
+            "Raw": "Edinburgh - 40 , Shandwick Place - At Home - Mrs . More Nisbett .",
+            "Hosts": [
+                "Mrs. More Nisbett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 14",
+            "Location": "N. Hackney",
+            "Raw": "London N. Hackney - Annual Meeting - Miss Rinder .",
+            "Speakers": [
+                "Miss Rinder"
+            ]
+        },
+        {
+            "Date": "OCTOBER 14",
+            "Location": "Watford",
+            "Raw": "Watford - Co - operative Hall - Miss Campbell .",
+            "Speakers": [
+                "Miss Campbell"
+            ]
+        },
+        {
+            "Date": "OCTOBER 14",
+            "Location": "Stroud Green",
+            "Raw": "London Stroud Green - Open - air Meeting - Miss Cockle , Miss Thomson , B.A.",
+            "Speakers": [
+                "Miss Cockle",
+                "Miss Thomson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 15",
+            "Location": "Cheadle",
+            "Raw": "Cheadle Public Meeting - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 15",
+            "Location": "Norwood",
+            "Raw": "Norwood - Suffrage Offices - Miss Raleigh , Miss Green .",
+            "Speakers": [
+                "Miss Raleigh",
+                "Miss Green"
+            ]
+        },
+        {
+            "Date": "OCTOBER 15",
+            "Location": "Huddersfield",
+            "Raw": "Huddersfield - St . George's Square - Open - air Meeting - Miss Siddon , Miss Fielden .",
+            "Speakers": [
+                "Miss Siddon",
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "OCTOBER 15",
+            "Location": "Highgate",
+            "Raw": "London - Highgate - High Road , E. Finchley - Open - air Meeting ."
+        },
+        {
+            "Date": "OCTOBER 15",
+            "Location": "Harrogate",
+            "Raw": "Harrogate Crown Hotel - Mrs . Fawcett .",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "East Manchester",
+            "Raw": "North of England - East Manchester - Miss Ashton .",
+            "Speakers": [
+                "Miss Ashton"
+            ]
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "Stockport",
+            "Raw": "Stockport - County Restaurant Assembly Rooms - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "Didsbury",
+            "Raw": "Didsbury Public Meeting - Mr . L. Housman .",
+            "Speakers": [
+                "Mr. L. Housman"
+            ]
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "Handsworth",
+            "Raw": "Birmingham - Handsworth - Meeting ."
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "Barnsley",
+            "Raw": "Barnsley - Arcade Hall - Mrs . Henry Fawcett .",
+            "Speakers": [
+                "Mrs. Henry Fawcett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "Clerkenwell",
+            "Raw": "London Clerkenwell - Open - air Meeting ."
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "Basingstoke",
+            "Raw": "Basingstoke Women Only - Miss D. Edwardes .",
+            "Speakers": [
+                "Miss D. Edwardes"
+            ]
+        },
+        {
+            "Date": "OCTOBER 17",
+            "Location": "Watford",
+            "Raw": "Watford - Clarendon Hall - Public Meeting - Lord Robert Cecil , Miss Frances Sterling .",
+            "Speakers": [
+                "Lord Robert Cecil",
+                "Miss Frances Sterling"
+            ]
+        },
+        {
+            "Date": "OCTOBER 18",
+            "Location": "East Manchester",
+            "Raw": "North of England - East Manchester - Miss Courtney , Mr. Brierley .",
+            "Speakers": [
+                "Miss Courtney",
+                "Mr. Brierley"
+            ]
+        },
+        {
+            "Date": "OCTOBER 18",
+            "Location": "Ealing",
+            "Raw": "London Ealing - At Home - Miss Lowndes .",
+            "Hosts": [
+                "Miss Lowndes"
+            ]
+        },
+        {
+            "Date": "OCTOBER 18",
+            "Location": "Nelson",
+            "Raw": "Nelson - Weavers ' Institute - Public Meeting - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 18",
+            "Location": "Wilmslow",
+            "Raw": "Wilmslow - Public Meeting - Mr . Housman .",
+            "Speakers": [
+                "Mr. Housman"
+            ]
+        },
+        {
+            "Date": "OCTOBER 18",
+            "Location": "Wakefield",
+            "Raw": "Wakefield - Hatfield Hall - Drawing - room Meeting - Mrs . Henry Fawcett , LL.D.",
+            "Speakers": [
+                "Mrs. Henry Fawcett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 18",
+            "Location": "Fernhurst",
+            "Raw": "Haslemere Fernhurst Village Hall - Hon . Mrs. Bertrand Russell .",
+            "Speakers": [
+                "Hon. Mrs. Bertrand Russell"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "East Manchester",
+            "Raw": "North of England - East Manchester - Mrs . M\u00fcter Wilson .",
+            "Speakers": [
+                "Mrs. M\u00fcter Wilson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "York",
+            "Raw": "York - Exhibition - Miss Margaret Ashton .",
+            "Speakers": [
+                "Miss Margaret Ashton"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "Grayshott",
+            "Raw": "Grayshott - Meeting for Rate - paying Women - Mrs . Marshall .",
+            "Speakers": [
+                "Mrs. Marshall"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "Leeds",
+            "Raw": "Leeds - Harehills Liberal Club - Miss Fielden .",
+            "Speakers": [
+                "Miss Fielden"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "Salford",
+            "Raw": "Salford - Women's Meeting - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "Walkden",
+            "Raw": "Walkden - Public Meeting - Miss Abadam .",
+            "Speakers": [
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "Marple",
+            "Raw": "Marple - Trinity Hall - Mr . Laurence Housman , Miss Maude Royden .",
+            "Speakers": [
+                "Mr. Laurence Housman",
+                "Miss Maude Royden"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "Hull",
+            "Raw": "Hull Drawing - room Meeting and Sale of Work - Miss C. Corbett .",
+            "Speakers": [
+                "Miss C. Corbett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 19",
+            "Location": "Hull",
+            "Raw": "Hull Owen Hall - Miss C. Corbett .",
+            "Speakers": [
+                "Miss C. Corbett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 20",
+            "Location": "East Manchester",
+            "Raw": "North of England - East Manchester - Miss Robertson .",
+            "Speakers": [
+                "Miss Robertson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 20",
+            "Location": "Dublin",
+            "Raw": "Dublin - Irish W.S. and Local Government Association - Com- mittee Meeting ."
+        },
+        {
+            "Date": "OCTOBER 20",
+            "Location": "Leamington",
+            "Raw": "Leamington - Town Hall - Public Meeting - Mrs . Fawcett , Miss Abadam .",
+            "Speakers": [
+                "Mrs. Fawcett",
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 20",
+            "Location": "Camberwell",
+            "Raw": "London - Camberwell - The Tabernacle , Rye Lane - Miss I. O. Ford .",
+            "Speakers": [
+                "Miss I. O. Ford"
+            ]
+        },
+        {
+            "Date": "OCTOBER 20",
+            "Location": "Hitchin",
+            "Raw": "Hitchin - Town Hall - Earl of Lytton , Mrs. Swanwick .",
+            "Speakers": [
+                "Earl of Lytton",
+                "Mrs. Swanwick"
+            ]
+        },
+        {
+            "Date": "OCTOBER 20",
+            "Location": "Harborne",
+            "Raw": "Birmingham - Harborne - Miss Phillips .",
+            "Speakers": [
+                "Miss Phillips"
+            ]
+        },
+        {
+            "Date": "OCTOBER 20",
+            "Location": "Clerkenwell",
+            "Raw": "London - Clerkenwell - Open - air Meeting ."
+        },
+        {
+            "Date": "OCTOBER 21",
+            "Location": "East Manchester",
+            "Raw": "North of England - East Manchester - Mrs . Rogerson , Miss Walshe .",
+            "Speakers": [
+                "Mrs. Rogerson",
+                "Miss Walshe"
+            ]
+        },
+        {
+            "Date": "OCTOBER 21",
+            "Location": "Woking",
+            "Raw": "Woking - Duke Street - Open - air Meeting - Miss Corbett , Miss Thomson .",
+            "Speakers": [
+                "Miss Corbett",
+                "Miss Thomson"
+            ]
+        },
+        {
+            "Date": "OCTOBER 21",
+            "Location": "Birmingham",
+            "Raw": "Birmingham - Northfield - Mrs . Osler , Rev. A. Pinchard .",
+            "Speakers": [
+                "Mrs. Osler",
+                "Rev. A. Pinchard"
+            ]
+        },
+        {
+            "Date": "OCTOBER 21",
+            "Location": "Solihull",
+            "Raw": "Birmingham - Solihull - Miss Phillips , Mrs. Ring .",
+            "Speakers": [
+                "Miss Phillips",
+                "Mrs. Ring"
+            ]
+        },
+        {
+            "Date": "OCTOBER 21",
+            "Location": "Haslemere",
+            "Raw": "Haslemere - Beacon Hill Hall - Public Meeting - Mr . Aneurin Williams , M.P.",
+            "Speakers": [
+                "Mr. Aneurin Williams"
+            ]
+        },
+        {
+            "Date": "OCTOBER 22",
+            "Location": "Highgate",
+            "Raw": "London - Highgate - High Road , E. Finchley - Open - air Meeting ."
+        },
+        {
+            "Date": "OCTOBER 24",
+            "Location": "Sutton",
+            "Raw": "London - Sutton- Freemason's Hall - Public Meeting - Mrs. Fawcett .",
+            "Speakers": [
+                "Mrs. Fawcett"
+            ]
+        },
+        {
+            "Date": "OCTOBER 24",
+            "Location": "Edgbaston",
+            "Raw": "Birmingham - Edgbaston - Meeting ."
+        },
+        {
+            "Date": "OCTOBER 25",
+            "Location": "Edinburgh",
+            "Raw": "Edinburgh - Music Hall - Lord Lytton , Miss Abadam .",
+            "Speakers": [
+                "Lord Lytton",
+                "Miss Abadam"
+            ]
+        },
+        {
+            "Date": "OCTOBER 25",
+            "Location": "Manchester",
+            "Raw": "North of England - Free Trade Hall - Lord Lytton , the Lady Betty Balfour , and others .",
+            "Speakers": [
+                "Lord Lytton",
+                "The Lady Betty Balfour"
+            ]
+        },
+        {
+            "Date": "OCTOBER 25",
+            "Location": "Wandsworth",
+            "Raw": "London - Wandsworth - Town Hall - Miss B. Mason , Mr. Walter McLaren , M.P.",
+            "Speakers": [
+                "Miss B. Mason",
+                "Mr. Walter McLaren"
+            ]
+        },
+        {
+            "Date": "OCTOBER 26",
+            "Location": "Birmingham",
+            "Raw": "Birmingham - Town Hall - Lady Frances Balfour , Lord Lytton .",
+            "Speakers": [
+                "Lady Frances Balfour",
+                "Lord Lytton"
+            ]
+        }
+    ]
+}

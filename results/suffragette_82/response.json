@@ -1,0 +1,306 @@
+{
+    "IssueDate": "April 24 , 1914",
+    "Meetings": [
+        {
+            "Date": "April 24",
+            "Location": "Acton, Market Place, Horn Lane",
+            "Raw": "Acton, Market Place, Horn Lane. Mrs. Thomson",
+            "Speakers": [
+                "Mrs. Thomson"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Battersea, Comyn Road",
+            "Raw": "Battersea, Comyn Road. Miss Coombs, Mrs. Duval",
+            "Speakers": [
+                "Miss Coombs",
+                "Mrs. Duval"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Chelsea, 308. King's Road",
+            "Raw": "Chelsea, 308. King's Road. Speakers Class. Miss Ada Moore",
+            "Speakers": [
+                "Miss Ada Moore"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Croydon, Katherine Street",
+            "Raw": "Croydon, Katherine Street. Miss Canning",
+            "Speakers": [
+                "Miss Canning"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Kentish Town, Leighton Road",
+            "Raw": "Kentish Town, Leighton Road"
+        },
+        {
+            "Date": "April 24",
+            "Location": "Kilburn, Messina Avenue, High Road",
+            "Raw": "Kilburn, Messina Avenue, High Road. Rev. C. A. Wills, Miss Jacobs",
+            "Speakers": [
+                "Rev. C. A. Wills",
+                "Miss Jacobs"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Lincoln's Inn House, Kingsway",
+            "Raw": "Lincoln's Inn House, Kingsway. Speakers' Class. Miss Rosa Leo",
+            "Speakers": [
+                "Miss Rosa Leo"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "North Kensington, corner of Blenheim Crescent and Portobello Road",
+            "Raw": "North Kensington, corner of Blenheim Crescent and Portobello Road. Miss M. Coombs. Chair: Miss Lynch",
+            "Speakers": [
+                "Miss M. Coombs"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Sloane Square",
+            "Raw": "Sloane Square. Miss Marie Naylor, Miss Medwin",
+            "Speakers": [
+                "Miss Marie Naylor",
+                "Miss Medwin"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Tooting Broadway",
+            "Raw": "Tooting Broadway. Miss Palmer",
+            "Speakers": [
+                "Miss Palmer"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Walthamstow, Tower Corner, Hoe Street",
+            "Raw": "Walthamstow, Tower Corner, Hoe Street. Miss Haslam. Chair: Mrs. Gladman",
+            "Speakers": [
+                "Miss Haslam"
+            ]
+        },
+        {
+            "Date": "April 24",
+            "Location": "Wimbledon, Queen's Hall. Broadway",
+            "Raw": "Wimbledon, Queen's Hall. Broadway. Dr. A. D. Macpherson",
+            "Speakers": [
+                "Dr. A. D. Macpherson"
+            ]
+        },
+        {
+            "Date": "April 25",
+            "Location": "Gloucester Road Station",
+            "Raw": "Gloucester Road Station. Miss Gilliatt. Chair: Mrs. Boulton",
+            "Speakers": [
+                "Miss Gilliatt"
+            ]
+        },
+        {
+            "Date": "April 25",
+            "Location": "Kingston, Church Street",
+            "Raw": "Kingston, Church Street. Miss Coombs",
+            "Speakers": [
+                "Miss Coombs"
+            ]
+        },
+        {
+            "Date": "April 25",
+            "Location": "Harlesden, Manor Park Road",
+            "Raw": "Harlesden, Manor Park Road, Miss Barry, Miss Dransfield",
+            "Speakers": [
+                "Miss Barry",
+                "Miss Dransfield"
+            ]
+        },
+        {
+            "Date": "April 25",
+            "Location": "Hampstead Heath, Flagstaff",
+            "Raw": "Hampstead Heath, Flagstaff. Miss Nance Lightman, Mi-s Wilson",
+            "Speakers": [
+                "Miss Nance Lightman",
+                "Mi-s Wilson"
+            ]
+        },
+        {
+            "Date": "April 25",
+            "Location": "Holloway Road, Jones Brothers",
+            "Raw": "Holloway Road, Jones Brothers. Miss Fraser Smith, Miss Codd",
+            "Speakers": [
+                "Miss Fraser Smith",
+                "Miss Codd"
+            ]
+        },
+        {
+            "Date": "April 25",
+            "Location": "Ilford, Balfour Road",
+            "Raw": "Ilford, Balfour Road. Miss Gilliatt",
+            "Speakers": [
+                "Miss Gilliatt"
+            ]
+        },
+        {
+            "Date": "April 25",
+            "Location": "Kingston, Coronation Stone",
+            "Raw": "Kingston, Coronation Stone. Miss Beauchamp",
+            "Speakers": [
+                "Miss Beauchamp"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "Clapham Common",
+            "Raw": "Clapham Common. Mrs. John Brindley. Chair: Miss Dorice Smith",
+            "Speakers": [
+                "Mrs. John Brindley"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "Ealing Common",
+            "Raw": "Ealing Common. Miss C. M. A. Coombs",
+            "Speakers": [
+                "Miss C. M. A. Coombs"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "South Wimbledon, Broadway",
+            "Raw": "South Wimbledon, Broadway. Miss Canning",
+            "Speakers": [
+                "Miss Canning"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "West Ham, Forest Gate Station",
+            "Raw": "West Ham, Forest Gate Station. Miss Gwen Richard, Miss Hooper",
+            "Speakers": [
+                "Miss Gwen Richard",
+                "Miss Hooper"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "Wandsworth, outside Council House",
+            "Raw": "Wandsworth, outside Council House. Mrs. Threader Chapman",
+            "Speakers": [
+                "Mrs. Threader Chapman"
+            ]
+        },
+        {
+            "Date": "April 23",
+            "Location": "Wimbledon, 9, Victoria Crescent",
+            "Raw": "Wimbledon, 9, Victoria Crescent"
+        },
+        {
+            "Date": "April 23",
+            "Location": "Gladstone Park, Dollis Hill",
+            "Raw": "Gladstone Park, Dollis Hill. Rev. C. A. Wills, Miss Phoebe Richards, Miss Jacobs",
+            "Speakers": [
+                "Rev. C. A. Wills",
+                "Miss Phoebe Richards",
+                "Miss Jacobs"
+            ]
+        },
+        {
+            "Date": "April 26",
+            "Location": "Hampstead Heath, Flagstaff",
+            "Raw": "Hampstead Heath, Flagstaff. Mrs. Cameron Swan",
+            "Speakers": [
+                "Mrs. Cameron Swan"
+            ]
+        },
+        {
+            "Date": "April 26",
+            "Location": "Lewisham, Market Place",
+            "Raw": "Lewisham, Market Place. Mr. Bostock. Chair: Miss F. Thomas",
+            "Speakers": [
+                "Mr. Bostock"
+            ]
+        },
+        {
+            "Date": "April 26",
+            "Location": "Streatham Cominon",
+            "Raw": "Streatham Cominon. Miss Marie Naylor",
+            "Speakers": [
+                "Miss Marie Naylor"
+            ]
+        },
+        {
+            "Date": "April 26",
+            "Location": "Wimbledon Common",
+            "Raw": "Wimbledon Common"
+        },
+        {
+            "Date": "April 27",
+            "Location": "Battersea, Strath Terrace",
+            "Raw": "Battersea, Strath Terrace Women's Meeting."
+        },
+        {
+            "Date": "April 27",
+            "Location": "Chelsea, 308, King's Road",
+            "Raw": "Chelsea, 308, King's Road. Women's Meeting"
+        },
+        {
+            "Date": "April 27",
+            "Location": "Kentish Town. 44, Malden Road",
+            "Raw": "Kentish Town. 44, Malden Road. Newcomb, Mrs. Henderson",
+            "Speakers": [
+                "Newcomb",
+                "Mrs. Henderson"
+            ]
+        },
+        {
+            "Date": "April 27",
+            "Location": "Kilburn, Victoria Road, High Road",
+            "Raw": "Kilburn, Victoria Road, High Road. Miss Feek, Miss Dransfield",
+            "Speakers": [
+                "Miss Feek",
+                "Miss Dransfield"
+            ]
+        },
+        {
+            "Date": "April 27",
+            "Location": "Knightsbridge Hall, W.",
+            "Raw": "Knightsbridge Hall, W. Mrs. Mansel, Rev. J. F. Matthews Chair: Mrs. Drummond",
+            "Speakers": [
+                "Mrs. Mansel",
+                "Rev. J. F. Matthews"
+            ]
+        },
+        {
+            "Date": "April 27",
+            "Location": "South Wimbledon, The Grove",
+            "Raw": "South Wimbledon, The Grove. Miss Richmond",
+            "Speakers": [
+                "Miss Richmond"
+            ]
+        },
+        {
+            "Date": "April 27",
+            "Location": "Streatham, Streatham Hall, Blue Hall",
+            "Raw": "Streatham, Streatham Hall, Blue Hall. Miss E. Wylie. Chair: Miss L. Tyson",
+            "Speakers": [
+                "Miss E. Wylie"
+            ]
+        },
+        {
+            "Date": "April 27",
+            "Location": "Purley Tram Terminus",
+            "Raw": "Purley Tram Terminus. Miss O. Greer",
+            "Speakers": [
+                "Miss O. Greer"
+            ]
+        }
+    ]
+}

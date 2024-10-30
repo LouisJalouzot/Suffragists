@@ -1,0 +1,32 @@
+{
+    "IssueDate": "September 17 , 1915",
+    "Meetings": [
+        {
+            "Date": "September 22",
+            "Location": "Park Hall, Cardiff",
+            "Raw": "MRS. PANKHURST is to speak at a great patriotic meeting at the Park Hall, Cardiff, on Wednesday, September 22, at 8 P.M.",
+            "Speakers": [
+                "Mrs. Pankhurst"
+            ]
+        },
+        {
+            "Date": "September 19",
+            "Location": "Hackney Town Hall",
+            "Raw": "Mrs. Pankhurst will also speak under the auspices of the Hackney Recruiting Committee at Hackney Town Hall on Sunday next, September 19, at 3 P.M.",
+            "Hosts": [
+                "Hackney Recruiting Committee"
+            ],
+            "Speakers": [
+                "Mrs. Pankhurst"
+            ]
+        },
+        {
+            "Date": "September 17",
+            "Location": "Hyde Park",
+            "Raw": "General Drummond is the principal speaker at these meetings, which are held at 3 P.M., near the Reformers' Tree.",
+            "Speakers": [
+                "General Drummond"
+            ]
+        }
+    ]
+}

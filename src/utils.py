@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pandas as pd
 import pymupdf
-from google.cloud import vision
+from google.cloud import vision_v1
 from PIL import Image
 
 
@@ -32,11 +32,11 @@ def extract_images_from_pdf(pdf_path):
 
 
 def perform_ocr(image_path: str | Path) -> pd.DataFrame:
-    client = vision.ImageAnnotatorClient()
+    client = vision_v1.ImageAnnotatorClient()
     with open(str(image_path), "rb") as image_file:
         content = image_file.read()
-    image = vision.types.Image(content=content)
-    image_context = vision.ImageContext(language_hints=["en"])
+    image = vision_v1.types.Image(content=content)
+    image_context = {"language_hints": ["en"]}
     response = client.text_detection(image=image, image_context=image_context)
 
     df = []
