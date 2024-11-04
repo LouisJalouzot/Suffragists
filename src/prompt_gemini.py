@@ -1,4 +1,5 @@
 import json
+import traceback
 from pathlib import Path
 
 import google.generativeai as genai
@@ -17,7 +18,7 @@ response_schema = {
         },
         "Meetings": {
             "type": "array",
-            "description": "Information about each meeting in the tables of meetings in this journal issue. Meetings are uniquely defined by a date and a location and should have a similar formatting to the ones just below the title of the table.",
+            "description": "Information about all the meetings in the tables of meetings in this journal issue, which can be scattered into multiple chunks. The meetings should have similar formatting.",
             "items": {
                 "type": "object",
                 "properties": {
@@ -57,8 +58,10 @@ response_schema = {
 
 
 def prompt_gemini(issues: list[str], output_path: str = "results") -> None:
+    if isinstance(issues, str):
+        issues = [issues]
     genai.configure()
-    model = genai.GenerativeModel(model_name="gemini-1.5-pro")
+    model = genai.GenerativeModel(model_name="gemini-1.5-flash")
 
     issues_text = ocr_and_cluster(issues, output_path=output_path)
     output_path = Path(output_path)
@@ -77,17 +80,25 @@ def prompt_gemini(issues: list[str], output_path: str = "results") -> None:
                     "response_schema": response_schema,
                 },
             ).text
-            try:
-                json.loads(response)
-            except:
-                response += chat_session.send_message(
-                    "Complete your previous answer from where you stopped without repeating what you said.",
-                    generation_config={"max_output_tokens": 8192},
-                ).text
-            issue_path.mkdir(parents=True, exist_ok=True)
             with open(issue_path / "response.txt", "w") as f:
                 f.write(response)
-            response = json.loads(response)
+            try:
+                response = json.loads(response)
+            except:
+                response_2 = chat_session.send_message(
+                    "Write the end of the previous output.",
+                    generation_config={
+                        "max_output_tokens": 8192,
+                        "response_mime_type": "application/json",
+                        "response_schema": response_schema,
+                    },
+                ).text
+                with open(issue_path / "response_2.txt", "w") as f:
+                    f.write(response_2)
+                response = response.rsplit(", {", maxsplit=1)[0] + "]}"
+                response = json.loads(response)
+                response_2 = json.loads(response_2)
+                response["Meetings"].extend(response_2["Meetings"])
             issue_path.mkdir(parents=True, exist_ok=True)
             with open(issue_path / "response.json", "w") as f:
                 f.write(json.dumps(response, indent=4))
@@ -96,6 +107,7 @@ def prompt_gemini(issues: list[str], output_path: str = "results") -> None:
             df.to_csv(issue_path / "meetings.csv", index=False)
         except Exception as e:
             print(f"Gemini prompt script failed for {issue}: {e}")
+            traceback.print_exc()
 
     with joblib_progress(
         description="Prompting Gemini", total=len(issues_text)
