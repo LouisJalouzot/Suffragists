@@ -1,13 +1,12 @@
 # Suffragists
 
-Python pipeline to extract **Forthcoming meetings** tables from *The Common Cause* journal scans.
+Python pipeline to extract tables of upcoming events from *The Common Cause*, *Suffragette*, and *Votes For Women* journal scans.
 
 ## Installation
 Python 3.11
 
 ```bash
 pip install requirements.txt
-pip install "git+https://github.com/facebookresearch/detectron2.git@v0.5#egg=detectron2" --no-build-isolation
 ```
 
 ## Setup Google Cloud API
