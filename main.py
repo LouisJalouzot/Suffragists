@@ -29,20 +29,24 @@ cc_sel = [
 ]
 issues = {
     journal: [
-        p.stem
+        int(p.stem.split("_")[-1])
         for p in Path(f"data/{journal}").glob("*.pdf")
-        if journal != "common_cause" or int(p.stem.split("_")[-1] not in cc_sel)
     ]
     for journal in ["common_cause", "suffragette", "votes_for_wmn"]
 }
+issues["common_cause"] = [i for i in issues["common_cause"] if i < 258]
+issues["suffragette"] = [i for i in issues["suffragette"] if i < 98]
+issues["votes_for_wmn"] = [i for i in issues["votes_for_wmn"] if i < 244]
 
-batch_cc = np.random.choice(issues["common_cause"], 40)
-batch_suffragettes = np.random.choice(issues["suffragette"], 10)
-batch_vfw = np.random.choice(issues["suffragette"], 7)
-batch_vfw = set(
-    list(batch_vfw) + [f"votes_for_wmn_{i}" for i in [100, 120, 140]]
-)
+batches = {}
+batches["common_cause"] = list(np.random.choice(issues["common_cause"], 40))
+batches["common_cause"] = set(batches["common_cause"] + cc_sel)
+batches["suffragette"] = np.random.choice(issues["suffragette"], 10)
+batches["votes_for_wmn"] = list(np.random.choice(issues["votes_for_wmn"], 7))
+batches["votes_for_wmn"] = set(batches["votes_for_wmn"] + [100, 120, 140])
 
-batch = list(batch_cc) + list(batch_suffragettes) + list(batch_vfw)
-print(batch)
-prompt_gemini(batch)
+for k, v in batches.items():
+    print(f"{k}: {v}")
+    batches[k] = [k + "_" + str(i) for i in v]
+
+prompt_gemini(sum(batches.values(), []))

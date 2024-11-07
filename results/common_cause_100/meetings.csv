@@ -1,20 +1,15 @@
-Date,Location,Raw,Speakers,Issue date
-1911-09-14,Dublin,"Dublin 35 , Molesworth Street - Irish Women's Suffrage and Local Government Association - Committee Meeting . 11.30",,1911-09-14
-1911-09-16,Manchester,Manchester Stevenson Square - Open - air Demonstration . 4.0,,1911-09-14
-1911-09-16,Whaley Bridge,"Whaley Bridge - Glen Albyn - Garden Party - Mrs Barnes , Miss Walshe .","['Mrs Barnes', 'Miss Walshe']",1911-09-14
-1911-09-18,Manchester,"Manchester Federation - Barnes Green , Moston Miss M. Robertson . 3.0",['Miss M. Robertson'],1911-09-14
-1911-09-18,Llangollen,Llangollen - The Pavilion - Miss Rathbone .,['Miss Rathbone'],1911-09-14
-1911-09-20,Manchester,Manchester Federation - Holy Trinity Schools . Moston - Miss M. Robertson . 7.30,['Miss M. Robertson'],1911-09-14
-1911-09-20,Bristol,Bristol - 3 . Berkeley Square - Working Party . 8.0,,1911-09-14
-1911-09-20,Wallasey,Wallasey and Wirral Fairhaven Institute - Annual Meeting- Miss Eskrigge . 3.0,['Miss Eskrigge'],1911-09-14
-1911-09-21,Nottingham,"Nottingham - Felixstowe , The Park - Garden Fête and Sale- Mrs. Despard . 3.0",,1911-09-14
-1911-09-26,Tunbridge Wells,"Tunbridge Wells - Christ Church Parish Room - Mrs . Rogers ' "" At Home "" -Rev . C. Hinscliff . 3.0",['Rev. C. Hinscliff'],1911-09-14
-1911-09-27,Croydon,"Croydon Small Public Hall - Reception - Miss F. de G. Merrifield , Miss Norah O'Shea . 8.0","['Miss F. de G. Merrifield', ""Miss Norah O'Shea""]",1911-09-14
-1911-09-30,Letchworth,"Letchworth - Howard Park Joint Demonstration -N . U. Speakers Miss Abadam , J. Clayton , Esq . , and others .","['Miss Abadam', 'J. Clayton , Esq']",1911-09-14
-1911-09-25,Bredbury,Bredbury Romiley and Aldersley . 3.30 Special Open - air Meetings - Mrs.,,1911-09-14
-1911-09-26,Bredbury,Bredbury Romiley and Aldersley . 3.30 Special Open - air Meetings - Mrs.,,1911-09-14
-1911-09-27,Bredbury,Bredbury Romiley and Aldersley . 3.30 Special Open - air Meetings - Mrs.,,1911-09-14
-1911-09-28,Bredbury,Bredbury Romiley and Aldersley . 3.30 Special Open - air Meetings - Mrs.,,1911-09-14
-1911-09-29,Bredbury,Bredbury Romiley and Aldersley . 3.30 Special Open - air Meetings - Mrs.,,1911-09-14
-1911-09-14,Plumstead,"Plumstead , Herbert Road Co - operative Reading Room , Women's Co - op . Guild , Suffrage Meeting .",,1911-09-14
-1911-09-18,Falkirk,"Falkirk , Christian Institute Hall , Dr. Elsie Inglis , Mrs. H. M. Ross ( chair ) .","['Dr. Elsie Inglis', 'Mrs. H. M. Ross']",1911-09-14
+Date,Location,Raw,Description,Hosts,Speakers,Issue date
+SEPTEMBER 14,Dublin,"Dublin 35 , Molesworth Street - Irish Women's Suffrage and Local Government Association - Committee Meeting . 11.30",Irish Women's Suffrage and Local Government Association - Committee Meeting . 11.30,"[""Irish Women's Suffrage and Local Government Association""]",[],"SEPTEMBER 14 , 1911"
+SEPTEMBER 14,Plumstead,"Plumstead , Herbert Road Co - operative Reading Room , Women's Co - op . Guild , Suffrage Meeting .","Women's Co - op . Guild , Suffrage Meeting","[""Women's Co - op . Guild""]",[],"SEPTEMBER 14 , 1911"
+SEPTEMBER 16,Manchester,Manchester Stevenson Square - Open - air Demonstration . 4.0,Open - air Demonstration . 4.0,,"['Miss Margaret Ashton', 'M.A. Miss Emily Cox', ""M.A. , Manchester & Salford Women's Trades Union Council . Mrs . Aldersley . Miss Margaret Robertson"", 'B.A. Mrs. Annot Robinson', 'others']","SEPTEMBER 14 , 1911"
+SEPTEMBER 16,Whaley Bridge,"Whaley Bridge - Glen Albyn - Garden Party - Mrs Barnes , Miss Walshe .",Glen Albyn - Garden Party,,"['Mrs Barnes', 'Miss Walshe']","SEPTEMBER 14 , 1911"
+SEPTEMBER 18,Falkirk,"Falkirk , Christian Institute Hall , Dr. Elsie Inglis , Mrs. H. M. Ross ( chair ) .",Christian Institute Hall,,"['Dr. Elsie Inglis', 'Mrs. H. M. Ross']","SEPTEMBER 14 , 1911"
+SEPTEMBER 18,Manchester,"Manchester Federation - Barnes Robertson . 3.0 Green , Moston Miss M. Llangollen - The Pavilion - Miss Rathbone .","Federation - Barnes Robertson . 3.0 Green , Moston",,"['Miss M. Robertson', 'Miss Rathbone']","SEPTEMBER 14 , 1911"
+SEPTEMBER 20,Manchester,Manchester Federation - Holy Trinity Schools . 7.30 Moston - Miss M. Robertson . 8.30,Federation - Holy Trinity Schools . 7.30 Moston,,['Miss M. Robertson'],"SEPTEMBER 14 , 1911"
+SEPTEMBER 20,Bristol,Bristol - 3 . Berkeley Square - Working Party . 8.0,3 . Berkeley Square - Working Party . 8.0,,[],"SEPTEMBER 14 , 1911"
+SEPTEMBER 20,Wallasey,Wallasey and Wirral Fairhaven Institute - Annual Meeting- Miss Eskrigge . 3.0,Fairhaven Institute - Annual Meeting,,['Miss Eskrigge'],"SEPTEMBER 14 , 1911"
+SEPTEMBER 21,Nottingham,"Nottingham - Felixstowe , The Park - Garden Fête and Sale- Mrs. Despard . 3.0","Felixstowe , The Park - Garden Fête and Sale",,['Mrs. Despard'],"SEPTEMBER 14 , 1911"
+SEPTEMBER 26,Tunbridge Wells,"Tunbridge Wells - Christ Church Parish Room - Mrs . Rogers ' "" At Home "" -Rev . C. Hinscliff . 3.0","Christ Church Parish Room - Mrs . Rogers ' "" At Home """,,['Rev . C. Hinscliff'],"SEPTEMBER 14 , 1911"
+SEPTEMBER 27,Croydon,"Croydon Small Public Hall - Reception - Miss F. de G. Merrifield , Miss Norah O'Shea . 8.0",Small Public Hall - Reception,,"['Miss F. de G. Merrifield', ""Miss Norah O'Shea""]","SEPTEMBER 14 , 1911"
+SEPTEMBER 30,Letchworth,"Letchworth - Howard Park Joint Demonstration -N . U. Speakers Miss Abadam , J. Clayton , Esq . , and others .",Howard Park Joint Demonstration -N . U.,,"['Miss Abadam', 'J. Clayton', 'Esq .', 'others']","SEPTEMBER 14 , 1911"
+SEPTEMBER 25-29 (inclusive),Bredbury,Bredbury Romiley and Aldersley . 3.30 Special Open - air Meetings - Mrs. Aldersley .,Romiley and 3.30 Special Open - air Meetings,,['Mrs. Aldersley'],"SEPTEMBER 14 , 1911"
