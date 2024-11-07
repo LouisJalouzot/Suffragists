@@ -3,7 +3,7 @@
 Python pipeline to extract tables of upcoming events from *The Common Cause*, *Suffragette*, and *Votes For Women* journal scans.
 
 ## Installation
-Python 3.11
+Pipeline tested only for Python 3.11 and Ubuntu 22.04.
 
 ```bash
 pip install requirements.txt
