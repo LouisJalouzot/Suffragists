@@ -24,8 +24,8 @@ def preprocess_image(
     thresh = cv2.threshold(
         blur, 100, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU
     )[1]
-    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (25, 25))
-    dilate = cv2.dilate(thresh, kernel, iterations=1)
+    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (50, 50))
+    dilate = cv2.dilate(thresh, kernel, iterations=2)
 
     contours, _ = cv2.findContours(
         dilate, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE
