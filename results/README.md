@@ -1,7 +1,7 @@
 # Known Errors
 ## Common Causes
-Checked: 1, 3, 4, 11, 29, 130, 159, 165, 200
-
+Checked LJ: 1, 3, 4, 11, 29, 130, 159, 165, 200
+Checked  VR: 13, 167, 27, 84, 50, 
 ### 200
 Also picks up the table of "Coming events" which might also be relevant.
 
