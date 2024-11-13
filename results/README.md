@@ -1,7 +1,10 @@
 # Known Errors
 ## Common Causes
+
 Checked LJ: 1, 3, 4, 11, 29, 130, 159, 165, 200
+
 Checked  VR: 13, 167, 27, 84, 50, 184, 108, 221, 177
+
 Notes: 
 - 184 picked up two extra meetings from other suffrage societies that were listed next to the "forthcoming events"(minor error IMO).
 - 221 picked up additional meetings because the list was very short (1 meeting). The meetings picked up are mostly relevant (although some come from other societies), and come from free text descriptives of meetings from the "News of Societies and Federations". Still OK in my book.
