@@ -54,7 +54,9 @@ issues = {
     for journal in ["common_cause", "suffragette", "votes_for_wmn"]
 }
 issues["common_cause"] = [i for i in issues["common_cause"] if i < 258]
-issues["suffragette"] = [i for i in issues["suffragette"] if i < 98]
+issues["suffragette"] = [
+    i for i in issues["suffragette"] if i < 98 and i not in [1, 13]
+]
 issues["votes_for_wmn"] = [i for i in issues["votes_for_wmn"] if i < 244]
 
 batches = {}
@@ -66,15 +68,15 @@ batches["votes_for_wmn"] = set(batches["votes_for_wmn"] + [100, 120, 140])
 for k, v in batches.items():
     print(f"{k}: {v}")
     batches[k] = [k + "_" + str(i) for i in v]
-    # for i in range(0, len(batches[k]), 20):
-    #     prompt_gemini(
-    #         batches[k][i : i + 20],
-    #         temperature=args.temperature,
-    #         top_p=args.top_p,
-    #     )
+# for i in range(0, len(batches[k]), 20):
+#     prompt_gemini(
+#         batches[k][i : i + 20],
+#         temperature=args.temperature,
+#         top_p=args.top_p,
+#     )
 
-    prompt_gemini(
-        batches[k],
-        temperature=args.temperature,
-        top_p=args.top_p,
-    )
+prompt_gemini(
+    batches["suffragette"],
+    temperature=args.temperature,
+    top_p=args.top_p,
+)

@@ -15,13 +15,19 @@ Also picks up the table of "Coming events" which might also be relevant.
 ## VFW
 Checked: 100 (meetings are scattered in small tables and seems like it is correctly picked up)
 
-## Suffragettes
-Checked: 26, 32, 36, 39, 44, 71, 83, 87, 89, 93
+## Suffragette
+Checked: 1, 13, 26, 31, 32, 36, 39, 44, 71, 83, 87, 89, 93
+
+### 31 (to drop?)
+- One false positive, "flower fair and festival" is not a political meeting (there is no forthcoming meetings table)
 
 ### 32
 - Multiple event observations in single line causes speaker attribution errors
 - Speakers wrong in rows 3-7, 9
 - Row 12 contains two events, affecting speakers in rows 13-16, 18-19, 25, 27-29
+
+### 33 (to drop?)
+- 2 false postivies, "garden fair" and "summer fair" are not political meetings (there is no forthcoming meetings table)
 
 ### 36
 - Speakers missing from row 4 in 3
@@ -63,6 +69,15 @@ Picks up some events scattered in the text.
 ### 83
 - First two rows contain extra sentences with invalid speakers
 - Row 35 date off by -1
+
+### 85 (to drop?)
+- No forthcoming meetings table in the issue
+
+### 86 (to drop?)
+- No forthcoming meetings table in the issue
+
+### 87 (to drop?)
+- No forthcoming meetings table in the issue
 
 ### 87
 - No programme of events table

@@ -1,4 +1,5 @@
 import os
+import traceback
 from collections import defaultdict
 from pathlib import Path
 
@@ -134,74 +135,84 @@ def ocr_and_cluster(issues: list[str], output_path: str = "results"):
     tokenizer.model_max_length = 2**16
     with tqdm(total=n_layouts, desc="Clustering OCR outputs") as pbar:
         for issue, layouts in issues_layouts.items():
-            n_pages = 0
-            df = []
-            text = ""
-            for scan, layout in enumerate(layouts, 1):
-                layout["scan"] = scan
-                if len(layout) < 4:
-                    continue
-
-                # Find pages
-                image_width = layout.x_center.max() - layout.x_center.min()
-                image_height = layout.y_center.max() - layout.y_center.min()
-                if image_width > image_height:  # 2 pages
-                    layout["page"] = find_pages(layout)
-                else:
-                    layout["page"] = 1
-
-                # Find columns
-                layout["column"] = 1
-                layout["description"] = layout.description.astype(str)
-                for page in layout.page.unique():
-                    slice = layout.page == page
-                    layout_page = layout[slice]
-                    if len(layout_page) < 4:
+            try:
+                n_pages = 0
+                df = []
+                text = ""
+                for scan, layout in enumerate(layouts, 1):
+                    layout["scan"] = scan
+                    if len(layout) < 4:
                         continue
-                    res = {}
-                    for n_cols in [2, 3]:
-                        kmeans = KMeans(n_clusters=n_cols, random_state=0)
-                        cols = kmeans.fit_predict(
-                            layout_page[["x_center_100x", "y_center"]]
+
+                    # Find pages
+                    image_width = layout.x_center.max() - layout.x_center.min()
+                    image_height = layout.y_center.max() - layout.y_center.min()
+                    if image_width > image_height:  # 2 pages
+                        layout["page"] = find_pages(layout)
+                    else:
+                        layout["page"] = 1
+
+                    # Find columns
+                    layout["column"] = 1
+                    layout["description"] = layout.description.astype(str)
+                    for page in layout.page.unique():
+                        slice = layout.page == page
+                        layout_page = layout[slice]
+                        if len(layout_page) < 4:
+                            continue
+                        res = {}
+                        for n_cols in [2, 3]:
+                            kmeans = KMeans(n_clusters=n_cols, random_state=0)
+                            cols = kmeans.fit_predict(
+                                layout_page[["x_center_100x", "y_center"]]
+                            )
+                            cols = reordered_clusters(layout_page, cols)
+                            t = "\n".join(
+                                layout_page.groupby(cols)
+                                .description.apply(" ".join)
+                                .values
+                            )
+                            perplexity = compute_perplexity(t, model, tokenizer)
+                            res[n_cols] = {
+                                "cols": cols,
+                                "perplexity": perplexity,
+                            }
+                        # The best number of columns is the one which results in the lowest GPT2 perplexity on the reordered text
+                        best_n_cols = min(
+                            res, key=lambda x: res[x]["perplexity"]
                         )
-                        cols = reordered_clusters(layout_page, cols)
-                        t = "\n".join(
-                            layout_page.groupby(cols)
-                            .description.apply(" ".join)
-                            .values
-                        )
-                        perplexity = compute_perplexity(t, model, tokenizer)
-                        res[n_cols] = {"cols": cols, "perplexity": perplexity}
-                    # The best number of columns is the one which results in the lowest GPT2 perplexity on the reordered text
-                    best_n_cols = min(res, key=lambda x: res[x]["perplexity"])
-                    layout.loc[slice, "column"] = res[best_n_cols]["cols"]
+                        layout.loc[slice, "column"] = res[best_n_cols]["cols"]
 
-                layout_path = output_path / issue / "ocr" / f"{scan}.csv"
-                layout.to_csv(layout_path, index=False)
-                ax = plot_layout(layout)
-                ax.get_figure().savefig(layout_path.with_suffix(".jpeg"))
-                plt.close()
+                    layout_path = output_path / issue / "ocr" / f"{scan}.csv"
+                    layout.to_csv(layout_path, index=False)
+                    ax = plot_layout(layout)
+                    ax.get_figure().savefig(layout_path.with_suffix(".jpeg"))
+                    plt.close()
 
-                text += f"# Scan {scan}\n"
-                pbar.update()
+                    text += f"# Scan {scan}\n"
+                    pbar.update()
 
-                layout["page"] = layout.page + n_pages
-                for page, layout_page in layout.groupby("page"):
-                    text += f"## Page {page}\n"
-                    for col, layout_col in layout_page.groupby("column"):
-                        text += f"### Column {col}\n\n"
-                        text += " ".join(layout_col.description.astype(str))
-                        text += "\n\n\n"
+                    layout["page"] = layout.page + n_pages
+                    for page, layout_page in layout.groupby("page"):
+                        text += f"## Page {page}\n"
+                        for col, layout_col in layout_page.groupby("column"):
+                            text += f"### Column {col}\n\n"
+                            text += " ".join(layout_col.description.astype(str))
+                            text += "\n\n\n"
+                        text += "\n"
                     text += "\n"
-                text += "\n"
-                df.append(layout)
-                n_pages += layout.page.nunique()
-            df = pd.concat(df)
-            issue_path = output_path / issue
-            issue_path.mkdir(parents=True, exist_ok=True)
-            df.to_csv(issue_path / "ocr.csv", index=False)
-            issues_text[issue] = text
-            with open(issue_path / "ocr.txt", "w") as f:
-                f.write(text)
+                    df.append(layout)
+                    n_pages += layout.page.nunique()
+                df = pd.concat(df)
+                issue_path = output_path / issue
+                issue_path.mkdir(parents=True, exist_ok=True)
+                df.to_csv(issue_path / "ocr.csv", index=False)
+                issues_text[issue] = text
+                with open(issue_path / "ocr.txt", "w") as f:
+                    f.write(text)
+            except:
+                print(
+                    f"##### OCR and clustering failed for {issue}:\n{traceback.format_exc()}\n#####"
+                )
 
     return issues_text
