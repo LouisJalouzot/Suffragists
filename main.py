@@ -1,8 +1,27 @@
+import argparse
 from pathlib import Path
 
 import numpy as np
 
 from src.prompt_gemini import prompt_gemini
+
+# Add argument parser
+parser = argparse.ArgumentParser(
+    description="Process journal issues with Gemini"
+)
+parser.add_argument(
+    "--temperature",
+    type=float,
+    default=0.2,
+    help="Temperature parameter for Gemini (default: 0.2)",
+)
+parser.add_argument(
+    "--top_p",
+    type=float,
+    default=0.6,
+    help="Top p parameter for Gemini (default: 0.6)",
+)
+args = parser.parse_args()
 
 np.random.seed(0)
 
@@ -39,14 +58,23 @@ issues["suffragette"] = [i for i in issues["suffragette"] if i < 98]
 issues["votes_for_wmn"] = [i for i in issues["votes_for_wmn"] if i < 244]
 
 batches = {}
-batches["common_cause"] = list(np.random.choice(issues["common_cause"], 40))
-batches["common_cause"] = set(batches["common_cause"] + cc_sel)
-batches["suffragette"] = np.random.choice(issues["suffragette"], 10)
+batches["common_cause"] = issues["common_cause"]
+batches["suffragette"] = issues["suffragette"]
 batches["votes_for_wmn"] = list(np.random.choice(issues["votes_for_wmn"], 7))
 batches["votes_for_wmn"] = set(batches["votes_for_wmn"] + [100, 120, 140])
 
 for k, v in batches.items():
     print(f"{k}: {v}")
     batches[k] = [k + "_" + str(i) for i in v]
+    # for i in range(0, len(batches[k]), 20):
+    #     prompt_gemini(
+    #         batches[k][i : i + 20],
+    #         temperature=args.temperature,
+    #         top_p=args.top_p,
+    #     )
 
-prompt_gemini(sum(batches.values(), []))
+    prompt_gemini(
+        batches[k],
+        temperature=args.temperature,
+        top_p=args.top_p,
+    )

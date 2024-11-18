@@ -34,3 +34,11 @@ export GOOGLE_API_KEY="YOUR_API_KEY"
 ```
 
 or directly add the key in the code of `src/prompt_gemini.py`.
+
+## Tips
+
+For the issues on which the pipeline throws errors, try rerunning with different `temperature` and `top_p` parameters. For instance:
+
+```bash
+python main.py --temperature 1.5 --top_p 0.95
+```

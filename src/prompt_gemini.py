@@ -11,9 +11,6 @@ from joblib_progress import joblib_progress
 
 from src.ocr_and_cluster import ocr_and_cluster
 
-temperature = 0.1
-top_p = 0.5
-
 response_schema = {
     "type": "object",
     "properties": {
@@ -84,7 +81,12 @@ def parse_gemini_response(response: str) -> dict:
     return response
 
 
-def prompt_gemini(issues: list[str], output_path: str = "results") -> None:
+def prompt_gemini(
+    issues: list[str],
+    output_path: str = "results",
+    temperature: float = 0.2,
+    top_p: float = 0.6,
+) -> None:
     if isinstance(issues, str):
         issues = [issues]
     genai.configure()
@@ -98,6 +100,13 @@ def prompt_gemini(issues: list[str], output_path: str = "results") -> None:
             issue_path = output_path / issue
             if (issue_path / "meetings.csv").exists():
                 return
+
+            # Save parameters before generation
+            issue_path.mkdir(parents=True, exist_ok=True)
+            params = {"temperature": temperature, "top_p": top_p}
+            with open(issue_path / "parameters.json", "w") as f:
+                json.dump(params, f, indent=4)
+
             chat_session = model.start_chat(history=[])
             response = chat_session.send_message(
                 text + prompt,
