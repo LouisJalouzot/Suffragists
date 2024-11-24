@@ -15,20 +15,15 @@ def preprocess_image(
 ) -> Image.Image:
     gray = image.convert("L")
     gray = np.array(gray)
-
-    # Invert the grayscale image
-    inverted_gray = 255 - gray
-
-    # Apply threshold to create binary image
-    blur = cv2.GaussianBlur(inverted_gray, (5, 5), 0)
-    thresh = cv2.threshold(
-        blur, 100, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU
-    )[1]
+    blur = cv2.GaussianBlur(gray, (49, 49), 0)
     kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (50, 50))
-    dilate = cv2.dilate(thresh, kernel, iterations=2)
+    dilate = cv2.dilate(blur, kernel, iterations=2)
+    thresh = cv2.threshold(dilate, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[
+        1
+    ]
 
     contours, _ = cv2.findContours(
-        dilate, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE
+        thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE
     )
 
     if len(contours) == 0:

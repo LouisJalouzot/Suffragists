@@ -1,6 +1,6 @@
 # Known Errors
 ## Common Causes
-Checked LJ: 1, 3, 4, 11, 29, 60, 77, 104, 105, 114, 122,s 130, 159, 165, 115, 183, 200, 235
+Checked LJ: 1, 3, 4, 11, 29, 60, 77, 104, 105, 114, 122, 130, 159, 165, 115, 183, 200, 235
 
 Checked VR: 13, 167, 27, 84, 50, 184, 108, 221, 177
 
@@ -16,44 +16,22 @@ Notes:
 ### 200
 Also picks up the table of "Coming events" which might also be relevant.
 
-## VFW
-Checked: 100 (meetings are scattered in small tables and seems like it is correctly picked up)
-
 ## Suffragette
-Checked: 1, 13, 26, 31, 32, 36, 39, 44, 71, 83, 87, 89, 93
+Checked: 1, 13, 26, 31, 32, 36, 39, 44
 
 ### 31 (to drop?)
 - One false positive, "flower fair and festival" is not a political meeting (there is no forthcoming meetings table)
 
-### 32
-- Multiple event observations in single line causes speaker attribution errors
-- Speakers wrong in rows 3-7, 9
-- Row 12 contains two events, affecting speakers in rows 13-16, 18-19, 25, 27-29
-
 ### 33 (to drop?)
-- 2 false postivies, "garden fair" and "summer fair" are not political meetings (there is no forthcoming meetings table)
+- 2 false positives, "garden fair" and "summer fair" are not political meetings (there is no forthcoming meetings table)
 
 ### 36
-- Speakers missing from row 4 in 3
-- Row 5 truncates last word (pattern: missing text in last column)
-- Speakers swapped in rows 8 and 9
-- Row 28 contains 2 events, affects row 29
-- Row 36 successfully handles cross-line events
-- Row 56 missing Portsmouth
-- Rows 61-62 picked up from outside table
-
-### 39
-Page in the background with some readable text messes up the clustering. Had to manually crop.
-Picks up some events scattered in the text.
+- One false positive: flower festival
 
 ### 44
-- Last column truncation pattern continues:
-  - Row 2 misses speaker title "Mr HH"
-  - Row 3 misses speaker name
-  - Row 9 similar issue
-- Row 3 has two events
-- Rows 18-20, 27-30 date wrong (+1 day)
-- Rows 31-33 correct but out of order
+- One false positive: Worthing
+
+### To check again from now on
 
 ### 71
 - Missed events: Chelsea, Chiswick, Harlesden
@@ -96,7 +74,7 @@ Picks up some events scattered in the text.
 - Rows 25-26 wrong date
 
 ## Votes for Women
-Checked: 1, 7, 80, 85, 118, 120, 140, 223
+Checked: 1, 7, 80, 85, 118, 100, 120, 140, 223
 
 ### 1
 - 70 actual events, 80 detected
@@ -119,6 +97,9 @@ Checked: 1, 7, 80, 85, 118, 120, 140, 223
 - Excellent performance
 - Only rows 94-97 wrong date (should be October 8th)
 
+### 100 
+- Meetings are scattered in small tables and it seems like they are correctly picked up
+
 ### 118
 - Events picked up from outside table (rows 94-95)
 - Rows 5-6 June/July appear from outside
@@ -133,16 +114,8 @@ Checked: 1, 7, 80, 85, 118, 120, 140, 223
 - Multiple events per line (rows 24-43)
 
 ### 140
-- Row 16 from elsewhere
-- Row 21 wrong
-- Missing 5 Saturday events
-- Sunday missing first two events
-- Row 40 wrong date and contains next day events
-- October 18 missing first two and last two events
-- Rows 56-62 wrong dates, inverse
+- All the events in the table are picked up in random order along with other events in other tables and in the text
 
 ### 223
-- Rows 9-31 (except 26) date off by one day
-- Missed events on 15th, first 2 on 16th, all 5 on 17th May
-- Row 42 from below table
-- Rows 43-52 wrong events from elsewhere
+- Dates are sometimes off
+- Events from scattered forthcoming meetings in the text seem to be picked up but in random order

@@ -12,14 +12,14 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "--temperature",
     type=float,
-    default=0.2,
-    help="Temperature parameter for Gemini (default: 0.2)",
+    default=0.4,
+    help="Temperature parameter for Gemini",
 )
 parser.add_argument(
     "--top_p",
     type=float,
     default=0.6,
-    help="Top p parameter for Gemini (default: 0.6)",
+    help="Top p parameter for Gemini",
 )
 args = parser.parse_args()
 
@@ -80,3 +80,9 @@ prompt_gemini(
     temperature=args.temperature,
     top_p=args.top_p,
 )
+
+# prompt_gemini(
+#     [f"votes_for_wmn_{i}" for i in [120, 140, 223]],
+#     temperature=args.temperature,
+#     top_p=args.top_p,
+# )

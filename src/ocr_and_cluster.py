@@ -161,7 +161,7 @@ def ocr_and_cluster(issues: list[str], output_path: str = "results"):
                         if len(layout_page) < 4:
                             continue
                         res = {}
-                        for n_cols in [2, 3]:
+                        for n_cols in [2, 3, 4]:
                             kmeans = KMeans(n_clusters=n_cols, random_state=0)
                             cols = kmeans.fit_predict(
                                 layout_page[["x_center_100x", "y_center"]]
