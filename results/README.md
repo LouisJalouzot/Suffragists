@@ -74,7 +74,18 @@ Checked: 1, 13, 26, 31, 32, 36, 39, 44
 - Rows 25-26 wrong date
 
 ## Votes for Women
-Checked: 1, 7, 80, 85, 118, 100, 120, 140, 223
+Checked: 120, 140, 223
+
+### 120
+Apart from small date shifts, the main table seems correctly picked up
+
+### 140
+Apart from small date shifts, the main table seems correctly picked up
+
+### 223
+Poorly picked up because of the OCR splitting it in half as the formatting is odd
+
+### To check again from now on
 
 ### 1
 - 70 actual events, 80 detected

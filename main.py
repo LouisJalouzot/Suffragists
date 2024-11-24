@@ -75,14 +75,14 @@ for k, v in batches.items():
 #         top_p=args.top_p,
 #     )
 
-prompt_gemini(
-    batches["suffragette"],
-    temperature=args.temperature,
-    top_p=args.top_p,
-)
-
 # prompt_gemini(
-#     [f"votes_for_wmn_{i}" for i in [120, 140, 223]],
+#     batches["suffragette"],
 #     temperature=args.temperature,
 #     top_p=args.top_p,
 # )
+
+prompt_gemini(
+    [f"votes_for_wmn_{i}" for i in [120, 140, 223]],
+    temperature=args.temperature,
+    top_p=args.top_p,
+)
