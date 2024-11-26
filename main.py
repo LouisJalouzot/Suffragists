@@ -62,7 +62,7 @@ issues["votes_for_wmn"] = [i for i in issues["votes_for_wmn"] if i < 244]
 batches = {}
 batches["common_cause"] = issues["common_cause"]
 batches["suffragette"] = issues["suffragette"]
-batches["votes_for_wmn"] = list(np.random.choice(issues["votes_for_wmn"], 7))
+batches["votes_for_wmn"] = list(np.random.choice(issues["votes_for_wmn"], 10))
 batches["votes_for_wmn"] = set(batches["votes_for_wmn"] + [100, 120, 140])
 
 for k, v in batches.items():
@@ -82,7 +82,7 @@ for k, v in batches.items():
 # )
 
 prompt_gemini(
-    [f"votes_for_wmn_{i}" for i in [120, 140, 223]],
+    batches["votes_for_wmn"],
     temperature=args.temperature,
     top_p=args.top_p,
 )
