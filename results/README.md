@@ -83,7 +83,7 @@ Apart from small date shifts, the main table seems correctly picked up
 Apart from small date shifts, the main table seems correctly picked up
 
 ### 223
-Poorly picked up because of the OCR splitting it in half as the formatting is odd
+Fixed
 
 ### To check again from now on
 
