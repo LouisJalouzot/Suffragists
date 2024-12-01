@@ -93,7 +93,11 @@ def find_pages(layout: pd.DataFrame) -> pd.Series:
     return reordered_clusters(layout, pages)
 
 
-def ocr_and_cluster(issues: list[str], output_path: str = "results"):
+def ocr_and_cluster(
+    issues: list[str],
+    output_path: str = "results",
+    model_name="meta-llama/Llama-3.2-1B",
+):
     issues_images = preprocess_pdfs(issues, output_path=output_path)
     output_path = Path(output_path)
     issues_text = {}
@@ -127,10 +131,10 @@ def ocr_and_cluster(issues: list[str], output_path: str = "results"):
     # Initialize GPT2 to compute perplexity
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print("Running on device", device)
-    model = AutoModelForCausalLM.from_pretrained("distilbert/distilgpt2")
+    model = AutoModelForCausalLM.from_pretrained(model_name)
     model = model.to(device)
     tokenizer = AutoTokenizer.from_pretrained(
-        "distilbert/distilgpt2", clean_up_tokenization_spaces=True
+        model_name, clean_up_tokenization_spaces=True
     )
     tokenizer.model_max_length = 2**16
     with tqdm(total=n_layouts, desc="Clustering OCR outputs") as pbar:

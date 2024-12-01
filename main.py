@@ -63,7 +63,7 @@ batches = {}
 batches["common_cause"] = issues["common_cause"]
 batches["suffragette"] = issues["suffragette"]
 batches["votes_for_wmn"] = list(np.random.choice(issues["votes_for_wmn"], 10))
-batches["votes_for_wmn"] = set(batches["votes_for_wmn"] + [100, 120, 140])
+batches["votes_for_wmn"] = set(batches["votes_for_wmn"] + [100, 120, 140, 223])
 
 for k, v in batches.items():
     print(f"{k}: {v}")
