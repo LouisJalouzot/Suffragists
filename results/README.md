@@ -74,59 +74,8 @@ Checked: 1, 13, 26, 31, 32, 36, 39, 44
 - Rows 25-26 wrong date
 
 ## Votes for Women
-Checked: 120, 140, 223
-
-### 120
-Apart from small date shifts, the main table seems correctly picked up
-
-### 140
-Apart from small date shifts, the main table seems correctly picked up
-
-### 223
-Fixed
-
-### To check again from now on
+Checked: 1
 
 ### 1
-- 70 actual events, 80 detected
-- Rows 71 & 73 duplicate event with wrong date (should be 7th)
-- Row 72 wrong date (should be 6th)
-- Rows 74-80 from outside table
+All the events are present but dates are off and speakers are misaligned
 
-### 7
-- Rows 1-7 missing day (should be April 1st)
-- Rows 8, 12-17 wrong date
-- Rows 18-36 correct date
-- Rows 37-39 missing day (should be April 2nd)
-- Rows 40-47 wrong dates
-
-### 80
-- Good performance
-- Missed 6 events on September 14th
-
-### 85
-- Excellent performance
-- Only rows 94-97 wrong date (should be October 8th)
-
-### 100 
-- Meetings are scattered in small tables and it seems like they are correctly picked up
-
-### 118
-- Events picked up from outside table (rows 94-95)
-- Rows 5-6 June/July appear from outside
-- No May 21 events should exist
-- May 22 correct
-- May 23 has extra events
-- Rows 87, 92 wrong date
-
-### 120
-- ~175 events expected (25/day for 7 days)
-- Only 125 detected
-- Multiple events per line (rows 24-43)
-
-### 140
-- All the events in the table are picked up in random order along with other events in other tables and in the text
-
-### 223
-- Dates are sometimes off
-- Events from scattered forthcoming meetings in the text seem to be picked up but in random order

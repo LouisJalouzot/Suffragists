@@ -1,60 +1,122 @@
-Date,Location,Raw,Speakers,Description,Issue date
-April 7,Barnes,"Barnes , 9a , High Street","['Miss Leslie Lawless', 'Mrs. Beldon']",,"April 7, 1911"
-April 7,London,"4 , Claments Inn , W.C.",['Miss Rosa Leo'],Speakers' Class,"April 7, 1911"
-April 7,London,"905 , Fulham Road , S. W.",['Miss Isabel Seymour'],Members' Rally,"April 7, 1911"
-April 8,Harlesden,"Harlesden , Manor Park Road",['Mrs. Penn Gaskell'],At Home,"April 7, 1911"
-April 8,London,"Harrow Road , Prince of Wales (outside)",['Miss Frances Perkins'],,"April 7, 1911"
-April 8,Muswell Hill,"Muswell Hill , near Athenæum","['Miss Bonwick', 'Miss Bain']",,"April 7, 1911"
-April 8,Walthamstow,"Walthamstow , Pioneer Café , Hoe St.",['Miss Hicks'],,"April 7, 1911"
-April 8,Westminster,"Westminster , Horseferry Road","['Miss Lennox', 'Miss Baillie-Guthrie']",,"April 7, 1911"
-April 8,Wimbledon,"Wimbledon , Compton Hall",['Mrs. Lorsignol'],,"April 7, 1911"
-April 8,Balham,"Balham , corner of Caistor Road",['Miss Meacock'],,"April 7, 1911"
-April 8,Cricklewood,Cricklewood . Yew Grove,"['Miss Gibson', 'Miss Burton']",,"April 7, 1911"
-April 8,Crouch End,"Crouch End , Clock Tower","['Miss Ada Wright', 'Miss Darton']",,"April 7, 1911"
-April 8,Finchley,"Finchley , Church End , near Railway Hotel","['Miss Auerbach', 'Miss M. Wright']",,"April 7, 1911"
-April 8,Ilford,"Ilford , Balfour Road","['Miss Bonwick, B.A.', 'Miss Grant']",,"April 7, 1911"
-April 8,Islington,"Islington , Copenhagen Street",['Miss Dixon'],,"April 7, 1911"
-April 8,Kilburn,"Kilburn , Birchington Road","['Miss Perkin', 'Miss Pearce']",,"April 7, 1911"
-April 8,Lewisham,"Lewisham , Shop",['Miss Feck'],,"April 7, 1911"
-April 8,London,Marble Arch,['Miss E. Myers'],Rally,"April 7, 1911"
-April 8,New Barnet,New Barnet . The Triangle,['Miss Elizabeth Freeman'],,"April 7, 1911"
-April 8,Richmond,"Richmond , Fire Station","['Miss Burroughs', 'Miss Rickards']",,"April 7, 1911"
-April 8,Uxbridge,"Uxbridge , Old Pump",['Miss Billing'],,"April 7, 1911"
-April 8,Willesden Green Library,Willesden Green Library . Hampstead Heath . Blundell,['Miss Feck'],,"April 7, 1911"
-April 10,Lewisham,"Lewisham , Hilly Fields",['Miss Seymour'],,"April 7, 1911"
-April 10,Wimbledon Common,Wimbledon Common,['Miss Davison'],,"April 7, 1911"
-April 10,London,"Hampstead Road , Cobden's Statue","['Miss Myers', 'Miss Fricker']",,"April 7, 1911"
-April 10,Highgate Hill Tram Terminus,Highgate Hill Tram Terminus,[],,"April 7, 1911"
-April 10,Kensal Rise,"Kensal Rise , Harvist Road",[],,"April 7, 1911"
-April 10,London,"Queen's Hall , Langham Place , W.","['Miss Christabel Pankhurst, LL.B.', 'Mr. Laurence Housman']",,"April 7, 1911"
-April 10,Westminster,"Westminster , Warwick Street and Tachbrook Street","['Miss Kinkend', 'Mrs. Robson']",,"April 7, 1911"
-April 11,West Croydon,"West Croydon , 2 , Station Buildings",,Working Party,"April 7, 1911"
-April 11,Kennington,Kennington Theatre (outside),['Mrs. Keeling'],,"April 7, 1911"
-April 11,Kilburn,"Kilburn , Brondesbury Road",['Miss Trim'],,"April 7, 1911"
-April 11,Nutford Place,"Nutford Place , Edgware Road","['Miss C. Hopkins', 'Miss Lowy']",,"April 7, 1911"
-April 12,Chelsea,"Chelsea , 308. King's Road",,Committee Meeting,"April 7, 1911"
-April 12,Ilford,Ilford . Seven Kings Station,['Miss M. Harvey'],,"April 7, 1911"
-April 12,Islington,"Islington , Highbury Corner",['Miss Barwell'],,"April 7, 1911"
-April 12,Kilburn,"Kliburn , Victoria Road","['Miss Gilliatt', 'Miss Fricker']",,"April 7, 1911"
-April 12,London,Marble Arch,['Miss Abadam'],,"April 7, 1911"
-April 12,Paddington,"Paddington , 50 , Praed Street",[],,"April 7, 1911"
-April 12,Scarborough,"39 , Huntriss Row",['Mrs. Beldon'],,"April 7, 1911"
-April 11,Carnarvon,Sinla Hall,['Mrs. Pankhurst'],,"April 7, 1911"
-April 7,Thanet,"Thanet , Minster Schoolroom",['Miss Laura Ainsworth'],,"April 7, 1911"
-April 8,Chatham,Chatham . Sun Hotel,,Deputation to Mr. Holler. M.P.,"April 7, 1911"
-April 10,Chatham,"Chatham , Town Hall",,Open-air meeting,"April 7, 1911"
-April 7,Birmingham,Queen's College,"['Rev. E. W. Lummis, M.A.', 'Miss Maud Medley']",,"April 7, 1911"
-April 8,Birmingham,"Suffrage Tea ; hostess, Miss Steer",['Miss Hazel'],,"April 7, 1911"
-April 8,Bath,Assembly Rooms,['Mrs. Pertwee'],,"April 7, 1911"
-April 7,Newcastle,Town Hall,['Miss Vida Goldstein'],,"April 7, 1911"
-April 11,Jarrow,"Jarrow , Adult School , Station Street",['Mrs. Atkinson and others'],,"April 7, 1911"
-April 13,Gateshead,"Gateshead , Coatsworth Hall",['Mrs. Atkinson and others'],,"April 7, 1911"
-April 13,Newcastle,"77 , Blackett Street",,Dramatic Class,"April 7, 1911"
-April 8,Reading,Ladbroke Road,,Open-air Meeting,"April 7, 1911"
-April 7,Manchester,17 . St. Ann's Square,"['Miss Mary Phillips', 'Miss Jessie Stephenson']",,"April 7, 1911"
-April 7,Portsmouth,"Portsmouth , 4 , Pelham Road",,Members' Meeting,"April 7, 1911"
-April 10,Southampton,"Southampton , 61 , Oxford Street",,Members' Meeting,"April 7, 1911"
-April 11,Sheffield,Members' Rally,,"3 to 6 p.m., and 7.30 to 9.30 p.m.","April 7, 1911"
-April 8,Dundee,Stall at Flower Market,,,"April 7, 1911"
-April 11,Dundee,West Lower Foresters' Hall,['Mrs. Brailsford'],,"April 7, 1911"
-April 11,Wallasey,"1 , Mainwaring Road",,"Debate, Members and friends","April 7, 1911"
+Date,Location,Raw,Time,Speakers,Description,Hosts,Issue date
+"April
+7","Barnes, 9u, High Street","April
+7 ......... Barnes, 9u, High Street",3.30 p.m.,,,,"April 7, 1911"
+"April
+7","905, Fulham Road, S.W","905, Fulham Road, S.W.........................",,,,,"April 7, 1911"
+"April
+7",Harle den. Manor Park Road,Harle den. Manor Park Road .........,,,,,"April 7, 1911"
+"April
+7","Harrow Road, Prince of Wales (outside)","Harrow Road, Prince of Wales (out
+side).... .. .........................",,,,,"April 7, 1911"
+"April
+7","Muswell IliII, near Athenzum","Muswell IliII, near Athenzum -.......",,,,,"April 7, 1911"
+"April
+7","Walthamstow, Pioneer Cafe. Hoe St.","Walthamstow, Pioneer Cafe. Hoe St.",,,,,"April 7, 1911"
+"Saturday, 8","Balham, corner of Caistor Rond","Saturday, 8
+Balham, corner of Caistor Rond
+hotel ....... ...... .................................",8.30 p.m.,,,,"April 7, 1911"
+"Saturday, 8","Ilford, Balfour Rond","Ilford, Balfour Rond........................",,,,,"April 7, 1911"
+"Saturday, 8",Islington. Copenhagen Street,Islington. Copenhagen Street ........ ,,,,,"April 7, 1911"
+"Saturday, 8",Kilburn. Birchington Road,Kilburn. Birchington Road .............,,,,,"April 7, 1911"
+"Saturday, 8",Lewisham. Shop,Lewisham. Shop ..................... .......,,,,,"April 7, 1911"
+"Saturday, 8",Lewisham. Rally, . .. .. Rally................... ,,,,,"April 7, 1911"
+"Saturday, 8",Marble Arch,Marble Arch ..................................... ,,,,,"April 7, 1911"
+"Saturday, 8",New Barnet. The Triangle,New Barnet. The Triangle........ .......,,,,,"April 7, 1911"
+"Saturday, 8","Richmond, Fire Station","Richmond, Fire Station .......... . ",,,,,"April 7, 1911"
+"Saturday, 8",Uxbridge. Old Pump,Uxbridge. Old Pump ......... ...... ...... ,,,,,"April 7, 1911"
+"Saturday, 8",Willesden Green Library,Willesden Green Library................. ,,,,,"April 7, 1911"
+"Sunday, 9",Hampstead Heath,"Sunday, 9
+Hampstead Heath.............................",,,,,"April 7, 1911"
+"Sunday, 9",Lewisham. Hilly Fields,Lewisham. Hilly Fields -.....-----------,,,,,"April 7, 1911"
+"Sunday, 9",Wimbledon Common,Wimbledon Common ......... ........... .,,,,,"April 7, 1911"
+"Monday, 10",Hampstead Road.Cobden’s Statue,"Monday, 10
+Hampstead Road.Cobden’s Statue...",,,,,"April 7, 1911"
+"Monday, 10",Highgate Iill Tram Terninus.,Highgate Iill Tram Terninus. .....,,,,,"April 7, 1911"
+"Monday, 10",Kensal Rise. Harvist Road,Kensal Rise. Harvist Road....... ...... ,,,,,"April 7, 1911"
+"Monday, 10","Queen’s Hall, Langham Place, W.","Queen’s Hall, Langham Place, W.",3 p.m.,"['Mrs. Pethick Lawrence', 'Miss Christabel Pankhurst, LL.B.', 'Mr. Laurence Housman']",,,"April 7, 1911"
+"Tuesday, 11",Westminster. Warwick Street and Tachbrook Street.,"Tuesday, 11
+... Westminster. Warwick Street and
+Tachbrook Street. ...... . ‘",,,,,"April 7, 1911"
+"Tuesday, 11","West Croydon. 2, Station Buildings","... West Croydon. 2, Station Buildings",,,,,"April 7, 1911"
+"Tuesday, 11",Kennington Theatre (outside),.... Kennington Theatre (outside) ......... ,,,,,"April 7, 1911"
+"Tuesday, 11",Kilburn. Brondesbury Roa l,...-Kilburn. Brondesbury Road,,,,,"April 7, 1911"
+"Tuesday, 11",Nufford Place. Edgware Rond,... Nufford Place. Edgware Road,,,,,"April 7, 1911"
+"Tuesday, 11",Chelsea. 308. King’s Kond-,... Chelsea. 308. King’s Kond-........,,,,,"April 7, 1911"
+"Tuesday, 11",Iifor. Seven Kings Station,... Iifor. Seven Kings Station ,,,,,"April 7, 1911"
+"Tuesday, 11","Islington, H ighbury Corner","... Islington, H ighbury Corner----------",,,,,"April 7, 1911"
+"Tuesday, 11",Kliburn. Victoria Road,... Kliburn. Victoria Road ,,,,,"April 7, 1911"
+"Tuesday, 11",Marble Arch,... Marble Arch,,,,,"April 7, 1911"
+"Tuesday, 11","Paddington, 50, Praed Street","... Paddington, 50, Praed Street...... . ",,,,,"April 7, 1911"
+April 7,"Barnes, 9u, High Street","April
+7 ......... Barnes, 9u, High Street
+",,,,,"April 7, 1911"
+April 8,"Portsmouth, 4, Pelham Road","Friday, April 7.—Portsmouth, 4, Pelham Road, Mem
+bers' Meeting, 5.45 p.m.",5.45 p.m.,,Members' Meeting,,"April 7, 1911"
+April 10,"Southampton, 61, Oxford Street","Monday, April 10.—Southampton, 61, Oxford Street,
+Members' Meeting, 5.45 p.m.",5.45 p.m.,,Members' Meeting,,"April 7, 1911"
+April 12,"39,Huntriss Row","Wednesday, April 12.—39,Huntriss Row, Mrs. Beldon,
+8 p.m.",8 p.m.,['Mrs. Beldon'],,,"April 7, 1911"
+April 11,"Canterbury, County Hotel","a meeting on Tuesday, April 25, at 8 p.m.",8 p.m.,,meeting,,"April 7, 1911"
+May 2,"St. George's Hall, Canterbury","Miss Georgina Brackenbury will speak at St. George's
+Hall, Canterbury, on Tuesday, May 2, at 8.15 p.m.",8.15 p.m.,['Miss Georgina Brackenbury'],,,"April 7, 1911"
+May 3,"Town Hall, Folkestone","at the Town Hall, Folkestone, on Wednesday, May
+3,at3 p.m.",3 p.m.,['Miss Georgina Brackenbury'],,,"April 7, 1911"
+April 26,Trevarra,"A meeting will be held at Trevarra
+on Wednesday, April 26. at 8.15, to arrange for the
+Town Hall meeting on May 3rd.",8.15 p.m.,,meeting,,"April 7, 1911"
+April 28,Festival Concert Rooms,"Mrs. Pankhurst will speak at the Festival Concert
+Rooms on April 28.",,['Mrs. Pankhurst'],,,"April 7, 1911"
+April 29,Doncaster,"Mrs. Pankhurst will speak in Doncaster on
+Saturday, April 29",,['Mrs. Pankhurst'],,,"April 7, 1911"
+April 30,Barnsley,"and in Barnsley, April 30.",,['Mrs. Pankhurst'],,,"April 7, 1911"
+April 27,"Spa, Felixstowe","when Miss Vida Goldstein will speak at the Spa,
+Felixstowe.",,['Miss Vida Goldstein'],,,"April 7, 1911"
+April 7,"Town Hall, Newcastle","Friday, April 7.—Town IIall. Miss Vida Goldstein.
+7.30 p.m.",7.30 p.m.,['Miss Vida Goldstein'],,,"April 7, 1911"
+April 11,"Jarrow, Adult School. Station
+Street","Tuesday, April 11.— Jarrow, Adult School. Station
+Street, Mrs. Atkinson and others. 7.30 p.m.",7.30 p.m.,['Mrs. Atkinson and others'],,,"April 7, 1911"
+April 13,"Gateshead, Coatsworth Hall","Thursday. April 13.—Gateshead, Coatsworth Hall, Mrs.
+Atkinson and others, 7.30 p.m.",7.30 p.m.,['Mrs. Atkinson and others'],,,"April 7, 1911"
+April 13,"77, Blackett
+Street","77, Blackett
+Street, Dramatic Class, 6.30 p.m.",6.30 p.m.,,Dramatic Class,,"April 7, 1911"
+April 7,"Minster Schoolroom, Thanet","Friday, April 7.—Thanet, Minster Schoolroom, Miss
+Laura Ainsworth. Chair: E. Michell, Esq.,
+in 7.30 p.m.",7.30 p.m.,['Miss Laura Ainsworth'],,,"April 7, 1911"
+April 8,"Chatham, Sun Hotel","Saturday, April 8.—Chatham, Sun Hotel, Deputation
+to Mr. Holler. M.P.",,,Deputation to Mr. Holler. M.P.,,"April 7, 1911"
+April 10,"Chatham, Town Hall","Monday, April 10.— Chatham, Town Hall, Open-air
+meeting, 7.30 p.m.",7.30 p.m.,,"Open-air
+meeting",,"April 7, 1911"
+April 25,"Ealing, Oak Room, Lyric
+Restaurant, The Broadway","A drawing-room meeting, in the Oak Room. Lyric
+Restaurant, The Broadway, has been arranged for Tues
+day, April 25, at 3.30 p.m., when the Ilon. Mrs. Haver field will speak.",3.30 p.m.,['the Ilon. Mrs. Haverfield'],,,"April 7, 1911"
+weekly,Ealing Common,"Outdoor meetings will
+also be held every Sunday, at three o’clock (except
+Easter Sunday), on Ealing Common, east side ",three o’clock,,,,"April 7, 1911"
+April 8,West Lower Foresters’ Hall,"Tuesday. April 11—West Lower Foresters’ Hall, Mrs.
+Bmi.sfonl, 8 p.m.",8 p.m.,['Mrs. Brailsford'],,,"April 7, 1911"
+April 7,Queen's College,"Friday, April 7.—Queen's College. Rev. E. w. Lummis,
+M.A., Miss Maud Medley, 8 p.m.",8 p.m.,"['Rev. E. w. Lummis, M.A.', 'Miss Maud Medley']",,,"April 7, 1911"
+April 8,Suffrage Tea,"Saturday, April 8.—Suffrage Tea; hostess. Miss Steer,
+Miss Hazel, 3 p.m.",3 p.m.,,,"['Miss Steer', 'Miss Hazel']","April 7, 1911"
+April 8,"39, Huntriss Row","Saturday, April 8.—39, Huntriss Row, Mrs. Pertwee",,['Mrs. Pertwee'],,,"April 7, 1911"
+April 8,"1, Post Office Avenue","Friday, April 7.—1, Post Office Avenue, 7.30p.m.",7.30p.m.,,,,"April 7, 1911"
+April 10,1. Mainwaring Road,"Monday, April 10.—1. ■ Mainwaring Road. Debate,
+Members and friends, 8 p.m.",8 p.m.,,Debate,,"April 7, 1911"
+April 11,Rectory Road Congregational Church,"At the meeting on Wednesday, April 11, at the
+Rectory Road Congregational Church, the platform
+will include Rev. C. Fleming Williams, Mr. Philip
+Snowden. Lady Spicer, and Rev. Edward Clark. Time,
+8 p.m.",8 p.m.,"['Rev. C. Fleming Williams', 'Mr. Philip Snowden', 'Lady Spicer', 'Rev. Edward Clark']",,,"April 7, 1911"
+April 10,Clements Inn,"A local secretaries' meeting will be held at Clements
+Inn on Monday next, April 10, at 6 p.m. sharp.",6 p.m.,,local secretaries' meeting,,"April 7, 1911"
+weekly,Clements Inn,"They have a splendid -opportunity of
+gaining experience and help at Clements Inn every
+Friday evening at 7.45",7.45 p.m.,,,,"April 7, 1911"
+April 28,Court Theatre,"A special matinee in aid of
+this union’s funds will be given at the Court
+Theatre, at 2.30 p.m., on Friday, April 28.",2.30 p.m.,,,,"April 7, 1911"
