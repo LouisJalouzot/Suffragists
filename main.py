@@ -25,7 +25,7 @@ response_schema = {
                     },
                     "Location": {
                         "type": "string",
-                        "description": "Location of the meeting",
+                        "description": "Location of the meeting (City then address or locality)",
                     },
                     "Speakers": {
                         "type": "array",
@@ -62,7 +62,7 @@ response_schema["properties"]["IssueDate"] = {
     "description": "Publication date of this journal issue",
 }
 response_schema["required"].append("IssueDate")
-prompt = "Extract the information about all entries in the tables of upcoming meetings in the text. Events are identified by an instance of a location. The tables might be limited to London, the country or other countries and might be split into multiple parts. Include all of them and your answer should have the following JSON format:\n"
+prompt = "Here is a scan of a journal issue, extract it's publication date. Also extract information about upcoming political meetings. Include meetings from all the cities, not only London. Sometimes the date and location are not precise like 'Monday' or 'Main Street'. Infer full date and meaningful location, usually city and address or locality, from the context of the meeting occurrence. For each meeting, also extract the lists of speakers and hosts and additional information when relevant. Your answer should have the following JSON format:\n"
 prompt += json.dumps(response_schema, indent=4)
 prompt_follow_up = 'If the previous outputs are complete, answer with an empty "Meetings" list. Otherwise complete it. Your answer should have the following JSON format:\n'
 prompt_follow_up += json.dumps(response_schema_follow_up, indent=4)

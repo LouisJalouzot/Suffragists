@@ -74,8 +74,24 @@ Checked: 1, 13, 26, 31, 32, 36, 39, 44
 - Rows 25-26 wrong date
 
 ## Votes for Women
-Checked: 1
+Checked: 1, 26
 
 ### 1
 All the events are present but dates are off and speakers are misaligned
 
+### 26
+Potentially missing the 2 events out of the table below it
+Almost perfect on speakers
+
+### 100
+Picks 193 events in the text
+Missed "Kensal town" (p6 col3)
+Missed Marlybone (7 meetings)
+Missed West Ham (1 meeting)
+Line 144/150, bad OCR
+Missed 1st event of Liverpool (exchange)
+Missed the 2 meetings of Manchester (S.W.)
+162-164: past meetings
+Missed Scarborough (1 meeting)
+185-188: from the text, not sure they should be entries
+Not picking the table "Programme of events"
