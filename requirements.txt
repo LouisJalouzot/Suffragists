@@ -1,15 +1,5 @@
 pandas
-pillow
-google-cloud-vision
 google-generativeai
 joblib
-joblib_progres
 pandas
-opencv-python
-numpy
-seaborn
-torch
-transformers
-scikit-learn
 tqdm
-matplotlib
