@@ -1,3 +1,4 @@
+import argparse
 import json
 import re
 import time
@@ -62,7 +63,7 @@ response_schema["properties"]["IssueDate"] = {
     "description": "Publication date of this journal issue",
 }
 response_schema["required"].append("IssueDate")
-prompt = "Here is a scan of a journal issue, each scan having 1 or 2 pages and each page can have from a 1 to 4 column layout. Extract the publication date of the issue. Also extract information about all upcoming political meetings. Make sure to include all the meetings from all the cities, some of them might be within and others in tables. Infer the full date and complete the location with the city when necessary. For each meeting, also extract the lists of speakers and hosts and additional information when relevant. Your answer should have the following JSON format:\n"
+prompt = "Here is a scan of a journal issue, each scan having 1 or 2 pages and each page can have from a 1 to 4 column layout. Extract the publication date of the issue. Also extract information about all upcoming political meetings. Make sure to include all the meetings from all the cities, some of them might be within the text and others in tables. Infer the full date and try to complete the location with the city when necessary. For each meeting, also extract the lists of speakers and hosts and additional information when relevant. Your answer should have the following JSON format:\n"
 prompt += json.dumps(response_schema, indent=4)
 prompt_follow_up = 'If the previous outputs are complete, answer with an empty "Meetings" list. Otherwise complete it. Your answer should have the following JSON format:\n'
 prompt_follow_up += json.dumps(response_schema_follow_up, indent=4)
@@ -135,6 +136,13 @@ def prompt_gemini(
     def process_issue(issue: str) -> None:
         try:
             issue_name = issue.rsplit("_", 1)[0]
+            issue_path = output_path / issue
+            # Clean up old files
+            if issue_path.exists():
+                (issue_path / "parameters.json").unlink(missing_ok=True)
+                for file in issue_path.glob("response*.txt"):
+                    file.unlink()
+
             pdf_path = f"data/{issue_name}/{issue}.pdf"
             file = upload_to_gemini(pdf_path, mime_type="application/pdf")
             wait_for_file_active(file)
@@ -195,7 +203,7 @@ def prompt_gemini(
             )
 
     for _ in tqdm(
-        Parallel(n_jobs=-2, prefer="threads", return_as="generator")(
+        Parallel(n_jobs=10, prefer="threads", return_as="generator")(
             delayed(process_issue)(issue) for issue in issues
         ),
         total=len(issues),
@@ -205,6 +213,29 @@ def prompt_gemini(
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Process documents with Gemini AI"
+    )
+    parser.add_argument(
+        "--temperature",
+        type=float,
+        default=1.0,
+        help="Temperature parameter for generation (default: 1.0)",
+    )
+    parser.add_argument(
+        "--top_p",
+        type=float,
+        default=0.95,
+        help="Top-p parameter for generation (default: 0.95)",
+    )
+    parser.add_argument(
+        "--top_k",
+        type=int,
+        default=40,
+        help="Top-k parameter for generation (default: 40)",
+    )
+    args = parser.parse_args()
+
     prompt_gemini(
         [
             "votes_for_wmn_1",
@@ -226,5 +257,8 @@ if __name__ == "__main__":
             "votes_for_wmn_192",
             "votes_for_wmn_217",
             "votes_for_wmn_223",
-        ]
+        ],
+        temperature=args.temperature,
+        top_p=args.top_p,
+        top_k=args.top_k,
     )
