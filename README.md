@@ -27,13 +27,15 @@ gcloud auth application-default login
 ```
 So that the environment variable `$HOME/.config/gcloud/application_default_credentials.json` is defined.
 
-Also get a Google API key from [here](ai.google.dev) and either add the following line to you `.bashrc`
+Also get a Google API key from [here](https://ai.google.dev/) and either add the following line to you `.bashrc`
 
 ```bash
 export GOOGLE_API_KEY="YOUR_API_KEY"
 ```
 
 or directly add the key in the code of `src/prompt_gemini.py`.
+
+Also activate the Cloud Vision and Generative Language APIs from the [Google Cloud Console](https://console.cloud.google.com/).
 
 ## Tips
 

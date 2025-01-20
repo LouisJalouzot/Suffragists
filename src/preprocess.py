@@ -87,8 +87,9 @@ def preprocess_pdfs(
     for issue in issues:
         issue_path = output_path / issue / "preprocessed"
         if issue_path.exists():
-            for image_path in sorted(issue_path.glob("*.jpeg")):
-                issues_images[issue].append(image_path)
+            image_paths = issue_path.glob("*.jpeg")
+            image_paths = sorted(image_paths, key=lambda p: int(p.stem))
+            issues_images[issue] = image_paths
             continue
         else:
             issue_name = issue.rsplit("_", 1)[0]

@@ -26,11 +26,7 @@ response_schema = {
                     },
                     "Location": {
                         "type": "string",
-                        "description": "Location of the meeting",
-                    },
-                    "Raw": {
-                        "type": "string",
-                        "description": "Verbatim text snippet from the document describing this meeting",
+                        "description": "Meaningful location of the meeting, city first",
                     },
                     "Speakers": {
                         "type": "array",
@@ -46,6 +42,14 @@ response_schema = {
                         "type": "string",
                         "description": "Extra details about the meeting",
                     },
+                    "Time": {
+                        "type": "string",
+                        "description": "Time of the meeting",
+                    },
+                    "Raw": {
+                        "type": "string",
+                        "description": "Verbatim text snippet from the document describing this meeting",
+                    },
                 },
                 "required": ["Date", "Location", "Raw"],
             },
@@ -59,7 +63,7 @@ response_schema["properties"]["IssueDate"] = {
     "description": "Publication date of this journal issue",
 }
 response_schema["required"].append("IssueDate")
-prompt = "Extract the information about all entries in the tables of upcoming meetings in the text. Events are identified by an instance of a location. The tables might be limited to London, the country or other countries and might be split into multiple parts. Include all of them and your answer should have the following JSON format:\n"
+prompt = "Here is the text from a journal publication. Extract the publication date of the issue. Also extract information about all upcoming political meetings. Make sure to include all the meetings from all the cities, some of them might be within the text and others in tables. Infer the full date and try to complete the location with the city when necessary. For each meeting, also extract the lists of speakers and hosts and additional information when relevant. Your answer should have the following JSON format:\n"
 prompt += json.dumps(response_schema, indent=4)
 prompt_follow_up = 'If the previous outputs are complete, answer with an empty "Meetings" list. Otherwise complete it. Your answer should have the following JSON format:\n'
 prompt_follow_up += json.dumps(response_schema_follow_up, indent=4)
@@ -84,13 +88,13 @@ def parse_gemini_response(response: str) -> dict:
 def prompt_gemini(
     issues: list[str],
     output_path: str = "results",
-    temperature: float = 0.8,
-    top_p: float = 0.7,
+    temperature: float = 1,
+    top_p: float = 0.95,
 ) -> None:
     if isinstance(issues, str):
         issues = [issues]
     genai.configure()
-    model = genai.GenerativeModel(model_name="gemini-1.5-pro")
+    model = genai.GenerativeModel(model_name="gemini-2.0-flash-exp")
 
     issues_text = ocr_and_cluster(issues, output_path=output_path)
     output_path = Path(output_path)
@@ -154,7 +158,7 @@ def prompt_gemini(
     with joblib_progress(
         description="Prompting Gemini", total=len(issues_text)
     ):
-        Parallel(n_jobs=-2, prefer="threads")(
+        Parallel(n_jobs=1, prefer="threads")(
             delayed(process_issue)(issue, text)
             for issue, text in issues_text.items()
         )
