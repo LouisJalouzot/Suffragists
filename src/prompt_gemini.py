@@ -94,7 +94,7 @@ def prompt_gemini(
     if isinstance(issues, str):
         issues = [issues]
     genai.configure()
-    model = genai.GenerativeModel(model_name="gemini-2.0-flash-exp")
+    model = genai.GenerativeModel(model_name="gemini-exp-1206")
 
     issues_text = ocr_and_cluster(issues, output_path=output_path)
     output_path = Path(output_path)
