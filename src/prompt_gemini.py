@@ -1,8 +1,10 @@
 import json
 import re
 import traceback
-from copy import deepcopy
 from pathlib import Path
+import shutil
+import os
+import glob
 
 import google.generativeai as genai
 import pandas as pd
@@ -57,16 +59,27 @@ response_schema = {
     },
     "required": ["Meetings"],
 }
-response_schema_follow_up = deepcopy(response_schema)
-response_schema["properties"]["IssueDate"] = {
-    "type": "string",
-    "description": "Publication date of this journal issue",
-}
-response_schema["required"].append("IssueDate")
-prompt = "Here is the text from a journal publication. Extract the publication date of the issue. Also extract information about all upcoming political meetings. Make sure to include all the meetings from all the cities, some of them might be within the text and others in tables. Infer the full date and try to complete the location with the city when necessary. For each meeting, also extract the lists of speakers and hosts and additional information when relevant. Your answer should have the following JSON format:\n"
+prompt = """
+<INSTRUCTIONS>
+You are a data scientist working for a political journal.
+Here is the text from a journal issue.
+Your task is to extract the publication date of the issue and information about upcoming political meetings from a journal publication.
+Make sure to include all the meetings from all the cities.
+Some of them might be within the text and others in tables.
+Infer the full date and try to complete the location with the city when necessary.
+For each meeting, also extract the lists of speakers and hosts and additional information when relevant.
+Put the meetings in order of appearance.
+Your answer should have the following JSON format:
+"""
 prompt += json.dumps(response_schema, indent=4)
-prompt_follow_up = 'If the previous outputs are complete, answer with an empty "Meetings" list. Otherwise complete it. Your answer should have the following JSON format:\n'
-prompt_follow_up += json.dumps(response_schema_follow_up, indent=4)
+prompt += "\n</INSTRUCTIONS>\n"
+prompt_follow_up = """
+<INSTRUCTIONS>
+If the previous outputs are complete, answer with an empty "Meetings" list.
+Otherwise complete it.
+Your answer should have the same JSON format
+</INSTRUCTIONS>
+"""
 
 
 def parse_gemini_response(response: str) -> dict:
@@ -88,13 +101,14 @@ def parse_gemini_response(response: str) -> dict:
 def prompt_gemini(
     issues: list[str],
     output_path: str = "results",
+    model_name: str = "gemini-2.0-flash-exp",
     temperature: float = 1,
     top_p: float = 0.95,
 ) -> None:
     if isinstance(issues, str):
         issues = [issues]
     genai.configure()
-    model = genai.GenerativeModel(model_name="gemini-exp-1206")
+    model = genai.GenerativeModel(model_name=model_name)
 
     issues_text = ocr_and_cluster(issues, output_path=output_path)
     output_path = Path(output_path)
@@ -105,15 +119,33 @@ def prompt_gemini(
             if (issue_path / "meetings.csv").exists():
                 return
 
+            # Remove existing files before continuing
+            for pattern in [
+                "response*",
+                "message*",
+                "parameters.json",
+                "meetings.csv",
+            ]:
+                files = glob.glob(str(issue_path / pattern))
+                for file_path in files:
+                    Path(file_path).unlink(missing_ok=True)
+
             # Save parameters before generation
             issue_path.mkdir(parents=True, exist_ok=True)
-            params = {"temperature": temperature, "top_p": top_p}
+            params = {
+                "model_name": model_name,
+                "temperature": temperature,
+                "top_p": top_p,
+            }
             with open(issue_path / "parameters.json", "w") as f:
                 json.dump(params, f, indent=4)
 
             chat_session = model.start_chat(history=[])
+            message = "<TEXT>\n" + text + "\n</TEXT>\n" + prompt
+            with open(issue_path / "message.txt", "w") as f:
+                f.write(message)
             response = chat_session.send_message(
-                text + prompt,
+                message,
                 generation_config={
                     "max_output_tokens": 8192,
                     "temperature": temperature,
@@ -133,7 +165,7 @@ def prompt_gemini(
                         "temperature": temperature,
                         "top_p": top_p,
                         "response_mime_type": "application/json",
-                        "response_schema": response_schema_follow_up,
+                        "response_schema": response_schema,
                     },
                 ).text
                 with open(issue_path / f"response_follow_up_{i}.txt", "w") as f:

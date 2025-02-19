@@ -10,16 +10,19 @@ parser = argparse.ArgumentParser(
     description="Process journal issues with Gemini"
 )
 parser.add_argument(
+    "--model_name",
+    type=str,
+    default="gemini-2.0-flash-exp",
+)
+parser.add_argument(
     "--temperature",
     type=float,
     default=1,
-    help="Temperature parameter for Gemini",
 )
 parser.add_argument(
     "--top_p",
     type=float,
     default=0.95,
-    help="Top p parameter for Gemini",
 )
 args = parser.parse_args()
 
