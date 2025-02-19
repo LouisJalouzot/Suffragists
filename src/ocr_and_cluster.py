@@ -105,10 +105,20 @@ def ocr_and_cluster(
     output_path = Path(output_path)
     issues_text = {}
     for issue in list(issues_images.keys()):
-        issue_path = output_path / issue / "ocr.txt"
-        if issue_path.exists():
-            with open(issue_path, "r") as f:
-                issues_text[issue] = f.read()
+        issue_path = output_path / issue
+        scan_texts = {}
+        all_scans_found = True
+        scan_ids = range(1, len(issues_images[issue]) + 1)
+        for scan_id in scan_ids:
+            scan_text_path = issue_path / "ocr" / f"{scan_id}.txt"
+            if scan_text_path.exists():
+                with open(scan_text_path, "r") as f:
+                    scan_texts[scan_id] = f.read()
+            else:
+                all_scans_found = False
+                break
+        if all_scans_found:
+            issues_text[issue] = scan_texts
             issues_images.pop(issue)
 
     n_images = sum(len(images) for images in issues_images.values())
@@ -149,10 +159,10 @@ def ocr_and_cluster(
             try:
                 n_pages = 0
                 df = []
-                text = ""
+                scan_texts = {}
                 for scan, layout in enumerate(layouts, 1):
                     layout["scan"] = scan
-                    text += f"# Scan {scan}\n\n"
+                    scan_text = ""
                     if clustering:
                         if len(layout) < 4:
                             continue
@@ -208,35 +218,39 @@ def ocr_and_cluster(
 
                         layout["page"] = layout.page + n_pages
                         for page, layout_page in layout.groupby("page"):
-                            text += f"## Page {page}\n"
+                            scan_text += f"## Page {page}\n"
                             for col, layout_col in layout_page.groupby(
                                 "column"
                             ):
-                                text += f"### Column {col}\n\n"
-                                text += " ".join(
+                                scan_text += f"### Column {col}\n\n"
+                                scan_text += " ".join(
                                     layout_col.description.astype(str)
                                 )
-                                text += "\n\n\n"
-                            text += "\n"
-                        text += "\n"
+                                scan_text += "\n\n\n"
+                            scan_text += "\n"
+                        scan_text += "\n"
                         n_pages += layout.page.nunique()
                     else:
-                        text += " ".join(layout.description.astype(str))
-                        text += "\n\n\n"
+                        scan_text += " ".join(layout.description.astype(str))
+                        scan_text += "\n\n\n"
 
                     layout_path = output_path / issue / "ocr" / f"{scan}.csv"
                     layout.to_csv(layout_path, index=False)
                     plot_layout(layout, layout_path.with_suffix(".jpeg"))
 
                     df.append(layout)
+                    scan_texts[scan] = scan_text
                     pbar.update()
                 df = pd.concat(df)
                 issue_path = output_path / issue
                 issue_path.mkdir(parents=True, exist_ok=True)
                 df.to_csv(issue_path / "ocr.csv", index=False)
-                issues_text[issue] = text
+                issues_text[issue] = scan_texts
                 with open(issue_path / "ocr.txt", "w") as f:
-                    f.write(text)
+                    f.write("".join(scan_texts.values()))
+                for scan_id, text in scan_texts.items():
+                    with open(issue_path / "ocr" / f"{scan_id}.txt", "w") as f:
+                        f.write(text)
             except:
                 print(
                     f"##### OCR and clustering failed for {issue}:\n{traceback.format_exc()}\n#####"
